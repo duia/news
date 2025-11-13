@@ -142,7 +142,7 @@ def load_config():
 
 print("正在加载配置...")
 CONFIG = load_config()
-print(f"TrendRadar v{VERSION} 配置加载完成")
+print(f"TR v{VERSION} 配置加载完成")
 print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
 
 
@@ -2221,7 +2221,7 @@ def render_feishu_content(
     )
 
     if update_info:
-        text_content += f"\n<font color='grey'>TrendRadar 发现新版本 {update_info['remote_version']}，当前 {update_info['current_version']}</font>"
+        text_content += f"\n<font color='grey'>TR 发现新版本 {update_info['remote_version']}，当前 {update_info['current_version']}</font>"
 
     return text_content
 
@@ -2314,7 +2314,7 @@ def render_dingtalk_content(
     text_content += f"\n\n> 更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}"
 
     if update_info:
-        text_content += f"\n> TrendRadar 发现新版本 **{update_info['remote_version']}**，当前 **{update_info['current_version']}**"
+        text_content += f"\n> TR 发现新版本 **{update_info['remote_version']}**，当前 **{update_info['current_version']}**"
 
     return text_content
 
@@ -2344,11 +2344,11 @@ def split_content_into_batches(
     if format_type == "wework":
         base_footer = f"\n\n\n> 更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}"
         if update_info:
-            base_footer += f"\n> TrendRadar 发现新版本 **{update_info['remote_version']}**，当前 **{update_info['current_version']}**"
+            base_footer += f"\n> TR 发现新版本 **{update_info['remote_version']}**，当前 **{update_info['current_version']}**"
     elif format_type == "telegram":
         base_footer = f"\n\n更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}"
         if update_info:
-            base_footer += f"\nTrendRadar 发现新版本 {update_info['remote_version']}，当前 {update_info['current_version']}"
+            base_footer += f"\nTR 发现新版本 {update_info['remote_version']}，当前 {update_info['current_version']}"
 
     stats_header = ""
     if report_data["stats"]:
@@ -2794,7 +2794,7 @@ def send_to_dingtalk(
     payload = {
         "msgtype": "markdown",
         "markdown": {
-            "title": f"TrendRadar 热点分析报告 - {report_type}",
+            "title": f"热点分析报告 - {report_type}",
             "text": text_content,
         },
     }
@@ -3644,7 +3644,7 @@ if FLASK_AVAILABLE:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="TrendRadar: 新闻热点分析工具。")
+    parser = argparse.ArgumentParser(description="TR: 新闻热点分析工具。")
     parser.add_argument(
         '--serve-api',
         action='store_true',
