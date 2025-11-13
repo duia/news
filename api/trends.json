@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T00:11:49.365747+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-14T01:12:06.292117+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 台湾 日本 美国",
-      "match_count": 36,
+      "match_count": 59,
       "titles": [
         {
           "title": "媒体：日本有事就是日本有事",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "日本有事就是日本有事",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "国台办：悬赏征集台湾网红温子渝、陈柏源违法犯罪线索正当必要",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "美方回应高市早苗“台湾有事”言论，中方表态",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "福建泉州公安发布悬赏通告，征集两名台湾网红违法犯罪线索",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "四连问！中方正告日方在台湾问题上玩火必自焚",
@@ -70,8 +70,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "日本自卫队计划恢复“大佐军衔”",
+          "url": "https://news.ifeng.com/c/8oFjKnw6qXT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "如何看待优衣库「弯刀裤」在全球上线，但只在中国爆火？与优衣库在中国的营销策略有关吗？",
+          "url": "https://www.zhihu.com/question/1969469338013632175",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "俄外长：俄罗斯绝不可能对抗中国",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E7%BB%9D%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%AF%B9%E6%8A%97%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "美国财政部和墨西哥政府联合打击涉嫌跨国犯罪集团，制裁27名个人和实体，指控其通过赌场洗钱锡那罗亚贩毒集团的资金。",
@@ -85,15 +118,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "美国电信运营商Verizon将裁员大约1.5万人，预计将于下周实施。 将把大约200家门店转型为特许经营权运营。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3004280",
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存增加641万桶，彭博用户预计增加92.5万桶、分析师预期增加88.683万桶，之前一周增加520.2万桶。",
+          "url": "https://wallstreetcn.com/livenews/3004306",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时12分"
         },
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟讨论美国Article IV。",
@@ -107,92 +140,200 @@
           "time_info": "00时11分"
         },
         {
-          "title": "日本自卫队计划恢复“大佐军衔”",
-          "url": "https://news.ifeng.com/c/8oFjKnw6qXT",
-          "source": "凤凰网",
+          "title": "美国11月7日当周EIA汽油库存变动 -94.5万桶，预期 -245.9万桶，前值 -472.9万桶。",
+          "url": "https://wallstreetcn.com/livenews/3004305",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "如何看待优衣库「弯刀裤」在全球上线，但只在中国爆火？与优衣库在中国的营销策略有关吗？",
-          "url": "https://www.zhihu.com/question/1969469338013632175",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "日本驻澳大使：愿意继续与中方对话",
-          "url": "https://www.toutiao.com/trending/7572079942197657606/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "俄外长：俄罗斯绝不可能对抗中国",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E7%BB%9D%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%AF%B9%E6%8A%97%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时12分"
         },
         {
           "title": "众议院通过临时拨款法案 ，美国政府开启“漫长重启”",
           "url": "https://wallstreetcn.com/articles/3759271",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "美国11月7日当周EIA精炼厂设备利用率变化 3.4%，预期 0.25%，前值 -0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3004303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国股市延续跌势，道琼斯指数下跌1.00%",
+          "url": "https://flash.jin10.com/detail/20251114004342544800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国11月7日当周EIA精炼油库存变动 -63.7万桶，预期 -138.7万桶，前值 -64.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3004304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "日本驻澳大使：愿意继续与中方对话",
+          "url": "https://www.toutiao.com/trending/7572079942197657606/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "美国电信运营商Verizon将裁员大约1.5万人，预计将于下周实施。 将把大约200家门店转型为特许经营权运营。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "日韩日常怪中国,网友调侃老中很忙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347062&amp;topic_name=%E6%97%A5%E9%9F%A9%E6%97%A5%E5%B8%B8%E6%80%AA%E4%B8%AD%E5%9B%BD%2C%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83%E8%80%81%E4%B8%AD%E5%BE%88%E5%BF%99",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "拉夫罗夫：俄罗斯绝不可能对抗中国",
           "url": "https://www.toutiao.com/trending/7572133186630238271/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "中国10月新增社融8100亿元，新增人民币贷款2200亿元，M2-M1剪刀差扩大",
           "url": "https://wallstreetcn.com/articles/3759308",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "日本店员遭熊袭击浑身血继续做拉面",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BA%97%E5%91%98%E9%81%AD%E7%86%8A%E8%A2%AD%E5%87%BB%E6%B5%91%E8%BA%AB%E8%A1%80%E7%BB%A7%E7%BB%AD%E5%81%9A%E6%8B%89%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "美国政府为何会反复停摆",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%8F%8D%E5%A4%8D%E5%81%9C%E6%91%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "为什么西方国家大多在去核电，而中国却大力发展核电？难道不怕核泄漏吗？",
+          "url": "https://www.zhihu.com/question/1966268120500004120",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "美、布两油短线波动不大，此前有报道称，美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案。",
+          "url": "https://flash.jin10.com/detail/20251114004309713800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国11月7日当周EIA库欣地区原油库存变动 -34.6万桶，前值 30万桶。",
+          "url": "https://wallstreetcn.com/livenews/3004302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案",
+          "url": "https://flash.jin10.com/detail/20251114004202602800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国11月7日当周EIA原油库存变动 641.3万桶，预期 150万桶，前值 520.2万桶。",
+          "url": "https://wallstreetcn.com/livenews/3004301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "美国农业部（USDA）：日度销售报告自2025年9月30日起同步暂停更新。美国农业部已整理2025年10月1日至11月13日期间的出口商日报数据，将于北京时间11月15日（周六）凌晨1:00集中发布。在北京时间11月14日（周五）凌晨4:00之后提交的日度销售数据，将于下一个工作日北京时间晚上10:00发布。",
@@ -217,6 +358,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美国官员向特朗普提交了对委内瑞拉的军事选项。",
+          "url": "https://flash.jin10.com/detail/20251114003644519800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
           "title": "美国明尼阿波利斯联储主席Kashkari：通胀仍然太高。 在劳动力市场的某些方面承受压力。",
           "url": "https://wallstreetcn.com/livenews/3004271",
           "source": "华尔街见闻-快讯",
@@ -239,6 +391,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美国至11月13日8周国债竞拍-得标利率 3.835%，前值3.815%。",
+          "url": "https://flash.jin10.com/detail/20251114003529751800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
           "title": "美国消费品安全委员会：特斯拉(TSLA.O)召回Powerwall 2交流电池电源系统，原因是有火灾和燃烧危险。",
           "url": "https://flash.jin10.com/detail/20251113231247597800",
           "source": "金十数据",
@@ -248,6 +411,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美国至11月13日8周国债竞拍-得标利率配置百分比 61.82%，前值41.82%。",
+          "url": "https://flash.jin10.com/detail/20251114003517731800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国至11月13日8周国债竞拍-投标倍数 2.87，前值2.9。",
+          "url": "https://flash.jin10.com/detail/20251114003457057800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "美国农业部日度销售报告自9月30日起同步暂停更新",
@@ -261,15 +446,70 @@
           "time_info": "00时11分"
         },
         {
-          "title": "美国政府为何会反复停摆",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%8F%8D%E5%A4%8D%E5%81%9C%E6%91%86",
-          "source": "bilibili 热搜",
+          "title": "提醒：北京时间01:00，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3004296",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国三大股指至少下跌1%",
+          "url": "https://wallstreetcn.com/livenews/3004294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国至11月13日4周国债竞拍-投标倍数 2.73，前值2.73。",
+          "url": "https://flash.jin10.com/detail/20251114003204428800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国至11月13日4周国债竞拍-得标利率配置百分比 24.29%，前值4.29%。",
+          "url": "https://flash.jin10.com/detail/20251114003204402800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国财政部拍卖四周期国债，得标利率3.9%，投标倍数2.73。 拍卖八周期国债，得标利率3.835%，投标倍数2.87。",
+          "url": "https://wallstreetcn.com/livenews/3004290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国至11月13日4周国债竞拍-得标利率 3.9%，前值3.875%。",
+          "url": "https://flash.jin10.com/detail/20251114003204379800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "美国FAA在UPS货机坠毁事故后针对部分波音飞机发布指令",
@@ -286,17 +526,6 @@
           "title": "咖啡期货扩大跌幅至近五周低点 美国释放下调关税的信号",
           "url": "https://wallstreetcn.com/livenews/3004258",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "为什么西方国家大多在去核电，而中国却大力发展核电？难道不怕核泄漏吗？",
-          "url": "https://www.zhihu.com/question/1966268120500004120",
-          "source": "知乎",
           "ranks": [
             18
           ],
@@ -327,6 +556,28 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美国农业部长Rollins承认：特朗普咖啡关税（威胁）已经推高（美国市场的咖啡）价格。",
+          "url": "https://wallstreetcn.com/livenews/3004286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "市场消息：美国农业部长承认咖啡关税推高了价格。",
+          "url": "https://flash.jin10.com/detail/20251114002911550800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
           "title": "美国天然气期货价格稳定 市场聚焦冬季寒冷预期",
           "url": "https://flash.jin10.com/detail/20251113225018432800",
           "source": "金十数据",
@@ -349,15 +600,26 @@
           "time_info": "00时11分"
         },
         {
-          "title": "日本店员遭熊袭击浑身血继续做拉面",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BA%97%E5%91%98%E9%81%AD%E7%86%8A%E8%A2%AD%E5%87%BB%E6%B5%91%E8%BA%AB%E8%A1%80%E7%BB%A7%E7%BB%AD%E5%81%9A%E6%8B%89%E9%9D%A2",
-          "source": "百度热搜",
+          "title": "Repsol考虑将将自家价值190亿美元的上游部门与美国APA公司合并",
+          "url": "https://wallstreetcn.com/livenews/3004282",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
+          "url": "https://wallstreetcn.com/livenews/3004279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "巴铁疯抢中国硬通货：纳入嫁妆清单",
@@ -407,18 +669,19 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -428,52 +691,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
           "url": "https://wallstreetcn.com/articles/3759330",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
-          "url": "https://wallstreetcn.com/livenews/3004275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2200065",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -483,8 +738,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时12分]"
+        },
+        {
+          "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
+          "url": "https://wallstreetcn.com/livenews/3004275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时12分]"
         },
         {
           "title": "AI会如何改编游戏行业",
@@ -496,6 +763,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "马斯克：媒体关于xAI融资的报道“不实”。",
+          "url": "https://wallstreetcn.com/livenews/3004285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "市场消息：马斯克称“人工智能公司xAI融资”的说法不实。",
+          "url": "https://flash.jin10.com/detail/20251114002600690800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
