@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T17:12:28.799062+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-11-15T20:21:20.387973+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 台湾 日本 美国",
-      "match_count": 158,
+      "match_count": 184,
       "titles": [
         {
           "title": "美国人性测试:白人教会比罪犯冷血",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时17分 ~ 17时12分]"
+          "appearance_count": 10,
+          "time_info": "[02时17分 ~ 20时21分]"
         },
         {
           "title": "中国驻日大使就日本首相高市早苗涉华错误言行提出严正交涉和强烈抗议",
@@ -29,20 +30,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时17分 ~ 17时12分]"
+          "appearance_count": 10,
+          "time_info": "[02时17分 ~ 20时21分]"
         },
         {
-          "title": "提醒中国公民近期避免前往日本",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D2%26band_rank%3D1%26pos%3D0%26filter_type%3Drealtimehot%26realpos%3D1%26c_type%3D31%26q%3D%2523%25E6%258F%2590%25E9%2586%2592%25E4%25B8%25AD%25E5%259B%25BD%25E5%2585%25AC%25E6%25B0%2591%25E8%25BF%2591%25E6%259C%259F%25E9%2581%25BF%25E5%2585%258D%25E5%2589%258D%25E5%25BE%2580%25E6%2597%25A5%25E6%259C%25AC%2523%26dgr%3D0%26cate%3D5001%26lcate%3D5001%26display_time%3D1763144249%26pre_seqid%3D17631442490830331078929&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "外交部提醒中国公民近期避免前往日本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31969503",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            2
+            15,
+            11,
+            3,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 11时36分]"
+          "appearance_count": 10,
+          "time_info": "[02时17分 ~ 20时21分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -55,8 +59,49 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时17分 ~ 17时12分]"
+          "appearance_count": 10,
+          "time_info": "[02时17分 ~ 20时21分]"
+        },
+        {
+          "title": "中国驻日大使就高市早苗涉华错误言行提出严正交涉和强烈抗议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968802",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时17分 ~ 20时21分]"
+        },
+        {
+          "title": "假慈悲!虚伪日本对熊表演人道主义",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347147&amp;topic_name=%E5%81%87%E6%85%88%E6%82%B2%21%E8%99%9A%E4%BC%AA%E6%97%A5%E6%9C%AC%E5%AF%B9%E7%86%8A%E8%A1%A8%E6%BC%94%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时17分 ~ 20时21分]"
+        },
+        {
+          "title": "提醒中国公民近期避免前往日本",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D2%26band_rank%3D1%26pos%3D0%26filter_type%3Drealtimehot%26realpos%3D1%26c_type%3D31%26q%3D%2523%25E6%258F%2590%25E9%2586%2592%25E4%25B8%25AD%25E5%259B%25BD%25E5%2585%25AC%25E6%25B0%2591%25E8%25BF%2591%25E6%259C%259F%25E9%2581%25BF%25E5%2585%258D%25E5%2589%258D%25E5%25BE%2580%25E6%2597%25A5%25E6%259C%25AC%2523%26dgr%3D0%26cate%3D5001%26lcate%3D5001%26display_time%3D1763144249%26pre_seqid%3D17631442490830331078929&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 11时36分]"
         },
         {
           "title": "外交部提醒近期避免前往日本",
@@ -72,20 +117,6 @@
           "time_info": "[02时17分 ~ 14时17分]"
         },
         {
-          "title": "外交部提醒中国公民近期避免前往日本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31969503",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时17分 ~ 17时12分]"
-        },
-        {
           "title": "外交部：提醒中国公民近期避免前往日本",
           "url": "https://news.ifeng.com/c/8oHejHBHfcM",
           "source": "凤凰网",
@@ -97,17 +128,18 @@
           "time_info": "[02时17分 ~ 08时55分]"
         },
         {
-          "title": "假慈悲!虚伪日本对熊表演人道主义",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347147&amp;topic_name=%E5%81%87%E6%85%88%E6%82%B2%21%E8%99%9A%E4%BC%AA%E6%97%A5%E6%9C%AC%E5%AF%B9%E7%86%8A%E8%A1%A8%E6%BC%94%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89",
+          "title": "神20乘组已着陆,中国航天遥遥领先",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347117&amp;topic_name=%E7%A5%9E20%E4%B9%98%E7%BB%84%E5%B7%B2%E7%9D%80%E9%99%86%2C%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88",
           "source": "贴吧",
           "ranks": [
-            4,
-            6,
-            7
+            15,
+            18,
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时17分 ~ 17时12分]"
+          "appearance_count": 10,
+          "time_info": "[02时17分 ~ 20时21分]"
         },
         {
           "title": "死不悔改！日本外相答凤凰记者：高市早苗不会撤回涉台发言",
@@ -170,20 +202,6 @@
           "time_info": "[02时17分 ~ 11时36分]"
         },
         {
-          "title": "中国驻日大使就高市早苗涉华错误言行提出严正交涉和强烈抗议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968802",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时17分 ~ 17时12分]"
-        },
-        {
           "title": "中国航天经受住了考验",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%BB%8F%E5%8F%97%E4%BD%8F%E4%BA%86%E8%80%83%E9%AA%8C",
           "source": "bilibili 热搜",
@@ -208,19 +226,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 05时12分]"
-        },
-        {
-          "title": "神20乘组已着陆,中国航天遥遥领先",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347117&amp;topic_name=%E7%A5%9E20%E4%B9%98%E7%BB%84%E5%B7%B2%E7%9D%80%E9%99%86%2C%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时17分 ~ 17时12分]"
         },
         {
           "title": "日韩日常怪中国,网友调侃老中很忙",
@@ -249,6 +254,32 @@
           "time_info": "[02时17分 ~ 11时36分]"
         },
         {
+          "title": "日本人士：高市涉台言论违背国际法",
+          "url": "https://www.toutiao.com/trending/7572651822578437695/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1,
+            10,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 20时21分]"
+        },
+        {
+          "title": "被中国健儿鼓舞到了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E9%BC%93%E8%88%9E%E5%88%B0%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D3%26q%3D%2523%25E8%25A2%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%2581%25A5%25E5%2584%25BF%25E9%25BC%2593%25E8%2588%259E%25E5%2588%25B0%25E4%25BA%2586%2523%26cate%3D5001%26realpos%3D3%26pos%3D2%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1763197704%26pre_seqid%3D176319770465103305723142&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
           "title": "外交部提醒中国公民近期避免前往日本",
           "url": "https://www.toutiao.com/trending/7572590997528526911/",
           "source": "今日头条",
@@ -262,6 +293,20 @@
           "time_info": "[02时17分 ~ 11时36分]"
         },
         {
+          "title": "外交部提醒近期避免前往日本",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 20时21分]"
+        },
+        {
           "title": "韩美同盟或介入台海？中国驻韩国大使回应",
           "url": "https://news.ifeng.com/c/8oI14LMYxQX",
           "source": "凤凰网",
@@ -271,6 +316,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 14时17分]"
+        },
+        {
+          "title": "菲媒为何罕见承认黄岩岛属于中国",
+          "url": "https://www.toutiao.com/trending/7572838572542135850/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "外交部提醒避免赴日，日本官房长官回应",
+          "url": "https://news.ifeng.com/c/8oIxHlUhJfz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "警察您好 我在台湾想回大陆",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%AD%A6%E5%AF%9F%E6%82%A8%E5%A5%BD+%E6%88%91%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%83%B3%E5%9B%9E%E5%A4%A7%E9%99%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D2%26c_type%3D31%26flag%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D1%26band_rank%3D2%26cate%3D5001%26lcate%3D5001%26q%3D%25E8%25AD%25A6%25E5%25AF%259F%25E6%2582%25A8%25E5%25A5%25BD%2520%25E6%2588%2591%25E5%259C%25A8%25E5%258F%25B0%25E6%25B9%25BE%25E6%2583%25B3%25E5%259B%259E%25E5%25A4%25A7%25E9%2599%2586%26filter_type%3Drealtimehot%26display_time%3D1763208424%26pre_seqid%3D176320842432703297300149&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "美国秃鹫攻击牛群致六头牛死亡，农场主称几十年未遇到这情况，秃鹫不是食腐的吗，为什么开始攻击活的动物了？",
@@ -299,31 +377,48 @@
           "time_info": "[02时17分 ~ 14时17分]"
         },
         {
-          "title": "日本人士：高市涉台言论违背国际法",
-          "url": "https://www.toutiao.com/trending/7572651822578437695/",
-          "source": "今日头条",
+          "title": "国内多家航司宣布日本机票免费退改，有在日中国游客提前回国",
+          "url": "https://news.ifeng.com/c/8oIvo7rgaBx",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            1,
-            10,
-            17
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 17时12分]"
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
-          "title": "外交部提醒近期避免前往日本",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
+          "title": "恢复“大佐” 日本意欲何为",
+          "url": "https://www.baidu.com/s?wd=%E6%81%A2%E5%A4%8D%E2%80%9C%E5%A4%A7%E4%BD%90%E2%80%9D+%E6%97%A5%E6%9C%AC%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            3,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 17时12分]"
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "多家航司发布日本航线客票处理通知：机票可免费退改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31972875",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "高市早苗让日本国家承担代价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AE%A9%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%89%BF%E6%8B%85%E4%BB%A3%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D5%26c_type%3D31%26flag%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D5%26band_rank%3D5%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E8%25AE%25A9%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E5%25AE%25B6%25E6%2589%25BF%25E6%258B%2585%25E4%25BB%25A3%25E4%25BB%25B7%2523%26filter_type%3Drealtimehot%26display_time%3D1763208424%26pre_seqid%3D176320842432703297300149&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "专家：解放军舰队可能绕航日本",
@@ -332,7 +427,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -368,31 +463,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
         {
-          "title": "外交部副部长奉示召见日本驻华大使",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E5%A5%89%E7%A4%BA%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF",
-          "source": "bilibili 热搜",
+          "title": "加拿大总理卡尼：美国关税将使加拿大损失500亿加元",
+          "url": "https://flash.jin10.com/detail/20251115200252932800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "被中国健儿鼓舞到了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E9%BC%93%E8%88%9E%E5%88%B0%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D3%26q%3D%2523%25E8%25A2%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%2581%25A5%25E5%2584%25BF%25E9%25BC%2593%25E8%2588%259E%25E5%2588%25B0%25E4%25BA%2586%2523%26cate%3D5001%26realpos%3D3%26pos%3D2%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1763197704%26pre_seqid%3D176319770465103305723142&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "time_info": "20时21分"
         },
         {
           "title": "特朗普政府下调美国大豆出口前景预测",
@@ -404,6 +488,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "外交部副部长奉示召见日本驻华大使",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E5%A5%89%E7%A4%BA%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
+          "title": "多家航司日本机票免费退改签",
+          "url": "https://www.toutiao.com/trending/7572725418311237673/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "安世中国：安世荷兰部分管理层恶意阻挠、干扰安世中国生产经营",
@@ -423,7 +531,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -437,17 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "美国将拒绝肥胖外国人入境",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%8B%92%E7%BB%9D%E8%82%A5%E8%83%96%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%85%A5%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "美国11月14日当周天然气钻井数 125，前值 128。",
@@ -470,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "日本参议员：高市早苗应撤回涉台错误言论",
+          "url": "https://wallstreetcn.com/livenews/3005183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "中国驻日大使奉示约见日方官员",
@@ -507,6 +615,56 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 08时55分]"
+        },
+        {
+          "title": "军报头版“钧声”：日本胆敢武力介入台海局势必遭迎头痛击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31971653",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 20时21分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 20时21分]"
+        },
+        {
+          "title": "美国将拒绝肥胖外国人入境",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%8B%92%E7%BB%9D%E8%82%A5%E8%83%96%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%85%A5%E5%A2%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
+          "title": "美国重磅数据时间表确定！11月20日发布9月非农，美联储偏爱指标PCE于11月26日发布",
+          "url": "https://wallstreetcn.com/articles/3759417",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 20时21分]"
         },
         {
           "title": "媒体：日本若碰红线新账旧账一起清算",
@@ -704,6 +862,17 @@
           "time_info": "[02时17分 ~ 05时12分]"
         },
         {
+          "title": "11月，美国散户遭“定点打击”：指数跌幅不大、个股陷入“熊市”、币圈惨遭血洗",
+          "url": "https://wallstreetcn.com/articles/3759445",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
           "title": "日本男足海报在日本引发巨大争议",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E8%B6%B3%E6%B5%B7%E6%8A%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%A7%E4%BA%89%E8%AE%AE",
           "source": "百度热搜",
@@ -729,41 +898,16 @@
           "time_info": "[02时17分 ~ 08时55分]"
         },
         {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 17时12分]"
-        },
-        {
-          "title": "美国重磅数据时间表确定！11月20日发布9月非农，美联储偏爱指标PCE于11月26日发布",
-          "url": "https://wallstreetcn.com/articles/3759417",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 17时12分]"
-        },
-        {
-          "title": "军报头版“钧声”：日本胆敢武力介入台海局势必遭迎头痛击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31971653",
-          "source": "澎湃新闻",
+          "title": "日本机票免费退改",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D14%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E6%259C%25BA%25E7%25A5%25A8%25E5%2585%258D%25E8%25B4%25B9%25E9%2580%2580%25E6%2594%25B9%2523%26cate%3D5001%26realpos%3D14%26pos%3D13%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1763197704%26pre_seqid%3D176319770465103305723142&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
             14,
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时36分 ~ 17时12分]"
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "台湾生活水平到底如何",
@@ -776,6 +920,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 08时55分]"
+        },
+        {
+          "title": "多家航司：日本机票免费退改",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E8%88%AA%E5%8F%B8%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "美国不来，南非总统：将把“主席国”交给空椅子",
@@ -812,6 +967,18 @@
           "time_info": "[11时36分 ~ 14时17分]"
         },
         {
+          "title": "美国南加州洪水预警覆盖逾两千万人",
+          "url": "https://wallstreetcn.com/livenews/3005170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
           "title": "外交部副部长孙卫东就日本首相高市早苗涉华错误言行提出严正交涉",
           "url": "https://m.thepaper.cn/newsDetail_forward_31960766",
           "source": "澎湃新闻",
@@ -821,6 +988,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "日本3位前首相发声",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D8%26c_type%3D31%26flag%3D0%26dgr%3D0%26stream_entry_id%3D31%26pos%3D9%26band_rank%3D8%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC3%25E4%25BD%258D%25E5%2589%258D%25E9%25A6%2596%25E7%259B%25B8%25E5%258F%2591%25E5%25A3%25B0%2523%26filter_type%3Drealtimehot%26display_time%3D1763208424%26pre_seqid%3D176320842432703297300149&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "三大航司发布日本航线客票处理通知，机票可免费退改，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/1973059674690560869",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "美国劳工统计局：2025年9月就业情况将于11月20日发布。2025年10月各州就业与失业情况（月度数据）11月21日公布。",
@@ -845,6 +1034,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 08时55分]"
+        },
+        {
+          "title": "第38届中国电影金鸡奖",
+          "url": "https://www.toutiao.com/trending/7572410429163589161/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "美国将拒绝胖子入境",
@@ -895,6 +1095,18 @@
           "time_info": "[14时17分 ~ 17时12分]"
         },
         {
+          "title": "三大航司发布日本航线客票处理通知：机票可免费退改",
+          "url": "https://wallstreetcn.com/livenews/3005166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
           "title": "军报：日本武力介入台海局势必遭痛击",
           "url": "https://www.baidu.com/s?wd=%E5%86%9B%E6%8A%A5%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B5%B7%E5%B1%80%E5%8A%BF%E5%BF%85%E9%81%AD%E7%97%9B%E5%87%BB",
           "source": "百度热搜",
@@ -917,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 14时17分]"
+        },
+        {
+          "title": "国台办回应美国3.3亿美元对台军售：敦促美方慎之又慎处理台湾问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31971980",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "美国部分空管人员获补发“停摆”期间七成薪资",
@@ -955,6 +1178,17 @@
           "time_info": "[14时17分 ~ 17时12分]"
         },
         {
+          "title": "钧正平：中国网友满屏“一言为定”回应高市早苗妄言，是最有力的民意宣言",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31972383",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "马杜罗：美国在加勒比地区战争行为构成巨大国际挑战",
           "url": "https://wallstreetcn.com/livenews/3005142",
           "source": "华尔街见闻-快讯",
@@ -965,6 +1199,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 17时12分]"
+        },
+        {
+          "title": "日本军国主义再露苗头",
+          "url": "https://www.toutiao.com/trending/7571889832604237874/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "专家：日本必须给中方一个交代",
+          "url": "https://www.toutiao.com/trending/7572893707549019698/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "中方对美国在安理会强推阿卜耶伊决议草案表示关切",
+          "url": "https://wallstreetcn.com/livenews/3005161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "周锡玮：日本若武力介入台海将被狠揍",
@@ -1015,26 +1283,48 @@
           "time_info": "[11时36分 ~ 14时17分]"
         },
         {
-          "title": "多家航司日本机票免费退改签",
-          "url": "https://www.toutiao.com/trending/7572725418311237673/",
-          "source": "今日头条",
+          "title": "3位日本前首相警示高市早苗",
+          "url": "https://www.baidu.com/s?wd=3%E4%BD%8D%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%AD%A6%E7%A4%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "source": "百度热搜",
           "ranks": [
-            6
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
-          "title": "11月，美国散户遭“定点打击”：指数跌幅不大、个股陷入“熊市”、币圈惨遭血洗",
-          "url": "https://wallstreetcn.com/articles/3759445",
-          "source": "华尔街见闻",
+          "title": "日本这次的借口与侵华时如出一辙",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E8%BF%99%E6%AC%A1%E7%9A%84%E5%80%9F%E5%8F%A3%E4%B8%8E%E4%BE%B5%E5%8D%8E%E6%97%B6%E5%A6%82%E5%87%BA%E4%B8%80%E8%BE%99%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D23%26c_type%3D31%26flag%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D24%26band_rank%3D23%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E8%25BF%2599%25E6%25AC%25A1%25E7%259A%2584%25E5%2580%259F%25E5%258F%25A3%25E4%25B8%258E%25E4%25BE%25B5%25E5%258D%258E%25E6%2597%25B6%25E5%25A6%2582%25E5%2587%25BA%25E4%25B8%2580%25E8%25BE%2599%2523%26filter_type%3Drealtimehot%26display_time%3D1763208424%26pre_seqid%3D176320842432703297300149&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            6
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "玉渊谭天：日本军国主义贼心不死",
+          "url": "https://www.toutiao.com/trending/7571807914080944137/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "日本米价再创新高 民众感叹：奢侈品",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98+%E6%B0%91%E4%BC%97%E6%84%9F%E5%8F%B9%EF%BC%9A%E5%A5%A2%E4%BE%88%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "日本野心逐渐清晰",
@@ -1043,7 +1333,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1054,7 +1344,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1068,17 +1358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "美国南加州洪水预警覆盖逾两千万人",
-          "url": "https://wallstreetcn.com/livenews/3005170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "专家：高市早苗正将日本拖入危险深渊",
@@ -1136,24 +1415,13 @@
           "time_info": "02时18分"
         },
         {
-          "title": "三大航司发布日本航线客票处理通知：机票可免费退改",
-          "url": "https://wallstreetcn.com/livenews/3005166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "本周最后一个交易日，美国科技股终于迎来抄底，但“关键要看下周”",
           "url": "https://wallstreetcn.com/articles/3759447",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1169,6 +1437,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "塞尔维亚能源部长：塞尔维亚石油公司（NIS）已获得美国为期三个月的批准，以确保其俄罗斯所有者退出。",
+          "url": "https://flash.jin10.com/detail/20251115191325792800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。 不关心爱泼斯坦的文件是否公开。 考虑向沙特阿拉伯出售战斗机。 希望沙特阿拉伯被纳入亚伯拉罕协议。",
           "url": "https://wallstreetcn.com/livenews/3005094",
           "source": "华尔街见闻-快讯",
@@ -1180,13 +1459,24 @@
           "time_info": "08时55分"
         },
         {
+          "title": "香港保安局更新日本外游警示资讯，呼吁游日港人注意安全",
+          "url": "https://wallstreetcn.com/livenews/3005178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "中国人对于晒被子的执念",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%B9%E4%BA%8E%E6%99%92%E8%A2%AB%E5%AD%90%E7%9A%84%E6%89%A7%E5%BF%B5&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D11%26q%3D%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E5%25AF%25B9%25E4%25BA%258E%25E6%2599%2592%25E8%25A2%25AB%25E5%25AD%2590%25E7%259A%2584%25E6%2589%25A7%25E5%25BF%25B5%26cate%3D5001%26realpos%3D11%26pos%3D10%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1763197704%26pre_seqid%3D176319770465103305723142&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1200,6 +1490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "塞尔维亚能源部长：美国政府希望俄罗斯所有者退出受制裁的塞尔维亚石油公司（NIS）。",
+          "url": "https://flash.jin10.com/detail/20251115191222999800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
@@ -1257,17 +1558,6 @@
           "time_info": "14时17分"
         },
         {
-          "title": "日本机票免费退改",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D14%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E6%259C%25BA%25E7%25A5%25A8%25E5%2585%258D%25E8%25B4%25B9%25E9%2580%2580%25E6%2594%25B9%2523%26cate%3D5001%26realpos%3D14%26pos%3D13%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1763197704%26pre_seqid%3D176319770465103305723142&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "美国至11月14日当周石油钻井总数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251115015000000800",
           "source": "金十数据",
@@ -1277,17 +1567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "中方对美国在安理会强推阿卜耶伊决议草案表示关切",
-          "url": "https://wallstreetcn.com/livenews/3005161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "美国能源部官员拟劝阻特朗普恢复爆炸性核试验",
@@ -1384,7 +1663,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1450,7 +1729,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1494,7 +1773,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1530,6 +1809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "塞尔维亚官员：受美国制裁的塞尔维亚大型石油天然气公司（NIS）获得为期三个月的暂缓执行期。",
+          "url": "https://flash.jin10.com/detail/20251115181107324800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国农业部（USDA）：预计美国期末小麦总库存9.01亿蒲式耳，分析师预期8.6948亿蒲式耳。",
@@ -1670,9 +1960,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
+          "url": "https://flash.jin10.com/detail/20251115180113833800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
@@ -1843,18 +2144,33 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 20时21分]"
+        },
+        {
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 20时21分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -1870,28 +2186,16 @@
           "time_info": "[05时11分 ~ 14时17分]"
         },
         {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 17时12分]"
-        },
-        {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
           "url": "https://wallstreetcn.com/livenews/3005171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -1904,6 +2208,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 05时12分]"
+        },
+        {
+          "title": "FURIA战胜paiN晋级BLAST决赛",
+          "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -1923,7 +2238,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         }
