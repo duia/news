@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-11-17T14:20:44.906314+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2025-11-17T17:17:45.190103+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 台湾 日本 美国",
-      "match_count": 177,
+      "match_count": 209,
       "titles": [
+        {
+          "title": "文旅部郑重提醒：中国游客近期避免前往日本旅游",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31980218",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时17分]"
+        },
         {
           "title": "教育部发布留学预警：建议中国公民谨慎规划赴日留学安排",
           "url": "https://m.thepaper.cn/newsDetail_forward_31977811",
@@ -26,11 +42,12 @@
           "ranks": [
             2,
             6,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时17分]"
         },
         {
           "title": "一再挑衅中国后，日本有民众围堵首相官邸高呼：“高市下台”",
@@ -44,19 +61,19 @@
           "time_info": "[02时15分 ~ 08时58分]"
         },
         {
-          "title": "文旅部郑重提醒：中国游客近期避免前往日本旅游",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31980218",
-          "source": "澎湃新闻",
+          "title": "央视军事深扒日本航母化之路",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E6%B7%B1%E6%89%92%E6%97%A5%E6%9C%AC%E8%88%AA%E6%AF%8D%E5%8C%96%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            8,
-            4,
-            3,
-            2
+            1,
+            2,
+            17,
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时17分]"
         },
         {
           "title": "下周四开始，美国“数据狂潮”来了，对市场至关重要",
@@ -69,20 +86,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时15分 ~ 08时58分]"
-        },
-        {
-          "title": "央视军事深扒日本航母化之路",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E6%B7%B1%E6%89%92%E6%97%A5%E6%9C%AC%E8%88%AA%E6%AF%8D%E5%8C%96%E4%B9%8B%E8%B7%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 14时20分]"
         },
         {
           "title": "文旅部：中国游客近期避免前往日本",
@@ -164,6 +167,21 @@
           "time_info": "[08时58分 ~ 14时20分]"
         },
         {
+          "title": "日本人杀到官邸,怒吼高市下台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347168&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%9D%80%E5%88%B0%E5%AE%98%E9%82%B8%2C%E6%80%92%E5%90%BC%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            10,
+            17,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时17分]"
+        },
+        {
           "title": "美国政府为何能重新开门",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E8%83%BD%E9%87%8D%E6%96%B0%E5%BC%80%E9%97%A8",
           "source": "bilibili 热搜",
@@ -177,6 +195,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时15分 ~ 14时20分]"
+        },
+        {
+          "title": "日本外务省高官今日访华",
+          "url": "https://www.douyin.com/hot/2308767",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
         },
         {
           "title": "中国连发赴日提醒为何让日本担忧",
@@ -214,6 +244,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时58分 ~ 14时20分]"
+        },
+        {
+          "title": "日本高官来华解释高市言论",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%9D%A5%E5%8D%8E%E8%A7%A3%E9%87%8A%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
         },
         {
           "title": "韩国政府宣布：中国排日本前面",
@@ -266,15 +308,17 @@
           "time_info": "[11时45分 ~ 14时20分]"
         },
         {
-          "title": "日本认怂?外务省局长赴华灭火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347183&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AE%A4%E6%80%82%3F%E5%A4%96%E5%8A%A1%E7%9C%81%E5%B1%80%E9%95%BF%E8%B5%B4%E5%8D%8E%E7%81%AD%E7%81%AB",
-          "source": "贴吧",
+          "title": "特斯拉“去中国化”背后隐藏什么",
+          "url": "https://www.toutiao.com/trending/7573105255983038502/",
+          "source": "今日头条",
           "ranks": [
-            1
+            5,
+            17,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 17时17分]"
         },
         {
           "title": "日本外务省高官今日访华",
@@ -287,20 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 14时20分]"
-        },
-        {
-          "title": "日本人杀到官邸,怒吼高市下台",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347168&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%9D%80%E5%88%B0%E5%AE%98%E9%82%B8%2C%E6%80%92%E5%90%BC%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            10,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 14时20分]"
         },
         {
           "title": "朝鲜历数日本罪状,高市示好碰钉子",
@@ -377,32 +407,23 @@
           "time_info": "[11时45分 ~ 14时20分]"
         },
         {
-          "title": "日本高官来华解释高市言论",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%9D%A5%E5%8D%8E%E8%A7%A3%E9%87%8A%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
+          "title": "总台海峡时评丨高市早苗若继续铤而走险，日本将万劫不复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31980490",
+          "source": "澎湃新闻",
           "ranks": [
+            7,
+            6,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 17时17分]"
         },
         {
           "title": "日媒：中国的反应“超出预期”",
           "url": "https://news.ifeng.com/c/8oKm9P9qciS",
           "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
-        },
-        {
-          "title": "日本外务省高官今日访华",
-          "url": "https://www.douyin.com/hot/2308767",
-          "source": "抖音",
           "ranks": [
             4
           ],
@@ -417,11 +438,12 @@
           "ranks": [
             1,
             5,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 17时17分]"
         },
         {
           "title": "若武力介入 日本全国都有沦为战场风险",
@@ -449,17 +471,6 @@
           "time_info": "[02时15分 ~ 11时45分]"
         },
         {
-          "title": "日本民众：中国游客不来 打击很沉重",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5+%E6%89%93%E5%87%BB%E5%BE%88%E6%B2%89%E9%87%8D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "日本被拖入国家危机——起底高市早苗之“祸”",
           "url": "https://news.ifeng.com/c/8oL2HXPmskM",
           "source": "凤凰网",
@@ -482,15 +493,26 @@
           "time_info": "11时45分"
         },
         {
-          "title": "朝鲜狠批日本",
-          "url": "https://www.douyin.com/hot/2308830",
-          "source": "抖音",
+          "title": "中国强烈回应震动日本",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%83%88%E5%9B%9E%E5%BA%94%E9%9C%87%E5%8A%A8%E6%97%A5%E6%9C%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D1%26stream_entry_id%3D31%26band_rank%3D1%26pos%3D0%26flag%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E5%25BC%25BA%25E7%2583%2588%25E5%259B%259E%25E5%25BA%2594%25E9%259C%2587%25E5%258A%25A8%25E6%2597%25A5%25E6%259C%25AC%2523%26c_type%3D31%26display_time%3D1763371019%26pre_seqid%3D176337101933302812499121&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "17时17分"
+        },
+        {
+          "title": "日本外务省高官 11 月 17 日访华，将解释高市早苗涉台发言，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1973693154243933356",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "特朗普：委内瑞拉希望与美国对话 可能会与马杜罗交谈",
@@ -532,7 +554,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -548,6 +570,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "日本高官抵京 面对记者提问一言不发",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%8A%B5%E4%BA%AC+%E9%9D%A2%E5%AF%B9%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E4%B8%80%E8%A8%80%E4%B8%8D%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "日本被首相拖入国家危机",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%A6%96%E7%9B%B8%E6%8B%96%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%8D%B1%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D2%26lcate%3D5001%26band_rank%3D2%26stream_entry_id%3D31%26pos%3D1%26flag%3D1%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E8%25A2%25AB%25E9%25A6%2596%25E7%259B%25B8%25E6%258B%2596%25E5%2585%25A5%25E5%259B%25BD%25E5%25AE%25B6%25E5%258D%25B1%25E6%259C%25BA%2523%26dgr%3D0%26display_time%3D1763341052%26pre_seqid%3D17633410528890330393069&launchid=10000360-page_H5",
           "source": "微博",
@@ -559,13 +592,24 @@
           "time_info": "08时58分"
         },
         {
+          "title": "部分日本电影撤档",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%83%A8%E5%88%86%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1%E6%92%A4%E6%A1%A3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D2%26stream_entry_id%3D31%26band_rank%3D2%26pos%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E9%2583%25A8%25E5%2588%2586%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E5%25BD%25B1%25E6%2592%25A4%25E6%25A1%25A3%2523%26c_type%3D31%26display_time%3D1763371019%26pre_seqid%3D176337101933302812499121&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "日本旅游股大幅下挫",
           "url": "https://www.douyin.com/hot/2308759",
           "source": "抖音",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -576,7 +620,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -592,6 +636,29 @@
           "time_info": "[02时15分 ~ 08时58分]"
         },
         {
+          "title": "高市早苗风波，日本三个没想到",
+          "url": "https://news.ifeng.com/c/8oLYRRdyx6L",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
+        },
+        {
+          "title": "“中国屏”靠什么逆袭",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B1%8F%E2%80%9D%E9%9D%A0%E4%BB%80%E4%B9%88%E9%80%86%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "日本欲改“无核三原则”意味着什么？",
           "url": "https://news.ifeng.com/c/8oLVo3ZyTY2",
           "source": "凤凰网",
@@ -603,13 +670,24 @@
           "time_info": "08时58分"
         },
         {
+          "title": "超近距离直击“中国速度”",
+          "url": "https://www.douyin.com/hot/2309257",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，从长期来看，可持续地实现2%的目标并不仅仅意味着通胀要高于2%，还意味着通胀大幅超过2%可能会带来麻烦。",
           "url": "https://flash.jin10.com/detail/20251117140803069800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -631,7 +709,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -649,6 +727,40 @@
           "time_info": "[02时15分 ~ 11时45分]"
         },
         {
+          "title": "日本认怂?外务省局长赴华灭火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347183&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AE%A4%E6%80%82%3F%E5%A4%96%E5%8A%A1%E7%9C%81%E5%B1%80%E9%95%BF%E8%B5%B4%E5%8D%8E%E7%81%AD%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
+        },
+        {
+          "title": "部分日本电影暂缓上映",
+          "url": "https://www.toutiao.com/trending/7572542692917149715/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "部分日本电影宣布暂缓上映",
+          "url": "https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1%E5%AE%A3%E5%B8%83%E6%9A%82%E7%BC%93%E4%B8%8A%E6%98%A0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "日本前首相石破茂、鸠山由纪夫、野田佳彦齐批高市早苗错误言论",
           "url": "https://news.ifeng.com/c/8oLYfC1yZD9",
           "source": "凤凰网",
@@ -658,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "个别日本政客称中方对高市早苗错误言论“反应过度”，外交部驳斥",
+          "url": "https://news.ifeng.com/c/8oMAJmEcPkY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "高市早苗鼓吹日本人优先",
@@ -688,7 +811,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -699,7 +822,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -750,6 +873,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "中方反制日本还有很多牌可打",
+          "url": "https://news.ifeng.com/c/8oM7eWEbhiC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "美国南方司令部：对一艘载有毒品的船只进行了致命打击",
           "url": "https://flash.jin10.com/detail/20251117041930933800",
           "source": "金十数据",
@@ -761,16 +895,15 @@
           "time_info": "05时11分"
         },
         {
-          "title": "特斯拉“去中国化”背后隐藏什么",
-          "url": "https://www.toutiao.com/trending/7573105255983038502/",
-          "source": "今日头条",
+          "title": "科兴制药：发行境外上市股份（H股）备案申请材料获中国证监会接收。",
+          "url": "https://wallstreetcn.com/livenews/3005761",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "中国海警舰艇编队11月16日在我钓鱼岛领海巡航",
@@ -797,19 +930,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时15分 ~ 08时58分]"
-        },
-        {
-          "title": "总台海峡时评丨高市早苗若继续铤而走险，日本将万劫不复",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31980490",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "日本前首相再批高市早苗言辞越界",
@@ -849,16 +969,17 @@
           "time_info": "[02时15分 ~ 05时11分]"
         },
         {
-          "title": "高市早苗风波，日本三个没想到",
-          "url": "https://news.ifeng.com/c/8oLYRRdyx6L",
-          "source": "凤凰网",
+          "title": "日媒：中国的反应超出预期",
+          "url": "https://www.toutiao.com/trending/7572761056200920582/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            3
+            4,
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
         },
         {
           "title": "中国大陆至日本航班量大幅下滑",
@@ -884,16 +1005,41 @@
           "time_info": "[02时15分 ~ 05时11分]"
         },
         {
-          "title": "日媒：中国的反应超出预期",
-          "url": "https://www.toutiao.com/trending/7572761056200920582/",
-          "source": "今日头条",
+          "title": "日媒：日本外务省高官今日访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31982216",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            7
+            18,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
+        },
+        {
+          "title": "日本民众：中国游客不来 打击很沉重",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5+%E6%89%93%E5%87%BB%E5%BE%88%E6%B2%89%E9%87%8D",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "time_info": "[14时20分 ~ 17时17分]"
+        },
+        {
+          "title": "朝鲜狠批日本",
+          "url": "https://www.douyin.com/hot/2308830",
+          "source": "抖音",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时17分]"
         },
         {
           "title": "日本共同社称中国的反应超出预期",
@@ -1085,6 +1231,32 @@
           "time_info": "[08时58分 ~ 14时20分]"
         },
         {
+          "title": "独家专访刘振民：美国缺席致气候融资缺口扩大，中国将继续维护多边框架",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31973653",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
+        },
+        {
+          "title": "若中国游客减少将影响日本经济",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%87%8F%E5%B0%91%E5%B0%86%E5%BD%B1%E5%93%8D%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
+        },
+        {
           "title": "日学者：高市早苗应向中国道歉并辞职",
           "url": "https://www.toutiao.com/trending/7573470652917616171/",
           "source": "今日头条",
@@ -1171,30 +1343,6 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "日媒：日本外务省高官今日访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31982216",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
-        },
-        {
-          "title": "若中国游客减少将影响日本经济",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%87%8F%E5%B0%91%E5%B0%86%E5%BD%B1%E5%93%8D%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
-        },
-        {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
           "url": "https://flash.jin10.com/detail/20251116221017649800",
           "source": "金十数据",
@@ -1219,18 +1367,6 @@
           "time_info": "[08时58分 ~ 11时45分]"
         },
         {
-          "title": "独家专访刘振民：美国缺席致气候融资缺口扩大，中国将继续维护多边框架",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31973653",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
-        },
-        {
           "title": "据英国金融时报：美国贸易代表格里尔对欧盟在削减关税和监管壁垒方面的缓慢进展日益不满。",
           "url": "https://flash.jin10.com/detail/20251116220643337800",
           "source": "金十数据",
@@ -1253,6 +1389,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 14时20分]"
+        },
+        {
+          "title": "人民日报钟声：警惕日本战略走向的危险转向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31981649",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时17分]"
         },
         {
           "title": "文化和旅游部郑重提醒：中国游客近期避免前往日本",
@@ -1299,6 +1447,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 14时20分]"
+        },
+        {
+          "title": "高市早苗31年前质问村山富市：什么才算侵略？你凭什么代表日本向中国道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31980483",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时17分]"
         },
         {
           "title": "匈牙利延长对中国有关商务人士签证便利化安排",
@@ -1382,13 +1542,24 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
+          "title": "部分日本电影撤档",
+          "url": "https://news.ifeng.com/c/8oMAWWWiWkg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "日本外务省高官 11 月 17 日访华，将解释高市早苗涉台发言，能缓和局势吗？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1973693154243933356",
           "source": "知乎",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1410,7 +1581,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1426,6 +1597,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "日本外务省高官抵京 被提问一言不发",
+          "url": "https://www.toutiao.com/trending/7573585143760195110/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "日本民众：中国人不来日本打击很沉重",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E6%9D%A5%E6%97%A5%E6%9C%AC%E6%89%93%E5%87%BB%E5%BE%88%E6%B2%89%E9%87%8D",
           "source": "百度热搜",
@@ -1437,15 +1619,37 @@
           "time_info": "11时45分"
         },
         {
+          "title": "日本极右翼也怕了：这点国力何必惹事",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9E%81%E5%8F%B3%E7%BF%BC%E4%B9%9F%E6%80%95%E4%BA%86%EF%BC%9A%E8%BF%99%E7%82%B9%E5%9B%BD%E5%8A%9B%E4%BD%95%E5%BF%85%E6%83%B9%E4%BA%8B",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "凤凰专访丨韩新任驻华大使：韩国不会完全倒向美国",
           "url": "https://news.ifeng.com/c/8oLrvRuYeMU",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "日本的三个没想到",
@@ -1465,7 +1669,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1487,7 +1691,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1520,7 +1724,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1531,9 +1735,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "日本外务省高官今日访华，外交部回应",
+          "url": "https://www.cls.cn/detail/2202478",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "中国外汇交易中心（CFETS）：11月14日人民币汇率指数按周跌0.13至97.83。",
@@ -1569,15 +1784,37 @@
           "time_info": "08时58分"
         },
         {
+          "title": "韩方通知日本暂停韩日联合演习",
+          "url": "https://www.toutiao.com/trending/7573107277822181419/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "错误言论 祸害重重 高市早苗恐将日本拖入“国家危机”",
           "url": "https://www.cls.cn/detail/2201959",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "日本旅游消费股遭遇“黑色周一”",
+          "url": "https://www.toutiao.com/trending/7573563471007059519/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "中国驻美大使谢锋：人民友好的浩荡大势，绝不会因一时的逆流而改变",
@@ -1586,7 +1823,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1597,18 +1834,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "人民日报钟声：警惕日本战略走向的危险转向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31981649",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1630,9 +1856,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "为啥日本着急派高官来华解释",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E6%97%A5%E6%9C%AC%E7%9D%80%E6%80%A5%E6%B4%BE%E9%AB%98%E5%AE%98%E6%9D%A5%E5%8D%8E%E8%A7%A3%E9%87%8A",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "日本长债遭抛售 市场担心经济刺激规模推高发债量",
@@ -1641,9 +1878,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行委员片冈刚士：日本央行应至少等到明年3月或4月再加息。",
+          "url": "https://flash.jin10.com/detail/20251117163615759800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "中国驻美大使谢锋：中美合作清单应该拉得更长、合作蛋糕可以做得更大",
@@ -1652,9 +1900,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "高市“玩火” 日本“炸锅”",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E2%80%9C%E7%8E%A9%E7%81%AB%E2%80%9D+%E6%97%A5%E6%9C%AC%E2%80%9C%E7%82%B8%E9%94%85%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "荣耀终章｜全运五连冠，巩立姣是照亮中国女子投掷的那束光",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31980676",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "日本前首相再批高市早苗",
@@ -1663,7 +1933,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1696,9 +1966,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "惹祸的高市早苗别忘了村山生前警示：日本该道歉就道歉，否则将失信于邻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31982954",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "台湾民众坦然说出我是中国人",
@@ -1707,7 +1988,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1745,15 +2026,15 @@
           "time_info": "08时58分"
         },
         {
-          "title": "高市早苗31年前质问村山富市：什么才算侵略？你凭什么代表日本向中国道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31980483",
-          "source": "澎湃新闻",
+          "title": "A股反制日本概念大涨",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E5%8F%8D%E5%88%B6%E6%97%A5%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%A4%A7%E6%B6%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D20%26stream_entry_id%3D31%26band_rank%3D20%26pos%3D21%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523A%25E8%2582%25A1%25E5%258F%258D%25E5%2588%25B6%25E6%2597%25A5%25E6%259C%25AC%25E6%25A6%2582%25E5%25BF%25B5%25E5%25A4%25A7%25E6%25B6%25A8%2523%26c_type%3D31%26display_time%3D1763371019%26pre_seqid%3D176337101933302812499121&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "17时17分"
         },
         {
           "title": "日本第三季度GDP平减指数年率初值 2.8%，预期3.10%，前值3.00%。",
@@ -1776,6 +2057,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "高志凯建议禁止向日本出口稀土",
+          "url": "https://www.toutiao.com/trending/7572572163505979398/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国一人独中70亿元彩票",
@@ -1822,6 +2114,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "日本旅游消费股遭遇“黑色周一”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%B6%88%E8%B4%B9%E8%82%A1%E9%81%AD%E9%81%87%E2%80%9C%E9%BB%91%E8%89%B2%E5%91%A8%E4%B8%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "美国总统特朗普：可能会与委内瑞拉总统马杜罗进行交谈。",
           "url": "https://flash.jin10.com/detail/20251117075139534800",
           "source": "金十数据",
@@ -1853,6 +2156,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "日本参议员：高市早苗应尽快撤回涉台错误言论",
+          "url": "https://wallstreetcn.com/livenews/3005736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "美国一人独中70亿元彩票",
+          "url": "https://www.toutiao.com/trending/7573531224824873014/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "日本有重蹈军国主义覆辙的危险",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%89%E9%87%8D%E8%B9%88%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%A6%86%E8%BE%99%E7%9A%84%E5%8D%B1%E9%99%A9",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "日本第三季度名义GDP季率初值 0.1%，预期-0.30%，前值1.60%。",
@@ -1910,6 +2246,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "中国公民需谨慎前往日本的四个原因",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%9C%80%E8%B0%A8%E6%85%8E%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%8E%9F%E5%9B%A0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "消息人士：航空公司预计美国联邦航空管理局（FAA）将于明天起解除对美国40个主要机场的飞行限制。",
           "url": "https://flash.jin10.com/detail/20251117074856756800",
           "source": "金十数据",
@@ -1943,6 +2290,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "外交部回应日本外务省高官访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E9%AB%98%E5%AE%98%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "美媒：美国政府阻挠官员参加COP30",
           "url": "https://wallstreetcn.com/livenews/3005323",
           "source": "华尔街见闻-快讯",
@@ -1971,7 +2329,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -2051,12 +2409,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "天味食品：发行境外上市股份（H股）备案申请材料获中国证监会接收。",
+          "url": "https://wallstreetcn.com/livenews/3005728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "白宫深夜盯上阿里巴巴？一切或源于“千问恐慌”（QwenPanic）",
@@ -2100,11 +2469,12 @@
             16,
             18,
             17,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时17分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -2131,6 +2501,31 @@
           "time_info": "11时45分"
         },
         {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时17分]"
+        },
+        {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时17分]"
+        },
+        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
@@ -2143,16 +2538,16 @@
           "time_info": "[11时45分 ~ 14时20分]"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "time_info": "[14时20分 ~ 17时17分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -2179,26 +2574,15 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "17时17分"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -2207,9 +2591,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "券商晨会精华：AI带动的算力需求依然非常旺盛，调整是机会",
+          "url": "https://www.cls.cn/detail/2201954",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "阿里巴巴旗下夸克宣布上线千问助手，“使用阿里Qwen最强大模型”。",
@@ -2223,15 +2618,48 @@
           "time_info": "11时45分"
         },
         {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://wallstreetcn.com/livenews/3005746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
+          "url": "https://www.zhihu.com/question/1973700569139995365",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "成龙去世谣言系AI生成",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%88%90%E9%BE%99%E5%8E%BB%E4%B8%96%E8%B0%A3%E8%A8%80%E7%B3%BBAI%E7%94%9F%E6%88%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D17%26cate%3D5001%26flag%3D0%26stream_entry_id%3D31%26dgr%3D0%26lcate%3D5001%26band_rank%3D17%26filter_type%3Drealtimehot%26pos%3D18%26c_type%3D31%26q%3D%2523%25E6%2588%2590%25E9%25BE%2599%25E5%258E%25BB%25E4%25B8%2596%25E8%25B0%25A3%25E8%25A8%2580%25E7%25B3%25BBAI%25E7%2594%259F%25E6%2588%2590%2523%26display_time%3D1763360338%26pre_seqid%3D176336033854503301959148&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://flash.jin10.com/detail/20251117163555133800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
