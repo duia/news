@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T11:40:07.091495+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2025-11-21T14:20:16.017583+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 台湾 日本 美国",
-      "match_count": 123,
+      "match_count": 152,
       "titles": [
         {
           "title": "美国9月非农新增就业11.9万人大超预期，失业率意外升至4.4%创四年来最高纪录",
@@ -16,8 +16,56 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 14时20分]"
+        },
+        {
+          "title": "日本还抗议了，世界哭笑不得",
+          "url": "https://news.ifeng.com/c/8oSF6Z2nQ1S",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时40分]"
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
+          "title": "中国科学院 2025 年院士增选结果公示，你对这些院士有哪些了解？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1975130863109939634",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时20分]"
+        },
+        {
+          "title": "就在今晚！首个重大数据来了，\"姗姗来迟\"的美国9月非农会让降息\"重回视野\"吗？",
+          "url": "https://wallstreetcn.com/articles/3759787",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 14时20分]"
+        },
+        {
+          "title": "日本多个行业为高市早苗买单",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E4%B8%AA%E8%A1%8C%E4%B8%9A%E4%B8%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B9%B0%E5%8D%95%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时20分]"
         },
         {
           "title": "美国9月非农大超预期 失业率升至4.4% 美联储12月决策更趋复杂",
@@ -78,50 +126,65 @@
           "time_info": "[08时56分 ~ 11时40分]"
         },
         {
-          "title": "日本还抗议了，世界哭笑不得",
-          "url": "https://news.ifeng.com/c/8oSF6Z2nQ1S",
-          "source": "凤凰网",
+          "title": "精准打击双连发,日本产业全抓瞎",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
+          "source": "贴吧",
           "ranks": [
-            4
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 14时20分]"
         },
         {
-          "title": "中国科学院 2025 年院士增选结果公示，你对这些院士有哪些了解？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1975130863109939634",
-          "source": "知乎",
+          "title": "订单大量取消 日本旅游业日子很难过",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A2%E5%8D%95%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88+%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E6%97%A5%E5%AD%90%E5%BE%88%E9%9A%BE%E8%BF%87",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "日本多个行业为高市早苗买单",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E4%B8%AA%E8%A1%8C%E4%B8%9A%E4%B8%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B9%B0%E5%8D%95%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "视频丨超54万张飞往日本机票被取消，日本旅游遭遇“退订寒潮”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32006870",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            15,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 14时20分]"
         },
         {
-          "title": "就在今晚！首个重大数据来了，\"姗姗来迟\"的美国9月非农会让降息\"重回视野\"吗？",
-          "url": "https://wallstreetcn.com/articles/3759787",
-          "source": "华尔街见闻",
+          "title": "中方禁令狠准快,日本水产全歇菜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347268&amp;topic_name=%E4%B8%AD%E6%96%B9%E7%A6%81%E4%BB%A4%E7%8B%A0%E5%87%86%E5%BF%AB%2C%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%85%A8%E6%AD%87%E8%8F%9C",
+          "source": "贴吧",
           "ranks": [
-            8,
-            4,
-            6
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 14时20分]"
+        },
+        {
+          "title": "领馆介入上百名中国人在德食物中毒",
+          "url": "https://www.toutiao.com/trending/7574944703511023155/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时40分]"
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "美国批准向日本出售8200万美元军火",
@@ -133,6 +196,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "日本连片170栋建筑被烧成废墟",
+          "url": "https://www.toutiao.com/trending/7574409499260993599/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "赖清德晒午餐吃日料表达对日本的支持，外交部回应",
@@ -168,6 +242,31 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
+          "title": "美国驻日大使帮腔：代表总统，支持高市早苗“搞事”",
+          "url": "https://news.ifeng.com/c/8oSGxsjBh8X",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "赖清德晒午餐吃日料表达对日本的支持，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32005591",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时12分 ~ 14时20分]"
+        },
+        {
           "title": "据美联社：美国对俄罗斯石油公司的制裁正在产生预期效果。",
           "url": "https://flash.jin10.com/detail/20251121021430027800",
           "source": "金十数据",
@@ -199,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "日本40年期国债收益率下跌7.0个基点至3.675%。",
+          "url": "https://wallstreetcn.com/livenews/3008436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "美国财政部：加强对支持伊朗军队的石油网络的制裁。",
@@ -267,16 +377,15 @@
           "time_info": "08时56分"
         },
         {
-          "title": "领馆介入上百名中国人在德食物中毒",
-          "url": "https://www.toutiao.com/trending/7574944703511023155/",
-          "source": "今日头条",
+          "title": "鸿海董事长刘扬伟：目前转移到美国的产品大多与AI相关。",
+          "url": "https://wallstreetcn.com/livenews/3008431",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模下滑至7.52万亿美元。",
@@ -323,6 +432,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "台湾证交所加权股价指数收跌3.6%报26,434.94点。",
+          "url": "https://wallstreetcn.com/livenews/3008430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "德国医疗展盒饭致200名中国人中毒",
           "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%8C%BB%E7%96%97%E5%B1%95%E7%9B%92%E9%A5%AD%E8%87%B4200%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%AD%E6%AF%92",
           "source": "百度热搜",
@@ -358,6 +478,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "40年期日本国债收益率下跌7.0个基点，至3.675%。",
+          "url": "https://flash.jin10.com/detail/20251121134056880800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2025年FOMC票委）：如果政府可以告诉央行（美联储）如何处理利率，通胀就会上升，经济增长就会放缓。 如果美联储失去独立性，我和市场都会感到痛苦。 我对此并不担心。",
           "url": "https://wallstreetcn.com/livenews/3008124",
           "source": "华尔街见闻-快讯",
@@ -381,53 +512,40 @@
           "time_info": "[02时19分 ~ 08时56分]"
         },
         {
-          "title": "精准打击双连发,日本产业全抓瞎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
-          "source": "贴吧",
+          "title": "44岁刘若川当选中国科学院院士",
+          "url": "https://www.toutiao.com/trending/7574977171614842889/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时40分]"
-        },
-        {
-          "title": "视频丨超54万张飞往日本机票被取消，日本旅游遭遇“退订寒潮”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32006870",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时40分]"
-        },
-        {
-          "title": "中方禁令狠准快,日本水产全歇菜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347268&amp;topic_name=%E4%B8%AD%E6%96%B9%E7%A6%81%E4%BB%A4%E7%8B%A0%E5%87%86%E5%BF%AB%2C%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%85%A8%E6%AD%87%E8%8F%9C",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时40分]"
-        },
-        {
-          "title": "赖清德晒午餐吃日料表达对日本的支持，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32005591",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
             14,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时12分 ~ 11时40分]"
+          "time_info": "[11时39分 ~ 14时20分]"
+        },
+        {
+          "title": "日本学者：高市言论冲击日本经济",
+          "url": "https://www.douyin.com/hot/2312966",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时20分]"
+        },
+        {
+          "title": "日本被曝加速推进军事扩张",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%8A%A0%E9%80%9F%E6%8E%A8%E8%BF%9B%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时20分]"
         },
         {
           "title": "郑丽文：台海无事 日本才能无事",
@@ -522,6 +640,17 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
+          "title": "日本经济界陷入集体焦虑",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E9%99%B7%E5%85%A5%E9%9B%86%E4%BD%93%E7%84%A6%E8%99%91%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
           "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
           "url": "https://www.cls.cn/detail/2206329",
           "source": "财联社热门",
@@ -568,26 +697,26 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "日本学者：高市言论冲击日本经济",
-          "url": "https://www.douyin.com/hot/2312966",
-          "source": "抖音",
+          "title": "领馆介入百名中国人在德食物中毒事件",
+          "url": "https://www.baidu.com/s?wd=%E9%A2%86%E9%A6%86%E4%BB%8B%E5%85%A5%E7%99%BE%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%BE%B7%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "44岁刘若川当选中国科学院院士",
-          "url": "https://www.toutiao.com/trending/7574977171614842889/",
-          "source": "今日头条",
+          "title": "日本拟推超20万亿日元经济刺激计划",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%9F%E6%8E%A8%E8%B6%8520%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E7%BB%8F%E6%B5%8E%E5%88%BA%E6%BF%80%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "中国公民沦为“矿奴” 使馆紧急提醒",
@@ -602,6 +731,17 @@
           "time_info": "[05时12分 ~ 08时56分]"
         },
         {
+          "title": "高市言论给日本经济界带来巨大冲击",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E7%BB%99%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%B8%A6%E6%9D%A5%E5%B7%A8%E5%A4%A7%E5%86%B2%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
           "title": "专家：日本自卫队长期觊觎台海",
           "url": "https://www.toutiao.com/trending/7574973189256646190/",
           "source": "今日头条",
@@ -611,6 +751,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "插裤兜很正常 日本别痴心妄想了",
+          "url": "https://www.baidu.com/s?wd=%E6%8F%92%E8%A3%A4%E5%85%9C%E5%BE%88%E6%AD%A3%E5%B8%B8+%E6%97%A5%E6%9C%AC%E5%88%AB%E7%97%B4%E5%BF%83%E5%A6%84%E6%83%B3%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "日本机构24场在华活动被取消",
@@ -658,6 +809,17 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
+          "title": "比亚迪廉玉波当选中国工程院院士",
+          "url": "https://www.toutiao.com/trending/7574987846340263942/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
           "title": "领馆介入上百名中国人在德食物中毒",
           "url": "https://www.baidu.com/s?wd=%E9%A2%86%E9%A6%86%E4%BB%8B%E5%85%A5%E4%B8%8A%E7%99%BE%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%BE%B7%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92",
           "source": "百度热搜",
@@ -667,6 +829,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "50多万名中国游客取消原定日本行程",
+          "url": "https://www.toutiao.com/trending/7574767372440895526/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "高市欲打造“日本版CIA” 引多方警惕",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%AC%B2%E6%89%93%E9%80%A0%E2%80%9C%E6%97%A5%E6%9C%AC%E7%89%88CIA%E2%80%9D+%E5%BC%95%E5%A4%9A%E6%96%B9%E8%AD%A6%E6%83%95",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "日本曾多次就台湾有事兵棋推演",
@@ -692,15 +876,26 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
-          "title": "日本被曝加速推进军事扩张",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%8A%A0%E9%80%9F%E6%8E%A8%E8%BF%9B%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0",
-          "source": "百度热搜",
+          "title": "日本核爆记忆换不来和平主义",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E7%88%86%E8%AE%B0%E5%BF%86%E6%8D%A2%E4%B8%8D%E6%9D%A5%E5%92%8C%E5%B9%B3%E4%B8%BB%E4%B9%89%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            29
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "中国军号发布海报用三国语言警告日本",
+          "url": "https://www.toutiao.com/trending/7574461448878309427/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：数据显示我们应该在下次美联储会议上降息。",
@@ -742,7 +937,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -868,6 +1063,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "鸿海董事长刘扬伟：劳动力成本在美国生产中所占比例较小，但劳动力短缺是一个挑战。",
+          "url": "https://flash.jin10.com/detail/20251121133255459800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "日本11月制造业PMI初值 48.8，前值 48.2。",
           "url": "https://wallstreetcn.com/livenews/3008271",
           "source": "华尔街见闻-快讯",
@@ -912,6 +1118,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "据报道，日本最大核电站将获地方重启批准。",
+          "url": "https://wallstreetcn.com/livenews/3008421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：工厂产量飙升。",
           "url": "https://flash.jin10.com/detail/20251121041818107800",
           "source": "金十数据",
@@ -932,6 +1149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：希望与美国、墨西哥及其他国家合作建设科技园区，并期待这能有助于贸易谈判。",
+          "url": "https://flash.jin10.com/detail/20251121132836788800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：9月份建筑工人大量增加。",
@@ -956,6 +1184,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "市场消息：日本最大的核电站将获得当地重启批准。",
+          "url": "https://flash.jin10.com/detail/20251121132337270800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：9月份的就业数据“表现极其出色”。",
           "url": "https://flash.jin10.com/detail/20251121041644839800",
           "source": "金十数据",
@@ -976,6 +1215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "日本首相：或发新债为经济方案筹资，但日债发行总量将低于去年",
+          "url": "https://flash.jin10.com/detail/20251121132046897800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "日本财务大臣片山皋月：具体的货币政策应该由日本央行作出。 对近期的汇率快速波动感到担忧。 将对外汇过度波动采取适当行动。 与日本央行行长植田和男确认，需要与市场进行沟通。 植田和男植田称日本央行将根据经济和物价的改善情况逐步调整货币支持力度。",
@@ -1088,6 +1338,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本首相高市早苗：预计今年日本国债发行总额将低于去年的总额。 如果税收增长不足以支付全部费用，将通过发行新债券来筹集刺激方案资金。 必须通过经济增长实现可持续的国家财政。 必须通过积极的财政政策让日本变得更加强大。",
+          "url": "https://wallstreetcn.com/livenews/3008412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "市场消息：美国法官Cobb裁定，五角大楼向哥伦比亚特区部署国民警卫队的行动是非法的。",
           "url": "https://flash.jin10.com/detail/20251121035329030800",
           "source": "金十数据",
@@ -1108,6 +1369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "日本10月份粗钢产量为685万吨，同比下降1%，环比增长7.5%。",
+          "url": "https://flash.jin10.com/detail/20251121130135780800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "日本财务大臣片山皋月：正以高度紧迫感密切关注外汇走势。",
@@ -1149,9 +1421,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "外媒：中国游客减少将令日本在年内损失约12亿美元",
+          "url": "https://wallstreetcn.com/livenews/3008407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "富时中国A50指数期货跌幅扩大至2%。",
@@ -1160,7 +1443,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1176,15 +1459,37 @@
           "time_info": "05时12分"
         },
         {
+          "title": "10年期日本国债收益率下跌3.0个基点，至1.785%。",
+          "url": "https://flash.jin10.com/detail/20251121125349263800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "中国人民银行行长潘功胜出席中国-阿联酋支付合作项目启动仪式",
           "url": "https://wallstreetcn.com/livenews/3008355",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "日本首相高市早苗：必须通过经济增长实现可持续的国家财政。",
+          "url": "https://flash.jin10.com/detail/20251121123817699800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "乌克兰总统会见美国陆军部长，讨论和平方案",
@@ -1204,7 +1509,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1215,7 +1520,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1229,6 +1534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "日本内阁批准了21.3万亿日元的经济刺激计划",
+          "url": "https://wallstreetcn.com/livenews/3008394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "200名中国展商在德吃中餐食物中毒",
@@ -1275,6 +1591,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "中国台湾批准英伟达投资10亿元新台币兴建办公楼。",
+          "url": "https://wallstreetcn.com/livenews/3008393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3008250",
           "source": "华尔街见闻-快讯",
@@ -1292,7 +1619,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1347,7 +1674,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1380,7 +1707,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -1388,7 +1715,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -1399,8 +1726,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
+          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
+          "url": "https://wallstreetcn.com/articles/3759810",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时12分 ~ 14时20分]"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：与OpenAI的合作将从加州的一个实验室开始，随后可能扩展到俄亥俄州的制造业务。",
+          "url": "https://flash.jin10.com/detail/20251121134910969800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -1426,17 +1778,28 @@
           "time_info": "[02时19分 ~ 08时56分]"
         },
         {
-          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
-          "url": "https://wallstreetcn.com/articles/3759810",
-          "source": "华尔街见闻",
+          "title": "鸿海董事长刘扬伟：与OpenAI合作的一个关键原因是他们是最大的生成式AI用户且拥有丰富的经验，但他们也看到了当前数据中心架构的局限性。",
+          "url": "https://flash.jin10.com/detail/20251121134120644800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
+          "url": "https://www.cls.cn/detail/2206796",
+          "source": "财联社热门",
           "ranks": [
             10,
             6,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -1452,16 +1815,15 @@
           "time_info": "[05时12分 ~ 11时40分]"
         },
         {
-          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
-          "url": "https://www.cls.cn/detail/2206796",
-          "source": "财联社热门",
+          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
+          "url": "https://wallstreetcn.com/articles/3759838",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时20分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -1487,17 +1849,6 @@
           "time_info": "[02时19分 ~ 08时56分]"
         },
         {
-          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
-          "url": "https://wallstreetcn.com/articles/3759838",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
           "title": "鸿海董事长称计划每年在AI领域投入20亿至30亿美元",
           "url": "https://wallstreetcn.com/livenews/3008273",
           "source": "华尔街见闻-快讯",
@@ -1507,6 +1858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：未提及与OpenAI成立合资企业或产量承诺，并不意味着未来不会发生。",
+          "url": "https://flash.jin10.com/detail/20251121133919252800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -1548,7 +1910,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1559,9 +1921,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
+          "url": "https://wallstreetcn.com/livenews/3008411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "英伟达黄胜斌：我们正与鸿海合作将AI带进工厂和生产线。",
+          "url": "https://wallstreetcn.com/livenews/3008402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
