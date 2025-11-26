@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-11-26T20:26:16.232639+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2025-11-26T23:13:05.151174+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国 台湾 日本 美国",
-      "match_count": 223,
+      "keyword_group": "中国 日本 美国",
+      "match_count": 238,
       "titles": [
+        {
+          "title": "日本致函联合国,装模作样给谁看",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347510&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%2C%E8%A3%85%E6%A8%A1%E4%BD%9C%E6%A0%B7%E7%BB%99%E8%B0%81%E7%9C%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6,
+            9,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 23时13分]"
+        },
         {
           "title": "外媒：乌克兰已原则同意美国提出的和平协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32040923",
@@ -21,21 +37,6 @@
           "time_info": "[02时19分 ~ 20时26分]"
         },
         {
-          "title": "日本致函联合国,装模作样给谁看",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347510&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%2C%E8%A3%85%E6%A8%A1%E4%BD%9C%E6%A0%B7%E7%BB%99%E8%B0%81%E7%9C%8B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6,
-            9,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 20时26分]"
-        },
-        {
           "title": "大麻当饭吃,毒品端上美国餐桌",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347512&amp;topic_name=%E5%A4%A7%E9%BA%BB%E5%BD%93%E9%A5%AD%E5%90%83%2C%E6%AF%92%E5%93%81%E7%AB%AF%E4%B8%8A%E7%BE%8E%E5%9B%BD%E9%A4%90%E6%A1%8C",
           "source": "贴吧",
@@ -44,11 +45,44 @@
             8,
             10,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 20时26分]"
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 23时13分]"
+        },
+        {
+          "title": "乌克兰原则同意美国提出的和平协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32042516",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 23时13分]"
+        },
+        {
+          "title": "中国撤回大熊猫,日网怒赞本土棕熊",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347467&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%92%A4%E5%9B%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%2C%E6%97%A5%E7%BD%91%E6%80%92%E8%B5%9E%E6%9C%AC%E5%9C%9F%E6%A3%95%E7%86%8A",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11,
+            15,
+            18,
+            24,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 23时13分]"
         },
         {
           "title": "中国将寻找第二颗地球",
@@ -62,20 +96,18 @@
           "time_info": "[02时19分 ~ 11时44分]"
         },
         {
-          "title": "中国撤回大熊猫,日网怒赞本土棕熊",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347467&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%92%A4%E5%9B%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%2C%E6%97%A5%E7%BD%91%E6%80%92%E8%B5%9E%E6%9C%AC%E5%9C%9F%E6%A3%95%E7%86%8A",
-          "source": "贴吧",
+          "title": "2名台胞在日本被打成重伤 国台办回应",
+          "url": "https://www.toutiao.com/trending/7576872146853744154/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            11,
-            15,
-            18,
-            24,
-            27
+            2,
+            5,
+            19,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 23时13分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -129,6 +161,17 @@
           "time_info": "[02时19分 ~ 11时44分]"
         },
         {
+          "title": "日本旅游业或迎“最冷”春节，北海道一酒店5天内遭大规模退订",
+          "url": "https://news.ifeng.com/c/8obIRWtnxAS",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
+        },
+        {
           "title": "在日中国游客提前回国 机场仿佛春运",
           "url": "https://www.toutiao.com/trending/7575692536447221766/",
           "source": "今日头条",
@@ -151,20 +194,6 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "乌克兰原则同意美国提出的和平协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32042516",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 20时26分]"
-        },
-        {
           "title": "日本在野党批高市政府：真是愚蠢！",
           "url": "https://news.ifeng.com/c/8ob3lcaFDCr",
           "source": "凤凰网",
@@ -175,6 +204,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时15分 ~ 20时26分]"
+        },
+        {
+          "title": "中国军号发布视频：导弹起竖",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%EF%BC%9A%E5%AF%BC%E5%BC%B9%E8%B5%B7%E7%AB%96",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 23时13分]"
         },
         {
           "title": "国际社会警惕日本军国主义“还魂”",
@@ -213,6 +254,20 @@
           "time_info": "[14时20分 ~ 20时26分]"
         },
         {
+          "title": "纵横中国｜长江上到底有多少大桥？我们在卫星图上数了数",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31698632",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 23时13分]"
+        },
+        {
           "title": "日本餐厅老板：中国客人几乎都消失了，损失很大",
           "url": "https://news.ifeng.com/c/8oZstYi1z9v",
           "source": "凤凰网",
@@ -246,6 +301,17 @@
           "time_info": "[11时44分 ~ 14时20分]"
         },
         {
+          "title": "日本前首相野田佳彦：高市已实质撤回涉台发言",
+          "url": "https://news.ifeng.com/c/8obV1O46E0Z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
           "title": "中国载人航天首次应急发射纪实",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E9%A6%96%E6%AC%A1%E5%BA%94%E6%80%A5%E5%8F%91%E5%B0%84%E7%BA%AA%E5%AE%9E",
           "source": "bilibili 热搜",
@@ -260,17 +326,18 @@
           "time_info": "[02时19分 ~ 14时20分]"
         },
         {
-          "title": "2名台胞在日本被打成重伤 国台办回应",
-          "url": "https://www.toutiao.com/trending/7576872146853744154/",
-          "source": "今日头条",
+          "title": "人民日报再发钟声：恪守“和平宪法”，日本才有立世之本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32043456",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            5,
-            19
+            19,
+            20,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 20时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 23时13分]"
         },
         {
           "title": "日本女市长与下属多次开房后提出辞职",
@@ -355,17 +422,6 @@
           "time_info": "[08时57分 ~ 11时44分]"
         },
         {
-          "title": "日本旅游业或迎“最冷”春节，北海道一酒店5天内遭大规模退订",
-          "url": "https://news.ifeng.com/c/8obIRWtnxAS",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
           "title": "南海舰队：中国军人只有战死没有吓死",
           "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%B5%B7%E8%88%B0%E9%98%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%8F%AA%E6%9C%89%E6%88%98%E6%AD%BB%E6%B2%A1%E6%9C%89%E5%90%93%E6%AD%BB",
           "source": "百度热搜",
@@ -376,6 +432,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 08时57分]"
+        },
+        {
+          "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 23时13分]"
         },
         {
           "title": "日本称政府立场维持不变 中方驳斥",
@@ -466,6 +535,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "美国财政部拍卖四周期国债，得标利率3.905%，投标倍数2.77。 发行八周期国债，得标利率3.840%，投标倍数2.87。",
+          "url": "https://wallstreetcn.com/livenews/3010950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "中国航天见证中国速度",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -509,18 +589,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "中国军号发布视频：导弹起竖",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%EF%BC%9A%E5%AF%BC%E5%BC%B9%E8%B5%B7%E7%AB%96",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时26分]"
         },
         {
           "title": "美国财政部拍卖两年期浮息国债（FRNS），贴现利率0.168%，投标倍数3.03。",
@@ -579,6 +647,31 @@
           "time_info": "08时57分"
         },
         {
+          "title": "美国9月PPI环比上涨0.3%，能源成本上升推动通胀抬头",
+          "url": "https://wallstreetcn.com/articles/3760110",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 23时13分]"
+        },
+        {
+          "title": "日本餐厅老板称中国客人几乎都消失了",
+          "url": "https://www.toutiao.com/trending/7576871233628012586/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 23时13分]"
+        },
+        {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2210782",
           "source": "财联社热门",
@@ -593,17 +686,17 @@
           "time_info": "[02时19分 ~ 11时44分]"
         },
         {
-          "title": "大外交｜中美元首通话重点聚焦台湾问题，专家：中方望美方约束自身及盟友行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037749",
-          "source": "澎湃新闻",
+          "title": "专家：日本的“战争准备”正全面铺开",
+          "url": "https://www.toutiao.com/trending/7576893008382345235/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12,
-            14
+            14,
+            22,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时44分]"
+          "time_info": "[17时15分 ~ 23时13分]"
         },
         {
           "title": "日本有人称中华人民共和国没资格讨论台湾问题，外交部回应",
@@ -618,17 +711,16 @@
           "time_info": "[02时19分 ~ 11时44分]"
         },
         {
-          "title": "人民日报再发钟声：恪守“和平宪法”，日本才有立世之本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32043456",
-          "source": "澎湃新闻",
+          "title": "郑伊健日本演唱会取消",
+          "url": "https://www.douyin.com/hot/2318076",
+          "source": "抖音",
           "ranks": [
-            19,
-            20,
-            17
+            30,
+            25
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时44分 ~ 20时26分]"
+          "time_info": "[17时15分 ~ 23时13分]"
         },
         {
           "title": "日本民众十分不舍中国大熊猫",
@@ -655,16 +747,16 @@
           "time_info": "[11时44分 ~ 14时20分]"
         },
         {
-          "title": "国台办：很多台湾民众都在讨论统一",
-          "url": "https://www.toutiao.com/trending/7575762906034274313/",
-          "source": "今日头条",
+          "title": "胡锡进：欧洲实力并不弱，他们缺的是面对美国的骨气和内部团结",
+          "url": "https://news.ifeng.com/c/8obEQq7JZec",
+          "source": "凤凰网",
           "ranks": [
-            27,
-            2
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "高市越位 美国越顶",
@@ -679,19 +771,6 @@
           "time_info": "[08时57分 ~ 11时44分]"
         },
         {
-          "title": "纵横中国｜长江上到底有多少大桥？我们在卫星图上数了数",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31698632",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 20时26分]"
-        },
-        {
           "title": "日本在华青年：绝对反对战争",
           "url": "https://www.toutiao.com/trending/7576613453641908278/",
           "source": "今日头条",
@@ -704,17 +783,16 @@
           "time_info": "[11时44分 ~ 14时20分]"
         },
         {
-          "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32045172",
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            10,
-            7
+            15,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时20分 ~ 20时26分]"
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "特朗普电话后 日本沮丧了三次",
@@ -756,6 +834,30 @@
           "time_info": "[08时57分 ~ 17时15分]"
         },
         {
+          "title": "外交部：敦促日方采取切实行动保障在日中国公民和机构的安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046965",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
+        },
+        {
+          "title": "如何看中国民企造出廉价高超音速导弹",
+          "url": "https://www.toutiao.com/trending/7576956946155048491/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
+        },
+        {
           "title": "韩国“国民爷爷”李顺载去世，曾在中国金鸡百花电影节获奖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037206",
           "source": "澎湃新闻",
@@ -766,6 +868,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 08时57分]"
+        },
+        {
+          "title": "日本前首相石破茂再批高市早苗",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%8D%E6%89%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
+        },
+        {
+          "title": "《赛德克·巴莱》上下部官宣中国大陆上映，定档12月12、13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045814",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "日本獠牙已露",
@@ -817,18 +942,6 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "日本餐厅老板称中国客人几乎都消失了",
-          "url": "https://www.toutiao.com/trending/7576871233628012586/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时26分]"
-        },
-        {
           "title": "外交部回应日本针对中国公民犯罪多发",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%8A%AF%E7%BD%AA%E5%A4%9A%E5%8F%91",
           "source": "百度热搜",
@@ -864,17 +977,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "美国9月PPI环比上涨0.3%，能源成本上升推动通胀抬头",
-          "url": "https://wallstreetcn.com/articles/3760110",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时26分]"
         },
         {
           "title": "“普京愿望清单”还是“美国调停方案”，“28点”为何在美国政坛引发混乱？",
@@ -961,18 +1063,6 @@
           "time_info": "[17时15分 ~ 20时26分]"
         },
         {
-          "title": "专家：日本的“战争准备”正全面铺开",
-          "url": "https://www.toutiao.com/trending/7576893008382345235/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时26分]"
-        },
-        {
           "title": "郑伊健日本演唱会取消",
           "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%BC%8A%E5%81%A5%E6%97%A5%E6%9C%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
           "source": "百度热搜",
@@ -1034,16 +1124,15 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "郑伊健日本演唱会取消",
-          "url": "https://www.douyin.com/hot/2318076",
-          "source": "抖音",
+          "title": "日本民众再次聚集抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%86%8D%E6%AC%A1%E8%81%9A%E9%9B%86%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            30,
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时26分]"
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "又一个美国网红访问中国，但他具有特殊政治象征意义",
@@ -1057,15 +1146,26 @@
           "time_info": "[11时44分 ~ 14时20分]"
         },
         {
-          "title": "胡锡进：欧洲实力并不弱，他们缺的是面对美国的骨气和内部团结",
-          "url": "https://news.ifeng.com/c/8obEQq7JZec",
-          "source": "凤凰网",
+          "title": "日本致函联合国，强调「日本政府防卫的基本方针是专守防卫这一被动防卫战略」，如何看待日方的狡辩？有用吗？",
+          "url": "https://www.zhihu.com/question/1977033040975917837",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "日本制定包括战俘处理的战时法律",
+          "url": "https://www.toutiao.com/trending/7576124681523281930/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "日本游退订潮 同程被指退费和稀泥",
@@ -1080,6 +1180,17 @@
           "time_info": "[08时57分 ~ 11时44分]"
         },
         {
+          "title": "日本在野党批日本政府愚蠢",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E6%89%B9%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%84%9A%E8%A0%A2%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
           "title": "在日中国游客提前回国 机场如春运",
           "url": "https://www.toutiao.com/trending/7575692536447221766/",
           "source": "今日头条",
@@ -1092,28 +1203,6 @@
           "time_info": "[08时57分 ~ 11时44分]"
         },
         {
-          "title": "外交部：敦促日方采取切实行动保障在日中国公民和机构的安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046965",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
-          "title": "如何看中国民企造出廉价高超音速导弹",
-          "url": "https://www.toutiao.com/trending/7576956946155048491/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
           "title": "日本熊本发生5.7级地震，中领馆提醒注意防范地震灾害",
           "url": "https://m.thepaper.cn/newsDetail_forward_32039740",
           "source": "澎湃新闻",
@@ -1124,17 +1213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 17时15分]"
-        },
-        {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "日本致函联合国秘书长辩解 中方驳斥",
@@ -1195,17 +1273,6 @@
           "time_info": "[08时57分 ~ 11时44分]"
         },
         {
-          "title": "《赛德克·巴莱》上下部官宣中国大陆上映，定档12月12、13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32045814",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
           "title": "在美国偏远荒村留学是什么体验",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%81%8F%E8%BF%9C%E8%8D%92%E6%9D%91%E7%95%99%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
@@ -1241,15 +1308,37 @@
           "time_info": "[05时12分 ~ 08时57分]"
         },
         {
-          "title": "日本前首相石破茂再批高市早苗",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%8D%E6%89%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "title": "挑战美国卡车司机一日三餐",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%BE%8E%E5%9B%BD%E5%8D%A1%E8%BD%A6%E5%8F%B8%E6%9C%BA%E4%B8%80%E6%97%A5%E4%B8%89%E9%A4%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "多艘中国邮轮变更前往日本航线",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E8%89%98%E4%B8%AD%E5%9B%BD%E9%82%AE%E8%BD%AE%E5%8F%98%E6%9B%B4%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E8%88%AA%E7%BA%BF",
           "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "中国工业能力到底有多猛",
+          "url": "https://www.toutiao.com/trending/7577010656142954027/",
+          "source": "今日头条",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "百万粉丝网红博主吐槽日本之行",
@@ -1305,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "驻日本大使馆再次提醒中国公民注意人身安全",
+          "url": "https://wallstreetcn.com/livenews/3010945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国大豆比巴西大豆每吨贵600元",
@@ -1373,15 +1473,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "国台办：“一国两制”在台湾具体实现形式会充分考虑现实情况",
-          "url": "https://wallstreetcn.com/livenews/3010591",
+          "title": "美国11月芝加哥PMI 36.3，预期 43.6，前值 43.8。",
+          "url": "https://wallstreetcn.com/livenews/3010944",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时44分"
+          "time_info": "23时13分"
         },
         {
           "title": "美国五年期国债收益率在国债拍卖后小幅走低。",
@@ -1434,7 +1534,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1467,7 +1567,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1599,7 +1699,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1670,17 +1770,6 @@
           "time_info": "08时57分"
         },
         {
-          "title": "台湾证交所加权股价指数收涨1.8%，报27,409.54点。",
-          "url": "https://wallstreetcn.com/livenews/3010648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "日经225指数、日本东证指数日内涨幅达1.00%。",
           "url": "https://flash.jin10.com/detail/20251126081546478800",
           "source": "金十数据",
@@ -1731,7 +1820,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1764,7 +1853,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1802,6 +1891,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "美国9月耐用品订单速评",
+          "url": "https://wallstreetcn.com/livenews/3010927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美洲国家组织呼吁美国和委内瑞拉通过谈判解决问题",
           "url": "https://flash.jin10.com/detail/20251126132939277800",
           "source": "金十数据",
@@ -1819,7 +1919,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1863,9 +1963,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "美国初请数据降至4月中旬以来最低水平",
+          "url": "https://flash.jin10.com/detail/20251126220218774800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "韩国称，不考虑与美国进行货币互换。",
@@ -2022,6 +2133,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "美国9月扣除飞机非国防资本耐用品订单环比初值 0.9%，预期 0.3%，前值 0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3010918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "陈百祥：中国一讲琉球独立日本就脚软",
           "url": "https://www.toutiao.com/trending/7575651677886251071/",
           "source": "今日头条",
@@ -2149,9 +2271,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "美国11月22日当周首次申请失业救济人数降至21.6万人，创4月中旬以来最低水平，预期 22.5万人，前值 22万人。",
+          "url": "https://wallstreetcn.com/livenews/3010916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "罗援：西南诸岛不是日本玩火之地",
@@ -2281,9 +2414,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "美国11月15日当周续请失业救济人数 196万人，预期 196.3万人，前值 197.4万人。",
+          "url": "https://wallstreetcn.com/livenews/3010915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "郑伊健日本演唱会取消",
@@ -2369,9 +2513,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "美国11月22日当周首次申请失业救济人数 21.6万人，预期 22.5万人，前值 22万人。",
+          "url": "https://wallstreetcn.com/livenews/3010914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "这些文件和条款不容日本曲解或挑战",
@@ -2429,6 +2584,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "美国9月扣除运输类耐用品订单环比初值 0.6%，预期 0.2%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3010913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "港媒：日本言行不一加剧地区危险",
           "url": "https://www.toutiao.com/trending/7576877473476906537/",
           "source": "今日头条",
@@ -2468,7 +2634,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -2482,6 +2648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "美国9月耐用品订单环比初值 0.5%，预期 0.5%，前值 2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3010912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "英国政客：中国永远不会原谅日本",
@@ -2556,7 +2733,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
@@ -2564,7 +2741,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
@@ -2589,8 +2766,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 23时13分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -2601,11 +2778,37 @@
             7,
             11,
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 20时26分]"
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 23时13分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 23时13分]"
+        },
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -2618,19 +2821,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 08时57分]"
-        },
-        {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 20时26分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -2677,15 +2867,15 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
@@ -2711,6 +2901,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时44分 ~ 20时26分]"
+        },
+        {
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
+          "ranks": [
+            12,
+            10,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 23时13分]"
         },
         {
           "title": "戴尔(DELL.N)上调2026财年AI出货指引至约250亿美元。",
@@ -2748,6 +2952,31 @@
           "time_info": "08时57分"
         },
         {
+          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
+          "url": "https://wallstreetcn.com/articles/3760129",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 23时13分]"
+        },
+        {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 23时13分]"
+        },
+        {
           "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
           "url": "https://www.cls.cn/detail/2211188",
           "source": "财联社热门",
@@ -2761,17 +2990,16 @@
           "time_info": "[14时20分 ~ 20时26分]"
         },
         {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
+          "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
+          "url": "https://www.cls.cn/detail/2211624",
+          "source": "财联社热门",
           "ranks": [
             12,
-            10,
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时20分 ~ 20时26分]"
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -2797,29 +3025,6 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
-          "url": "https://wallstreetcn.com/articles/3760129",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时26分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时26分]"
-        },
-        {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
           "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
@@ -2843,15 +3048,15 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
-          "url": "https://www.cls.cn/detail/2211624",
-          "source": "财联社热门",
+          "title": "GAI进化论6万人重庆场记录",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
@@ -2863,6 +3068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)在德意志银行指出其受益于OpenAI后开盘上涨5%。",
+          "url": "https://flash.jin10.com/detail/20251126223134754800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -2896,6 +3112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -2940,6 +3167,322 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "手机 华为 麒麟",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "炸翻全网!华为定档5K卷疯友商",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347489&amp;topic_name=%E7%82%B8%E7%BF%BB%E5%85%A8%E7%BD%91%21%E5%8D%8E%E4%B8%BA%E5%AE%9A%E6%A1%A35K%E5%8D%B7%E7%96%AF%E5%8F%8B%E5%95%86",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            13,
+            16,
+            21,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 23时13分]"
+        },
+        {
+          "title": "华为发布会直击：Mate 80系列4699元起、首搭载鸿蒙6系统，折叠屏Mate X7系列价格12999元起",
+          "url": "https://wallstreetcn.com/articles/3760080",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 14时20分]"
+        },
+        {
+          "title": "两辆华为鸿蒙智行系列车辆在车主手机遥控「泊车代驾」时相撞，这种算是 Corner Case 吗？为何会撞？",
+          "url": "https://www.zhihu.com/question/1976028777374033556",
+          "source": "知乎",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
+        },
+        {
+          "title": "如何评价华为 Mate80 系列下调起售价？",
+          "url": "https://www.zhihu.com/question/1976699300516999686",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 20时26分]"
+        },
+        {
+          "title": "华为Mate80系列不支持磁吸",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%E7%B3%BB%E5%88%97%E4%B8%8D%E6%94%AF%E6%8C%81%E7%A3%81%E5%90%B8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "机构：苹果势将超越三星，重夺全球最大智能手机制造商桂冠",
+          "url": "https://wallstreetcn.com/livenews/3010354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "华为Mate 80系列售价公布",
+          "url": "https://www.toutiao.com/trending/7576566051006057993/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 14时20分]"
+        },
+        {
+          "title": "华为正式发布 Mate80 系列，起售价 4699 元，如何看待该产品？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1976680122477220515",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
+        },
+        {
+          "title": "华为手机上新！部分搭载新款麒麟芯片 首发多款技术",
+          "url": "https://www.cls.cn/detail/2210585",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 08时57分]"
+        },
+        {
+          "title": "如何评价 11 月 25 日发布的华为 Mate 80 系列，不同版本如何选择？",
+          "url": "https://www.zhihu.com/question/1976673401511884162",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 08时57分]"
+        },
+        {
+          "title": "华为Mate 80系列怎么选",
+          "url": "https://www.douyin.com/hot/2317619",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 11时44分]"
+        },
+        {
+          "title": "华为Mate 80新品开箱",
+          "url": "https://www.douyin.com/hot/2317521",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 08时57分]"
+        },
+        {
+          "title": "华为Mate80全系降价背后",
+          "url": "https://www.toutiao.com/trending/7576873411025063470/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 23时13分]"
+        },
+        {
+          "title": "华为Mate 80业界首发无网应急通信",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAMate+80%E4%B8%9A%E7%95%8C%E9%A6%96%E5%8F%91%E6%97%A0%E7%BD%91%E5%BA%94%E6%80%A5%E9%80%9A%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "华为Mate 80网络显示5A",
+          "url": "https://www.douyin.com/hot/2317561",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "华为首款鸿蒙二合一平板电脑",
+          "url": "https://www.toutiao.com/trending/7576122161153314367/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "苹果有望超越三星 再度成为全球最大智能手机制造商",
+          "url": "https://flash.jin10.com/detail/20251126020759372800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "华为Mate80首批备货30万台左右，渠道商称“定价很有魄力”",
+          "url": "https://wallstreetcn.com/livenews/3010584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "华为Mate 80首发无网应急通信",
+          "url": "https://www.douyin.com/hot/2317479",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "华为MateX7上手体验",
+          "url": "https://www.douyin.com/hot/2317861",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "华为折叠屏首发A2A智能体协作",
+          "url": "https://www.toutiao.com/trending/7576050256660693055/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 雷军",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米双11耍赖皮,特价秒杀玩不起",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347482&amp;topic_name=%E5%B0%8F%E7%B1%B3%E5%8F%8C11%E8%80%8D%E8%B5%96%E7%9A%AE%2C%E7%89%B9%E4%BB%B7%E7%A7%92%E6%9D%80%E7%8E%A9%E4%B8%8D%E8%B5%B7",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            12,
+            16,
+            19,
+            23,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 23时13分]"
+        },
+        {
+          "title": "小米股价暴跌35%背后有何隐情",
+          "url": "https://www.toutiao.com/trending/7576655923473550889/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "小公司硬刚小米抄袭!胜诉再索赔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347525&amp;topic_name=%E5%B0%8F%E5%85%AC%E5%8F%B8%E7%A1%AC%E5%88%9A%E5%B0%8F%E7%B1%B3%E6%8A%84%E8%A2%AD%21%E8%83%9C%E8%AF%89%E5%86%8D%E7%B4%A2%E8%B5%94",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 23时13分]"
+        },
+        {
+          "title": "雷军回应小米再捐5500万",
+          "url": "https://www.douyin.com/hot/2317701",
+          "source": "抖音",
+          "ranks": [
+            18,
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 11时44分]"
         }
       ]
     }
