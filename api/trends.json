@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-27T11:41:37.239891+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2025-11-27T14:20:35.642672+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 99,
+      "match_count": 124,
       "titles": [
+        {
+          "title": "多名旅日中国公民报告遭到无端辱骂殴打并受伤，中使馆发布提醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049790",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
+        },
         {
           "title": "日本前首相野田佳彦：高市已实质撤回涉台发言",
           "url": "https://news.ifeng.com/c/8obV1O46E0Z",
@@ -19,18 +33,18 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
-          "title": "多名旅日中国公民报告遭到无端辱骂殴打并受伤，中使馆发布提醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049790",
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            16,
-            3,
-            2
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
         },
         {
           "title": "日本旅游业或迎“最冷”春节，北海道一酒店5天内遭大规模退订",
@@ -42,6 +56,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "美国将部分对华关税豁免期延长至2026年11月10日",
+          "url": "https://www.cls.cn/detail/2212191",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时20分]"
         },
         {
           "title": "中国军号发布视频：导弹起竖",
@@ -66,20 +92,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 08时56分]"
-        },
-        {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
         },
         {
           "title": "中国驻日本大使馆再发布提醒",
@@ -112,9 +124,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "日产汽车：10月销量受日本和美国拖累。",
+          "url": "https://flash.jin10.com/detail/20251127141251812800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "加拿大总理卡尼：周二与美国总统特朗普通电话。 与美国的贸易谈判还没有重启，加方已经做好准备。",
@@ -126,6 +149,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "外交部：敦促日方采取切实行动保障在日中国公民和机构的安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046965",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
+        },
+        {
+          "title": "中国军号抖音粉丝突破4000万",
+          "url": "https://www.douyin.com/hot/2318903",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
+        },
+        {
+          "title": "日本致函联合国,装模作样给谁看",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347510&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%2C%E8%A3%85%E6%A8%A1%E4%BD%9C%E6%A0%B7%E7%BB%99%E8%B0%81%E7%9C%8B",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
+        },
+        {
+          "title": "大麻当饭吃,毒品端上美国餐桌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347512&amp;topic_name=%E5%A4%A7%E9%BA%BB%E5%BD%93%E9%A5%AD%E5%90%83%2C%E6%AF%92%E5%93%81%E7%AB%AF%E4%B8%8A%E7%BE%8E%E5%9B%BD%E9%A4%90%E6%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
+        },
+        {
+          "title": "中国撤回大熊猫,日网怒赞本土棕熊",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347467&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%92%A4%E5%9B%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%2C%E6%97%A5%E7%BD%91%E6%80%92%E8%B5%9E%E6%9C%AC%E5%9C%9F%E6%A3%95%E7%86%8A",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
         },
         {
           "title": "乌克兰原则同意美国提出的和平协议",
@@ -156,7 +245,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -170,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "日本央行野口旭：若日元走弱加速，可能会影响价格走势。 政策调整的时机取决于数据。",
+          "url": "https://wallstreetcn.com/livenews/3011308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "纵横中国｜长江上到底有多少大桥？我们在卫星图上数了数",
@@ -196,15 +296,26 @@
           "time_info": "02时16分"
         },
         {
-          "title": "美国将部分对华关税豁免期延长至2026年11月10日",
-          "url": "https://www.cls.cn/detail/2212191",
-          "source": "财联社热门",
+          "title": "日产汽车：10月从日本出口至北美地区的汽车数量同比下降44.5%，至12,114辆。",
+          "url": "https://flash.jin10.com/detail/20251127141130049800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "驻日使馆再次提醒近期避免前往日本",
+          "url": "https://www.toutiao.com/trending/7576601679031173174/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时20分"
         },
         {
           "title": "解放军报：绝不允许日本重走军国主义侵略老路",
@@ -229,6 +340,41 @@
           "time_info": "05时12分"
         },
         {
+          "title": "日本央行委员野口旭：并不认为日本经济很强劲。 物价趋势正在接近2%，但尚未实现。",
+          "url": "https://wallstreetcn.com/livenews/3011301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "全军统一制发《中国人民解放军预备役人员证》意味着什么？",
+          "url": "https://www.zhihu.com/question/1976985426326737601",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "美国将部分对华关税豁免期延长",
+          "url": "https://news.ifeng.com/c/8ocDxQpsCL7",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
           "title": "2名台胞在日本被打成重伤 国台办回应",
           "url": "https://www.toutiao.com/trending/7576872146853744154/",
           "source": "今日头条",
@@ -240,80 +386,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时16分 ~ 11时41分]"
-        },
-        {
-          "title": "外交部：敦促日方采取切实行动保障在日中国公民和机构的安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046965",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
-        },
-        {
-          "title": "中国军号抖音粉丝突破4000万",
-          "url": "https://www.douyin.com/hot/2318903",
-          "source": "抖音",
-          "ranks": [
-            13,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
-        },
-        {
-          "title": "日本致函联合国,装模作样给谁看",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347510&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%2C%E8%A3%85%E6%A8%A1%E4%BD%9C%E6%A0%B7%E7%BB%99%E8%B0%81%E7%9C%8B",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
-        },
-        {
-          "title": "大麻当饭吃,毒品端上美国餐桌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347512&amp;topic_name=%E5%A4%A7%E9%BA%BB%E5%BD%93%E9%A5%AD%E5%90%83%2C%E6%AF%92%E5%93%81%E7%AB%AF%E4%B8%8A%E7%BE%8E%E5%9B%BD%E9%A4%90%E6%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
-        },
-        {
-          "title": "中国撤回大熊猫,日网怒赞本土棕熊",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347467&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%92%A4%E5%9B%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%2C%E6%97%A5%E7%BD%91%E6%80%92%E8%B5%9E%E6%9C%AC%E5%9C%9F%E6%A3%95%E7%86%8A",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
-        },
-        {
-          "title": "美国将部分对华关税豁免期延长",
-          "url": "https://news.ifeng.com/c/8ocDxQpsCL7",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时41分]"
         },
         {
           "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
@@ -363,6 +435,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
+          "url": "https://news.ifeng.com/c/8obnIsox9nT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
+          "title": "花旗中国人形机器人公司调研：所有人都很乐观，2026年行业或实现指数级增长，至少翻倍！",
+          "url": "https://wallstreetcn.com/articles/3760181",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
+          "title": "警惕！日本或迎“重大转变”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E6%88%96%E8%BF%8E%E2%80%9C%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%8F%98%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "美学者质问日本为何多次入侵中国",
@@ -435,6 +543,17 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
+          "title": "美国延长部分对华关税豁免期",
+          "url": "https://www.douyin.com/hot/2319022",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
           "title": "日本前首相石破茂再批高市早苗",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%8D%E6%89%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
           "source": "百度热搜",
@@ -471,27 +590,16 @@
           "time_info": "[08时56分 ~ 11时41分]"
         },
         {
-          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
-          "url": "https://news.ifeng.com/c/8obnIsox9nT",
-          "source": "凤凰网",
+          "title": "日本商家不断收到中国游客取消通知",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E4%B8%8D%E6%96%AD%E6%94%B6%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%96%E6%B6%88%E9%80%9A%E7%9F%A5%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            7,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时41分]"
-        },
-        {
-          "title": "花旗中国人形机器人公司调研：所有人都很乐观，2026年行业或实现指数级增长，至少翻倍！",
-          "url": "https://wallstreetcn.com/articles/3760181",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 14时20分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -506,15 +614,16 @@
           "time_info": "[08时56分 ~ 11时41分]"
         },
         {
-          "title": "警惕！日本或迎“重大转变”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E6%88%96%E8%BF%8E%E2%80%9C%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%8F%98%E2%80%9D",
-          "source": "百度热搜",
+          "title": "日本一再狡辩 中方：行不通",
+          "url": "https://www.toutiao.com/trending/7576964440420024358/",
+          "source": "今日头条",
           "ranks": [
-            9
+            12,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 14时20分]"
         },
         {
           "title": "美国在台官员称“欢迎台湾400亿美元补充防务预算”，外交部回应",
@@ -528,15 +637,16 @@
           "time_info": "[05时11分 ~ 05时12分]"
         },
         {
-          "title": "美国延长部分对华关税豁免期",
-          "url": "https://www.douyin.com/hot/2319022",
-          "source": "抖音",
+          "title": "军报再发钧声：绝不允许日本重走军国主义侵略老路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32052238",
+          "source": "澎湃新闻",
           "ranks": [
-            23
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 14时20分]"
         },
         {
           "title": "如何看中国民企造出廉价高超音速导弹",
@@ -548,6 +658,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 05时12分]"
+        },
+        {
+          "title": "刚果金东部中国公民和企业尽快撤离",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9A%E6%9E%9C%E9%87%91%E4%B8%9C%E9%83%A8%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%92%8C%E4%BC%81%E4%B8%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时20分]"
         },
         {
           "title": "日本致函联合国秘书长辩解 中方驳斥",
@@ -581,6 +703,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：日本央行在判断加息时机时将格外谨慎，确保既不会过快，也不会过晚。",
+          "url": "https://flash.jin10.com/detail/20251127140532423800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：政策观点与9月讲话相比没有变化。 关键在于利率调整的步伐。 日本央行正稳步接近其目标。",
+          "url": "https://wallstreetcn.com/livenews/3011300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "多名旅日中国公民遭殴打受伤",
@@ -627,6 +771,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本央行审议委员野口旭：随着通胀逼近日本央行目标，过晚加息的弊端，如对经济和物价的扭曲效应，将日益加剧。",
+          "url": "https://flash.jin10.com/detail/20251127140439151800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "再次提醒中国公民近期避免前往日本",
           "url": "https://s.weibo.com/weibo?q=%23%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -636,17 +791,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "日本商家不断收到中国游客取消通知",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E4%B8%8D%E6%96%AD%E6%94%B6%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%96%E6%B6%88%E9%80%9A%E7%9F%A5%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "美国9月PPI环比上涨0.3%，能源成本上升推动通胀抬头",
@@ -726,6 +870,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "日本央行审议委员野口旭：未来加息步伐将取决于即将公布的数据，包括薪资上涨情况、美国经济以及外汇走势。",
+          "url": "https://flash.jin10.com/detail/20251127140338808800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存减少110亿立方英尺，周环比降幅0.28%（之前一周下降0.35%），至3.94万亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3010998",
           "source": "华尔街见闻-快讯",
@@ -748,15 +903,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "日本一再狡辩 中方：行不通",
-          "url": "https://www.toutiao.com/trending/7576964440420024358/",
-          "source": "今日头条",
+          "title": "日本商家不断收到中国游客取消通知",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E4%B8%8D%E6%96%AD%E6%94%B6%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%96%E6%B6%88%E9%80%9A%E7%9F%A5",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时20分"
         },
         {
           "title": "美国11月21日当周EIA天然气库存变动 -110亿立方英尺，预期 -50亿立方英尺，前值 -140亿立方英尺。",
@@ -770,6 +925,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "日本央行审议委员野口旭：预计食品通胀将有所缓解，但如果日元进一步走弱，缓解时机可能会推迟。",
+          "url": "https://flash.jin10.com/detail/20251127140135568800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "深交所组织上市公司赴澳大利亚路演，外资看好投资中国新机遇",
           "url": "https://wallstreetcn.com/livenews/3011038",
           "source": "华尔街见闻-快讯",
@@ -779,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：若日元跌势加速，企业或将进一步转嫁成本上涨压力。",
+          "url": "https://flash.jin10.com/detail/20251127140128840800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -798,7 +975,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -891,6 +1068,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本央行审议委员野口旭：日元进一步下跌可能影响核心通胀。",
+          "url": "https://flash.jin10.com/detail/20251127140040972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "美国至11月26日4个月国债竞拍-得标利率 3.74%，前值3.75%。",
           "url": "https://flash.jin10.com/detail/20251127003316585800",
           "source": "金十数据",
@@ -946,26 +1134,48 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本央行审议委员野口旭：核心通胀率尚未达到2%。",
+          "url": "https://flash.jin10.com/detail/20251127135603636800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "金十图示：2025年11月27日（周四）中国科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20251127105114415800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
         {
-          "title": "军报再发钧声：绝不允许日本重走军国主义侵略老路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32052238",
-          "source": "澎湃新闻",
+          "title": "惠誉：日本新刺激计划或对其评级构成风险",
+          "url": "https://flash.jin10.com/detail/20251127135558782800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "“金条换贸易协议” 瑞士与美国的谈判方式引发批评",
+          "url": "https://flash.jin10.com/detail/20251127135545629800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时20分"
         },
         {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.781%，投标倍数2.46。",
@@ -996,9 +1206,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：日本央行的政策调整一直非常谨慎，并将继续保持谨慎，不会与政府政策相冲突。",
+          "url": "https://flash.jin10.com/detail/20251127135524586800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.740%，投标倍数2.84。",
@@ -1023,6 +1244,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本央行审议委员野口旭：尽管通胀主要受成本推动因素驱动，但已连续三年超过日本央行目标。",
+          "url": "https://flash.jin10.com/detail/20251127135432210800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "美国总统特朗普：两名国民警卫队成员情况危急，嫌疑人也受了重伤。",
           "url": "https://flash.jin10.com/detail/20251127042659606800",
           "source": "金十数据",
@@ -1032,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：若工会诉求得以实现，将推动日本经济朝向日本央行所期望达成的状况发展。",
+          "url": "https://flash.jin10.com/detail/20251127135024929800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "日本与美国考虑在美建设“公私合营”NAND工厂。（日刊工业新闻）",
@@ -1056,6 +1299,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本央行审议委员野口旭：我们已看到明年薪资谈判的各种迹象。",
+          "url": "https://flash.jin10.com/detail/20251127134904578800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "据纽约时报：美国已命令驻欧洲、加拿大、澳大利亚和新西兰的美国外交官向各国政府施压，要求其限制大部分移民入境。",
           "url": "https://flash.jin10.com/detail/20251127071441656800",
           "source": "金十数据",
@@ -1067,15 +1321,37 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本央行审议委员野口旭：在判断日本工资趋势时，不必一定等到明年薪资谈判结果出炉。",
+          "url": "https://flash.jin10.com/detail/20251127134844387800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "军报：绝不许日本重走军国主义老路",
           "url": "https://www.baidu.com/s?wd=%E5%86%9B%E6%8A%A5%EF%BC%9A%E7%BB%9D%E4%B8%8D%E8%AE%B8%E6%97%A5%E6%9C%AC%E9%87%8D%E8%B5%B0%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%80%81%E8%B7%AF",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：未发现政府与日本央行在逐步调整日本央行货币支持以抑制物价上涨方面的观点存在重大分歧。",
+          "url": "https://flash.jin10.com/detail/20251127134603799800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "美国财政部针对通胀保值国债宣布10月份CPI的替代指数数值",
@@ -1089,15 +1365,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "刚果金东部中国公民和企业尽快撤离",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9A%E6%9E%9C%E9%87%91%E4%B8%9C%E9%83%A8%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%92%8C%E4%BC%81%E4%B8%9A%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB",
-          "source": "百度热搜",
+          "title": "日本央行审议委员野口旭：鉴于物价上涨，日本当前可取的政策已不再像以往那样简单地通过扩大财政刺激和放松货币政策来实现。",
+          "url": "https://flash.jin10.com/detail/20251127134548171800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时20分"
         },
         {
           "title": "中国贸促会：9月份全球经贸摩擦指数继续处于高位",
@@ -1106,7 +1382,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -1131,12 +1407,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：包括通胀预期在内的各种衡量潜在通胀的指标，正非常缓慢地向我们的目标靠拢。",
+          "url": "https://flash.jin10.com/detail/20251127134235024800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -1148,8 +1435,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
         },
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -1187,15 +1474,15 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
+          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3011311",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "14时20分"
         },
         {
           "title": "人类正在被AI反向训练吗",
@@ -1205,11 +1492,12 @@
             27,
             11,
             9,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -1217,11 +1505,23 @@
           "source": "贴吧",
           "ranks": [
             21,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
+        },
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -1259,6 +1559,19 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
           "title": "GAI进化论6万人重庆场记录",
           "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
           "source": "bilibili 热搜",
@@ -1282,16 +1595,15 @@
           "time_info": "[08时56分 ~ 11时41分]"
         },
         {
-          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
-          "url": "https://www.cls.cn/detail/2212089",
-          "source": "财联社热门",
+          "title": "有没有值得推荐的大模型方面的书籍？",
+          "url": "https://www.zhihu.com/question/13137834509",
+          "source": "知乎",
           "ranks": [
-            13,
-            11
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "软银累计发行640亿美元零售债券以推动AI发展计划",
@@ -1303,6 +1615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
@@ -1319,7 +1642,7 @@
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场监管总局开展手机行业反不正当竞争合规指导",
@@ -1328,7 +1651,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -1387,9 +1710,20 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时20分]"
+        },
+        {
+          "title": "多家手机厂商取消Air机型",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时20分"
         }
       ]
     },
@@ -1403,11 +1737,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 14时20分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
