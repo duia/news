@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T14:20:35.642672+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-11-27T17:15:06.036012+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 124,
+      "match_count": 135,
       "titles": [
         {
           "title": "多名旅日中国公民报告遭到无端辱骂殴打并受伤，中使馆发布提醒",
@@ -18,8 +18,35 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时15分]"
+        },
+        {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时15分]"
+        },
+        {
+          "title": "美国将部分对华关税豁免期延长至2026年11月10日",
+          "url": "https://www.cls.cn/detail/2212191",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 17时15分]"
         },
         {
           "title": "日本前首相野田佳彦：高市已实质撤回涉台发言",
@@ -33,18 +60,32 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
+          "title": "日本致函联合国,装模作样给谁看",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347510&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%2C%E8%A3%85%E6%A8%A1%E4%BD%9C%E6%A0%B7%E7%BB%99%E8%B0%81%E7%9C%8B",
+          "source": "贴吧",
           "ranks": [
-            8,
-            7,
-            6,
-            5
+            19,
+            24,
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时15分]"
+        },
+        {
+          "title": "大麻当饭吃,毒品端上美国餐桌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347512&amp;topic_name=%E5%A4%A7%E9%BA%BB%E5%BD%93%E9%A5%AD%E5%90%83%2C%E6%AF%92%E5%93%81%E7%AB%AF%E4%B8%8A%E7%BE%8E%E5%9B%BD%E9%A4%90%E6%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            25,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时15分]"
         },
         {
           "title": "日本旅游业或迎“最冷”春节，北海道一酒店5天内遭大规模退订",
@@ -58,16 +99,15 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
-          "title": "美国将部分对华关税豁免期延长至2026年11月10日",
-          "url": "https://www.cls.cn/detail/2212191",
-          "source": "财联社热门",
+          "title": "中方回应“日本有人称能击沉福建舰”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%A7%B0%E8%83%BD%E5%87%BB%E6%B2%89%E7%A6%8F%E5%BB%BA%E8%88%B0%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 14时20分]"
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "中国军号发布视频：导弹起竖",
@@ -135,7 +175,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -172,32 +212,6 @@
             16,
             15,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时20分]"
-        },
-        {
-          "title": "日本致函联合国,装模作样给谁看",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347510&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%2C%E8%A3%85%E6%A8%A1%E4%BD%9C%E6%A0%B7%E7%BB%99%E8%B0%81%E7%9C%8B",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时20分]"
-        },
-        {
-          "title": "大麻当饭吃,毒品端上美国餐桌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347512&amp;topic_name=%E5%A4%A7%E9%BA%BB%E5%BD%93%E9%A5%AD%E5%90%83%2C%E6%AF%92%E5%93%81%E7%AB%AF%E4%B8%8A%E7%BE%8E%E5%9B%BD%E9%A4%90%E6%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            25,
-            24
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -267,9 +281,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "机构：2026年对中国股票市场更为乐观 更广泛牛市迹象已可见",
+          "url": "https://wallstreetcn.com/livenews/3011462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "纵横中国｜长江上到底有多少大桥？我们在卫星图上数了数",
@@ -302,7 +327,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -313,7 +338,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -346,9 +371,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "越南外交部重申支持一个中国原则",
+          "url": "https://wallstreetcn.com/livenews/3011457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "全军统一制发《中国人民解放军预备役人员证》意味着什么？",
@@ -357,7 +393,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -386,6 +422,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时16分 ~ 11时41分]"
+        },
+        {
+          "title": "警惕！日本或迎“重大转变”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E6%88%96%E8%BF%8E%E2%80%9C%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%8F%98%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 17时15分]"
         },
         {
           "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
@@ -426,6 +475,19 @@
           "time_info": "[05时11分 ~ 11时41分]"
         },
         {
+          "title": "军报再发钧声：绝不允许日本重走军国主义侵略老路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32052238",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 17时15分]"
+        },
+        {
           "title": "胡锡进：欧洲实力并不弱，他们缺的是面对美国的骨气和内部团结",
           "url": "https://news.ifeng.com/c/8obEQq7JZec",
           "source": "凤凰网",
@@ -461,18 +523,6 @@
           "time_info": "[08时56分 ~ 14时20分]"
         },
         {
-          "title": "警惕！日本或迎“重大转变”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E6%88%96%E8%BF%8E%E2%80%9C%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%8F%98%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 14时20分]"
-        },
-        {
           "title": "美学者质问日本为何多次入侵中国",
           "url": "https://www.toutiao.com/trending/7576557790202953770/",
           "source": "今日头条",
@@ -482,6 +532,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "日本商家不断收到中国游客取消通知",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E4%B8%8D%E6%96%AD%E6%94%B6%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%96%E6%B6%88%E9%80%9A%E7%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 17时15分]"
         },
         {
           "title": "挑战美国卡车司机一日三餐",
@@ -578,6 +640,17 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
+          "title": "日本妄想复制二战时偷袭战术",
+          "url": "https://www.toutiao.com/trending/7576868165012439081/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "近日多名旅日中国公民遭到无端辱骂殴打并受伤，我使馆再提醒",
           "url": "https://www.cls.cn/detail/2212048",
           "source": "财联社热门",
@@ -614,6 +687,17 @@
           "time_info": "[08时56分 ~ 11时41分]"
         },
         {
+          "title": "谁在悄悄吃掉日本丢掉的中国游客",
+          "url": "https://www.toutiao.com/trending/7577284830715448874/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "日本一再狡辩 中方：行不通",
           "url": "https://www.toutiao.com/trending/7576964440420024358/",
           "source": "今日头条",
@@ -637,16 +721,15 @@
           "time_info": "[05时11分 ~ 05时12分]"
         },
         {
-          "title": "军报再发钧声：绝不允许日本重走军国主义侵略老路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32052238",
-          "source": "澎湃新闻",
+          "title": "日本教授：不认为中方反应过度",
+          "url": "https://www.douyin.com/hot/2319097",
+          "source": "抖音",
           "ranks": [
-            20,
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 14时20分]"
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "如何看中国民企造出廉价高超音速导弹",
@@ -711,7 +794,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -722,7 +805,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -777,7 +860,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -876,9 +959,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "俄副外长里亚布科夫：如果美国在任何地区部署中程导弹系统对俄罗斯构成威胁，俄罗斯将采取补偿性的军事技术措施。",
+          "url": "https://flash.jin10.com/detail/20251127164233126800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存减少110亿立方英尺，周环比降幅0.28%（之前一周下降0.35%），至3.94万亿立方英尺。",
@@ -903,15 +997,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "日本商家不断收到中国游客取消通知",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E4%B8%8D%E6%96%AD%E6%94%B6%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%96%E6%B6%88%E9%80%9A%E7%9F%A5",
-          "source": "百度热搜",
+          "title": "中国正在建造核动力航母？国防部回应",
+          "url": "https://wallstreetcn.com/livenews/3011449",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "17时15分"
         },
         {
           "title": "美国11月21日当周EIA天然气库存变动 -110亿立方英尺，预期 -50亿立方英尺，前值 -140亿立方英尺。",
@@ -931,7 +1025,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -953,7 +1047,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1074,7 +1168,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1140,7 +1234,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1162,7 +1256,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1173,7 +1267,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1217,7 +1311,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1250,9 +1344,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "当地储能需求上升 中国企业考虑在印度建电池厂",
+          "url": "https://wallstreetcn.com/livenews/3011425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "美国总统特朗普：两名国民警卫队成员情况危急，嫌疑人也受了重伤。",
@@ -1272,7 +1377,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1305,7 +1410,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1327,9 +1432,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "日本自卫队内部人员称有能力击沉福建舰，国防部：痴人说梦，不自量力",
+          "url": "https://wallstreetcn.com/livenews/3011419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "军报：绝不许日本重走军国主义老路",
@@ -1349,7 +1465,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1365,13 +1481,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "外交部：中国政府发布《新时代的中国军控、裁军与防扩散》白皮书具有重要意义",
+          "url": "https://wallstreetcn.com/livenews/3011418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "日本央行审议委员野口旭：鉴于物价上涨，日本当前可取的政策已不再像以往那样简单地通过扩大财政刺激和放松货币政策来实现。",
           "url": "https://flash.jin10.com/detail/20251127134548171800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1415,7 +1542,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -1423,7 +1550,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -1452,6 +1579,20 @@
           "time_info": "[02时16分 ~ 11时41分]"
         },
         {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            26,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时15分]"
+        },
+        {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
@@ -1474,13 +1615,24 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3011311",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1494,19 +1646,6 @@
             9,
             20,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时20分]"
-        },
-        {
-          "title": "马斯克下战书!AI对决LOL冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            26,
-            25
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -1595,13 +1734,35 @@
           "time_info": "[08时56分 ~ 11时41分]"
         },
         {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
+          "title": "金十数据整理：AI眼镜密集发布 行业发展进入加速阶段",
+          "url": "https://flash.jin10.com/detail/20251127164906023800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "有没有值得推荐的大模型方面的书籍？",
           "url": "https://www.zhihu.com/question/13137834509",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1623,7 +1784,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1668,6 +1829,17 @@
           "time_info": "[02时16分 ~ 08时56分]"
         },
         {
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 17时15分]"
+        },
+        {
           "title": "华为正式发布 Mate80 系列，起售价 4699 元，如何看待该产品？有哪些亮点？",
           "url": "https://www.zhihu.com/question/1976680122477220515",
           "source": "知乎",
@@ -1704,32 +1876,22 @@
           "time_info": "[02时16分 ~ 05时12分]"
         },
         {
-          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
-          "url": "https://www.cls.cn/detail/2212151",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 14时20分]"
-        },
-        {
           "title": "多家手机厂商取消Air机型",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 17时15分]"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小公司硬刚小米抄袭!胜诉再索赔",
@@ -1738,11 +1900,12 @@
           "ranks": [
             18,
             23,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时15分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -1754,6 +1917,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 08时56分]"
+        },
+        {
+          "title": "香港恒生指数收盘上涨0.07%，恒生科技指数跌0.36%。小米集团收涨2.49%。万科企业跌超7%，世茂集团跌超6%，龙湖集团跌超3%。泡泡玛特涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3011431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     }
