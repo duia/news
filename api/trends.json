@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T17:13:22.651202+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-11-29T20:22:46.870614+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 118,
+      "match_count": 138,
       "titles": [
         {
           "title": "中国科协：杨晓明、徐佐存在违纪违法行为，撤销所获奖励",
@@ -86,18 +86,6 @@
           "time_info": "[02时17分 ~ 14时18分]"
         },
         {
-          "title": "俄罗斯称日本已对邻国构成严重威胁",
-          "url": "https://www.toutiao.com/trending/7577198315310268454/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 17时13分]"
-        },
-        {
           "title": "开门黑,中国男篮家门口输韩国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347581&amp;topic_name=%E5%BC%80%E9%97%A8%E9%BB%91%2C%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%BE%93%E9%9F%A9%E5%9B%BD",
           "source": "贴吧",
@@ -105,11 +93,50 @@
             10,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 17时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 20时22分]"
+        },
+        {
+          "title": "安世中国：安世荷兰方面诸多不当行径，严重扰乱供应链稳定且破坏信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32063715",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 20时22分]"
+        },
+        {
+          "title": "有哪些食物是中国人吃，而外国人基本不吃的呢？",
+          "url": "https://www.zhihu.com/question/498018264",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
+          "title": "知名“铜多头”预警：美国正成全球黑洞 铜价只会一路狂飙",
+          "url": "https://www.cls.cn/detail/2214666",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 20时22分]"
         },
         {
           "title": "中国最长的跨市地铁要来了",
@@ -163,6 +190,19 @@
           "time_info": "[02时17分 ~ 14时18分]"
         },
         {
+          "title": "俄罗斯称日本已对邻国构成严重威胁",
+          "url": "https://www.toutiao.com/trending/7577198315310268454/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 20时22分]"
+        },
+        {
           "title": "中国代表：对这样的日本必须严加管束",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%AF%B9%E8%BF%99%E6%A0%B7%E7%9A%84%E6%97%A5%E6%9C%AC%E5%BF%85%E9%A1%BB%E4%B8%A5%E5%8A%A0%E7%AE%A1%E6%9D%9F",
           "source": "百度热搜",
@@ -173,29 +213,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 08时55分]"
-        },
-        {
-          "title": "知名“铜多头”预警：美国正成全球黑洞 铜价只会一路狂飙",
-          "url": "https://www.cls.cn/detail/2214666",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 17时13分]"
-        },
-        {
-          "title": "美国努力斡旋之际，俄罗斯和乌克兰相互发动袭击",
-          "url": "https://flash.jin10.com/detail/20251129164851049800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
         },
         {
           "title": "中国清洁发电重要突破填补全球空白",
@@ -220,28 +237,6 @@
           "time_info": "14时18分"
         },
         {
-          "title": "有哪些食物是中国人吃，而外国人基本不吃的呢？",
-          "url": "https://www.zhihu.com/question/498018264",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "美光将在日本西部投资96亿美元，用于生产AI内存芯片",
-          "url": "https://flash.jin10.com/detail/20251129163258656800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
           "title": "日媒：中国航空公司12月要取消超900架次赴日航班",
           "url": "https://news.ifeng.com/c/8ofi9WpZxoW",
           "source": "凤凰网",
@@ -260,20 +255,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
         {
-          "title": "12月中国赴日航班已取消904个",
-          "url": "https://www.toutiao.com/trending/7577981991163314212/",
-          "source": "今日头条",
+          "title": "中国汽车如何直线超车",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 20时22分]"
+        },
+        {
+          "title": "日本“撑伞架枪” 解放军有底气",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E6%92%91%E4%BC%9E%E6%9E%B6%E6%9E%AA%E2%80%9D+%E8%A7%A3%E6%94%BE%E5%86%9B%E6%9C%89%E5%BA%95%E6%B0%94",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "20时22分"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
@@ -301,18 +309,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 11时41分]"
-        },
-        {
-          "title": "安世中国：安世荷兰方面诸多不当行径，严重扰乱供应链稳定且破坏信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32063715",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 17时13分]"
         },
         {
           "title": "美国总统特朗普：任何由美国前总统拜登使用自动笔签署的文件（约占其签署文件的92%）即日起全部终止生效，不再具有任何法律效力。",
@@ -389,17 +385,16 @@
           "time_info": "[11时41分 ~ 14时18分]"
         },
         {
-          "title": "中国汽车如何直线超车",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
-          "source": "bilibili 热搜",
+          "title": "美国努力斡旋之际，俄罗斯和乌克兰相互发动袭击",
+          "url": "https://flash.jin10.com/detail/20251129164851049800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            21,
-            15
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 17时13分]"
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "美国暂停向持有阿富汗护照的个人签发签证",
@@ -474,6 +469,18 @@
           "time_info": "[11时41分 ~ 14时18分]"
         },
         {
+          "title": "美光将在日本西部投资96亿美元，用于生产AI内存芯片",
+          "url": "https://flash.jin10.com/detail/20251129163258656800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
           "title": "世界杯男篮预选赛，中国男篮 76-80 惜败韩国男篮，如何看待本场比赛？",
           "url": "https://www.zhihu.com/question/1977808179644605116",
           "source": "知乎",
@@ -545,6 +552,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 08时55分]"
+        },
+        {
+          "title": "12月中国赴日航班已取消904个",
+          "url": "https://www.toutiao.com/trending/7577981991163314212/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "十天内 俄罗斯三批日本",
@@ -655,6 +674,17 @@
           "time_info": "[02时17分 ~ 05时11分]"
         },
         {
+          "title": "日本所谓“快速闪击战”，我们如何应对？",
+          "url": "https://news.ifeng.com/c/8og7V49qmJp",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
           "title": "美国联邦航空局：因炸弹威胁，飞往费城国际机场的航班全部停飞。",
           "url": "https://flash.jin10.com/detail/20251129080340848800",
           "source": "金十数据",
@@ -739,6 +769,18 @@
           "time_info": "[11时41分 ~ 14时18分]"
         },
         {
+          "title": "普京下周将与美国特使谈俄乌“和平计划”",
+          "url": "https://wallstreetcn.com/livenews/3012449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
           "title": "中国男篮不敌韩国暴露哪些问题",
           "url": "https://www.toutiao.com/trending/7577787331646718006/",
           "source": "今日头条",
@@ -763,6 +805,18 @@
           "time_info": "[08时55分 ~ 11时41分]"
         },
         {
+          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
           "title": "日本全日空控股公司：由于空中客车召回A320客机，已取消周六的65个航班。",
           "url": "https://flash.jin10.com/detail/20251129093847598800",
           "source": "金十数据",
@@ -773,6 +827,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 14时18分]"
+        },
+        {
+          "title": "美光科技将在日本投资96亿美元生产AI存储芯片。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3012448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
+          "title": "中国人民银行、科技部等部门联合召开科技金融统筹推进机制第一次会议",
+          "url": "https://www.cls.cn/detail/2214817",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
+          "title": "《疯狂动物城2》成为中国影史进口片单日票房冠军",
+          "url": "https://wallstreetcn.com/livenews/3012447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "美国航空：预计随着公司推出更新措施，将出现一些延误。",
@@ -895,15 +984,15 @@
           "time_info": "[08时55分 ~ 11时41分]"
         },
         {
-          "title": "日本所谓“快速闪击战”，我们如何应对？",
-          "url": "https://news.ifeng.com/c/8og7V49qmJp",
-          "source": "凤凰网",
+          "title": "日本旅游业被曝很难填补中国游客空白",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%BE%88%E9%9A%BE%E5%A1%AB%E8%A1%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A9%BA%E7%99%BD%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "20时22分"
         },
         {
           "title": "美国能源信息署（EIA）：新墨西哥州9月份原油产量升至创纪录的每日235万桶。",
@@ -928,6 +1017,28 @@
           "time_info": "14时18分"
         },
         {
+          "title": "乌克兰总统泽连斯基表示，由安全理事会主席率领的代表团正前往美国进行会谈。",
+          "url": "https://flash.jin10.com/detail/20251129185955433800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
+          "url": "https://news.ifeng.com/c/8og9MLOfFoi",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国联邦航空管理局：针对部分空中客车A319及A320/A321飞机发布了紧急适航指令（EAD）。",
           "url": "https://flash.jin10.com/detail/20251129125659634800",
           "source": "金十数据",
@@ -939,15 +1050,26 @@
           "time_info": "14时18分"
         },
         {
-          "title": "普京下周将与美国特使谈俄乌“和平计划”",
-          "url": "https://wallstreetcn.com/livenews/3012449",
-          "source": "华尔街见闻-快讯",
+          "title": "日本防卫开支突破11万亿日元",
+          "url": "https://flash.jin10.com/detail/20251129185527777800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "日本知名高校拟对留学生加收70%学费",
+          "url": "https://www.toutiao.com/trending/7577949220679417910/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "20时22分"
         },
         {
           "title": "日本学者：高市早苗缺乏历史认知",
@@ -959,6 +1081,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "媒体：日本准备自行研制核动力潜艇",
+          "url": "https://www.toutiao.com/trending/7577565376130105390/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "普京回应美国“突然”宣布制裁两家俄石油企业：我不理解",
+          "url": "https://news.ifeng.com/c/8ogBM0qXAzG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "美国能源信息署（EIA）：9月份美国联邦政府管辖的墨西哥湾石油日产量升至198万桶，为2020年2月以来最高水平。",
@@ -983,26 +1127,15 @@
           "time_info": "05时11分"
         },
         {
-          "title": "美光科技将在日本投资96亿美元生产AI存储芯片。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3012448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "中国人民银行、科技部等部门联合召开科技金融统筹推进机制第一次会议",
-          "url": "https://www.cls.cn/detail/2214817",
-          "source": "财联社热门",
+          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
+          "url": "https://wallstreetcn.com/articles/3760369",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "20时22分"
         },
         {
           "title": "日本自动洗澡机上市27万元一台",
@@ -1011,7 +1144,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1027,15 +1160,26 @@
           "time_info": "02时18分"
         },
         {
-          "title": "《疯狂动物城2》成为中国影史进口片单日票房冠军",
-          "url": "https://wallstreetcn.com/livenews/3012447",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒关注中国民企研发高超音速导弹",
+          "url": "https://www.toutiao.com/trending/7578063914806545962/",
+          "source": "今日头条",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普长子成2028美国总统大选热门",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%95%BF%E5%AD%90%E6%88%902028%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%E7%83%AD%E9%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "大军压境委内瑞拉 美国真的会动手吗",
@@ -1071,6 +1215,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "迪拜航展上中国产品有何亮眼表现",
+          "url": "https://www.toutiao.com/trending/7578057194844192778/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国航空公司：尚有不到150架飞机（的情况）有待更新。",
           "url": "https://flash.jin10.com/detail/20251129085240763800",
           "source": "金十数据",
@@ -1099,9 +1254,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "美国要求台湾地区在美投资 3500 亿至 5500 亿美元，此举会对台湾地区经济造成怎样的打击？",
+          "url": "https://www.zhihu.com/question/1974489488651747509",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
@@ -1110,9 +1276,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "美国国务卿或将“罕见”缺席北约外长会",
+          "url": "https://wallstreetcn.com/livenews/3012462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "“解放军实弹演习给日本很大压力”",
@@ -1143,20 +1320,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
         {
-          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
-          "source": "澎湃新闻",
+          "title": "西班牙专家：日本从未承认过历史真相",
+          "url": "https://www.toutiao.com/trending/7578011465299673114/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "20时22分"
         },
         {
           "title": "铜矿企业SolGold表示：已拒绝中国企业的收购要约",
@@ -1181,13 +1358,24 @@
           "time_info": "11时41分"
         },
         {
+          "title": "美国旅行真实现状",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%97%85%E8%A1%8C%E7%9C%9F%E5%AE%9E%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美光将在日本西部投资96亿美元，用于生产人工智能内存芯片。",
           "url": "https://flash.jin10.com/detail/20251129154414299800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1231,7 +1419,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1242,9 +1430,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "美国国务卿或将“罕见”缺席北约外长会",
+          "url": "https://flash.jin10.com/detail/20251129170304416800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "中国推出颠覆传统的飞机发动机",
+          "url": "https://www.toutiao.com/trending/7577983046276615716/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "美国天然气期货涨5%，报4.77美元/百万英热。",
@@ -1275,9 +1485,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "央视将转播中国女足对阵英格兰女足",
+          "url": "https://www.toutiao.com/trending/7577286086515408939/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "美国知名学者：高市早苗迈出错误一步",
@@ -1289,6 +1510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "多名在日本中国留学生发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "美国原油期货11月累跌约3.4%，纽约天然气累涨11%",
@@ -1330,7 +1562,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1419,28 +1651,30 @@
           "time_info": "[02时17分 ~ 08时55分]"
         },
         {
-          "title": "北京AI产业规模今年将超4500亿元",
-          "url": "https://wallstreetcn.com/livenews/3012454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
           "title": "美联储的AI困局：学格林斯潘是“死路”，不降息是“绝路”",
           "url": "https://wallstreetcn.com/articles/3760347",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 17时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 20时22分]"
+        },
+        {
+          "title": "北京AI产业规模今年将超4500亿元",
+          "url": "https://wallstreetcn.com/livenews/3012454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
@@ -1472,7 +1706,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1500,11 +1734,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 17时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 20时22分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
@@ -1555,7 +1790,7 @@
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为麒麟 9030 处理器是什么水平？",
@@ -1564,11 +1799,23 @@
           "ranks": [
             6,
             4,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 17时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 20时22分]"
+        },
+        {
+          "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
+          "url": "https://www.cls.cn/detail/2214770",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "手机闹铃实力排行",
@@ -1577,7 +1824,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1588,7 +1835,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
