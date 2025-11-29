@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T11:41:18.644431+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-11-29T14:18:24.711858+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 85,
+      "match_count": 98,
       "titles": [
         {
           "title": "排面拉满！泡泡玛特首次亮相美国感恩节大游行，Labubu跻身全球顶级IP阵营",
@@ -20,17 +20,6 @@
           "time_info": "[02时17分 ~ 11时41分]"
         },
         {
-          "title": "中国男篮主场不敌韩国男篮",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 08时55分]"
-        },
-        {
           "title": "日本外相答凤凰记者问：台湾问题是中国内政",
           "url": "https://news.ifeng.com/c/8oevd3mbE2Z",
           "source": "凤凰网",
@@ -40,8 +29,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 14时18分]"
+        },
+        {
+          "title": "中国科协：杨晓明、徐佐存在违纪违法行为，撤销所获奖励",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32063710",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 14时18分]"
+        },
+        {
+          "title": "中国男篮主场不敌韩国男篮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 08时55分]"
         },
         {
           "title": "男篮世预赛中国惜败韩国",
@@ -57,19 +70,6 @@
           "time_info": "[02时17分 ~ 11时41分]"
         },
         {
-          "title": "中国科协：杨晓明、徐佐存在违纪违法行为，撤销所获奖励",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32063710",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 11时41分]"
-        },
-        {
           "title": "中国最长的跨市地铁要来了",
           "url": "https://www.toutiao.com/trending/7577246973955670035/",
           "source": "今日头条",
@@ -77,23 +77,23 @@
             2,
             1,
             9,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 14时18分]"
         },
         {
-          "title": "中国最长的跨市地铁要来了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "日媒：中国航空公司12月要取消超900架次赴日航班",
+          "url": "https://news.ifeng.com/c/8ofi9WpZxoW",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "日本目的地全部删除！爱达邮轮改航线",
@@ -121,6 +121,31 @@
           "time_info": "[02时17分 ~ 11时41分]"
         },
         {
+          "title": "最新考古科研证实石峁文化人群主体源于陕北仰韶晚期人群，这一发现对中国史前文化研究有哪些重要意义？",
+          "url": "https://www.zhihu.com/question/1977382602374664540",
+          "source": "知乎",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 14时18分]"
+        },
+        {
+          "title": "中国最长的跨市地铁要来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时18分]"
+        },
+        {
           "title": "中国代表：对这样的日本必须严加管束",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%AF%B9%E8%BF%99%E6%A0%B7%E7%9A%84%E6%97%A5%E6%9C%AC%E5%BF%85%E9%A1%BB%E4%B8%A5%E5%8A%A0%E7%AE%A1%E6%9D%9F",
           "source": "百度热搜",
@@ -133,82 +158,72 @@
           "time_info": "[02时17分 ~ 08时55分]"
         },
         {
-          "title": "美国加州一购物中心发生枪击事件 至少两人受伤",
-          "url": "https://flash.jin10.com/detail/20251129110020939800",
-          "source": "金十数据",
+          "title": "俄罗斯称日本已对邻国构成严重威胁",
+          "url": "https://www.toutiao.com/trending/7577198315310268454/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时18分"
         },
         {
-          "title": "严寒大雪肆虐 美国北部发布冬季风暴预警",
-          "url": "https://flash.jin10.com/detail/20251129103528669800",
-          "source": "金十数据",
+          "title": "开门黑,中国男篮家门口输韩国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347581&amp;topic_name=%E5%BC%80%E9%97%A8%E9%BB%91%2C%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%BE%93%E9%9F%A9%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 14时18分]"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见阿塞拜疆央行行长塔拉赫·卡兹莫夫",
+          "url": "https://wallstreetcn.com/livenews/3012434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "中国清洁发电重要突破填补全球空白",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%85%E6%B4%81%E5%8F%91%E7%94%B5%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4%E5%A1%AB%E8%A1%A5%E5%85%A8%E7%90%83%E7%A9%BA%E7%99%BD",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时18分"
         },
         {
-          "title": "十天内俄罗斯三批日本",
-          "url": "https://www.toutiao.com/trending/7577858619543404607/",
-          "source": "今日头条",
+          "title": "文化中国行文博日历",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%96%87%E5%8D%9A%E6%97%A5%E5%8E%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "日本部署中导只是第一步",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E4%B8%AD%E5%AF%BC%E5%8F%AA%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AD%A5",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "中国汽车如何直线超车",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "日媒：中国航空公司12月要取消超900架次赴日航班",
-          "url": "https://news.ifeng.com/c/8ofi9WpZxoW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "炸弹威胁解除 美国费城国际机场恢复运营",
-          "url": "https://wallstreetcn.com/livenews/3012419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "最新考古科研证实石峁文化人群主体源于陕北仰韶晚期人群，这一发现对中国史前文化研究有哪些重要意义？",
-          "url": "https://www.zhihu.com/question/1977382602374664540",
-          "source": "知乎",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 11时41分]"
+          "time_info": "14时18分"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
@@ -224,16 +239,16 @@
           "time_info": "[02时17分 ~ 11时41分]"
         },
         {
-          "title": "开门黑,中国男篮家门口输韩国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347581&amp;topic_name=%E5%BC%80%E9%97%A8%E9%BB%91%2C%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%BE%93%E9%9F%A9%E5%9B%BD",
-          "source": "贴吧",
+          "title": "知名“铜多头”预警：美国正成全球黑洞 铜价只会一路狂飙",
+          "url": "https://www.cls.cn/detail/2214666",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            15
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时18分]"
         },
         {
           "title": "塔吉克斯坦和阿富汗边境发生武装袭击致中国公民3死1伤，中使馆发提醒",
@@ -263,6 +278,19 @@
           "time_info": "[05时11分 ~ 11时41分]"
         },
         {
+          "title": "美国联邦航空局表示，由于发现炸弹威胁，飞往美国费城国际机场的航班全部停飞。",
+          "url": "https://wallstreetcn.com/livenews/3012407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时18分]"
+        },
+        {
           "title": "中国对高市早有警戒？石破茂：我不知道，你去问问",
           "url": "https://news.ifeng.com/c/8oemxTmStMi",
           "source": "凤凰网",
@@ -284,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 11时41分]"
+        },
+        {
+          "title": "美国加州一购物中心发生枪击事件 至少两人受伤",
+          "url": "https://flash.jin10.com/detail/20251129110020939800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "美国暂停向持有阿富汗护照的个人签发签证",
@@ -310,16 +350,17 @@
           "time_info": "[05时11分 ~ 08时55分]"
         },
         {
-          "title": "美国联邦航空局表示，由于发现炸弹威胁，飞往美国费城国际机场的航班全部停飞。",
-          "url": "https://wallstreetcn.com/livenews/3012407",
+          "title": "全日空（ANA）：因为空中客车（软件）问题而取消65个日本境内航班，大约9400名乘客将受到影响。",
+          "url": "https://wallstreetcn.com/livenews/3012403",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            14
+            5,
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时18分]"
         },
         {
           "title": "日本持续囤积钚材料远超民用需求，专家：或有涉核“小九九”",
@@ -331,6 +372,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 08时55分]"
+        },
+        {
+          "title": "严寒大雪肆虐 美国北部发布冬季风暴预警",
+          "url": "https://flash.jin10.com/detail/20251129103528669800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "世界杯男篮预选赛，中国男篮 76-80 惜败韩国男篮，如何看待本场比赛？",
@@ -346,16 +399,40 @@
           "time_info": "[02时17分 ~ 08时55分]"
         },
         {
-          "title": "知名“铜多头”预警：美国正成全球黑洞 铜价只会一路狂飙",
-          "url": "https://www.cls.cn/detail/2214666",
-          "source": "财联社热门",
+          "title": "十天内俄罗斯三批日本",
+          "url": "https://www.toutiao.com/trending/7577858619543404607/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            5
+            4,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 14时18分]"
+        },
+        {
+          "title": "中国汽车如何直线超车",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
+        },
+        {
+          "title": "炸弹威胁解除 美国费城国际机场恢复运营",
+          "url": "https://wallstreetcn.com/livenews/3012419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "日本屡越红线 中方“亮剑”",
@@ -388,18 +465,6 @@
           "ranks": [
             5,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时41分]"
-        },
-        {
-          "title": "全日空（ANA）：因为空中客车（软件）问题而取消65个日本境内航班，大约9400名乘客将受到影响。",
-          "url": "https://wallstreetcn.com/livenews/3012403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -454,6 +519,44 @@
           "time_info": "[02时17分 ~ 05时11分]"
         },
         {
+          "title": "安世中国：安世荷兰方面诸多不当行径，严重扰乱供应链稳定且破坏信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32063715",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时18分]"
+        },
+        {
+          "title": "90后华人科学家被美国公司挖角：超一亿美金年薪背后的权力游戏",
+          "url": "https://wallstreetcn.com/articles/3760340",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时18分]"
+        },
+        {
+          "title": "青年品牌凭借独到策略赢得了对折扣不买账的美国“黑色星期五”购物者",
+          "url": "https://wallstreetcn.com/livenews/3012400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时18分]"
+        },
+        {
           "title": "韩主帅谈击败中国男篮：合练不到一周",
           "url": "https://www.toutiao.com/trending/7577749688989040646/",
           "source": "今日头条",
@@ -489,30 +592,6 @@
           "time_info": "[02时17分 ~ 05时11分]"
         },
         {
-          "title": "安世中国：安世荷兰方面诸多不当行径，严重扰乱供应链稳定且破坏信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32063715",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时41分]"
-        },
-        {
-          "title": "90后华人科学家被美国公司挖角：超一亿美金年薪背后的权力游戏",
-          "url": "https://wallstreetcn.com/articles/3760340",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时41分]"
-        },
-        {
           "title": "美国联邦航空局：因炸弹威胁，飞往费城国际机场的航班全部停飞。",
           "url": "https://flash.jin10.com/detail/20251129080340848800",
           "source": "金十数据",
@@ -523,6 +602,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 11时41分]"
+        },
+        {
+          "title": "俄罗斯取代日本成中国游客新宠",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%96%E4%BB%A3%E6%97%A5%E6%9C%AC%E6%88%90%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%96%B0%E5%AE%A0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
+        },
+        {
+          "title": "英媒：美国想在贸易协议中强塞涉华“毒丸”条款，被印尼拒绝",
+          "url": "https://news.ifeng.com/c/8oetfzdzypp",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
@@ -537,16 +640,28 @@
           "time_info": "[05时11分 ~ 08时55分]"
         },
         {
-          "title": "青年品牌凭借独到策略赢得了对折扣不买账的美国“黑色星期五”购物者",
-          "url": "https://wallstreetcn.com/livenews/3012400",
-          "source": "华尔街见闻-快讯",
+          "title": "捷蓝航空：正与美国联邦航空管理局、空中客车公司及业务合作伙伴携手，解决在部分A320和A321机型飞行控制软件中发现的问题。",
+          "url": "https://flash.jin10.com/detail/20251129094302617800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            20
+            7,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 14时18分]"
+        },
+        {
+          "title": "消息人士：马克龙访华，希望确保欧洲成为中国的重要伙伴",
+          "url": "https://news.ifeng.com/c/8ofT7vB1rKA",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "上千日本民众在高市早苗官邸外抗议",
@@ -559,6 +674,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 11时41分]"
+        },
+        {
+          "title": "日本全日空控股公司：由于空中客车召回A320客机，已取消周六的65个航班。",
+          "url": "https://flash.jin10.com/detail/20251129093847598800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "美国航空：预计随着公司推出更新措施，将出现一些延误。",
@@ -583,6 +710,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 11时41分]"
+        },
+        {
+          "title": "石破茂：当年日本打美国基本就是找死",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E7%A0%B4%E8%8C%82%EF%BC%9A%E5%BD%93%E5%B9%B4%E6%97%A5%E6%9C%AC%E6%89%93%E7%BE%8E%E5%9B%BD%E5%9F%BA%E6%9C%AC%E5%B0%B1%E6%98%AF%E6%89%BE%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "美国航空：已开始识别并完成软件更新；预计绝大多数飞机将于今天和明天完成更新。",
@@ -668,37 +807,37 @@
           "time_info": "02时18分"
         },
         {
-          "title": "英媒：美国想在贸易协议中强塞涉华“毒丸”条款，被印尼拒绝",
-          "url": "https://news.ifeng.com/c/8oetfzdzypp",
-          "source": "凤凰网",
+          "title": "美国联邦航空管理局：紧急适航指令即刻生效，要求更换或改装控制飞机升降舵和副翼的软件。",
+          "url": "https://flash.jin10.com/detail/20251129130025510800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时18分"
         },
         {
-          "title": "俄罗斯取代日本成中国游客新宠",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%96%E4%BB%A3%E6%97%A5%E6%9C%AC%E6%88%90%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%96%B0%E5%AE%A0%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "捷蓝航空：正与美国联邦航空管理局、空中客车公司及业务合作伙伴携手，解决在部分A320和A321机型飞行控制软件中发现的问题。",
-          "url": "https://flash.jin10.com/detail/20251129094302617800",
+          "title": "美国联邦航空管理局：针对部分空中客车A319及A320/A321飞机发布了紧急适航指令（EAD）。",
+          "url": "https://flash.jin10.com/detail/20251129125659634800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时18分"
+        },
+        {
+          "title": "赴日“退订潮”持续扩大 中国游客出境游正在转向",
+          "url": "https://wallstreetcn.com/livenews/3012427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "日本学者：高市早苗缺乏历史认知",
@@ -707,18 +846,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "消息人士：马克龙访华，希望确保欧洲成为中国的重要伙伴",
-          "url": "https://news.ifeng.com/c/8ofT7vB1rKA",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -732,17 +860,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "日本全日空控股公司：由于空中客车召回A320客机，已取消周六的65个航班。",
-          "url": "https://flash.jin10.com/detail/20251129093847598800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -767,6 +884,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "中国男篮不敌韩国暴露哪些问题",
+          "url": "https://www.toutiao.com/trending/7577787331646718006/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "大军压境委内瑞拉 美国真的会动手吗",
           "url": "https://www.toutiao.com/trending/7577733659734576694/",
           "source": "今日头条",
@@ -784,7 +912,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -806,7 +934,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -817,9 +945,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "“解放军实弹演习给日本很大压力”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%A7%A3%E6%94%BE%E5%86%9B%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0%E7%BB%99%E6%97%A5%E6%9C%AC%E5%BE%88%E5%A4%A7%E5%8E%8B%E5%8A%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "俄罗斯多次对日本发出警告",
@@ -850,7 +989,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -866,15 +1005,15 @@
           "time_info": "08时55分"
         },
         {
-          "title": "石破茂：当年日本打美国基本就是找死",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E7%A0%B4%E8%8C%82%EF%BC%9A%E5%BD%93%E5%B9%B4%E6%97%A5%E6%9C%AC%E6%89%93%E7%BE%8E%E5%9B%BD%E5%9F%BA%E6%9C%AC%E5%B0%B1%E6%98%AF%E6%89%BE%E6%AD%BB",
-          "source": "百度热搜",
+          "title": "日本外相面对提问含糊其辞一味重复",
+          "url": "https://www.toutiao.com/trending/7577814832053846057/",
+          "source": "今日头条",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时18分"
         },
         {
           "title": "如何看待中国男篮世预赛名单",
@@ -910,6 +1049,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "梁朝伟说在日本语言不通能不跟人讲话",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E8%AF%B4%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%AF%AD%E8%A8%80%E4%B8%8D%E9%80%9A%E8%83%BD%E4%B8%8D%E8%B7%9F%E4%BA%BA%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "美国知名学者：高市早苗迈出错误一步",
           "url": "https://www.toutiao.com/trending/7576914034033803307/",
           "source": "今日头条",
@@ -943,6 +1093,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "中国男篮出发前往韩国",
+          "url": "https://www.toutiao.com/trending/7577824750717501503/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国9月份原油出口升至每日415.9万桶（8月份为352万桶），汽油出口降至77.2万桶/日（8月份为79万桶/日），精炼油出口降至137万桶/日（8月份为139.5万桶/日），成品油总出口升至每日321万桶（8月份为每日313.5万桶）。",
           "url": "https://flash.jin10.com/detail/20251129021203330800",
           "source": "金十数据",
@@ -960,7 +1121,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -993,7 +1154,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         }
@@ -1035,19 +1196,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时18分]"
         },
         {
           "title": "美联储的AI困局：学格林斯潘是“死路”，不降息是“绝路”",
           "url": "https://wallstreetcn.com/articles/3760347",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "小鹏汽车：车展色情视频系AI生成",
@@ -1056,9 +1218,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -1078,6 +1240,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "碰撞轮毂飞!竟是小米保命绝招",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时18分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
           "url": "https://wallstreetcn.com/livenews/3012362",
           "source": "华尔街见闻-快讯",
@@ -1087,17 +1261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "碰撞轮毂飞!竟是小米保命绝招",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "雷军发布小米购置税补贴重要提示",
@@ -1149,8 +1312,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 14时18分]"
         }
       ]
     }
