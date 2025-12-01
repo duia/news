@@ -1,472 +1,55 @@
 {
-  "generated_at": "2025-12-01T23:14:34.868711+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2025-12-02T02:21:06.296775+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 187,
+      "match_count": 42,
       "titles": [
         {
-          "title": "中国能源自主之路再添硬核底气",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%83%BD%E6%BA%90%E8%87%AA%E4%B8%BB%E4%B9%8B%E8%B7%AF%E5%86%8D%E6%B7%BB%E7%A1%AC%E6%A0%B8%E5%BA%95%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 12时08分]"
-        },
-        {
-          "title": "危险信号！“这是日本要介入台海的第一步”",
-          "url": "https://news.ifeng.com/c/8oi2cccsldO",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 12时08分]"
-        },
-        {
-          "title": "痴人说梦,日本妄想稀土卡中国脖子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347606&amp;topic_name=%E7%97%B4%E4%BA%BA%E8%AF%B4%E6%A2%A6%2C%E6%97%A5%E6%9C%AC%E5%A6%84%E6%83%B3%E7%A8%80%E5%9C%9F%E5%8D%A1%E4%B8%AD%E5%9B%BD%E8%84%96%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            17,
-            24,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时16分 ~ 23时14分]"
-        },
-        {
-          "title": "历史重演,石破茂预警日本偷袭中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347601&amp;topic_name=%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%2C%E7%9F%B3%E7%A0%B4%E8%8C%82%E9%A2%84%E8%AD%A6%E6%97%A5%E6%9C%AC%E5%81%B7%E8%A2%AD%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            20,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时16分 ~ 23时14分]"
-        },
-        {
-          "title": "业界大佬：全球铜都在流向美国，这是铜多头“一次大好机会”",
-          "url": "https://wallstreetcn.com/articles/3760391",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "中国赴日航班数量大幅削减引日方担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069671",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "中国11月官方制造业PMI升至49.2，受高基数影响非制造业PMI小幅回落",
-          "url": "https://wallstreetcn.com/articles/3760390",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知",
-          "url": "https://news.ifeng.com/c/8oia5p6rx65",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 14时21分]"
-        },
-        {
-          "title": "日媒爆料：日本新动作！",
-          "url": "https://news.ifeng.com/c/8oiHQUbigKs",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时08分]"
-        },
-        {
-          "title": "日本官方发布高市“名场面”",
-          "url": "https://www.toutiao.com/trending/7577582846601642010/",
+          "title": "金灿荣：日本盟友不表态已说明问题",
+          "url": "https://www.toutiao.com/trending/7578132493980729387/",
           "source": "今日头条",
           "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "专家：美国对委策略意在“不战而屈人之兵”",
-          "url": "https://news.ifeng.com/c/8ohUFmNqEN8",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "为什么《疯狂动物城 2》在中国获得了更大成功？",
-          "url": "https://www.zhihu.com/question/1978016809404868174",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "英超球队向中国球迷道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E7%90%83%E9%98%9F%E5%90%91%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 14时21分]"
-        },
-        {
-          "title": "中国男篮再负韩国",
-          "url": "https://www.douyin.com/hot/2323217",
-          "source": "抖音",
-          "ranks": [
-            2,
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时14分]"
-        },
-        {
-          "title": "中国公民 2026 年 9 月 14 日前可免签前往俄罗斯，免签天数 30 天，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1978848330575529049",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时14分]"
-        },
-        {
-          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
-          "url": "https://www.cls.cn/detail/2215595",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 20时25分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
-          "url": "https://wallstreetcn.com/livenews/3012550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "中国男篮再负韩国",
-          "url": "https://www.toutiao.com/trending/7577749208321998854/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时14分]"
-        },
-        {
-          "title": "日本国脚竟拿战犯照片合影",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E8%84%9A%E7%AB%9F%E6%8B%BF%E6%88%98%E7%8A%AF%E7%85%A7%E7%89%87%E5%90%88%E5%BD%B1",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时20分]"
-        },
-        {
-          "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
-          "url": "https://wallstreetcn.com/articles/3760425",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 23时14分]"
-        },
-        {
-          "title": "中国男篮vs韩国男篮",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "日本5年期国债收益率上涨3.5个基点，至1.345%，创2008年6月以来新高。",
-          "url": "https://flash.jin10.com/detail/20251201085556458800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "惠誉：韩国2026年信用卡资产表现展望“恶化”；对日本汽车贷款的展望为“中性”。",
-          "url": "https://flash.jin10.com/detail/20251201114638887800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国11月ISM产出指数 51.4，前值48.2。",
-          "url": "https://flash.jin10.com/detail/20251201230019521800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "中国男篮对阵韩国两连败",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E4%B8%A4%E8%BF%9E%E8%B4%A5&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "日本央行行长植田和男将于十分钟后在日本中部名古屋发表演讲并会见商界领袖。",
-          "url": "https://flash.jin10.com/detail/20251201085500000800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "美国11月ISM就业指数 44，前值46。",
-          "url": "https://flash.jin10.com/detail/20251201230002160800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "日债抛售潮波及全球债市 美国国债在感恩节后一周弱势开局",
-          "url": "https://wallstreetcn.com/livenews/3013036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国11月ISM制造业新订单指数 47.4，前值 49.4。",
-          "url": "https://wallstreetcn.com/livenews/3013125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "中国航天首次应急发射经历了什么",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%A6%96%E6%AC%A1%E5%BA%94%E6%80%A5%E5%8F%91%E5%B0%84%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "日本“搞事”背后：“新型军国主义”的危险转向",
-          "url": "https://news.ifeng.com/c/8ojKDE3wGKX",
-          "source": "凤凰网",
-          "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "2025年“读懂中国”国际会议开幕",
-          "url": "https://www.douyin.com/hot/2323347",
+          "title": "中国男篮再负韩国",
+          "url": "https://www.douyin.com/hot/2323217",
           "source": "抖音",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "金十图示：2025年12月01日（周一）富时中国A50指数成分股午盘收盘行情一览：石油、半导体板块领涨，银行板块涨跌不一",
-          "url": "https://flash.jin10.com/detail/20251201113154297800",
-          "source": "金十数据",
+          "title": "中国公民 2026 年 9 月 14 日前可免签前往俄罗斯，免签天数 30 天，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1978848330575529049",
+          "source": "知乎",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "乌克兰寻求年底前追加10亿欧元购买美国武器",
-          "url": "https://flash.jin10.com/detail/20251201195219018800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国11月ISM制造业PMI 48.2，预期49，前值48.7。",
-          "url": "https://flash.jin10.com/detail/20251201230002159800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "日本央行行长植田和男：全球经济略显疲软，但整体上逐步增长。 如果经济展望实现，将加息。",
-          "url": "https://wallstreetcn.com/livenews/3012649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "美国银行预计美联储将在12月降息",
-          "url": "https://wallstreetcn.com/livenews/3013035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国11月ISM制造业就业指数 44，前值 46。",
-          "url": "https://wallstreetcn.com/livenews/3013124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "普京签令对中国公民临时免签",
-          "url": "https://www.toutiao.com/trending/7578151099815857727/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "中国男篮惨遭韩国双杀",
@@ -475,247 +58,75 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "接连有日本歌手演唱会被中断或取消，外交部回应",
-          "url": "https://news.ifeng.com/c/8ojQOFokos5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "市场消息：乌克兰寻求年底前再筹集10亿欧元购买美国武器。",
-          "url": "https://flash.jin10.com/detail/20251201194928688800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国11月ISM新订单指数 47.4，前值49.4。",
-          "url": "https://flash.jin10.com/detail/20251201230002158800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美国11月ISM制造业指数 48.2，预期 49，前值 48.7。",
-          "url": "https://wallstreetcn.com/livenews/3013123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "中国公民2026年9月14日前可免签前往俄罗斯",
-          "url": "https://www.cls.cn/detail/2215819",
-          "source": "财联社热门",
+          "title": "中国男篮再负韩国",
+          "url": "https://www.toutiao.com/trending/7577749208321998854/",
+          "source": "今日头条",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
-          "url": "https://flash.jin10.com/detail/20251201112823735800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国11月ISM制造业物价支付指数 58.5，预期57.3，前值58。",
-          "url": "https://flash.jin10.com/detail/20251201230002134800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "流感流行进入上升期，中国疾控中心研究员：当前仍然建议还未接种流感疫苗的适宜人群尽快接种",
-          "url": "https://wallstreetcn.com/livenews/3012771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国11月ISM制造业物价支付指数 58.5，预期 57.5，前值 58。",
-          "url": "https://wallstreetcn.com/livenews/3013122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "日本官方发布高市名场面 网友：黑粉",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E9%AB%98%E5%B8%82%E5%90%8D%E5%9C%BA%E9%9D%A2+%E7%BD%91%E5%8F%8B%EF%BC%9A%E9%BB%91%E7%B2%89",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "福建永安75亿元水电项目被指偷工减料背后：多个核心标段均由中国电建下属企业包揽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32075098",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 23时14分]"
-        },
-        {
-          "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069544",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "中国游客在美国商场遇枪击躲试衣间",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%95%86%E5%9C%BA%E9%81%87%E6%9E%AA%E5%87%BB%E8%BA%B2%E8%AF%95%E8%A1%A3%E9%97%B4%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "中方回应有日本歌手演唱会被取消",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9C%89%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%8F%96%E6%B6%88",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 23时14分]"
-        },
-        {
-          "title": "高市宣称日本又回来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E5%AE%A3%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 14时21分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "钟声：一个什么样的日本“又回来了”",
-          "url": "https://www.baidu.com/s?wd=%E9%92%9F%E5%A3%B0%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%97%A5%E6%9C%AC%E2%80%9C%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
+          "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
+          "url": "https://wallstreetcn.com/articles/3760425",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时20分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "给美国伴娘送外卖会有多少小费",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99%E7%BE%8E%E5%9B%BD%E4%BC%B4%E5%A8%98%E9%80%81%E5%A4%96%E5%8D%96%E4%BC%9A%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B0%8F%E8%B4%B9",
-          "source": "bilibili 热搜",
+          "title": "中国公民即日起至2026年9月14日可免签前往俄罗斯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32077158",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            23,
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 23时14分]"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "男篮世预赛，中国队 76-90 韩国，惨遭对手双杀，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/1978876189775984262",
           "source": "知乎",
           "ranks": [
-            17,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时14分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "日本一钢铁厂发生爆炸并引发火灾",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E9%92%A2%E9%93%81%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E5%B9%B6%E5%BC%95%E5%8F%91%E7%81%AB%E7%81%BE",
-          "source": "百度热搜",
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国总统特朗普讨论了致力于解除哈马斯武装、实现加沙非军事化，以及扩大和平协议的问题。",
+          "url": "https://flash.jin10.com/detail/20251202012755977800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            12,
-            20
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 14时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         },
         {
-          "title": "日本国脚竟拿战犯照片合影，英超球队道歉",
-          "url": "https://news.ifeng.com/c/8oikvl8KaCI",
-          "source": "凤凰网",
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡不久前与美国总统特朗普通话。特朗普已邀请内塔尼亚胡近期前往白宫。",
+          "url": "https://flash.jin10.com/detail/20251202012643895800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         },
         {
           "title": "澳大利亚称一支中国海军舰队可能正前往该国，中方回应",
@@ -725,284 +136,85 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 23时14分]"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "陈景河卸任紫金矿业董事长，敢将并购战车开向全球：中国矿企争取后来居上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32068679",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "中国公民即日起至2026年9月14日可免签前往俄罗斯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32077158",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 23时14分]"
-        },
-        {
-          "title": "中国人在太空存粮多得超乎想象",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%AD%98%E7%B2%AE%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时08分]"
-        },
-        {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
-          "url": "https://www.cls.cn/detail/2215253",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时20分]"
-        },
-        {
-          "title": "“明谕琉球国王敕”在大连展出，揭示琉球曾是中国藩属重要史实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069441",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "日本前议员：高市已不具备首相资格",
-          "url": "https://www.toutiao.com/trending/7578541958902071339/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 20时25分]"
-        },
-        {
-          "title": "早苗狂言日本回归,靖国鬼厕又沸腾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347629&amp;topic_name=%E6%97%A9%E8%8B%97%E7%8B%82%E8%A8%80%E6%97%A5%E6%9C%AC%E5%9B%9E%E5%BD%92%2C%E9%9D%96%E5%9B%BD%E9%AC%BC%E5%8E%95%E5%8F%88%E6%B2%B8%E8%85%BE",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 23时14分]"
-        },
-        {
-          "title": "卢旺达是如何学习中国的",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%A2%E6%97%BA%E8%BE%BE%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E4%B8%AD%E5%9B%BD%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 23时14分]"
-        },
-        {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 23时14分]"
-        },
-        {
-          "title": "“地表超强材料”投产 中国传好消息",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%B0%E8%A1%A8%E8%B6%85%E5%BC%BA%E6%9D%90%E6%96%99%E2%80%9D%E6%8A%95%E4%BA%A7+%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%A5%BD%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时08分]"
-        },
-        {
-          "title": "日本发布高市早苗外交场面引群嘲",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%A4%96%E4%BA%A4%E5%9C%BA%E9%9D%A2%E5%BC%95%E7%BE%A4%E5%98%B2%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时08分]"
-        },
-        {
-          "title": "中国驻日大使人民日报撰文：坚决维护一个中国原则和战后国际秩序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069371",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "专家：瑞士拒绝做“第二个日本”",
-          "url": "https://www.toutiao.com/trending/7578475966016523817/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "日本国脚合影的战犯是谁",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E8%84%9A%E5%90%88%E5%BD%B1%E7%9A%84%E6%88%98%E7%8A%AF%E6%98%AF%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时20分]"
-        },
-        {
-          "title": "中国女足0比8英格兰",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E8%8B%B1%E6%A0%BC%E5%85%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "中国驻伊朗大使馆最新提醒",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时08分]"
-        },
-        {
-          "title": "日本京都著名景点突发火灾",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%83%BD%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "U17 男足亚预赛，中国国青 4-0 孟加拉国青，昂首杀进亚洲杯决赛圈，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1978577474729301330",
-          "source": "知乎",
+          "title": "日本一钢铁厂爆炸并引发火灾",
+          "url": "https://www.douyin.com/hot/2322731",
+          "source": "抖音",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：已开始与美国商讨俄乌和平谈判。代表团“正努力为乌克兰争取真正的和平”。",
-          "url": "https://flash.jin10.com/detail/20251130232001880800",
-          "source": "金十数据",
+          "title": "中方回应有日本歌手演唱会被取消",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9C%89%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "普京签令对中国公民临时免签",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%B4%E6%97%B6%E5%85%8D%E7%AD%BE",
-          "source": "百度热搜",
+          "title": "中国公民即日起可免签前往俄罗斯：相关搜索翻倍增长，有旅行社明年春节期间多款旅游产品售罄",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32077834",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            23
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时20分 ~ 20时25分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "《疯狂动物城2》进入中国影史动画前三",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E3%80%8B%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E5%8A%A8%E7%94%BB%E5%89%8D%E4%B8%89",
-          "source": "百度热搜",
+          "title": "日本国宝级歌手喊话高市爽快一点",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D%E7%BA%A7%E6%AD%8C%E6%89%8B%E5%96%8A%E8%AF%9D%E9%AB%98%E5%B8%82%E7%88%BD%E5%BF%AB%E4%B8%80%E7%82%B9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            18
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时14分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "齐达内在中国和大妈们踢毽子",
-          "url": "https://www.baidu.com/s?wd=%E9%BD%90%E8%BE%BE%E5%86%85%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%A4%A7%E5%A6%88%E4%BB%AC%E8%B8%A2%E6%AF%BD%E5%AD%90",
-          "source": "百度热搜",
+          "title": "福建永安75亿元水电项目被指偷工减料背后：多个核心标段均由中国电建下属企业包揽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32075098",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 14时21分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
-          "source": "澎湃新闻",
+          "title": "复盘中国男篮世预赛不敌韩国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时16分 ~ 02时17分]"
+          "time_info": "[02时20分 ~ 02时21分]"
+        },
+        {
+          "title": "40年前她发现中国首例艾滋病",
+          "url": "https://s.weibo.com/weibo?q=%2340%E5%B9%B4%E5%89%8D%E5%A5%B9%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%89%BE%E6%BB%8B%E7%97%85%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "胡锡进：俄罗斯对中国公民免签入境30天，来得正当其时",
@@ -1013,1224 +225,288 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时14分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "美国国务卿鲁比奥表示，预计在乌克兰会谈中取得更多进展。",
-          "url": "https://flash.jin10.com/detail/20251130231029063800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "阿特斯：拟与控股股东设立合资公司调整美国市场业务",
-          "url": "https://wallstreetcn.com/livenews/3012541",
-          "source": "华尔街见闻-快讯",
+          "title": "卢旺达是如何学习中国的",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%A2%E6%97%BA%E8%BE%BE%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E4%B8%AD%E5%9B%BD%E7%9A%84",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "商务部：对原产于日本、美国、韩国和马来西亚的进口聚苯硫醚所适用的反倾销措施发起期终复审调查",
-          "url": "https://wallstreetcn.com/livenews/3012540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "中国央行：10月份，债券市场共发行各类债券63574.6亿元",
-          "url": "https://wallstreetcn.com/livenews/3012537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "中方回应澳国防部称监测到中国舰队",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%BE%B3%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E7%9B%91%E6%B5%8B%E5%88%B0%E4%B8%AD%E5%9B%BD%E8%88%B0%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 20时25分]"
-        },
-        {
-          "title": "根据美国疾控中心的最新数据，诺如病毒病例在美国各地呈上升趋势，在过去几个月中翻了一番。截至11月15日的最近一周，诺如病毒检测阳性率接近14%，而大约三个月前这一比例约为7%。",
-          "url": "https://flash.jin10.com/detail/20251130222827622800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "蔡正元批日本导弹连九州都防备不到",
-          "url": "https://www.toutiao.com/trending/7577958365444210738/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "美国宣称“全面关闭”委内瑞拉领空，多国批评：“非法”“专横”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32075486",
+          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 14时21分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "市场消息：美国官员将于周日上午9点在佛罗里达州南部会见乌克兰代表团。",
-          "url": "https://flash.jin10.com/detail/20251130220047287800",
-          "source": "金十数据",
+          "title": "早苗狂言日本回归,靖国鬼厕又沸腾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347629&amp;topic_name=%E6%97%A9%E8%8B%97%E7%8B%82%E8%A8%80%E6%97%A5%E6%9C%AC%E5%9B%9E%E5%BD%92%2C%E9%9D%96%E5%9B%BD%E9%AC%BC%E5%8E%95%E5%8F%88%E6%B2%B8%E8%85%BE",
+          "source": "贴吧",
           "ranks": [
-            19,
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "中国队挺进U17男足亚洲杯",
-          "url": "https://www.toutiao.com/trending/7578056731587624966/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 02时17分]"
-        },
-        {
-          "title": "日本就出口03式地对空导弹与菲磋商",
-          "url": "https://www.toutiao.com/trending/7578188363161796671/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "中国驻塔吉克斯坦大使馆再次提醒",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时20分]"
-        },
-        {
-          "title": "东鹏饮料：发行境外上市股份（H股）获得中国证监会备案，公司拟发行不超过66,446,000股境外上市普通股并在香港联合交易所上市。",
-          "url": "https://wallstreetcn.com/livenews/3012515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "普京为何突然带货中国电动汽车",
-          "url": "https://www.toutiao.com/trending/7578661450617458212/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "中国男篮再负韩国 世预赛两连败",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%86%8D%E8%B4%9F%E9%9F%A9%E5%9B%BD+%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%A4%E8%BF%9E%E8%B4%A5",
           "source": "百度热搜",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "复盘中国男篮世预赛不敌韩国",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "调查显示日本今年有逾2万种食品涨价",
-          "url": "https://wallstreetcn.com/livenews/3012768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "⑨ 提醒：北京时间23:00，将发布美国11月ISM制造业指数。",
-          "url": "https://wallstreetcn.com/livenews/3013119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "从神舟二十号三角裂纹看中国航天底气",
-          "url": "https://www.toutiao.com/trending/7578723969742671414/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日本国宝级歌手喊话高市爽快一点",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D%E7%BA%A7%E6%AD%8C%E6%89%8B%E5%96%8A%E8%AF%9D%E9%AB%98%E5%B8%82%E7%88%BD%E5%BF%AB%E4%B8%80%E7%82%B9%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "机构：美国长期利率波动性或将持续",
-          "url": "https://flash.jin10.com/detail/20251201194246850800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "本周中国央行公开市场将有15118亿元逆回购到期",
-          "url": "https://wallstreetcn.com/livenews/3012645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "英国科技大臣肯德尔：与美国达成的制药协议将助力并激励生命科学企业继续在英国投资和创新。",
-          "url": "https://flash.jin10.com/detail/20251201225353411800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "日本20年期国债收益率创1999年6月以来最高位",
-          "url": "https://wallstreetcn.com/livenews/3012818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中国香港警方将于当地时间下午5点就大埔火灾事件举行记者会。",
-          "url": "https://wallstreetcn.com/livenews/3012913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "美国11月标普全球制造业PMI就业分项指数终值达到52，创8月份以来终值新高、连续四个月扩张。 产出分项指数终值创8月份以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3013116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "比亚迪汽车（日本）：在日本推出插电式混合动力SUV“海狮6（SEALION 6）”，将于1月下旬开始交付。",
-          "url": "https://flash.jin10.com/detail/20251201111003612800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国银行全球研究部：预计美联储将于2025年12月降息25个基点，而此前的预测为不降息。",
-          "url": "https://flash.jin10.com/detail/20251201193557800800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "英国政府：（就与美国达成的药品协议）英国政府还将额外投资约25%，用于创新、安全且有效的治疗方案。",
-          "url": "https://flash.jin10.com/detail/20251201225248905800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "英镑兑美元短线小幅拉升，现报1.3233，泰晤士报报道称英国和美国势将达成药品零关税协议。",
-          "url": "https://wallstreetcn.com/livenews/3013028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "英超日本国脚手持日军军官卡片合影",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E6%97%A5%E6%9C%AC%E5%9B%BD%E8%84%9A%E6%89%8B%E6%8C%81%E6%97%A5%E5%86%9B%E5%86%9B%E5%AE%98%E5%8D%A1%E7%89%87%E5%90%88%E5%BD%B1%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "据泰晤士报；英国与美国即将就药品达成零关税协议。",
-          "url": "https://flash.jin10.com/detail/20251201193247468800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国11月标普全球制造业PMI终值 52.2，预期 51.9，初值 51.9。",
-          "url": "https://wallstreetcn.com/livenews/3013114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美国制造业繁荣表象下暗藏危机 库存高企或预示未来减产",
-          "url": "https://flash.jin10.com/detail/20251201225014329800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.27%，上一个交易日夜盘收涨0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3012640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "日本央行行长植田和男：希望在我们将利率提高至0.75%后，再进一步阐述未来加息路径。 很难说离中性利率还有多远。 政府刺激方案中包含的物价抑制措施将有助于推动整体CPI下降。 政府方案中的其他措施可能会推动经济增长，并在理论上推高基础通胀，但目前难以判断幅度。 日本央行并未踩刹车，而是通过调整踩油门的力度来调整货币宽松力度。 政策调整过晚可能导致非常高的通胀风险。",
-          "url": "https://wallstreetcn.com/livenews/3012814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
-          "url": "https://www.cls.cn/detail/2215716",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "日本30年期国债收益率短暂触及3.395%，创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251201133705595800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "美国11月ISM制造业PMI将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20251201225000001800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "日本5年期国债收益率上行3.5个基点至1.345%，为2008月6日来新高。",
-          "url": "https://wallstreetcn.com/livenews/3012639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "日本一钢铁厂爆炸并引发火灾",
-          "url": "https://www.douyin.com/hot/2322731",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "日本20年期国债收益率上涨5.5个基点，至2.88%，创1999年6月以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20251201133455324800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
-          "url": "https://wallstreetcn.com/livenews/3012810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初涨约0.9%。 热门中概股里，新东方涨5%，网易涨3.8%，阿特斯太阳能涨3.6%，文远知行涨3.3%，百胜中国、阿里巴巴、亚朵、小马智行等涨超1%。 小鹏则跌2.5%，理想跌3.4%，蔚来跌3.5%，金山云跌5.8%。",
-          "url": "https://wallstreetcn.com/livenews/3013110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "日本央行行长植田和男：汇率可能是个推高通胀的因素。 需要关注外汇影响价格走势的风险。日元疲软可能通过抬高进口成本而提振通胀。 与首相和各位大臣进行了坦诚、良好的交流，并将继续与政府保持密切沟通。 存在各种不确定性。 关税影响的不确定性已经消退。 不会详细说明与首相和大臣们讨论的内容。 希望在12月根据工资信息以及其他数据作出政策决定。 过久推迟加息可能导致通胀急剧上升，并迫使我们迅速调整政策。 政府积极的财政政策与日本央行调整货币支持的组合，将有助于实现可持续的经济增长路径。 我们此前关注的不确定性–包括美国关税影响和美国经济前景–与几个月前相比已显著缓解。",
-          "url": "https://wallstreetcn.com/livenews/3012808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "恒生指数收盘涨0.67%，恒生科技指数涨0.82%。中兴通讯涨约14%，舜宇光学科技涨约6%，文远知行涨约5%，中国中免涨约5%，东方甄选涨约5%。",
-          "url": "https://wallstreetcn.com/livenews/3012903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "王嘉尔入选美国AT40榜单",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%85%A5%E9%80%89%E7%BE%8E%E5%9B%BDAT40%E6%A6%9C%E5%8D%95%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日本11月制造业PMI终值 48.7，前值48.8。",
-          "url": "https://flash.jin10.com/detail/20251201083002221800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "日本央行行长植田和男：政府一揽子计划中的其他措施可能会推高经济增长率，并在理论上提振潜在通胀，但目前尚难断言具体幅度。",
-          "url": "https://flash.jin10.com/detail/20251201133148905800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "日本40年期国债收益率上升5.5个基点，至3.74%。",
-          "url": "https://wallstreetcn.com/livenews/3012807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "连输韩国男篮两次 中国男篮怎么了",
-          "url": "https://www.toutiao.com/trending/7578868319634066954/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "法国总统马克龙将于 12 月 3 日至 5 日对中国进行国事访问，释放什么信号？",
-          "url": "https://www.zhihu.com/question/1978845578013192853",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "日本央行行长植田和男：政府刺激计划中遏制物价的措施将有助于拉低整体CPI。",
-          "url": "https://flash.jin10.com/detail/20251201133111515800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "日本右翼欲以新型军国主义介入台海",
-          "url": "https://www.toutiao.com/trending/7577764302007107627/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "寰际中国首场自然发卡赛",
-          "url": "https://www.douyin.com/hot/2321931",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国11月标普全球制造业PMI终值 52.2，前值51.9。",
-          "url": "https://flash.jin10.com/detail/20251201224502089800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美国将在232关税问题上对原产英国的医药实施豁免。",
-          "url": "https://wallstreetcn.com/livenews/3013107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "杨舒予会成为中国女篮未来领军者吗",
-          "url": "https://www.toutiao.com/trending/7578491191621173291/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
           "source": "澎湃新闻",
           "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
+        },
+        {
+          "title": "法国总统马克龙将于 12 月 3 日至 5 日对中国进行国事访问，释放什么信号？",
+          "url": "https://www.zhihu.com/question/1978845578013192853",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
+        },
+        {
+          "title": "给美国伴娘送外卖会有多少小费",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99%E7%BE%8E%E5%9B%BD%E4%BC%B4%E5%A8%98%E9%80%81%E5%A4%96%E5%8D%96%E4%BC%9A%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B0%8F%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
+        },
+        {
+          "title": "痴人说梦,日本妄想稀土卡中国脖子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347606&amp;topic_name=%E7%97%B4%E4%BA%BA%E8%AF%B4%E6%A2%A6%2C%E6%97%A5%E6%9C%AC%E5%A6%84%E6%83%B3%E7%A8%80%E5%9C%9F%E5%8D%A1%E4%B8%AD%E5%9B%BD%E8%84%96%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
+        },
+        {
+          "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20251202011542425800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
+          "title": "美国国务院：美国担任G20主席国期间，将聚焦“其推动经济增长与繁荣的核心使命，以取得实效”；将优先关注限制监管负担、能源供应链以及新技术和创新。",
+          "url": "https://flash.jin10.com/detail/20251202011529765800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨幅重新扩大至超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3013173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
+          "title": "美国至12月1日3个月国债竞拍-投标倍数 2.82，前值2.85。",
+          "url": "https://flash.jin10.com/detail/20251202003206074800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
+          "title": "美国至12月1日3个月国债竞拍-得标利率配置百分比 81.99%，前值40.84%。",
+          "url": "https://flash.jin10.com/detail/20251202003206073800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
+          "title": "美国至12月1日3个月国债竞拍-得标利率 3.725%，前值3.75%。",
+          "url": "https://flash.jin10.com/detail/20251202003206050800",
+          "source": "金十数据",
+          "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "02时21分"
         },
         {
-          "title": "中国台湾11月日经制造业PMI 48.8，前值47.7。",
-          "url": "https://flash.jin10.com/detail/20251201083002114800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "中国第一次太空修飞船究竟多重要",
-          "url": "https://www.toutiao.com/trending/7578792179401756170/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "金十图示：2025年12月01日（周一）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20251201105716052800",
+          "title": "美国至12月1日6个月国债竞拍-投标倍数 3.02，前值2.77。",
+          "url": "https://flash.jin10.com/detail/20251202003204534800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "02时21分"
         },
         {
-          "title": "日本央行行长植田和男：希望仔细审视，在美国政府停摆期间未能获取的数据中，是否不会出现重大负面信息。",
-          "url": "https://flash.jin10.com/detail/20251201133001843800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
-          "url": "https://wallstreetcn.com/livenews/3012731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "武契奇回应美国对塞尔维亚石油工业公司采取措施：我不理解",
-          "url": "https://wallstreetcn.com/livenews/3012800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "日本国债全线暴跌冲击有多大",
-          "url": "https://www.toutiao.com/trending/7578742388735393818/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "日本将采购新型反登陆导弹",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E9%87%87%E8%B4%AD%E6%96%B0%E5%9E%8B%E5%8F%8D%E7%99%BB%E9%99%86%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "日本向青少年灌输军国主义",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%90%91%E9%9D%92%E5%B0%91%E5%B9%B4%E7%81%8C%E8%BE%93%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "日本央行行长植田和男：当前利率低于中性水平。",
-          "url": "https://flash.jin10.com/detail/20251201132840345800",
+          "title": "美国至12月1日6个月国债竞拍-得标利率配置百分比 41.5%，前值62.72%。",
+          "url": "https://flash.jin10.com/detail/20251202003204508800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "02时21分"
         },
         {
-          "title": "中国男篮vs韩国男篮",
-          "url": "https://www.douyin.com/hot/2323217",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日本央行行长植田和男：希望在我们将利率提高至0.75%后，再进一步阐述未来加息路径。",
-          "url": "https://flash.jin10.com/detail/20251201132828427800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中国香港10月零售销售量年率 5.3%，前值4.80%。",
-          "url": "https://flash.jin10.com/detail/20251201163144877800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日经225指数早盘收盘下跌1.7%，报49407.31点。 日本东证指数早盘收盘下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3012728",
+          "title": "美国财政部拍卖三个月期国债，得标利率3.725%，投标倍数2.82。 拍卖六个月期国债，得标利率3.635%，投标倍数3.02。",
+          "url": "https://wallstreetcn.com/livenews/3013159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "02时21分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（11月28日）担保隔夜融资利率（SOFR）报4.12%，之前一天报4.05%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.88%。",
-          "url": "https://wallstreetcn.com/livenews/3013100",
-          "source": "华尔街见闻-快讯",
+          "title": "美国至12月1日6个月国债竞拍-得标利率 3.635%，前值3.67%。",
+          "url": "https://flash.jin10.com/detail/20251202003204483800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "02时21分"
         },
         {
-          "title": "中国取消12月赴日航班904架次",
-          "url": "https://www.toutiao.com/trending/7577683361284620314/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "日本两年期国债收益率升至1%，创2008年6月来最高水平。20年期收益率上升3个基点至2.855%，创2020年11月以来新高。",
-          "url": "https://flash.jin10.com/detail/20251201081635880800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "日本首相高市早苗：政府有责任创造有利于工资增长的条件。 将通过与投资者对话，修订公司治理准则。 我们将继续实行财政管理，同时密切关注利率走势等因素。",
-          "url": "https://wallstreetcn.com/livenews/3012727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "日本一钢铁厂发生爆炸并引发火灾",
-          "url": "https://www.toutiao.com/trending/7578657415789477939/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "如何看待日本各界及国际社会批评声音",
-          "url": "https://www.toutiao.com/trending/7577993560092360714/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中国香港10月零售销售额年率 6.9%，前值5.90%。",
-          "url": "https://flash.jin10.com/detail/20251201163013461800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "乘联分会崔东树：10月中国占世界汽车份额回升到38%",
-          "url": "https://wallstreetcn.com/livenews/3013098",
+          "title": "美国外交官“敦促”波斯尼亚领导人在其南部修建天然气管道，进而从美国等方面获得可靠的供应。",
+          "url": "https://wallstreetcn.com/livenews/3013155",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "02时21分"
         },
         {
-          "title": "日本最大在野党党首否认南京大屠杀",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E5%9C%A8%E9%87%8E%E5%85%9A%E5%85%9A%E9%A6%96%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日多国制造业PMI数据将公布，日本央行行长植田和男发表演讲",
-          "url": "https://flash.jin10.com/detail/20251201080931801800",
+          "title": "意大利总理梅洛尼：欧盟与美国就乌克兰实现公正且持久和平达成共识至关重要。",
+          "url": "https://flash.jin10.com/detail/20251202001546428800",
           "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "日本央行行长植田和男：我们此前重点关注的不确定性因素，即美国关税影响和美国经济前景，与几个月前相比已显著缓解。",
-          "url": "https://flash.jin10.com/detail/20251201132537410800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "日本首相高市早苗：加强稀土供应链建设。 稳定的国际秩序正受到严重动摇。 目标是吸引公共与私人投资。 工资改善与生产率提升推动了名义经济增长。 将密切关注利率走势，据此实施财政政策。",
-          "url": "https://wallstreetcn.com/livenews/3012724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "对债券投资者而言 部分新兴市场比美国更安全",
-          "url": "https://wallstreetcn.com/livenews/3012996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "中国航天第一次应急发射的背后故事",
-          "url": "https://www.toutiao.com/trending/7578687114334703145/",
-          "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "02时21分"
         },
         {
-          "title": "中国成功发射实践二十八号卫星",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%AE%9E%E8%B7%B5%E4%BA%8C%E5%8D%81%E5%85%AB%E5%8F%B7%E5%8D%AB%E6%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "日本11月制造业PMI终值 48.7，初值 48.8。",
-          "url": "https://wallstreetcn.com/livenews/3012620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "日本央行行长植田和男：政府积极的财政政策与日本央行调整货币支持措施相结合，将有助于实现可持续的经济增长路径。",
-          "url": "https://flash.jin10.com/detail/20251201132313492800",
+          "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
+          "url": "https://flash.jin10.com/detail/20251202000727981800",
           "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "日本10年期国债收益率上涨5.5个基点，至1.855%。",
-          "url": "https://wallstreetcn.com/livenews/3012791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中国移动：国有股份划转事项已取得国务院国有资产监督管理委员会批准",
-          "url": "https://wallstreetcn.com/livenews/3012988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "中国人在太空存粮多得超乎想象",
-          "url": "https://www.toutiao.com/trending/7578051426803417142/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "日本央行行长植田和男：推迟加息太久可能会导致严重的通货膨胀，迫使我们快速调整政策。",
-          "url": "https://flash.jin10.com/detail/20251201132248836800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "美国国债收益率升至盘中高位，10年期国债收益率接近4.06%。",
-          "url": "https://wallstreetcn.com/livenews/3013093",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "02时21分"
         },
         {
-          "title": "全胜！中国队晋级U17亚洲杯正赛",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%83%9C%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7U17%E4%BA%9A%E6%B4%B2%E6%9D%AF%E6%AD%A3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "日本央行行长植田和男：将继续与政府保持密切沟通。",
-          "url": "https://flash.jin10.com/detail/20251201131742263800",
+          "title": "亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.9%，此前预计为3.9%。",
+          "url": "https://flash.jin10.com/detail/20251202000305210800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中国公民即日起至2026年9月14日可免签前往俄罗斯",
-          "url": "https://wallstreetcn.com/livenews/3012877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日本要转向“新型军国主义”吗",
-          "url": "https://www.toutiao.com/trending/7578787865853709887/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日本央行行长植田和男：希望12月的政策决策能结合薪资数据及其他数据综合考量。",
-          "url": "https://flash.jin10.com/detail/20251201131735993800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：货币政策属于日本央行的职权范围。",
-          "url": "https://wallstreetcn.com/livenews/3012875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "02时21分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 21,
+      "match_count": 9,
       "titles": [
         {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 14时21分]"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 12时08分]"
-        },
-        {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
           "source": "知乎",
           "ranks": [
-            14,
-            20
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
-          "url": "https://www.cls.cn/detail/2215163",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 14时21分]"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
           "url": "https://wallstreetcn.com/articles/3760461",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
-          "url": "https://www.cls.cn/detail/2215927",
-          "source": "财联社热门",
-          "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -2239,31 +515,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "软银CEO孙正义：当超级智能出现时，至少10%的全球GDP将由AI和AI机器人取代。",
-          "url": "https://wallstreetcn.com/livenews/3012910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -2272,53 +526,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "如何评价米哈游创始人蔡浩宇海外团队 Anuttacon 制作的聊天 AI Anuneko?",
-          "url": "https://www.zhihu.com/question/1978825874213205536",
-          "source": "知乎",
+          "title": "郑恺上戏合影 AI生成",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
-          "url": "https://wallstreetcn.com/livenews/3013014",
-          "source": "华尔街见闻-快讯",
+          "title": "顾客买鞋子仅退款拿AI视频当凭证",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
+          "source": "百度热搜",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "没想到夸克AI浏览器还可以这么用",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%B8%E5%85%8BAI%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -2327,378 +559,87 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "郑恺上戏合影 AI生成",
-          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "惠与（HPE）通过HPE Portfolio拓展英伟达AI计算。 双方将在法国Grenoble（格勒诺布尔）成立人工智能工厂实验室（AI Factory Lab）。",
-          "url": "https://wallstreetcn.com/livenews/3013101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "中金：AI板块拥挤风险有所释放，长期存在发展空间",
-          "url": "https://wallstreetcn.com/livenews/3012625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "顾客买鞋子仅退款发AI图",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
+          "url": "https://wallstreetcn.com/livenews/3013172",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "02时21分"
         }
       ]
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 17,
+      "match_count": 4,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
           "url": "https://wallstreetcn.com/articles/3760431",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 23时14分]"
-        },
-        {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 20时25分]"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "“手机壳爱马仕”一年狂卖36亿",
           "url": "https://www.toutiao.com/trending/7577619232763203091/",
           "source": "今日头条",
           "ranks": [
-            6,
-            2,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 23时14分]"
-        },
-        {
-          "title": "手机壳爱马仕一年狂卖36亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8D%9636%E4%BA%BF%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 09时09分]"
-        },
-        {
-          "title": "“手机壳爱马仕”一年狂卖36亿",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8D%9636%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 14时21分]"
-        },
-        {
-          "title": "华为回应Mate80信号栏显示5A标识",
-          "url": "https://www.toutiao.com/trending/7577765096270282771/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时08分]"
-        },
-        {
-          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
-          "url": "https://www.cls.cn/detail/2215245",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时20分]"
-        },
-        {
-          "title": "报道：印度命令手机预装政府应用程序以确保网络安全",
-          "url": "https://wallstreetcn.com/livenews/3012820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "印度电信部要求苹果(AAPL.O)等智能手机制造商预装政府推出的网络安全应用程序。",
-          "url": "https://flash.jin10.com/detail/20251201134848484800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "新加坡将禁止中学生在校内使用智能手机或手表",
-          "url": "https://news.ifeng.com/c/8ojSal6kge9",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "以军下令：高级军官禁用安卓手机，统一使用iPhone",
-          "url": "https://www.cls.cn/detail/2215866",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "华强北华为Mate 80系列价格流出",
-          "url": "https://www.toutiao.com/trending/7578209064803827755/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "豆包手机助手已搭载在中兴的样机上",
-          "url": "https://wallstreetcn.com/livenews/3012740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "华为 mate80 无网通信，就是 700MHz 频段的对讲机，它会干扰移动 700MHz 网络吗？",
           "url": "https://www.zhihu.com/question/1977536023505412441",
           "source": "知乎",
           "ranks": [
-            18
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "字节回应与中兴手机合作：无自研手机计划，发布手机助手技术预览版",
-          "url": "https://wallstreetcn.com/livenews/3012730",
-          "source": "华尔街见闻-快讯",
+          "title": "华强北华为Mate 80系列价格流出",
+          "url": "https://www.toutiao.com/trending/7578209064803827755/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "曝iPhone折叠屏手机无折痕",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E6%97%A0%E6%8A%98%E7%97%95%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "新加坡将禁止中学生校内用智能手机",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%B0%86%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E7%94%A8%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "弃帅保车?小米启动去雷军化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 17时20分]"
-        },
-        {
-          "title": "碰撞轮毂飞!竟是小米保命绝招",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 14时21分]"
-        },
-        {
-          "title": "小米汽车将开放现车选购",
-          "url": "https://www.douyin.com/hot/2322868",
-          "source": "抖音",
-          "ranks": [
-            28,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时20分]"
-        },
-        {
-          "title": "小米汽车：11月新增17家门店",
-          "url": "https://wallstreetcn.com/livenews/3012538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "小米汽车：11月交付量超过4万台",
-          "url": "https://wallstreetcn.com/livenews/3012646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "雷军",
-          "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
           "url": "https://www.toutiao.com/trending/7578838517380288027/",
           "source": "今日头条",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "小米集团称12月1日回购1,000万股B类普通股，耗资约4亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3012998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "小米汽车将开放“现车选购”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "小米汽车“现车选购”即将开启",
-          "url": "https://www.toutiao.com/trending/7578719989142834726/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         }
       ]
     }
