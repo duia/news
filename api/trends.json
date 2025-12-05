@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-06T02:16:56.303237+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-06T05:12:29.163326+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 40,
+      "match_count": 53,
       "titles": [
         {
           "title": "中方愿同俄方配合坚决遏制日本挑衅",
           "url": "https://www.toutiao.com/trending/7579724784825679910/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "阻挠中国出席G7峰会 日本想多了",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "日方声称中国在日本周边加强军事活动，中方回应",
@@ -37,41 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国12月5日当周天然气钻井数 129，前值 130。",
-          "url": "https://wallstreetcn.com/livenews/3016087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "贝克休斯：美国钻井公司在五周内第四次增加石油和天然气钻井平台。",
-          "url": "https://flash.jin10.com/detail/20251206020252090800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国12月5日当周石油钻井数 413，前值 407。",
-          "url": "https://wallstreetcn.com/livenews/3016086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "“日本人应该清醒地认识到这件事！”",
@@ -81,30 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国至12月5日当周总钻井总数 549口，前值544口。",
-          "url": "https://flash.jin10.com/detail/20251206020122698800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国12月5日当周总钻井数 549，前值 544。",
-          "url": "https://wallstreetcn.com/livenews/3016085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "1200年前中国人撸的是豹猫",
@@ -114,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
@@ -125,52 +71,288 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20251206040033600800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "提醒：美国商品期货交易委员会（CFTC）补发10月28日当周的持仓报告。 其中，大豆净多头头寸增加83,160手合约，WTI原油净多头头寸增加34,585手合约，黄金增加13,501手合约。",
+          "url": "https://wallstreetcn.com/livenews/3016116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国12月5日当周天然气钻井数 129，前值 130。",
+          "url": "https://wallstreetcn.com/livenews/3016087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "贝克休斯：美国钻井公司在五周内第四次增加石油和天然气钻井平台。",
+          "url": "https://flash.jin10.com/detail/20251206020252090800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "美国12月5日当周石油钻井数 413，前值 407。",
+          "url": "https://wallstreetcn.com/livenews/3016086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "美国至12月5日当周总钻井总数 549口，前值544口。",
+          "url": "https://flash.jin10.com/detail/20251206020122698800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "美国12月5日当周总钻井数 549，前值 544。",
+          "url": "https://wallstreetcn.com/livenews/3016085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "美国至12月5日当周天然气钻井总数 129口，前值130口。",
           "url": "https://flash.jin10.com/detail/20251206020113813800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
           "url": "https://wallstreetcn.com/livenews/3016084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "中国夫妻的金发碧眼女儿鉴定为亲生",
           "url": "https://www.toutiao.com/trending/7579810611178225715/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "美国至12月5日当周石油钻井总数 413口，前值407口。",
           "url": "https://flash.jin10.com/detail/20251206020059190800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "“创新”成为中国经济社会发展关键词",
+          "url": "https://www.toutiao.com/trending/7580325259027598911/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "日本冲绳举行集会要求高市早苗谢罪",
+          "url": "https://www.toutiao.com/trending/7580288007694368814/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "为什么一开始复联就默认了美国队长的领导身份？",
+          "url": "https://www.zhihu.com/question/323768487",
+          "source": "知乎",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "演员周柯宇已成为中国公民",
+          "url": "https://www.toutiao.com/trending/7580185142270885931/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "中国航海家翟墨南极行途中遭遇抢劫",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%B5%B7%E5%AE%B6%E7%BF%9F%E5%A2%A8%E5%8D%97%E6%9E%81%E8%A1%8C%E9%80%94%E4%B8%AD%E9%81%AD%E9%81%87%E6%8A%A2%E5%8A%AB",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "东大亮出稀土大棒专敲日本小头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "2025年度中国媒体十大热词发布",
+          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%BA%A6%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "周柯宇退出美国国籍",
+          "url": "https://www.douyin.com/hot/2327147",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "法企高管：对比中国我们才是新兴国家",
+          "url": "https://www.toutiao.com/trending/7580243951848816682/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
+          "url": "https://flash.jin10.com/detail/20251206034235677800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
+          "url": "https://flash.jin10.com/detail/20251206033944574800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国至12月5日当周石油钻井总数将于十分钟后公布。",
@@ -184,6 +366,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
+          "url": "https://flash.jin10.com/detail/20251206033847426800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
           "url": "https://wallstreetcn.com/livenews/3016079",
           "source": "华尔街见闻-快讯",
@@ -195,15 +388,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "“创新”成为中国经济社会发展关键词",
-          "url": "https://www.toutiao.com/trending/7580325259027598911/",
-          "source": "今日头条",
+          "title": "美国10月消费信贷变动 91.78亿美元，预期 104.8亿美元，前值 130.93亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016112",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
         },
         {
           "title": "中俄就涉日本问题达成高度共识",
@@ -217,15 +410,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "为什么一开始复联就默认了美国队长的领导身份？",
-          "url": "https://www.zhihu.com/question/323768487",
-          "source": "知乎",
+          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
+          "url": "https://wallstreetcn.com/livenews/3016109",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
         },
         {
           "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
@@ -239,26 +432,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "演员周柯宇已成为中国公民",
-          "url": "https://www.toutiao.com/trending/7580185142270885931/",
-          "source": "今日头条",
+          "title": "美国原油期货收涨至60美元关口上方，纽约天然气本周涨9%",
+          "url": "https://wallstreetcn.com/livenews/3016107",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -283,6 +465,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
+          "url": "https://wallstreetcn.com/livenews/3016099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国总统特朗普：与加拿大和墨西哥相处得很好。",
           "url": "https://flash.jin10.com/detail/20251206004936040800",
           "source": "金十数据",
@@ -294,37 +487,37 @@
           "time_info": "02时16分"
         },
         {
-          "title": "日本冲绳举行集会要求高市早苗谢罪",
-          "url": "https://www.toutiao.com/trending/7580288007694368814/",
-          "source": "今日头条",
+          "title": "核电公司Constellation Energy Corp.（CEG）与美国司法部围绕Calpine交易达成和解方案。",
+          "url": "https://wallstreetcn.com/livenews/3016098",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
         },
         {
-          "title": "中国航海家翟墨南极行途中遭遇抢劫",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%B5%B7%E5%AE%B6%E7%BF%9F%E5%A2%A8%E5%8D%97%E6%9E%81%E8%A1%8C%E9%80%94%E4%B8%AD%E9%81%AD%E9%81%87%E6%8A%A2%E5%8A%AB",
-          "source": "百度热搜",
+          "title": "疯狂动物城2导演感谢中国观众",
+          "url": "https://www.douyin.com/hot/2327556",
+          "source": "抖音",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
         },
         {
-          "title": "东大亮出稀土大棒专敲日本小头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
-          "source": "贴吧",
+          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
+          "url": "https://wallstreetcn.com/livenews/3016097",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
@@ -352,17 +545,6 @@
           "title": "美国总统特朗普：已经安排会见加拿大总理卡尼和墨西哥总统辛鲍姆的事宜。",
           "url": "https://wallstreetcn.com/livenews/3016063",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "周柯宇退出美国国籍",
-          "url": "https://www.douyin.com/hot/2327147",
-          "source": "抖音",
           "ranks": [
             22
           ],
@@ -415,17 +597,6 @@
           "time_info": "02时16分"
         },
         {
-          "title": "2025年度中国媒体十大热词发布",
-          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%BA%A6%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
           "title": "美国总统特朗普：将与墨西哥总统辛鲍姆讨论贸易、移民等问题。",
           "url": "https://wallstreetcn.com/livenews/3016055",
           "source": "华尔街见闻-快讯",
@@ -435,23 +606,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        },
-        {
-          "title": "法企高管：对比中国我们才是新兴国家",
-          "url": "https://www.toutiao.com/trending/7580243951848816682/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
         }
       ]
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
@@ -461,19 +621,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         },
         {
           "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
@@ -483,8 +644,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
+        {
+          "title": "有手机已进入负毛利状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%89%8B%E6%9C%BA%E5%B7%B2%E8%BF%9B%E5%85%A5%E8%B4%9F%E6%AF%9B%E5%88%A9%E7%8A%B6%E6%80%81%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时12分"
         }
       ]
     },
@@ -525,11 +697,12 @@
           "url": "https://www.zhihu.com/question/1979702071692395867",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时12分]"
         }
       ]
     }
