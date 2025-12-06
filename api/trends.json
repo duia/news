@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T02:16:49.648672+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-07T05:11:30.241186+08:00",
+  "total_titles_processed": 348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "中国科学院东莞材料科学与技术研究所成立",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "中国科学院东莞材料科学与技术研究所成立",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "韩国只认中国台湾,岛民炸锅",
@@ -48,41 +48,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "拥抱、专车、称赞：俄乌冲突后普京首访印度，美国压力下莫迪如何走钢丝？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32114107",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "四名中国工程师印度出差遭恶性侵害？光伏锂电设备龙头：谣言！已报警",
           "url": "https://m.thepaper.cn/newsDetail_forward_32121502",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32121125",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "2027年“断奶”倒计时？美国要欧洲自己扛安全",
@@ -92,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "中国成功研制首台套110千瓦级热耦合海水直接电解制氢系统装置",
@@ -103,8 +94,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32121125",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "法国8比7日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD8%E6%AF%947%E6%97%A5%E6%9C%AC%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "美国将调整与中国的经济关系",
@@ -114,19 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "蓝箭迈出可回收火箭第一步 中国商业航天还有哪些玩家？",
@@ -136,8 +140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "市场消息：美国和印度的调查人员将于下周在华盛顿特区会面，讨论印度航空空难事件。",
@@ -147,19 +151,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
           "url": "https://wallstreetcn.com/articles/3760844",
           "source": "华尔街见闻",
           "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "美国驻北约大使：不认为俄罗斯貌似计划攻击北约",
@@ -169,8 +186,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -180,8 +197,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "中国航天又一次成功发射",
@@ -191,8 +208,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "中国百舰齐发,日本吓傻了",
@@ -202,8 +219,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
@@ -213,8 +230,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "法国送给中国的雕塑有何意义",
@@ -224,63 +241,68 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "日本友人捐侵华日军家信内容残忍",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%8B%E4%BA%BA%E6%8D%90%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%E5%86%85%E5%AE%B9%E6%AE%8B%E5%BF%8D",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "杜三策留下钓鱼岛属于中国的铁证",
           "url": "https://www.baidu.com/s?wd=%E6%9D%9C%E4%B8%89%E7%AD%96%E7%95%99%E4%B8%8B%E9%92%93%E9%B1%BC%E5%B2%9B%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%93%81%E8%AF%81",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "拿下赛季首冠！雪盟滑雪职业联赛中国站谷爱凌夺金",
           "url": "https://m.thepaper.cn/newsDetail_forward_32117979",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "日本预测东京“直下型地震”后果",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%E4%B8%9C%E4%BA%AC%E2%80%9C%E7%9B%B4%E4%B8%8B%E5%9E%8B%E5%9C%B0%E9%9C%87%E2%80%9D%E5%90%8E%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
           "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "法国8比7日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD8%E6%AF%947%E6%97%A5%E6%9C%AC%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -290,8 +312,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
@@ -301,19 +323,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "日本预测东京“直下型地震”后果",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%E4%B8%9C%E4%BA%AC%E2%80%9C%E7%9B%B4%E4%B8%8B%E5%9E%8B%E5%9C%B0%E9%9C%87%E2%80%9D%E5%90%8E%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "报告：预计到2030年中国培育钻石市场规模将超千亿元",
@@ -323,8 +334,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "日本在与那国岛挖一锹土我军都能发现",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B2%9B%E6%8C%96%E4%B8%80%E9%94%B9%E5%9C%9F%E6%88%91%E5%86%9B%E9%83%BD%E8%83%BD%E5%8F%91%E7%8E%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "到2027年中国碳市场将基本覆盖工业领域主要排放行业",
@@ -334,19 +357,30 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "日本在与那国岛挖一锹土我军都能发现",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B2%9B%E6%8C%96%E4%B8%80%E9%94%B9%E5%9C%9F%E6%88%91%E5%86%9B%E9%83%BD%E8%83%BD%E5%8F%91%E7%8E%B0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "媒体：德国又给日本打了个样",
+          "url": "https://www.toutiao.com/trending/7580108781376421926/",
+          "source": "今日头条",
           "ranks": [
-            30
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时11分"
+        },
+        {
+          "title": "中国航海家南极行途中遭破坏性洗劫",
+          "url": "https://www.toutiao.com/trending/7580572136600158249/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
@@ -362,8 +396,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "豆包手机掀起了滔天巨浪",
@@ -373,19 +407,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "豆包AI手机深度体验",
           "url": "https://www.douyin.com/hot/2328540",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
@@ -395,36 +430,49 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时11分"
         }
       ]
     }
