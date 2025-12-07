@@ -1,51 +1,54 @@
 {
-  "generated_at": "2025-12-07T05:11:30.241186+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2025-12-07T09:04:37.417398+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 33,
+      "match_count": 43,
       "titles": [
-        {
-          "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
-          "url": "https://v.ifeng.com/c/8orrHH2uGqe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "中国科学院东莞材料科学与技术研究所成立",
-          "url": "https://wallstreetcn.com/livenews/3016327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "中国科学院东莞材料科学与技术研究所成立",
-          "url": "https://flash.jin10.com/detail/20251206223547702800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
         {
           "title": "韩国只认中国台湾,岛民炸锅",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347766&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8F%AA%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%2C%E5%B2%9B%E6%B0%91%E7%82%B8%E9%94%85",
           "source": "贴吧",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "中国科学院东莞材料科学与技术研究所成立",
+          "url": "https://wallstreetcn.com/livenews/3016327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "四名中国工程师印度出差遭恶性侵害？光伏锂电设备龙头：谣言！已报警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32121502",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "吴海龙：日本极有可能成为中俄在亚太地区最大威胁",
+          "url": "https://v.ifeng.com/c/8orrHH2uGqe",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -64,18 +67,6 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "四名中国工程师印度出差遭恶性侵害？光伏锂电设备龙头：谣言！已报警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32121502",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
           "title": "2027年“断奶”倒计时？美国要欧洲自己扛安全",
           "url": "https://news.ifeng.com/c/8os5Ke9cjEy",
           "source": "凤凰网",
@@ -87,15 +78,37 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "中国成功研制首台套110千瓦级热耦合海水直接电解制氢系统装置",
-          "url": "https://wallstreetcn.com/livenews/3016322",
+          "title": "日本防卫省：辽宁舰编队穿航宫古海峡赴西太平洋训练",
+          "url": "https://news.ifeng.com/c/8oseaj8SmWo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "中国贸促会会长任鸿斌率中国企业家代表团访问美国",
+          "url": "https://wallstreetcn.com/livenews/3016332",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "中国驻津巴布韦使馆发布安全提醒",
+          "url": "https://flash.jin10.com/detail/20251207082347685800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "日本欲在距台湾110公里处部署中程导弹，专家：解放军应对方法特别多",
@@ -106,8 +119,67 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "中国科学院东莞材料科学与技术研究所成立",
+          "url": "https://flash.jin10.com/detail/20251206223547702800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "美国给欧洲划死线：2027年，接管北约大部分常规防务能力",
+          "url": "https://news.ifeng.com/c/8osePl3pw9c",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美知名机器人公司 iRobot 爆雷，欠中国代工厂 25 亿元，还能偿还吗？它的运营出现了哪些问题？",
+          "url": "https://www.zhihu.com/question/1980551522103358611",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "中国成功研制首台套110千瓦级热耦合海水直接电解制氢系统装置",
+          "url": "https://wallstreetcn.com/livenews/3016322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
+          "url": "https://wallstreetcn.com/articles/3760844",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "法国8比7日本",
@@ -122,17 +194,6 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "美国将调整与中国的经济关系",
-          "url": "https://www.toutiao.com/trending/7580649501238181942/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
           "title": "蓝箭迈出可回收火箭第一步 中国商业航天还有哪些玩家？",
           "url": "https://www.cls.cn/detail/2221014",
           "source": "财联社热门",
@@ -140,31 +201,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "市场消息：美国和印度的调查人员将于下周在华盛顿特区会面，讨论印度航空空难事件。",
-          "url": "https://flash.jin10.com/detail/20251206214533190800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
-          "url": "https://wallstreetcn.com/articles/3760844",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
@@ -175,19 +213,129 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "美国将调整与中国的经济关系",
+          "url": "https://www.toutiao.com/trending/7580649501238181942/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "市场消息：美国和印度的调查人员将于下周在华盛顿特区会面，讨论印度航空空难事件。",
+          "url": "https://flash.jin10.com/detail/20251206214533190800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "美国驻北约大使：不认为俄罗斯貌似计划攻击北约",
           "url": "https://flash.jin10.com/detail/20251206213826963800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "中国百舰齐发,日本吓傻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "法国送给中国的雕塑有何意义",
+          "url": "https://www.toutiao.com/trending/7580737837784370694/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "拿下赛季首冠！雪盟滑雪职业联赛中国站谷爱凌夺金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32117979",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "日本友人捐侵华日军家信内容残忍",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%8B%E4%BA%BA%E6%8D%90%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%E5%86%85%E5%AE%B9%E6%AE%8B%E5%BF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "C罗入股美国AI初创公司",
+          "url": "https://wallstreetcn.com/livenews/3016306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
+          "url": "https://wallstreetcn.com/livenews/3016301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -212,45 +360,11 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "中国百舰齐发,日本吓傻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
           "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
           "url": "https://www.cls.cn/detail/2221654",
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "法国送给中国的雕塑有何意义",
-          "url": "https://www.toutiao.com/trending/7580737837784370694/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "日本友人捐侵华日军家信内容残忍",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%8B%E4%BA%BA%E6%8D%90%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%E5%86%85%E5%AE%B9%E6%AE%8B%E5%BF%8D",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -269,58 +383,12 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "拿下赛季首冠！雪盟滑雪职业联赛中国站谷爱凌夺金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32117979",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
           "title": "日本预测东京“直下型地震”后果",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%E4%B8%9C%E4%BA%AC%E2%80%9C%E7%9B%B4%E4%B8%8B%E5%9E%8B%E5%9C%B0%E9%9C%87%E2%80%9D%E5%90%8E%E6%9E%9C",
           "source": "百度热搜",
           "ranks": [
             26,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "国乒激战五盘力克日本队，豪取乒乓球混团世界杯8连胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118626",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "C罗入股美国AI初创公司",
-          "url": "https://wallstreetcn.com/livenews/3016306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
-          "url": "https://wallstreetcn.com/livenews/3016301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -361,13 +429,68 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
+          "title": "中国贸促会会长任鸿斌率中国企业家代表团访问美国",
+          "url": "https://flash.jin10.com/detail/20251207081954680800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国重返亚洲战略出现重大转向",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8D%E8%BF%94%E4%BA%9A%E6%B4%B2%E6%88%98%E7%95%A5%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%90%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国逾60城举行示威活动 抗议对委军事行动",
+          "url": "https://flash.jin10.com/detail/20251207080911907800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "中使馆提醒在津中国公民加强安全防范",
+          "url": "https://www.toutiao.com/trending/7580877429376974911/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "专家回应日本要用电磁炮打中国航母",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%A6%81%E7%94%A8%E7%94%B5%E7%A3%81%E7%82%AE%E6%89%93%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "媒体：德国又给日本打了个样",
           "url": "https://www.toutiao.com/trending/7580108781376421926/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -378,7 +501,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }
@@ -386,8 +509,20 @@
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "豆包手机掀起了滔天巨浪",
+          "url": "https://wallstreetcn.com/articles/3760851",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
           "url": "https://www.cls.cn/detail/2221699",
@@ -396,19 +531,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "豆包手机掀起了滔天巨浪",
-          "url": "https://wallstreetcn.com/articles/3760851",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -419,8 +543,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
@@ -432,13 +556,37 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "起床不要一睁眼就刷手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%8A%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9D%81%E7%9C%BC%E5%B0%B1%E5%88%B7%E6%89%8B%E6%9C%BA%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
@@ -452,16 +600,15 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
+          "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
+          "url": "https://wallstreetcn.com/articles/3760833",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -470,7 +617,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }
