@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T02:20:23.576118+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-09T05:12:35.300079+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 59,
+      "match_count": 101,
       "titles": [
         {
           "title": "日本发生7.5级地震",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "日本附近海域发生7.5级地震",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "日本发生7.5级地震",
@@ -37,19 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "外交部回应美国家安全战略涉台内容",
-          "url": "https://news.ifeng.com/c/8ov1hxszgs1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "日本地震",
@@ -59,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "日本发生7.5级地震",
@@ -70,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "12 月 8 日日本本州东部近海接连发生 7.5 、 5.6 级地震，气象厅发布海啸警报，目前情况如何？",
@@ -81,8 +70,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "外交部回应美国家安全战略涉台内容",
+          "url": "https://news.ifeng.com/c/8ov1hxszgs1",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "日本发布警报：预计将出现最高3米海啸",
@@ -92,8 +93,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "日本或出现3米高海啸",
@@ -103,8 +104,64 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "全球每10台盾构机7台中国造",
+          "url": "https://www.douyin.com/hot/2330871",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本近海7.5级强震",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B77.5%E7%BA%A7%E5%BC%BA%E9%9C%87%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "美国债市现“三十年罕见之分歧”：美联储降息前夜，美长债收益率却“不跌反涨”",
+          "url": "https://wallstreetcn.com/articles/3760885",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "中国游客遇日本地震：连滚带爬躲厕所",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%BF%9E%E6%BB%9A%E5%B8%A6%E7%88%AC%E8%BA%B2%E5%8E%95%E6%89%80",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "急眼了！美国多名高官集体下场",
+          "url": "https://news.ifeng.com/c/8ovba5jrouK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰不能放弃领土，美国正试图就此问题寻求妥协。",
@@ -129,26 +186,26 @@
           "time_info": "02时20分"
         },
         {
-          "title": "全球每10台盾构机7台中国造",
-          "url": "https://www.douyin.com/hot/2330871",
-          "source": "抖音",
+          "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
+          "url": "https://wallstreetcn.com/livenews/3017148",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "美国债市现“三十年罕见之分歧”：美联储降息前夜，美长债收益率却“不跌反涨”",
-          "url": "https://wallstreetcn.com/articles/3760885",
-          "source": "华尔街见闻",
+          "title": "日本误导国际社会、加速西南军事化部署有何用意？",
+          "url": "https://news.ifeng.com/c/8ovd5H5fmoW",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰与欧洲的方案建议应于明日准备就绪，以便与美国分享。",
@@ -162,37 +219,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "日本近海7.5级强震",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B77.5%E7%BA%A7%E5%BC%BA%E9%9C%87%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：我认为欧盟对X（原推特）罚款是不对的。 欧洲必须非常谨慎（小心）。 “稍晚”将谈及欧盟这个罚款问题。",
+          "url": "https://wallstreetcn.com/livenews/3017147",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "中国游客遇日本地震：连滚带爬躲厕所",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%BF%9E%E6%BB%9A%E5%B8%A6%E7%88%AC%E8%BA%B2%E5%8E%95%E6%89%80",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "急眼了！美国多名高官集体下场",
-          "url": "https://news.ifeng.com/c/8ovba5jrouK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "国际清算银行：美国关税冲击推动全球外汇交易量刷新纪录",
@@ -206,15 +241,250 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国总统特朗普：希望人们有钱购买医疗保险。",
+          "url": "https://wallstreetcn.com/livenews/3017146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "日本自卫队战机紧急起飞越发频繁",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E8%B6%8A%E5%8F%91%E9%A2%91%E7%B9%81%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本7.5级地震监控剧烈摇晃",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E5%89%A7%E7%83%88%E6%91%87%E6%99%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本地震当地居民拍下自家书柜倒塌",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8B%8D%E4%B8%8B%E8%87%AA%E5%AE%B6%E4%B9%A6%E6%9F%9C%E5%80%92%E5%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
+          "url": "https://wallstreetcn.com/articles/3760898",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "近3成美国人承认结账时“顺手牵羊”",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%913%E6%88%90%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%89%BF%E8%AE%A4%E7%BB%93%E8%B4%A6%E6%97%B6%E2%80%9C%E9%A1%BA%E6%89%8B%E7%89%B5%E7%BE%8A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "详解美国国家安全战略",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本多地已观测到30至40厘米海啸",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E5%B7%B2%E8%A7%82%E6%B5%8B%E5%88%B030%E8%87%B340%E5%8E%98%E7%B1%B3%E6%B5%B7%E5%95%B8",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2223257",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "新国安战略将如何影响美国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本为何24次兵推台海有事",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%9524%E6%AC%A1%E5%85%B5%E6%8E%A8%E5%8F%B0%E6%B5%B7%E6%9C%89%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "如何看待 2025WTT 中国香港总决赛签表？",
+          "url": "https://www.zhihu.com/question/1981414702337777720",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "亚洲最大“清道夫”落户中国洋浦港",
+          "url": "https://www.toutiao.com/trending/7580845639618117673/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "报告：美国防部计划大规模囤积关键矿产，全球能源转型遭“资源截流”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32128501",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "“蝎形”包围圈：日本高市早苗内阁遏华地缘战略初露端倪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130139",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本强震后发布海啸预警",
+          "url": "https://www.douyin.com/hot/2330931",
+          "source": "抖音",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "亚洲最大“清道夫”落户中国洋浦港",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%A4%A7%E2%80%9C%E6%B8%85%E9%81%93%E5%A4%AB%E2%80%9D%E8%90%BD%E6%88%B7%E4%B8%AD%E5%9B%BD%E6%B4%8B%E6%B5%A6%E6%B8%AF",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本强震不会对中国沿岸造成影响",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E4%B8%8D%E4%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B2%BF%E5%B2%B8%E9%80%A0%E6%88%90%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本正确认多座核电站情况",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%A1%AE%E8%AE%A4%E5%A4%9A%E5%BA%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "网传中国人国外旅游被印度小孩辱骂",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%BD%E5%A4%96%E6%97%85%E6%B8%B8%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%B0%8F%E5%AD%A9%E8%BE%B1%E9%AA%82&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "中国领馆提醒在日中国公民防范海啸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%98%B2%E8%8C%83%E6%B5%B7%E5%95%B8",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "日本突发7.6级地震，中国游客：连滚带爬躲到卫生间",
@@ -228,6 +498,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "日本突发7.5级地震，中国游客：连滚带爬躲到卫生间",
+          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "市场消息：日本政府在地震后将海啸预警降级为海啸提示。",
           "url": "https://flash.jin10.com/detail/20251209014802783800",
           "source": "金十数据",
@@ -239,37 +520,81 @@
           "time_info": "02时20分"
         },
         {
-          "title": "日本7.5级地震监控剧烈摇晃",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E5%89%A7%E7%83%88%E6%91%87%E6%99%83%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
+          "url": "https://flash.jin10.com/detail/20251209042938587800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "日本地震当地居民拍下自家书柜倒塌",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8B%8D%E4%B8%8B%E8%87%AA%E5%AE%B6%E4%B9%A6%E6%9F%9C%E5%80%92%E5%A1%8C",
-          "source": "百度热搜",
+          "title": "美国将为受关税政策影响农民提供120亿美元救助",
+          "url": "https://wallstreetcn.com/livenews/3017145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "11 月中国出口同比超预期增长 5.9% ，当月顺差为下半年以来最高，如何解读这一数据？",
+          "url": "https://www.zhihu.com/question/1981368783206634103",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：我想做正确的事。奈飞和派拉蒙都不是我的朋友。我得看看奈飞和派拉蒙的市场份额占比。",
+          "url": "https://flash.jin10.com/detail/20251209042850771800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
-          "url": "https://wallstreetcn.com/articles/3760898",
-          "source": "华尔街见闻",
+          "title": "特朗普：美国不会出现通缩",
+          "url": "https://wallstreetcn.com/livenews/3017143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "日本正确认多座核电站震后状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%A1%AE%E8%AE%A4%E5%A4%9A%E5%BA%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E9%9C%87%E5%90%8E%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普谈疫苗：我们正在研究很多方面。",
+          "url": "https://flash.jin10.com/detail/20251209042735171800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国银行：对于2026年高评级美国债券而言，一个鸽派的美联储构成关键风险。",
@@ -283,15 +608,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "详解美国国家安全战略",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3017142",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "驻柬大使馆：靠近柬泰边境的中国公民，避免前往边境地区",
@@ -305,6 +630,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
+          "url": "https://flash.jin10.com/detail/20251209042652565800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "银行业CEO们将与美国国会参议员们讨论加密货币市场（监管）制度。 花旗集团、美国银行、富国银行的CEO们会见了相关的参议员。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3017102",
           "source": "华尔街见闻-快讯",
@@ -314,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "Medline Inc.寻求2025年进行53.7亿美元规模的美国IPO。",
+          "url": "https://wallstreetcn.com/livenews/3017151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -327,15 +674,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2223257",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
+          "url": "https://flash.jin10.com/detail/20251209042439691800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
@@ -349,26 +696,92 @@
           "time_info": "02时20分"
         },
         {
-          "title": "近3成美国人承认结账时“顺手牵羊”",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%913%E6%88%90%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%89%BF%E8%AE%A4%E7%BB%93%E8%B4%A6%E6%97%B6%E2%80%9C%E9%A1%BA%E6%89%8B%E7%89%B5%E7%BE%8A%E2%80%9D",
-          "source": "百度热搜",
+          "title": "美国财政部长贝森特：仍然在为了一份印度贸易协议而努力。",
+          "url": "https://wallstreetcn.com/livenews/3017144",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "如何看待 2025WTT 中国香港总决赛签表？",
-          "url": "https://www.zhihu.com/question/1981414702337777720",
-          "source": "知乎",
+          "title": "日本一核设施乏燃料池水溢出",
+          "url": "https://flash.jin10.com/detail/20251209042346381800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国驻加拿大大使：特朗普不想终止美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251209042238279800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国参议院多数党领袖John Thune：司法部必须严厉看待Paramount敌意收购华纳兄弟探索公司。",
+          "url": "https://wallstreetcn.com/livenews/3017140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们不得不这么做，我们将最终对来自加拿大的化肥征收高额关税。",
+          "url": "https://flash.jin10.com/detail/20251209041854398800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "迪尔农机/约翰迪尔股价短线转跌，美国总统特朗普要求拖拉机行业立即降价。",
+          "url": "https://wallstreetcn.com/livenews/3017139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "日本青森县东部海域发生7.6级地震：触发海啸预警，东京震感明显",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132836",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
+          "url": "https://flash.jin10.com/detail/20251209041755526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "国际原子能机构（IAEA）：日本声称，福岛核电站（Fukushima NPP）目前还没有发现异常的（核辐射）迹象。",
@@ -382,15 +795,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "亚洲最大“清道夫”落户中国洋浦港",
-          "url": "https://www.toutiao.com/trending/7580845639618117673/",
-          "source": "今日头条",
+          "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。 针对拖拉机行业撤销环境监管。 立即对卡车行业降低环境限制。 拖拉机行业必须立即降价。",
+          "url": "https://wallstreetcn.com/livenews/3017134",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "日本首相高市早苗：截至目前，获知地震已造成7人受伤。",
@@ -415,48 +828,37 @@
           "time_info": "02时20分"
         },
         {
-          "title": "报告：美国防部计划大规模囤积关键矿产，全球能源转型遭“资源截流”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32128501",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
+          "url": "https://flash.jin10.com/detail/20251209041301695800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "“蝎形”包围圈：日本高市早苗内阁遏华地缘战略初露端倪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130139",
-          "source": "澎湃新闻",
+          "title": "奈飞：美国总统特朗普对（本公司收购华纳兄弟探索公司这笔）交易的兴趣“与我们一样”。 特朗普“绝对理解电视行业”。 特朗普“热爱娱乐产业”。",
+          "url": "https://wallstreetcn.com/livenews/3017132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国农业部长：膳食指南将于一月初发布。",
+          "url": "https://flash.jin10.com/detail/20251209041235978800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "亚洲最大“清道夫”落户中国洋浦港",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%A4%A7%E2%80%9C%E6%B8%85%E9%81%93%E5%A4%AB%E2%80%9D%E8%90%BD%E6%88%B7%E4%B8%AD%E5%9B%BD%E6%B4%8B%E6%B5%A6%E6%B8%AF",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "新国安战略将如何影响美国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
@@ -470,26 +872,59 @@
           "time_info": "02时20分"
         },
         {
-          "title": "日本强震后发布海啸预警",
-          "url": "https://www.douyin.com/hot/2330931",
-          "source": "抖音",
+          "title": "美国私营医疗保健公司Medline计划通过今年美国规模最大的IPO筹集53.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209041231164800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国参议院民主党成员、“反垄断斗士”Warren声明：Paramount Skydance的敌意收购要约触发“五级反垄断警报”。",
+          "url": "https://wallstreetcn.com/livenews/3017127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国财长贝森特：我们仍在就印度贸易协议进行磋商。",
+          "url": "https://flash.jin10.com/detail/20251209040725060800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "日本强震不会对中国沿岸造成影响",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E4%B8%8D%E4%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B2%BF%E5%B2%B8%E9%80%A0%E6%88%90%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
+          "title": "美国财政部：在最新两周报告期，投资基金买入515.19亿美元2030年11月30日到期的5年期国债，而上月为518.32亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209040444678800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国财政部：在最新两周报告期，外国投资者买入2027年11月30日到期的2年期国债91.82亿美元，而上月为69.37亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209040338504800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "基因编辑公司Wave Life Sciences（WVE）涨138.3%，一度涨143%创其美国IPO以来最大盘中涨幅。 该公司围绕其实验性减肥药WVE-007发布早期临床试验数据。",
@@ -503,26 +938,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "日本正确认多座核电站情况",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%A1%AE%E8%AE%A4%E5%A4%9A%E5%BA%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E6%83%85%E5%86%B5",
-          "source": "百度热搜",
+          "title": "美国参议院共和党领袖图恩：美国司法部必须认真审视派拉蒙天舞收购华纳兄弟探索公司(WBD.O)的提议，这起收购交易可能会引发严重的垄断问题。",
+          "url": "https://flash.jin10.com/detail/20251209035527083800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "日本为何24次兵推台海有事",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%9524%E6%AC%A1%E5%85%B5%E6%8E%A8%E5%8F%B0%E6%B5%B7%E6%9C%89%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.650%，投标倍数2.73。 拍卖六个月期国债，得标利率3.580%，投标倍数3.01。",
@@ -536,15 +960,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "网传中国人国外旅游被印度小孩辱骂",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%BD%E5%A4%96%E6%97%85%E6%B8%B8%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%B0%8F%E5%AD%A9%E8%BE%B1%E9%AA%82&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：农业设备已经变得太贵了。",
+          "url": "https://flash.jin10.com/detail/20251209034915212800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "国际原子能机构：已获日本通报，截至目前，日本地震和海啸预警发布后，福岛核电站现场未发现任何异常情况。",
@@ -558,6 +982,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国总统特朗普：我们将取消那些规定，并希望降低农用设备的价格。",
+          "url": "https://flash.jin10.com/detail/20251209034843942800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国对中国的战略真有重大改变吗",
           "url": "https://www.toutiao.com/trending/7580830959596077110/",
           "source": "今日头条",
@@ -569,15 +1004,26 @@
           "time_info": "02时20分"
         },
         {
-          "title": "日本多地已观测到30至40厘米海啸",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E5%B7%B2%E8%A7%82%E6%B5%8B%E5%88%B030%E8%87%B340%E5%8E%98%E7%B1%B3%E6%B5%B7%E5%95%B8",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：我们将取消许多影响拖拉机企业的环境法规。",
+          "url": "https://flash.jin10.com/detail/20251209034748351800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "白宫：美国汽油价格正跌至多年低位",
+          "url": "https://flash.jin10.com/detail/20251209034745462800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "市场消息：日本首次发布北海道-三陆近海地震警报。",
@@ -602,15 +1048,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "中国领馆提醒在日中国公民防范海啸",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%98%B2%E8%8C%83%E6%B5%B7%E5%95%B8",
-          "source": "百度热搜",
+          "title": "美国财政部拍卖三年期国债，得标利率3.614%，投标倍数2.64。",
+          "url": "https://wallstreetcn.com/livenews/3017112",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "纽约联储调查：11月通胀预期保持稳定，但美国家庭对财务状况更悲观",
@@ -622,6 +1068,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国国会预算办公室（CBO）预计，美国11月预算赤字为1550亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209034451535800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "乌克兰：乌方寻求经过美国国会山审批的安全保障。",
+          "url": "https://wallstreetcn.com/livenews/3017111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "今年中国药食同源市场规模达3700亿",
@@ -644,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "强震发生后，日本警告后续或有更大地震",
+          "url": "https://wallstreetcn.com/livenews/3017120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "提醒在日中国公民防海啸",
@@ -695,11 +1174,12 @@
           "url": "https://www.zhihu.com/question/1981321831689511959",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         }
       ]
     }
