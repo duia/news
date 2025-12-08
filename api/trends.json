@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T17:20:24.048163+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-12-08T20:25:44.791189+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 162,
+      "match_count": 180,
       "titles": [
         {
           "title": "我驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉，如何看待日方这一挑衅行为？",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 17时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 20时25分]"
         },
         {
           "title": "国际机构看中国经济 关键词亮了",
@@ -97,6 +98,37 @@
           "time_info": "[02时16分 ~ 11时52分]"
         },
         {
+          "title": "8比1横扫日本,国乒碾压式夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347786&amp;topic_name=8%E6%AF%941%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%2C%E5%9B%BD%E4%B9%92%E7%A2%BE%E5%8E%8B%E5%BC%8F%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            16,
+            17,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 20时25分]"
+        },
+        {
+          "title": "中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32126271",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            15,
+            12,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 20时25分]"
+        },
+        {
           "title": "日本飞机滋扰中国航母训练，驻日大使提出严正交涉",
           "url": "https://news.ifeng.com/c/8otfXJlWYaI",
           "source": "凤凰网",
@@ -123,20 +155,6 @@
           "time_info": "[02时16分 ~ 17时20分]"
         },
         {
-          "title": "8比1横扫日本,国乒碾压式夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347786&amp;topic_name=8%E6%AF%941%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%2C%E5%9B%BD%E4%B9%92%E7%A2%BE%E5%8E%8B%E5%BC%8F%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            16,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 17时20分]"
-        },
-        {
           "title": "日频繁制造地区紧张局势，军事专家：日本搞小动作解放军尽在掌握",
           "url": "https://m.thepaper.cn/newsDetail_forward_32125442",
           "source": "澎湃新闻",
@@ -147,21 +165,6 @@
             14,
             10,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 17时20分]"
-        },
-        {
-          "title": "中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32126271",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            15,
-            12,
-            14
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -192,6 +195,18 @@
           "time_info": "[02时17分 ~ 05时10分]"
         },
         {
+          "title": "1178名中国籍涉诈人员被押解回国",
+          "url": "https://search.bilibili.com/all?keyword=1178%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
           "title": "美国家安全战略报告提出“西半球优先”，美防长称门罗主义“比以往任何时候都更加强大”",
           "url": "https://wallstreetcn.com/articles/3760856",
           "source": "华尔街见闻",
@@ -202,6 +217,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 08时59分]"
+        },
+        {
+          "title": "日本记者街头采访找不到中国游客",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E8%A1%97%E5%A4%B4%E9%87%87%E8%AE%BF%E6%89%BE%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时25分]"
         },
         {
           "title": "洪秀柱：小日本不要太嚣张，中日血海深仇还没了",
@@ -239,15 +265,15 @@
           "time_info": "14时22分"
         },
         {
-          "title": "日方挑衅中国收割民意非常危险",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%E6%94%B6%E5%89%B2%E6%B0%91%E6%84%8F%E9%9D%9E%E5%B8%B8%E5%8D%B1%E9%99%A9",
-          "source": "百度热搜",
+          "title": "外交部回应美国家安全战略涉台内容",
+          "url": "https://news.ifeng.com/c/8ov1hxszgs1",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "20时25分"
         },
         {
           "title": "日本财务大臣片山皋月：如有必要，将采取适当行动。",
@@ -289,7 +315,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -347,6 +373,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时16分 ~ 14时22分]"
+        },
+        {
+          "title": "美国债市现“三十年罕见之分歧”：美联储降息前夜，美长债收益率却“不跌反涨”",
+          "url": "https://wallstreetcn.com/articles/3760885",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 20时25分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯对（和平）协议没意见，但不确定泽连斯基是否同意。",
@@ -437,26 +476,26 @@
           "time_info": "14时22分"
         },
         {
-          "title": "日本记者街头采访找不到中国游客",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E8%A1%97%E5%A4%B4%E9%87%87%E8%AE%BF%E6%89%BE%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2",
-          "source": "百度热搜",
+          "title": "中国中冶：拟607亿元出售中冶置业、中冶铜锌等资产给五矿地产控股和中国五矿",
+          "url": "https://wallstreetcn.com/livenews/3016983",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "20时25分"
         },
         {
-          "title": "1178名中国籍涉诈人员被押解回国",
-          "url": "https://search.bilibili.com/all?keyword=1178%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD",
+          "title": "外交部回应日本炒作雷达照射",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%82%92%E4%BD%9C%E9%9B%B7%E8%BE%BE%E7%85%A7%E5%B0%84",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "20时25分"
         },
         {
           "title": "日本财务大臣片山皋月：对汇市走势感到担忧。",
@@ -470,6 +509,17 @@
           "time_info": "14时22分"
         },
         {
+          "title": "国际清算银行：非美国投资者仍面临美元潜在损失的风险。",
+          "url": "https://flash.jin10.com/detail/20251208200142367800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "本周中国央行公开市场将有6638亿元逆回购到期",
           "url": "https://wallstreetcn.com/livenews/3016522",
           "source": "华尔街见闻-快讯",
@@ -481,6 +531,28 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普就美国与加拿大贸易争端最新发声",
+          "url": "https://wallstreetcn.com/livenews/3016981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "日本战机擅闯中方演训区，外交部回应",
+          "url": "https://www.cls.cn/detail/2222794",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "日本财务大臣片山皋月：近期出现单边、快速的波动。",
           "url": "https://flash.jin10.com/detail/20251208135137848800",
           "source": "金十数据",
@@ -490,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "国际清算银行：新冠疫情后利率上升，导致投资者在美国4月关税实施前纷纷放弃美元对冲。",
+          "url": "https://flash.jin10.com/detail/20251208200108665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "中国外汇交易中心（CFETS）：12月5日人民币汇率指数按周跌0.27至97.65。",
@@ -563,6 +646,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 08时59分]"
+        },
+        {
+          "title": "日方挑衅中国收割民意非常危险",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%E6%94%B6%E5%89%B2%E6%B0%91%E6%84%8F%E9%9D%9E%E5%B8%B8%E5%8D%B1%E9%99%A9",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时25分]"
         },
         {
           "title": "【金十数据整理：周日重要消息汇总】 国内新闻： <span class=\"section-news\">1. 北京大兴机场年旅客吞吐量首次突破5000万人次。</span> <span class=\"section-news\">2. 2025医保药品目录公布：新增药品114种，50种为1类创新药。</span> <span class=\"section-news\">3. 辽宁舰正常训练遭日机滋扰，中国海军严正要求日方停止污蔑抹黑。</span> <span class=\"section-news\">4. 百度：正就分拆昆仑芯进行上市进行评估，并不保证分拆及上市将会进行。</span> <span class=\"section-news\">5. 中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉。</span> <span class=\"section-news\">6. 中国央行：中国11月末黄金储备报7412万盎司，环比增加3万盎司，为连续第13个月增持黄金。</span> <span class=\"section-news\">7. 五粮液回应核心单品价格降至900元每瓶：第八代五粮液出厂价并未调整，市场所传“降价”，实为公司相关补贴支持政策落地后的价格变化。</span> 国际新闻： <span class=\"section-news\">1. 瑞银拟在2027年前再削减万名职位。</span> <span class=\"section-news\">2. 泽连斯基：本周俄向乌发射超1600架无人机。</span> <span class=\"section-news\">3. 以色列总理内塔尼亚胡拒绝退出政坛换取赦免。</span> <span class=\"section-news\">4. 尼日利亚外长：尼寻求成为金砖国家正式成员。</span> <span class=\"section-news\">5. 泰柬边境再发冲突，泰称两人受伤，柬称未还击。</span> <span class=\"section-news\">6. 消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。</span>",
@@ -686,18 +781,6 @@
           "time_info": "[02时16分 ~ 08时59分]"
         },
         {
-          "title": "美国债市现“三十年罕见之分歧”：美联储降息前夜，美长债收益率却“不跌反涨”",
-          "url": "https://wallstreetcn.com/articles/3760885",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 17时20分]"
-        },
-        {
           "title": "蓝箭迈出可回收火箭第一步 中国商业航天还有哪些玩家？",
           "url": "https://www.cls.cn/detail/2221014",
           "source": "财联社热门",
@@ -757,6 +840,18 @@
           "time_info": "[02时16分 ~ 05时10分]"
         },
         {
+          "title": "美高官齐发声：中国一直在遵守相关约定",
+          "url": "https://news.ifeng.com/c/8ouyQeEh5wg",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
           "title": "美国财政部长贝森特：预计通胀将在2026年“强有力地”下降。 预计经济将在今年增长3%。",
           "url": "https://wallstreetcn.com/livenews/3016435",
           "source": "华尔街见闻-快讯",
@@ -769,6 +864,18 @@
           "time_info": "[02时17分 ~ 05时10分]"
         },
         {
+          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
+          "url": "https://wallstreetcn.com/articles/3760898",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
           "title": "中国央行连续第13个月增持黄金",
           "url": "https://www.douyin.com/hot/2329192",
           "source": "抖音",
@@ -779,6 +886,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 08时59分]"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时25分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储、澳大利亚、瑞士与加拿大利率决议接连登场；中国公布11月CPI与社融数据",
@@ -898,15 +1017,26 @@
           "time_info": "[02时16分 ~ 02时17分]"
         },
         {
-          "title": "美高官齐发声：中国一直在遵守相关约定",
-          "url": "https://news.ifeng.com/c/8ouyQeEh5wg",
-          "source": "凤凰网",
+          "title": "国际清算银行：美元对冲比率仍相当低，但随着美国利率下降，这一比率可能会回升。",
+          "url": "https://flash.jin10.com/detail/20251208200057776800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "20时25分"
+        },
+        {
+          "title": "中国台湾附近发生5.3级左右地震",
+          "url": "https://wallstreetcn.com/livenews/3016976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
@@ -964,15 +1094,15 @@
           "time_info": "11时52分"
         },
         {
-          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
-          "url": "https://wallstreetcn.com/articles/3760898",
-          "source": "华尔街见闻",
+          "title": "又发癫！前加拿大情报高官污蔑：西方大学里有中国间谍",
+          "url": "https://news.ifeng.com/c/8ov9HMaDqAx",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "20时25分"
         },
         {
           "title": "美国财长贝森特：美国到今年年底将实现3%的GDP增长。",
@@ -1019,6 +1149,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "“三农”成绩单传递中国稳定性和确定性",
+          "url": "https://www.toutiao.com/trending/7581286345244966950/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "日本预测大地震或致近2万人遇难",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%88%96%E8%87%B4%E8%BF%912%E4%B8%87%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -1050,17 +1191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
-        },
-        {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "日本想在太空部署“航母”？",
@@ -1102,7 +1232,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1135,7 +1265,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1228,6 +1358,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "日媒：日本前外交官、学者等要求高市早苗撤回错误言论，敦促高市政府“不要装成受害者”",
+          "url": "https://wallstreetcn.com/livenews/3016964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "学者：日本自卫队飞机是在碰瓷",
           "url": "https://www.toutiao.com/trending/7581253749365018118/",
           "source": "今日头条",
@@ -1245,7 +1386,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1289,7 +1430,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1377,7 +1518,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1391,6 +1532,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "报告：美国防部计划大规模囤积关键矿产，全球能源转型遭“资源截流”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32128501",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "日本记者找不到中国游客采访",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E6%89%BE%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%87%87%E8%AE%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "日本第三季度GDP私人消费季率终值 0.2%，预期0.10%，前值0.10%。",
@@ -1432,7 +1595,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1523,6 +1686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "泽连斯基：在与美国的谈判中尚未就乌克兰顿巴斯问题达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3016950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国真的要重返西半球吗",
@@ -1652,7 +1826,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1756,6 +1930,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "天齐锂业：向中国银行间市场交易商协会申请注册发行不超过人民币60亿元（含60亿元）的债务融资工具。",
+          "url": "https://wallstreetcn.com/livenews/3016941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "德国外长访华“有求于中国”",
           "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%A4%96%E9%95%BF%E8%AE%BF%E5%8D%8E%E2%80%9C%E6%9C%89%E6%B1%82%E4%BA%8E%E4%B8%AD%E5%9B%BD%E2%80%9D",
           "source": "百度热搜",
@@ -1844,6 +2029,17 @@
           "time_info": "14时22分"
         },
         {
+          "title": "日本江崎格力高公司将回收约600万个产品",
+          "url": "https://wallstreetcn.com/livenews/3016932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "郭正亮：日本在与那国岛部署导弹没用",
           "url": "https://www.toutiao.com/trending/7580488828797403155/",
           "source": "今日头条",
@@ -1853,6 +2049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "近3成美国人在结账时“顺手牵羊”",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%913%E6%88%90%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%9C%A8%E7%BB%93%E8%B4%A6%E6%97%B6%E2%80%9C%E9%A1%BA%E6%89%8B%E7%89%B5%E7%BE%8A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "日本11月经济观察家前景指数 50.3，预期 53.1，前值 53.1。",
@@ -1869,7 +2076,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么说大模型训练很难？",
@@ -1881,6 +2088,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 11时52分]"
+        },
+        {
+          "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+          "url": "https://flash.jin10.com/detail/20251208200524592800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://flash.jin10.com/detail/20251208200328989800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -1895,6 +2135,18 @@
           "time_info": "[14时22分 ~ 17时20分]"
         },
         {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
           "url": "https://www.cls.cn/detail/2222209",
           "source": "财联社热门",
@@ -1905,17 +2157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 14时22分]"
-        },
-        {
-          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
-          "url": "https://www.cls.cn/detail/2222429",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         }
       ]
     },
@@ -1930,7 +2171,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1951,11 +2192,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%9D%A0%E5%B4%96+%E4%BA%8B%E5%90%8E%E5%8F%91%E6%96%87%E7%A6%8F%E5%A4%A7%E5%91%BD%E5%A4%A7",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时25分]"
         }
       ]
     }
