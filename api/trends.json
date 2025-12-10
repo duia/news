@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:53:14.240189+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2025-12-10T14:21:55.815097+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 148,
+      "match_count": 165,
       "titles": [
         {
           "title": "玉渊谭天披露：音频实证日本有意滋扰中方训练",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 11时53分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 14时21分]"
         },
         {
           "title": "原中国华融国际控股有限公司总经理白天辉被执行死刑",
@@ -38,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 11时53分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 14时21分]"
         },
         {
           "title": "在南海坠毁的2架美国军机已被捞出",
@@ -58,17 +59,18 @@
           "time_info": "[02时17分 ~ 11时53分]"
         },
         {
-          "title": "音频实证日本有意滋扰中方训练",
-          "url": "https://www.toutiao.com/trending/7581049100923142153/",
-          "source": "今日头条",
+          "title": "媒体：德云社被投诉内容低俗，中国曲协回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32140947",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
+            19,
             8,
-            17
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[02时17分 ~ 11时53分]"
+          "time_info": "[05时11分 ~ 14时21分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -76,11 +78,89 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 11时53分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 14时21分]"
+        },
+        {
+          "title": "音频实证日本有意滋扰中方训练",
+          "url": "https://www.toutiao.com/trending/7581049100923142153/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 14时21分]"
+        },
+        {
+          "title": "辽宁舰遭滋扰,录音铁证打脸日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347846&amp;topic_name=%E8%BE%BD%E5%AE%81%E8%88%B0%E9%81%AD%E6%BB%8B%E6%89%B0%2C%E5%BD%95%E9%9F%B3%E9%93%81%E8%AF%81%E6%89%93%E8%84%B8%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 14时21分]"
+        },
+        {
+          "title": "释新闻｜日本青森县近海强震，未来一周大规模地震风险多高？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137168",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 14时21分]"
+        },
+        {
+          "title": "日本真有事,近海突发7.5级强震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 14时21分]"
+        },
+        {
+          "title": "中国驻新潟总领馆发言人就《山形新闻》妄议台湾问题发表谈话",
+          "url": "https://news.ifeng.com/c/8oxvDFyEYpC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 14时21分]"
+        },
+        {
+          "title": "日本地震是中国制造的？日方辟谣",
+          "url": "https://www.toutiao.com/trending/7582045989461200410/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 14时21分]"
         },
         {
           "title": "外交官辟谣：这是在中国 不是日本",
@@ -92,31 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "辽宁舰遭滋扰,录音铁证打脸日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347846&amp;topic_name=%E8%BE%BD%E5%AE%81%E8%88%B0%E9%81%AD%E6%BB%8B%E6%89%B0%2C%E5%BD%95%E9%9F%B3%E9%93%81%E8%AF%81%E6%89%93%E8%84%B8%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "释新闻｜日本青森县近海强震，未来一周大规模地震风险多高？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137168",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 11时53分]"
         },
         {
           "title": "在中国抱怨菜价贵是幸福的烦恼",
@@ -133,40 +188,6 @@
           "time_info": "[02时17分 ~ 11时53分]"
         },
         {
-          "title": "日本真有事,近海突发7.5级强震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 11时53分]"
-        },
-        {
-          "title": "日本地震是中国制造的？日方辟谣",
-          "url": "https://www.toutiao.com/trending/7582045989461200410/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "中国驻新潟总领馆发言人就《山形新闻》妄议台湾问题发表谈话",
-          "url": "https://news.ifeng.com/c/8oxvDFyEYpC",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
           "title": "中国曲协回应郭德纲相声被举报低俗",
           "url": "https://www.toutiao.com/trending/7581538800774561855/",
           "source": "今日头条",
@@ -178,30 +199,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 09时01分]"
-        },
-        {
-          "title": "家猫何时传入中国",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%B6%E7%8C%AB%E4%BD%95%E6%97%B6%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "媒体：德云社被投诉内容低俗，中国曲协回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32140947",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时11分 ~ 11时53分]"
         },
         {
           "title": "郭德纲相声被举报低俗 中国曲协回应",
@@ -237,6 +234,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "日方：中俄军机联合飞行是对日本示威",
+          "url": "https://www.toutiao.com/trending/7581790954814750747/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "美国货币监理署主管：仔细筛选了数以万计的客户有关去银行化的投诉。",
           "url": "https://flash.jin10.com/detail/20251210050431898800",
           "source": "金十数据",
@@ -257,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "南非贸易部长发言人：我们继续游说，要求以当前形式延长美国贸易倡议《非洲成长与机会法案》（AGOA）。",
+          "url": "https://flash.jin10.com/detail/20251210140609897800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -287,9 +306,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "中国经济破浪前行",
+          "url": "https://www.toutiao.com/trending/7582079823120453170/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国货币监理署主管：银行流动性改革更有可能是2026年的问题。",
@@ -331,9 +361,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "年度中国经济热词",
+          "url": "https://www.douyin.com/hot/2332177",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "默茨喊话美国：就算和欧洲过不下去，至少别撇下德国",
@@ -380,6 +421,18 @@
           "time_info": "09时01分"
         },
         {
+          "title": "家猫何时传入中国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%B6%E7%8C%AB%E4%BD%95%E6%97%B6%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 14时21分]"
+        },
+        {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
           "url": "https://flash.jin10.com/detail/20251210083007668800",
           "source": "金十数据",
@@ -389,6 +442,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "日本地震是中国制造？日本政府辟谣",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%EF%BC%9F%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 14时21分]"
         },
         {
           "title": "梁文锋杜梦然入选《自然》杂志十大科学人物，这对于中国科学界意味着什么？",
@@ -476,6 +541,17 @@
           "time_info": "[09时00分 ~ 11时53分]"
         },
         {
+          "title": "美国《国家安全战略》报告8次提到台湾，国台办回应",
+          "url": "https://news.ifeng.com/c/8oy14odqSri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 14时21分]"
+        },
+        {
           "title": "美国防部长：漠视中国军力愚蠢而失敬",
           "url": "https://www.toutiao.com/trending/7581056122527154218/",
           "source": "今日头条",
@@ -556,6 +632,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 05时12分]"
+        },
+        {
+          "title": "“英国与美国狼狈为奸，蓄意诬蔑中国”",
+          "url": "https://news.ifeng.com/c/8oxpcKw1Jke",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 14时21分]"
+        },
+        {
+          "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130207",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 14时21分]"
         },
         {
           "title": "中国美院原教授在伦敦因车祸去世，朋友：他在斑马线上被撞倒",
@@ -677,17 +776,6 @@
           "time_info": "[02时17分 ~ 05时12分]"
         },
         {
-          "title": "美国《国家安全战略》报告8次提到台湾，国台办回应",
-          "url": "https://news.ifeng.com/c/8oy14odqSri",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
           "title": "中国景点被误标地点为日本",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%99%AF%E7%82%B9%E8%A2%AB%E8%AF%AF%E6%A0%87%E5%9C%B0%E7%82%B9%E4%B8%BA%E6%97%A5%E6%9C%AC%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -723,31 +811,9 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "“英国与美国狼狈为奸，蓄意诬蔑中国”",
-          "url": "https://news.ifeng.com/c/8oxpcKw1Jke",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
           "title": "日媒：中国军机照射两次",
           "url": "https://www.toutiao.com/trending/7580934195066716198/",
           "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "日本地震是中国制造？日本政府辟谣",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%EF%BC%9F%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3",
-          "source": "百度热搜",
           "ranks": [
             14
           ],
@@ -783,17 +849,6 @@
           "source": "今日头条",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130207",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -950,7 +1005,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -983,7 +1038,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -1019,6 +1074,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "中国经济长期向好具有坚实支撑",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%95%BF%E6%9C%9F%E5%90%91%E5%A5%BD%E5%85%B7%E6%9C%89%E5%9D%9A%E5%AE%9E%E6%94%AF%E6%92%91%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "中国让“冷资源”释放“热动能”",
+          "url": "https://www.toutiao.com/trending/7581256329923248137/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "EIA短期能源展望报告：预计2025年美国天然气消费量为918亿立方英尺/日，此前预期为916.0亿立方英尺/日。",
@@ -1093,7 +1170,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -1162,6 +1239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "港股内房股走高，万科企业一度涨超19%，融信中国、融创中国涨超12%，世茂集团涨11%，中国金茂涨逾9%，碧桂园涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3018204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国12月EIA当年天然气产量预期 1077亿立方英尺/日，前值1077亿立方英尺/日。",
@@ -1351,6 +1439,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "软银集团将向Rapidus追加投资。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3018189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "SK海力士上涨4%，之前该公司表示正在考虑赴美国上市。",
           "url": "https://wallstreetcn.com/livenews/3017963",
           "source": "华尔街见闻-快讯",
@@ -1360,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "国台办回应韩国标示“中国台湾”",
+          "url": "https://www.toutiao.com/trending/7581408570866712595/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
@@ -1390,9 +1500,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "印尼财长称，印尼预计不久后与美国达成关税协议，该关税协议将惠及双方。",
+          "url": "https://wallstreetcn.com/livenews/3018185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "乌克兰总理：已与美国财长贝森特讨论了扩大乌克兰购买美国液化天然气的能力。",
@@ -1423,9 +1544,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "日韩两国领导人正筹备于1月13日至14日举行会晤。（日本每日新闻）",
+          "url": "https://wallstreetcn.com/livenews/3018181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "乌克兰总理：已与美国财长贝森特通话。",
@@ -1478,7 +1610,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -1533,9 +1665,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "美国知名网红穿中山装走红毯",
+          "url": "https://www.toutiao.com/trending/7581324144281862186/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "EIA短期能源展望报告：预计美国12月原油日均产量为1385万桶，11月为1386万桶；预计1月原油日均产量为1371万桶。",
@@ -1560,6 +1703,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "全面解读美国最新安全战略",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "日本11月国内企业商品物价指数月率 0.3%，预期0.30%，前值0.40%。",
           "url": "https://flash.jin10.com/detail/20251210075003638800",
           "source": "金十数据",
@@ -1571,13 +1725,24 @@
           "time_info": "09时01分"
         },
         {
+          "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金未实现利润估计约为46万亿日元。",
+          "url": "https://flash.jin10.com/detail/20251210130715797800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "中国银行间市场隔夜质押式回购加权利率早盘跌破1.28%，创2023年8月4日以来新低。",
           "url": "https://wallstreetcn.com/livenews/3018076",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -1604,15 +1769,37 @@
           "time_info": "05时12分"
         },
         {
+          "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金市值估计约为83万亿日元。",
+          "url": "https://flash.jin10.com/detail/20251210130703877800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "日本首相高市早苗就国债收益率走高一事回应称，正密切关注市场动向。 我没有立场来评价植田和男在国会上的言论。 综合考虑国债收益率上涨的影响是很关键的。",
           "url": "https://wallstreetcn.com/livenews/3018075",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "日本8日强震与2011年大地震机制相似",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC8%E6%97%A5%E5%BC%BA%E9%9C%87%E4%B8%8E2011%E5%B9%B4%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%9C%BA%E5%88%B6%E7%9B%B8%E4%BC%BC",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "EIA上调今年美国石油产量预测至1361万桶/日",
@@ -1635,6 +1822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行行长植田和男表示，截至9月末，日本央行持有的ETF市值预计约为83万亿日元。 截至9月末，日本央行所持ETF的未实现盈利规模预计约为46万亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3018169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.650%，投标倍数2.89。",
@@ -1684,8 +1882,31 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入",
+          "url": "https://wallstreetcn.com/livenews/3018228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时00分 ~ 14时21分]"
+        },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
           "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
@@ -1711,17 +1932,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 09时01分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时53分]"
         },
         {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
@@ -1782,6 +1992,56 @@
       ]
     },
     {
+      "keyword_group": "小米 雷军",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米将承担门店调整损失约2726万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B0%86%E6%89%BF%E6%8B%85%E9%97%A8%E5%BA%97%E8%B0%83%E6%95%B4%E6%8D%9F%E5%A4%B1%E7%BA%A62726%E4%B8%87%E5%85%83%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
+        },
+        {
+          "title": "小米将承担门店调整损失约2726万元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%B0%86%E6%89%BF%E6%8B%85%E9%97%A8%E5%BA%97%E8%B0%83%E6%95%B4%E6%8D%9F%E5%A4%B1%E7%BA%A62726%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "小米澎湃OS微信聊天能发实况图",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%83%BD%E5%8F%91%E5%AE%9E%E5%86%B5%E5%9B%BE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
+        },
+        {
+          "title": "报道：小米拟涉足AI教育",
+          "url": "https://wallstreetcn.com/livenews/3018174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "手机 华为 麒麟",
       "match_count": 3,
       "titles": [
@@ -1813,34 +2073,6 @@
           "source": "抖音",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 雷军",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米将承担门店调整损失约2726万元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B0%86%E6%89%BF%E6%8B%85%E9%97%A8%E5%BA%97%E8%B0%83%E6%95%B4%E6%8D%9F%E5%A4%B1%E7%BA%A62726%E4%B8%87%E5%85%83%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "小米澎湃OS微信聊天能发实况图",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%83%BD%E5%8F%91%E5%AE%9E%E5%86%B5%E5%9B%BE%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
