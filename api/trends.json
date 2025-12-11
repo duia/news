@@ -1,34 +1,12 @@
 {
-  "generated_at": "2025-12-11T05:14:50.791137+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2025-12-11T09:01:19.625773+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 63,
+      "match_count": 82,
       "titles": [
-        {
-          "title": "曝泰军将中国VT4坦克投入泰柬冲突",
-          "url": "https://www.toutiao.com/trending/7582203523408858660/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "一图看懂 | 中国商业航天IPO热潮来袭，“火箭天团”背后影子股曝光",
-          "url": "https://www.cls.cn/detail/2225562",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
         {
           "title": "智商洼地!日网民坚信中国制造地震",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347862&amp;topic_name=%E6%99%BA%E5%95%86%E6%B4%BC%E5%9C%B0%21%E6%97%A5%E7%BD%91%E6%B0%91%E5%9D%9A%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%B0%E9%9C%87",
@@ -37,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "一图看懂 | 中国商业航天IPO热潮来袭，“火箭天团”背后影子股曝光",
+          "url": "https://www.cls.cn/detail/2225562",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
         },
         {
           "title": "绍伊古：俄方不会对日本好战政策置之不理",
@@ -46,35 +36,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "韩国电子入境卡将台湾列为中国台湾，国台办答澎湃：一个中国原则是国际关系基本准则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144842",
-          "source": "澎湃新闻",
-          "ranks": [
             2,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "胡锡进：中国摆出的证据再次打了东京的脸",
-          "url": "https://news.ifeng.com/c/8oydroVQQ2J",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
         },
         {
           "title": "中国大市场向上生长的力量不断积蓄",
@@ -84,8 +51,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "韩国电子入境卡将台湾列为中国台湾，国台办答澎湃：一个中国原则是国际关系基本准则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144842",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
         },
         {
           "title": "中国贸易顺差破万亿美元",
@@ -93,6 +73,18 @@
           "source": "bilibili 热搜",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "胡锡进：中国摆出的证据再次打了东京的脸",
+          "url": "https://news.ifeng.com/c/8oydroVQQ2J",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -111,18 +103,6 @@
           "time_info": "[02时20分 ~ 05时14分]"
         },
         {
-          "title": "中方录音一出日本有人看不下去了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
           "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
           "url": "https://m.thepaper.cn/newsDetail_forward_32130207",
           "source": "澎湃新闻",
@@ -134,15 +114,61 @@
           "time_info": "[02时20分 ~ 05时14分]"
         },
         {
+          "title": "中方录音一出 日本有人看不下去了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA+%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本现在有“三急”",
+          "url": "https://news.ifeng.com/c/8ozPzG2fmtl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美国下调瑞士关税至15%，追溯至11月14日生效",
+          "url": "https://flash.jin10.com/detail/20251211084415189800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
           "url": "https://wallstreetcn.com/livenews/3018662",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "中方录音一出日本有人看不下去了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%BD%95%E9%9F%B3%E4%B8%80%E5%87%BA%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%BA%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.6%。 热门中概股里，阿特斯太阳能初步收涨6.1%，贝壳、小马智行、晶科能源涨超3%，世纪互联则跌4.3%。",
@@ -151,7 +177,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -173,9 +199,54 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "曝泰军将中国VT4坦克投入泰柬冲突",
+          "url": "https://www.toutiao.com/trending/7582203523408858660/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "日本码头震后地面隆起200米裂缝",
+          "url": "https://www.toutiao.com/trending/7582365623586557466/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "韩国电子入境卡写“中国台湾”，民进党竟扬言报复",
+          "url": "https://news.ifeng.com/c/8ozLLt0RofJ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "2028年的货已经卖光！美国电力设备龙头强势突破历史新高",
+          "url": "https://www.cls.cn/detail/2225910",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "日本地震是中国制造的？日方辟谣",
@@ -190,24 +261,97 @@
           "time_info": "[02时20分 ~ 05时14分]"
         },
         {
+          "title": "家猫何时传入中国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%B6%E7%8C%AB%E4%BD%95%E6%97%B6%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "IMF上调中国经济增长预期",
+          "url": "https://www.douyin.com/hot/2332483",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "全面解读美国最新安全战略",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "外交官辟谣：这是在中国 不是日本",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E5%AE%98%E8%BE%9F%E8%B0%A3%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD+%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "中国海警舰艇编队12月10日在我钓鱼岛领海巡航",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32146003",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "中方回应中俄轰炸机飞临日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E8%BD%B0%E7%82%B8%E6%9C%BA%E9%A3%9E%E4%B8%B4%E6%97%A5%E6%9C%AC%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "辽宁舰遭滋扰,录音铁证打脸日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347846&amp;topic_name=%E8%BE%BD%E5%AE%81%E8%88%B0%E9%81%AD%E6%BB%8B%E6%89%B0%2C%E5%BD%95%E9%9F%B3%E9%93%81%E8%AF%81%E6%89%93%E8%84%B8%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
           "title": "美国女子熟睡时被医生男友喂堕胎药",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%86%9F%E7%9D%A1%E6%97%B6%E8%A2%AB%E5%8C%BB%E7%94%9F%E7%94%B7%E5%8F%8B%E5%96%82%E5%A0%95%E8%83%8E%E8%8D%AF",
           "source": "百度热搜",
           "ranks": [
             18,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "家猫何时传入中国",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%B6%E7%8C%AB%E4%BD%95%E6%97%B6%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -226,27 +370,27 @@
           "time_info": "[02时20分 ~ 05时14分]"
         },
         {
-          "title": "IMF上调中国经济增长预期",
-          "url": "https://www.douyin.com/hot/2332483",
-          "source": "抖音",
+          "title": "巡洋舰比驱逐舰要强，为什么中国不造巡洋舰？",
+          "url": "https://www.zhihu.com/question/641373684",
+          "source": "知乎",
           "ranks": [
-            9
+            19,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "time_info": "[05时14分 ~ 09时01分]"
         },
         {
-          "title": "全面解读美国最新安全战略",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5",
-          "source": "bilibili 热搜",
+          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
+          "url": "https://wallstreetcn.com/articles/3761060",
+          "source": "华尔街见闻",
           "ranks": [
-            21,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "time_info": "[02时20分 ~ 09时01分]"
         },
         {
           "title": "德国、日本、美国等主要经济体，12 月长债收益率均创阶段新高，金融市场是否正在酝酿债务驱动下的货币风暴？",
@@ -255,17 +399,6 @@
           "ranks": [
             14,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "外交官辟谣：这是在中国 不是日本",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E5%AE%98%E8%BE%9F%E8%B0%A3%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD+%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -283,46 +416,11 @@
           "time_info": "[02时20分 ~ 05时14分]"
         },
         {
-          "title": "中方回应中俄轰炸机飞临日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E8%BD%B0%E7%82%B8%E6%9C%BA%E9%A3%9E%E4%B8%B4%E6%97%A5%E6%9C%AC%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "中国海警舰艇编队12月10日在我钓鱼岛领海巡航",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32146003",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
           "title": "疑中国人在柬遭炮击受伤 中使馆提醒",
           "url": "https://www.baidu.com/s?wd=%E7%96%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%9F%AC%E9%81%AD%E7%82%AE%E5%87%BB%E5%8F%97%E4%BC%A4+%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92",
           "source": "百度热搜",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "辽宁舰遭滋扰,录音铁证打脸日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347846&amp;topic_name=%E8%BE%BD%E5%AE%81%E8%88%B0%E9%81%AD%E6%BB%8B%E6%89%B0%2C%E5%BD%95%E9%9F%B3%E9%93%81%E8%AF%81%E6%89%93%E8%84%B8%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -347,9 +445,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "委内瑞拉谴责美国扣押油轮：这是“国际海盗行为”",
+          "url": "https://wallstreetcn.com/livenews/3018763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
@@ -358,20 +467,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
-          "url": "https://wallstreetcn.com/articles/3761060",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时14分"
         },
         {
           "title": "法院命令显示，美国法官驳回特朗普政府要求驳回加州对40亿美元高铁资金撤销案的动议。",
@@ -385,13 +483,24 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国对中国大陆芯片出口抽成25%，台湾又要“接盘”？",
+          "url": "https://news.ifeng.com/c/8ozNb3RIbCJ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "美国总统特朗普就柬埔寨-泰国问题表示：我们正安排明天通电话。",
           "url": "https://flash.jin10.com/detail/20251211050040616800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -402,7 +511,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -413,9 +522,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "英媒：英军将缩减在中国周边训练规模",
+          "url": "https://www.toutiao.com/trending/7582367243678728246/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "美国总统特朗普：美联储利率应降至全球最低。",
@@ -424,7 +544,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -435,9 +555,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "毛宁向世界分享中国最新两栖挖掘机",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E5%90%91%E4%B8%96%E7%95%8C%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E4%B8%A4%E6%A0%96%E6%8C%96%E6%8E%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "美国总统特朗普就柬埔寨与泰国问题表示：我认为我能让他们停止争斗。",
@@ -446,9 +577,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国能源部拨款超3.2亿美元，加大对人工智能科学投资",
+          "url": "https://wallstreetcn.com/livenews/3018753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "美国总统特朗普：我认为CNN应该被出售。",
@@ -457,9 +599,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：特朗普政府正在考虑进行更多与委内瑞拉和伊朗相关油轮的任务。",
+          "url": "https://flash.jin10.com/detail/20251211082401078800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本强震前2000条沙丁鱼搁浅北海道",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%89%8D2000%E6%9D%A1%E6%B2%99%E4%B8%81%E9%B1%BC%E6%90%81%E6%B5%85%E5%8C%97%E6%B5%B7%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
@@ -468,18 +632,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "巡洋舰比驱逐舰要强，为什么中国不造巡洋舰？",
-          "url": "https://www.zhihu.com/question/641373684",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -490,7 +643,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -501,7 +654,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -523,9 +676,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "韩国12月1-10日出口同比增长17.3%，进口同比增长8%，贸易逆差为7000万美元。 韩国12月1-10日日均出口同比增长3.5%。 韩国12月1-10日芯片出口同比增长45.9%。 韩国12月1-10日对中国出口同比增长12.9%，对美国出口同比下降3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3018744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本防卫大臣承认中方事前通报",
+          "url": "https://www.douyin.com/hot/2332473",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "黑石集团总裁：美国经济一直“极具韧性”。",
@@ -550,13 +725,24 @@
           "time_info": "02时20分"
         },
         {
+          "title": "日本东证指数涨至历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3018743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "美国总统特朗普：有充分理由扣押委内瑞拉附近的船只。",
           "url": "https://flash.jin10.com/detail/20251211044531960800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -583,6 +769,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "中国即将发行或正在发行的地方政府债",
+          "url": "https://wallstreetcn.com/livenews/3018739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "中国和新加坡将举行陆军联合训练",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%B0%86%E4%B8%BE%E8%A1%8C%E9%99%86%E5%86%9B%E8%81%94%E5%90%88%E8%AE%AD%E7%BB%83",
           "source": "百度热搜",
@@ -600,7 +797,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -611,7 +808,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -633,9 +830,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3018738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "特朗普证实美国在委内瑞拉附近扣押一艘油轮",
@@ -644,7 +852,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -677,7 +885,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -688,7 +896,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -699,9 +907,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "日本东证指数升至历史新高.",
+          "url": "https://flash.jin10.com/detail/20251211080212448800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "美国总统特朗普：据苹果公司CEO库克表示，招聘很难。 今天将讨论科技和人工智能（AI）。 今天与参议院讨论过AI监管问题。",
@@ -710,7 +929,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         }
@@ -718,19 +937,31 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "网警查处一起AI生成虚假低俗视频案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
           "url": "https://wallstreetcn.com/articles/3761127",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 09时01分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -745,13 +976,57 @@
           "time_info": "[02时20分 ~ 05时14分]"
         },
         {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "Pinterest首席执行官Bill Ready表示， Pinterest通过依靠开源模型，节省了使用知名品牌AI的90%成本。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3018762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
+          "url": "https://www.cls.cn/detail/2225983",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "AIG涨4.3%，刷新日高，创4月份以来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3018650",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -773,9 +1048,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "Adobe(ADBE.O)首席财务官：客户互动正随着AI应用的普及而日益增强。企业客户正推动增长",
+          "url": "https://flash.jin10.com/detail/20251211080718903800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -795,7 +1081,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         }
