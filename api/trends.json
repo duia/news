@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:18:24.959045+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2025-12-12T20:25:57.919693+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 193,
+      "match_count": 210,
       "titles": [
         {
           "title": "从全球视野看中国经济发展大逻辑",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时18分 ~ 11时54分]"
+        },
+        {
+          "title": "美国上周首申人数增4.4万人，创2020年来最大增幅，续请人数骤降至8个月低点",
+          "url": "https://wallstreetcn.com/articles/3761205",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 20时25分]"
         },
         {
           "title": "紧急提醒：请在日中国公民进行登记",
@@ -44,16 +57,15 @@
           "time_info": "[09时00分 ~ 14时21分]"
         },
         {
-          "title": "美国上周首申人数增4.4万人，创2020年来最大增幅，续请人数骤降至8个月低点",
-          "url": "https://wallstreetcn.com/articles/3761205",
-          "source": "华尔街见闻",
+          "title": "人民空军发布双语海报正告日本",
+          "url": "https://www.douyin.com/hot/2333770",
+          "source": "抖音",
           "ranks": [
-            6,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 17时18分]"
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 20时25分]"
         },
         {
           "title": "智商洼地!日网民坚信中国制造地震",
@@ -78,6 +90,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 14时21分]"
+        },
+        {
+          "title": "白宫回应中日冲突 日本舆论失望",
+          "url": "https://www.toutiao.com/trending/7582468062239096895/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 20时25分]"
+        },
+        {
+          "title": "美国与日韩澳等8国就加强稀土供应链签署协议，外交部回应",
+          "url": "https://www.cls.cn/detail/2227853",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 20时25分]"
         },
         {
           "title": "日本列车脱轨翻覆",
@@ -139,6 +174,18 @@
           "time_info": "[11时54分 ~ 14时21分]"
         },
         {
+          "title": "美国与日韩澳等8国就加强稀土供应链签署协议，中方回应",
+          "url": "https://news.ifeng.com/c/8p1fbVPzCOI",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 20时25分]"
+        },
+        {
           "title": "美国北极大使空缺近1年，美议员敦促鲁比奥：别让中国…",
           "url": "https://news.ifeng.com/c/8p1Itj9nawH",
           "source": "凤凰网",
@@ -195,28 +242,6 @@
           "time_info": "11时54分"
         },
         {
-          "title": "人民空军发布双语海报正告日本",
-          "url": "https://www.douyin.com/hot/2333770",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "白宫回应中日冲突 日本舆论失望",
-          "url": "https://www.toutiao.com/trending/7582468062239096895/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "据美国投资公司协会（ICI）统计，美国货币市场基金资产规模创下7.655万亿美元的历史新高。",
           "url": "https://flash.jin10.com/detail/20251212042925196800",
           "source": "金十数据",
@@ -256,7 +281,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -272,6 +297,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "中国经济今年有哪些亮眼表现",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%9C%BC%E8%A1%A8%E7%8E%B0",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "2年期日本国债收益率上升1.5个基点，至1.065%。",
           "url": "https://flash.jin10.com/detail/20251212141108433800",
           "source": "金十数据",
@@ -281,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "据俄新社：克里姆林宫助手乌沙科夫认为，讨论美国和平提案的过程将会是漫长的。",
+          "url": "https://flash.jin10.com/detail/20251212193900932800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "中国财政部发行10年期债券，规模1190亿元，发行利率1.8090%，边际利率1.8339%，预期1.8100%，投标倍数3.58倍，边际倍数2.54倍。",
@@ -306,15 +353,15 @@
           "time_info": "[09时00分 ~ 11时54分]"
         },
         {
-          "title": "美国与日韩澳等8国就加强稀土供应链签署协议，外交部回应",
-          "url": "https://www.cls.cn/detail/2227853",
-          "source": "财联社热门",
+          "title": "扎哈罗娃：就涉俄主权资产事宜，俄已向日本发出警告",
+          "url": "https://news.ifeng.com/c/8p1lG1uUCQY",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "20时25分"
         },
         {
           "title": "据日本47NEWS：日本气象厅将于当地时间12:50（北京时间11:50）举行记者会。",
@@ -367,7 +414,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -389,20 +436,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
         {
-          "title": "美国与日韩澳等8国就加强稀土供应链签署协议，中方回应",
-          "url": "https://news.ifeng.com/c/8p1fbVPzCOI",
+          "title": "日本想用“怪兽狼”吓走“熊出没”，被质疑“存在局限性”(图)",
+          "url": "https://news.ifeng.com/c/8p1iz62z9nL",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "20时25分"
         },
         {
           "title": "乌克兰总统泽连斯基：我向“意愿联盟”表示，安全保障必须包含欧洲对俄罗斯的威慑要素，并得到美国的支持。",
@@ -414,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "芬兰国防部：芬兰国防军将从美国采购AIM-120先进中距空对空导弹。",
+          "url": "https://flash.jin10.com/detail/20251212193351490800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.655万亿美元，创历史新高。",
@@ -450,6 +508,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 05时15分]"
+        },
+        {
+          "title": "日本海域6.8级地震",
+          "url": "https://www.douyin.com/hot/2334051",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 20时25分]"
         },
         {
           "title": "白宫的回应让日本舆论失望了",
@@ -514,6 +586,18 @@
           "time_info": "[09时00分 ~ 14时21分]"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 20时25分]"
+        },
+        {
           "title": "美国要组建C5 全世界大吃一惊",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A6%81%E7%BB%84%E5%BB%BAC5+%E5%85%A8%E4%B8%96%E7%95%8C%E5%A4%A7%E5%90%83%E4%B8%80%E6%83%8A",
           "source": "百度热搜",
@@ -525,6 +609,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时00分 ~ 14时21分]"
+        },
+        {
+          "title": "日本秋田县发生列车脱轨事故，伤亡情况不明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32160695",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 20时25分]"
         },
         {
           "title": "UP主探访中国驻意大利大使馆",
@@ -548,30 +646,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 05时15分]"
-        },
-        {
-          "title": "日本海域6.8级地震",
-          "url": "https://www.douyin.com/hot/2334051",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 17时18分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 17时18分]"
         },
         {
           "title": "日本民众东京集会反对日本军事扩张",
@@ -598,17 +672,17 @@
           "time_info": "[02时18分 ~ 05时15分]"
         },
         {
-          "title": "日本秋田县发生列车脱轨事故，伤亡情况不明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32160695",
+          "title": "打卡中国｜在军旗升起的地方，Citywalk南昌红色坐标系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32160756",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            18,
-            16
+            19,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时54分 ~ 17时18分]"
+          "time_info": "[14时21分 ~ 20时25分]"
         },
         {
           "title": "46名中国公民从柬埔寨电诈园区获救",
@@ -646,6 +720,29 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
+          "title": "日本海军侵华多张照片首度曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%86%9B%E4%BE%B5%E5%8D%8E%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E9%A6%96%E5%BA%A6%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 20时25分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 20时25分]"
+        },
+        {
           "title": "中兴通讯午后大跌，公司称正与美国司法部就有关事项进行沟通",
           "url": "https://m.thepaper.cn/newsDetail_forward_32153835",
           "source": "澎湃新闻",
@@ -680,6 +777,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 14时21分]"
+        },
+        {
+          "title": "美国空军部长：中国真不是抄袭美国，人家自主创新",
+          "url": "https://news.ifeng.com/c/8p1P33dQ49P",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 20时25分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -759,18 +867,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 09时01分]"
-        },
-        {
-          "title": "打卡中国｜在军旗升起的地方，Citywalk南昌红色坐标系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32160756",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时18分]"
         },
         {
           "title": "日本民众东京集会反对日本军事扩张",
@@ -868,7 +964,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -884,6 +980,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "菲船只在仙宾礁海域挑衅，中国海警外逼驱离",
+          "url": "https://news.ifeng.com/c/8p1rZoG73J8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国纽约联储披露短期美债购买情况：美联储周五将购买82亿美元国库券。",
           "url": "https://wallstreetcn.com/livenews/3019394",
           "source": "华尔街见闻-快讯",
@@ -895,24 +1002,24 @@
           "time_info": "05时15分"
         },
         {
+          "title": "中国高科：公司的直接控股股东方正国际教育的控股股东新方正控股发展有限责任公司拟通过转让其所持有的方正国际教育股权的方式，间接转让其间接持有的公司20.03%股份。若转让完成，将导致公司控制权发生变更。股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3019931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "日本仍有人公然说南京大屠杀是造谣",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BB%8D%E6%9C%89%E4%BA%BA%E5%85%AC%E7%84%B6%E8%AF%B4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%98%AF%E9%80%A0%E8%B0%A3%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "日本海军侵华多张照片首度曝光",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%86%9B%E4%BE%B5%E5%8D%8E%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E9%A6%96%E5%BA%A6%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -923,7 +1030,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -950,15 +1057,15 @@
           "time_info": "14时21分"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
+          "title": "日本地震",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "20时25分"
         },
         {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
@@ -989,7 +1096,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1000,7 +1107,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1014,17 +1121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
-        },
-        {
-          "title": "美国空军部长：中国真不是抄袭美国，人家自主创新",
-          "url": "https://news.ifeng.com/c/8p1P33dQ49P",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "美国30年期国债收益率在拍卖后维持跌势，最新下跌2个基点，报4.776%。",
@@ -1047,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "市场消息：美国食品药品监督管理局的领导层推动更快地对礼来的口服药物做出裁决。",
+          "url": "https://flash.jin10.com/detail/20251212192241023800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "日本海军侵华多张照片首度曝光",
@@ -1093,6 +1200,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "美国国家公路交通安全管理局（NHTSA）就美国境内约29,688辆捷豹路虎汽车安全带缝线不当问题启动初步评估（PE）。",
+          "url": "https://flash.jin10.com/detail/20251212191943695800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：鉴于加密货币市场的发展形势，撤销过时的数字资产指导意见。",
           "url": "https://wallstreetcn.com/livenews/3019390",
           "source": "华尔街见闻-快讯",
@@ -1113,6 +1231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "日本发生地震 东京震感明显",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87+%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "据日本放送协会NHK：日本气象厅将日本地震震级从6.5级上调至6.7级。",
@@ -1363,7 +1492,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1429,9 +1558,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "中国光伏行业协会：多晶硅产能整合收购平台拟实行“承债式收购+弹性封存压产能”双轨模式运行",
+          "url": "https://wallstreetcn.com/livenews/3019910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "扎哈罗娃：俄已向日本发出警告",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8E%E5%93%88%E7%BD%97%E5%A8%83%EF%BC%9A%E4%BF%84%E5%B7%B2%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国财长贝森特：金融稳定监督委员会正优先考虑可持续的长期经济增长和经济安全，推动监管现代化，培育一个支持韧性的金融体系。",
@@ -1630,6 +1781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "“中国管道天然气现货价格”正式发布",
+          "url": "https://wallstreetcn.com/livenews/3019906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "市场消息：美国民主党提出的医保法案未能获得足够票数在美国参议院获得通过；投票仍在继续。",
@@ -1847,9 +2009,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "外交部回应日本防卫大臣和美国国防部长通话",
+          "url": "https://wallstreetcn.com/livenews/3019901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "日本远海6.7级左右地震",
@@ -1979,7 +2152,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -2015,6 +2188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "中方：日本军国主义是全世界人民公敌",
+          "url": "https://www.toutiao.com/trending/7582794448191651849/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国白宫：美国总统特朗普今天稍晚时候将签署法案和行政令。",
@@ -2067,7 +2251,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -2078,7 +2262,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -2169,12 +2353,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "中国海警局新闻发言人发表谈话",
+          "url": "https://wallstreetcn.com/livenews/3019893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -2184,8 +2379,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 17时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 20时25分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -2215,6 +2410,33 @@
           "time_info": "[09时00分 ~ 14时21分]"
         },
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 20时25分]"
+        },
+        {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 20时25分]"
+        },
+        {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
           "url": "https://wallstreetcn.com/livenews/3019365",
           "source": "华尔街见闻-快讯",
@@ -2237,19 +2459,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 17时18分]"
-        },
-        {
           "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
           "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
           "source": "澎湃新闻",
@@ -2263,16 +2472,15 @@
           "time_info": "[09时00分 ~ 14时21分]"
         },
         {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
-          "source": "华尔街见闻",
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时54分 ~ 17时18分]"
+          "time_info": "[14时21分 ~ 20时25分]"
         },
         {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
@@ -2284,17 +2492,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 05时15分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时18分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -2337,7 +2534,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -2351,6 +2548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "OpenAI：正处于推出年龄预测模型的早期阶段，以自动为18岁以下用户应用内容保护措施。",
@@ -2375,6 +2583,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
           "url": "https://flash.jin10.com/detail/20251212020239589800",
           "source": "金十数据",
@@ -2395,6 +2614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "美股AI股盘前延续跌势 市场分化加剧",
+          "url": "https://flash.jin10.com/detail/20251212191431260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
@@ -2488,7 +2718,7 @@
     },
     {
       "keyword_group": "小米 雷军",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "村支书卖小米被小米法务投诉下架",
@@ -2515,6 +2745,29 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
+          "title": "被小米投诉的村支书已清空账号",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 20时25分]"
+        },
+        {
+          "title": "被小米投诉村支书发视频道歉",
+          "url": "https://www.toutiao.com/trending/7582923410054090286/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "雷军回应小米上架准新车",
           "url": "https://wallstreetcn.com/livenews/3019645",
           "source": "华尔街见闻-快讯",
@@ -2526,26 +2779,48 @@
           "time_info": "14时21分"
         },
         {
+          "title": "小米公司辟谣不让卖小米",
+          "url": "https://www.toutiao.com/trending/7582893873320431158/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "小米17卖爆最大功臣竟然是副屏功能",
           "url": "https://www.toutiao.com/trending/7582801250219986482/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
         {
-          "title": "被小米投诉的村支书已清空账号",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
-          "source": "百度热搜",
+          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "20时25分"
+        },
+        {
+          "title": "小米回应“小米公司不让卖小米”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "小米从“一车难求”转向“现车选购”",
@@ -2557,6 +2832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "雷军小米投诉村支书小米不如握手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B0%8F%E7%B1%B3%E4%B8%8D%E5%A6%82%E6%8F%A1%E6%89%8B%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -2571,7 +2857,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
