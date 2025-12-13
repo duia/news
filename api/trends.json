@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-13T08:56:58.479084+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-12-13T11:45:15.440428+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 73,
+      "match_count": 88,
       "titles": [
+        {
+          "title": "“熊”起!日本年度汉字紧跟时事",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347939&amp;topic_name=%E2%80%9C%E7%86%8A%E2%80%9D%E8%B5%B7%21%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E7%B4%A7%E8%B7%9F%E6%97%B6%E4%BA%8B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
+        },
         {
           "title": "中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大",
           "url": "https://wallstreetcn.com/articles/3761280",
@@ -16,19 +28,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
         },
         {
-          "title": "“熊”起!日本年度汉字紧跟时事",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347939&amp;topic_name=%E2%80%9C%E7%86%8A%E2%80%9D%E8%B5%B7%21%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E7%B4%A7%E8%B7%9F%E6%97%B6%E4%BA%8B",
-          "source": "贴吧",
+          "title": "针对“放生”矿泉水、大米等现象，中国佛教协会刊文：深感惊讶和不解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32164984",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            8,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
+        },
+        {
+          "title": "对日本，美国越来越不耐烦了",
+          "url": "https://news.ifeng.com/c/8p2knNhcQIf",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时45分]"
         },
         {
           "title": "日本拟向处于战争中的国家出口杀伤性武器",
@@ -42,19 +67,6 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "针对“放生”矿泉水、大米等现象，中国佛教协会刊文：深感惊讶和不解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32164984",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
-        },
-        {
           "title": "扎哈罗娃：就涉俄主权资产事宜，俄已向日本发出警告",
           "url": "https://news.ifeng.com/c/8p1lG1uUCQY",
           "source": "凤凰网",
@@ -64,6 +76,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "事关中国？欧盟被曝将取消内燃机禁令，德国支持，西班牙反对",
+          "url": "https://news.ifeng.com/c/8p2rqobDCkn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
         },
         {
           "title": "俄罗斯向日本发出警告",
@@ -90,26 +113,54 @@
           "time_info": "[02时19分 ~ 08时56分]"
         },
         {
-          "title": "孙颖莎回应鹰眼挑战日本选手成功",
-          "url": "https://www.toutiao.com/trending/7582341608310620202/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "对日本，美国越来越不耐烦了",
-          "url": "https://news.ifeng.com/c/8p2knNhcQIf",
+          "title": "法国可劲怂恿，欧盟对中国小包裹下手",
+          "url": "https://news.ifeng.com/c/8p2rqobDCko",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "斯坦福 38% 本科新生残疾，美国名校「残疾潮」暗流涌动，这反映出美国大学招生体系的哪些问题？",
+          "url": "https://www.zhihu.com/question/1982383860055553227",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
+        },
+        {
+          "title": "外交部回应日本防卫大臣和美国国防部长通话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32164391",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
+        },
+        {
+          "title": "日本极右翼分子对美国“开火”了",
+          "url": "https://www.douyin.com/hot/2334222",
+          "source": "抖音",
+          "ranks": [
+            15,
+            13,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
         },
         {
           "title": "美国财政部网站显示，其将巴西最高法院大法官Alexandre de Moraes从制裁名单中移除。",
@@ -123,17 +174,6 @@
           "time_info": "02时20分"
         },
         {
-          "title": "委内瑞拉：正反抗美国封锁加勒比地区的企图",
-          "url": "https://flash.jin10.com/detail/20251213083531254800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
           "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3020133",
           "source": "华尔街见闻-快讯",
@@ -143,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
+          "url": "https://flash.jin10.com/detail/20251213102355663800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）补发11月18日当周交易员持仓报告：CBOT玉米净多头头寸增加77,650手合约。 NYMEX汽油净多头头寸增加22,129手合约。 COMEX黄金头寸减少7,145手合约。",
@@ -156,15 +207,16 @@
           "time_info": "05时12分"
         },
         {
-          "title": "委内瑞拉谴责美国战机飞越领空的恐吓行径",
-          "url": "https://flash.jin10.com/detail/20251213083013156800",
-          "source": "金十数据",
+          "title": "孙颖莎回应鹰眼挑战日本选手成功",
+          "url": "https://www.toutiao.com/trending/7582341608310620202/",
+          "source": "今日头条",
           "ranks": [
-            4
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时45分]"
         },
         {
           "title": "美国总统特朗普：泰国和柬埔寨均已同意重返他们此前与我达成的原始和平协议。",
@@ -201,15 +253,16 @@
           "time_info": "[05时12分 ~ 08时56分]"
         },
         {
-          "title": "斯坦福 38% 本科新生残疾，美国名校「残疾潮」暗流涌动，这反映出美国大学招生体系的哪些问题？",
-          "url": "https://www.zhihu.com/question/1982383860055553227",
-          "source": "知乎",
+          "title": "委内瑞拉：正反抗美国封锁加勒比地区的企图",
+          "url": "https://flash.jin10.com/detail/20251213083531254800",
+          "source": "金十数据",
           "ranks": [
-            8
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时45分]"
         },
         {
           "title": "美国官员：美国中央司令部将于12月16日与伙伴国家在多哈召开会议，规划加沙地带国际稳定部队事宜。",
@@ -248,6 +301,18 @@
           "time_info": "[05时12分 ~ 08时56分]"
         },
         {
+          "title": "委内瑞拉谴责美国战机飞越领空的恐吓行径",
+          "url": "https://flash.jin10.com/detail/20251213083013156800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
           "title": "“鹰派风暴”即将来袭？消息人士：日本央行下周加息板上钉钉 更多鹰声已在路上",
           "url": "https://www.cls.cn/detail/2228172",
           "source": "财联社热门",
@@ -266,31 +331,6 @@
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
-        },
-        {
-          "title": "外交部回应日本防卫大臣和美国国防部长通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32164391",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
-        },
-        {
-          "title": "日本极右翼分子对美国“开火”了",
-          "url": "https://www.douyin.com/hot/2334222",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13,
-            22
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -354,6 +394,18 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
+          "title": "美国对日本越来越不耐烦了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%8D%E8%80%90%E7%83%A6%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
           "title": "日本秋田县发生列车脱轨事故，伤亡情况不明",
           "url": "https://m.thepaper.cn/newsDetail_forward_32160695",
           "source": "澎湃新闻",
@@ -400,6 +452,87 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "美国对日本不耐烦已几乎写在脸上",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E4%B8%8D%E8%80%90%E7%83%A6%E5%B7%B2%E5%87%A0%E4%B9%8E%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "美国华盛顿州连日暴雨，至少四条河流发生“历史性”洪水",
+          "url": "https://wallstreetcn.com/livenews/3020168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
+          "title": "委内瑞拉谴责美国战机飞越领空的恐吓行径",
+          "url": "https://wallstreetcn.com/livenews/3020167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
+          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
+          "url": "https://wallstreetcn.com/livenews/3020166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
+          "title": "据华尔街日报：美国特使维特科夫将前往柏林，与乌克兰总统泽连斯基和欧洲领导人会面。",
+          "url": "https://flash.jin10.com/detail/20251213082013715800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
+          "title": "中国驻巴基斯坦使馆提醒",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
           "url": "https://flash.jin10.com/detail/20251213033638415800",
           "source": "金十数据",
@@ -410,6 +543,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 08时56分]"
+        },
+        {
+          "title": "高市政权下的日本，西方媒体终于察觉到不对劲了",
+          "url": "https://news.ifeng.com/c/8p2ECbNi27D",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
+          "title": "吴为山讲述为国殇“塑像”：让日本军国主义永远“跪”着",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169714",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "台湾是中国一个省没外交部",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E4%B8%AA%E7%9C%81%E6%B2%A1%E5%A4%96%E4%BA%A4%E9%83%A8%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "日本民众：已不再信任高市早苗",
+          "url": "https://www.toutiao.com/trending/7581860854838460435/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
         },
         {
           "title": "法国官员：乌克兰、美国和欧洲正努力就推动和平达成共同立场",
@@ -435,6 +624,17 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
+          "title": "柬埔寨首相：美国和马来西亚应核实“在最新冲突中哪一方先开火”。",
+          "url": "https://flash.jin10.com/detail/20251213092319080800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "美国原油期货本周跌约4.4%，纽约天然气跌超22%",
           "url": "https://wallstreetcn.com/livenews/3020125",
           "source": "华尔街见闻-快讯",
@@ -446,26 +646,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "美国华盛顿州连日暴雨，至少四条河流发生“历史性”洪水",
-          "url": "https://wallstreetcn.com/livenews/3020168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "委内瑞拉谴责美国战机飞越领空的恐吓行径",
-          "url": "https://wallstreetcn.com/livenews/3020167",
-          "source": "华尔街见闻-快讯",
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "11时45分"
         },
         {
           "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
@@ -479,28 +668,6 @@
           "time_info": "02时20分"
         },
         {
-          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
-          "url": "https://wallstreetcn.com/livenews/3020166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "据华尔街日报：美国特使维特科夫将前往柏林，与乌克兰总统泽连斯基和欧洲领导人会面。",
-          "url": "https://flash.jin10.com/detail/20251213082013715800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
           "url": "https://wallstreetcn.com/livenews/3020090",
           "source": "华尔街见闻-快讯",
@@ -510,17 +677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
-          "url": "https://wallstreetcn.com/livenews/3020161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
@@ -540,7 +696,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -611,6 +767,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "遭美扣押的委内瑞拉油轮正驶往美国休斯敦",
+          "url": "https://flash.jin10.com/detail/20251213084008215800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "美国众议院投票，限制各州阻止管道项目的权力",
           "url": "https://wallstreetcn.com/livenews/3020083",
           "source": "华尔街见闻-快讯",
@@ -639,7 +806,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -653,6 +820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "中国驻美国大使谢锋会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+          "url": "https://wallstreetcn.com/livenews/3020176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
@@ -675,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "遭美扣押的委内瑞拉油轮正驶往美国休斯敦",
+          "url": "https://wallstreetcn.com/livenews/3020174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国12月12日当周石油钻井数 414，前值 413。",
@@ -716,7 +905,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -771,18 +960,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美国对日本越来越不耐烦了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%8D%E8%80%90%E7%83%A6%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -804,7 +982,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -834,8 +1012,19 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
           "url": "https://wallstreetcn.com/articles/3761271",
@@ -859,17 +1048,6 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2228432",
           "source": "财联社热门",
@@ -879,8 +1057,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
+        },
+        {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时45分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -889,17 +1090,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -916,6 +1106,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时45分]"
         },
         {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
@@ -941,6 +1143,17 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
+          "title": "长沙交警配发AI眼镜",
+          "url": "https://www.toutiao.com/trending/7582600366945632265/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
           "url": "https://wallstreetcn.com/articles/3761241",
           "source": "华尔街见闻",
@@ -963,28 +1176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 08时56分]"
-        },
-        {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -1043,11 +1234,12 @@
           "ranks": [
             12,
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 11时45分]"
         },
         {
           "title": "被小米投诉村支书发视频道歉",
@@ -1112,6 +1304,17 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
           "title": "村支书卖小米被投诉 玩梗边界在哪",
           "url": "https://www.toutiao.com/trending/7582926658399637055/",
           "source": "今日头条",
@@ -1121,17 +1324,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         }
       ]
     },
@@ -1157,7 +1349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
