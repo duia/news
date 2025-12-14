@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T05:11:14.030484+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2025-12-14T09:04:57.916044+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 36,
+      "match_count": 48,
       "titles": [
         {
           "title": "玉渊谭天：日本八纮一宇塔应当被拆除",
@@ -34,77 +34,176 @@
           "url": "https://www.zhihu.com/question/1983128264865248715",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "日本自民党多名高官曝出丑闻：政治资金被用于酒吧、夜总会消费",
+          "url": "https://news.ifeng.com/c/8p4PE210STc",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国一国际航班因客机发动机故障折返",
+          "url": "https://wallstreetcn.com/livenews/3020300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
           "url": "https://flash.jin10.com/detail/20251213225118795800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "日本加息对A股的影响有多大",
+          "url": "https://www.toutiao.com/trending/7583165703906135561/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
           "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 09时04分]"
         },
         {
           "title": "美国交通部长Duffy：美联航803航班出现故障的飞机引擎局部起火。 该航班（返飞并）安全着陆，目前掌握的情况是机上无人受伤。",
           "url": "https://wallstreetcn.com/livenews/3020264",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 09时04分]"
         },
         {
           "title": "美联航发言人：美联航803航班安全地重返美国Dulles机场，机上无人受伤。 公司为该航班安排了包机。",
           "url": "https://wallstreetcn.com/livenews/3020263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 09时04分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默与欧盟委员会主席冯德莱恩对话。 双方讨论了美国牵头的乌克兰和平计划，讨论了（如何处置）被冻结的俄罗斯资产。",
           "url": "https://wallstreetcn.com/livenews/3020262",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 09时04分]"
+        },
+        {
+          "title": "日本住持捐赠5000份日军侵华史料",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BD%8F%E6%8C%81%E6%8D%90%E8%B5%A05000%E4%BB%BD%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E5%8F%B2%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "端牢中国饭碗有信心有底气",
+          "url": "https://www.toutiao.com/trending/7582891689250799654/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "中国经济年会：2026年要促进居民收入增长和经济增长同步",
+          "url": "https://www.cls.cn/detail/2228664",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "美联航飞往日本东京的飞机因引擎故障返回美国华盛顿",
           "url": "https://wallstreetcn.com/livenews/3020261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 09时04分]"
+        },
+        {
+          "title": "中国公民接连遇袭 驻阿使馆紧急提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%8E%A5%E8%BF%9E%E9%81%87%E8%A2%AD+%E9%A9%BB%E9%98%BF%E4%BD%BF%E9%A6%86%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "“熊”起!日本年度汉字紧跟时事",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347939&amp;topic_name=%E2%80%9C%E7%86%8A%E2%80%9D%E8%B5%B7%21%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E7%B4%A7%E8%B7%9F%E6%97%B6%E4%BA%8B",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "吴为山讲述为国殇“塑像”：让日本军国主义永远“跪”着",
@@ -113,18 +212,6 @@
           "ranks": [
             6,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "日本住持捐赠5000份日军侵华史料",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BD%8F%E6%8C%81%E6%8D%90%E8%B5%A05000%E4%BB%BD%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E5%8F%B2%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -142,26 +229,16 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "端牢中国饭碗有信心有底气",
-          "url": "https://www.toutiao.com/trending/7582891689250799654/",
-          "source": "今日头条",
+          "title": "美国驻立陶宛大使馆：9名囚犯从白俄罗斯被送往立陶宛首都维尔纽斯，其中包括诺贝尔奖得主阿列斯·比亚利亚茨基。其他囚犯正从白俄罗斯被送往乌克兰。",
+          "url": "https://flash.jin10.com/detail/20251213223125226800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "中国经济年会：2026年要促进居民收入增长和经济增长同步",
-          "url": "https://www.cls.cn/detail/2228664",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "取消制裁、释放被扣押人员，美国称正推动与白俄关系正常化",
@@ -175,16 +252,40 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "中国公民接连遇袭 驻阿使馆紧急提醒",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%8E%A5%E8%BF%9E%E9%81%87%E8%A2%AD+%E9%A9%BB%E9%98%BF%E4%BD%BF%E9%A6%86%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
+          "title": "美国旅游真的又乱又贵吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9C%9F%E7%9A%84%E5%8F%88%E4%B9%B1%E5%8F%88%E8%B4%B5%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "time_info": "[05时10分 ~ 09时04分]"
+        },
+        {
+          "title": "美国大使馆：白俄罗斯释放123名囚犯，美方愿深化符合利益的接触",
+          "url": "https://flash.jin10.com/detail/20251213214347063800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "白俄罗斯总统府：白俄罗斯总统卢卡申科已在美国达成协议的情况下，赦免了123名囚犯。获赦免者包括被判犯有恐怖主义、极端主义和间谍罪的人。",
+          "url": "https://flash.jin10.com/detail/20251213212628558800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "中国古人如何熬过寒冷冬天",
@@ -192,17 +293,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "“熊”起!日本年度汉字紧跟时事",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347939&amp;topic_name=%E2%80%9C%E7%86%8A%E2%80%9D%E8%B5%B7%21%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E7%B4%A7%E8%B7%9F%E6%97%B6%E4%BA%8B",
-          "source": "贴吧",
-          "ranks": [
             15
           ],
           "is_new": false,
@@ -222,6 +312,30 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
+          "title": "日本财务大臣表态支持央行加息预期",
+          "url": "https://flash.jin10.com/detail/20251213211748230800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
           "title": "芬兰选美小姐涉嫌歧视中国人",
           "url": "https://www.toutiao.com/trending/7582445826715320363/",
           "source": "今日头条",
@@ -231,17 +345,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "美国驻立陶宛大使馆：9名囚犯从白俄罗斯被送往立陶宛首都维尔纽斯，其中包括诺贝尔奖得主阿列斯·比亚利亚茨基。其他囚犯正从白俄罗斯被送往乌克兰。",
-          "url": "https://flash.jin10.com/detail/20251213223125226800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
@@ -257,67 +360,12 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "美国旅游真的又乱又贵吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9C%9F%E7%9A%84%E5%8F%88%E4%B9%B1%E5%8F%88%E8%B4%B5%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 05时11分]"
-        },
-        {
-          "title": "美国大使馆：白俄罗斯释放123名囚犯，美方愿深化符合利益的接触",
-          "url": "https://flash.jin10.com/detail/20251213214347063800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "白俄罗斯总统府：白俄罗斯总统卢卡申科已在美国达成协议的情况下，赦免了123名囚犯。获赦免者包括被判犯有恐怖主义、极端主义和间谍罪的人。",
-          "url": "https://flash.jin10.com/detail/20251213212628558800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "日本财务大臣表态支持央行加息预期",
-          "url": "https://flash.jin10.com/detail/20251213211748230800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
           "title": "【茅台或于近期推出控量政策】记者从中国酒业评论人肖竹青处了解到，贵州茅台于近期推出控量政策，涵盖短期减负、中长期结构性改革两大维度。短期措施方面，2025年12月内，贵州茅台将停止向经销商发放所有茅台产品（预付款已完成），直至2026年1月1日，在适当时候恢复。肖竹青分析，此举旨在年底经销商资金紧张时期，直接为经销商减负，防止经销商因偿还贷款或支付新货款而出现恐慌性抛售行为。中长期结构性改革方面，2026年，贵州茅台计划大幅消减非标产品配额，从源头减少使经销渠道利润缩减的产品供应。但截至目前，对于上述情况，贵州茅台官方并未公布相关内容。（证券时报）",
           "url": "https://wallstreetcn.com/livenews/3020237",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
-          "url": "https://flash.jin10.com/detail/20251213211438744800",
-          "source": "金十数据",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -357,15 +405,92 @@
           "time_info": "[05时10分 ~ 05时11分]"
         },
         {
+          "title": "古特雷斯：二战爆发是由日本侵华引发",
+          "url": "https://www.toutiao.com/trending/7582877503585648694/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "胡锡进：美国组建“和平硅”新合作机制，说明华盛顿真的急了",
+          "url": "https://news.ifeng.com/c/8p3mxTrktwr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
           "url": "https://wallstreetcn.com/livenews/3020259",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国企业云计算和服务管理解决方案提供商ServiceNow据悉接近以高达70亿美元的价格收购Armis。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3020293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "中国银河宏观解读11月金融数据：居民存款未明显流向股市，部分可能流向理财",
+          "url": "https://wallstreetcn.com/articles/3761325",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国布朗大学撤回第二起枪击报告 要求师生继续就地避险",
+          "url": "https://wallstreetcn.com/livenews/3020284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国布朗大学称再次接到枪声报告 目前已致多人死伤",
+          "url": "https://wallstreetcn.com/livenews/3020278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "打卡中国｜从老街烟火到揽山入城，南昌打造更多文旅新场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171435",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "如何看待「日本三季度 GDP 年化降幅扩大至 2.3%」？日本经济遇到了哪些问题？",
@@ -377,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "美国布朗大学发生校园枪击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B8%83%E6%9C%97%E5%A4%A7%E5%AD%A6%E5%8F%91%E7%94%9F%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "中国火箭军：以国之名 祭奠",
@@ -401,6 +537,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "英国博主的中国旅行体验",
+          "url": "https://www.douyin.com/hot/2334488",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "美国流感活动水平上升，已有约290万例感染",
           "url": "https://wallstreetcn.com/livenews/3020228",
           "source": "华尔街见闻-快讯",
@@ -415,8 +562,20 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
           "url": "https://wallstreetcn.com/articles/3761309",
@@ -429,16 +588,28 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
+          "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
+          "url": "https://wallstreetcn.com/livenews/3020302",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            4
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
+          "url": "https://wallstreetcn.com/articles/3761321",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -449,20 +620,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
-          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
-          "url": "https://wallstreetcn.com/articles/3761321",
-          "source": "华尔街见闻",
+          "title": "媒体：“声音被偷”？滥用AI要不得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -470,17 +641,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "媒体：“声音被偷”？滥用AI要不得",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -497,13 +657,37 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "8小时让AI做3个游戏",
+          "url": "https://search.bilibili.com/all?keyword=8%E5%B0%8F%E6%97%B6%E8%AE%A9AI%E5%81%9A3%E4%B8%AA%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
+          "url": "https://wallstreetcn.com/articles/3761336",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
         {
           "title": "“豆包手机”被监管机构约谈？知情人士：消息不实",
           "url": "https://wallstreetcn.com/livenews/3020252",
@@ -517,18 +701,6 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
-          "url": "https://wallstreetcn.com/articles/3761336",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
           "title": "豆包手机助手使用系统原生截屏接口，无法截屏银行键盘等受保护内容",
           "url": "https://wallstreetcn.com/livenews/3020249",
           "source": "华尔街见闻-快讯",
@@ -539,6 +711,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "盲老太求带路被拒后看手机事件反转",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B2%E8%80%81%E5%A4%AA%E6%B1%82%E5%B8%A6%E8%B7%AF%E8%A2%AB%E6%8B%92%E5%90%8E%E7%9C%8B%E6%89%8B%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
@@ -547,23 +730,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "小米现车开售后二手行情崩塌",
-          "url": "https://www.toutiao.com/trending/7583167861523529754/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
           "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "小米现车开售后二手行情崩塌",
+          "url": "https://www.toutiao.com/trending/7583167861523529754/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
