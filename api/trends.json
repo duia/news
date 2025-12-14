@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T14:19:00.142466+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2025-12-14T17:13:09.917971+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 77,
+      "match_count": 88,
       "titles": [
         {
           "title": "日本自民党多名高官曝出丑闻：政治资金被用于酒吧、夜总会消费",
@@ -16,8 +16,55 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 17时13分]"
+        },
+        {
+          "title": "2026年中国经济向“内”求变",
+          "url": "https://www.toutiao.com/trending/7583544120682204723/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "外媒眼中的中国经济关键词",
+          "url": "https://www.douyin.com/hot/2335953",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "“熊”起!日本年度汉字紧跟时事",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347939&amp;topic_name=%E2%80%9C%E7%86%8A%E2%80%9D%E8%B5%B7%21%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E7%B4%A7%E8%B7%9F%E6%97%B6%E4%BA%8B",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 17时13分]"
+        },
+        {
+          "title": "美国加州硅谷华人纪念南京大屠杀，冀推动立法设立纪念日",
+          "url": "https://news.ifeng.com/c/8p4oYCxIqX7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时04分 ~ 14时19分]"
+          "time_info": "[14时18分 ~ 17时13分]"
         },
         {
           "title": "玉渊谭天：日本八纮一宇塔应当被拆除",
@@ -31,26 +78,17 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "2026年中国经济向“内”求变",
-          "url": "https://www.toutiao.com/trending/7583544120682204723/",
-          "source": "今日头条",
+          "title": "中国古人如何熬过寒冷冬天",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BA%BA%E5%A6%82%E4%BD%95%E7%86%AC%E8%BF%87%E5%AF%92%E5%86%B7%E5%86%AC%E5%A4%A9",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            29,
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 14时19分]"
-        },
-        {
-          "title": "外媒眼中的中国经济关键词",
-          "url": "https://www.douyin.com/hot/2335953",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时13分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -76,19 +114,6 @@
           "time_info": "[02时16分 ~ 11时57分]"
         },
         {
-          "title": "“熊”起!日本年度汉字紧跟时事",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347939&amp;topic_name=%E2%80%9C%E7%86%8A%E2%80%9D%E8%B5%B7%21%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E7%B4%A7%E8%B7%9F%E6%97%B6%E4%BA%8B",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 14时19分]"
-        },
-        {
           "title": "日本自民党多地分支机构使用政治资金支付娱乐场所消费",
           "url": "https://flash.jin10.com/detail/20251214110510929800",
           "source": "金十数据",
@@ -112,26 +137,15 @@
           "time_info": "[14时18分 ~ 14时19分]"
         },
         {
-          "title": "她让中华人民共和国国歌在日本响起",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B9%E8%AE%A9%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%93%8D%E8%B5%B7",
-          "source": "百度热搜",
+          "title": "美国布朗大学 2025 年 12 月 13 日发生枪击事件，致 2 死 8 伤，嫌疑人仍在逃，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1983427558025488018",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "美国加州硅谷华人纪念南京大屠杀，冀推动立法设立纪念日",
-          "url": "https://news.ifeng.com/c/8p4oYCxIqX7",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "美国布朗大学校长：在布朗大学枪击事件中遇难的两人均为学生。",
@@ -157,39 +171,40 @@
           "time_info": "[14时18分 ~ 14时19分]"
         },
         {
-          "title": "美国华盛顿州多地遭遇洪灾 未来可能面临更严重灾情",
-          "url": "https://flash.jin10.com/detail/20251214134956265800",
-          "source": "金十数据",
+          "title": "她让中华人民共和国国歌在日本响起",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B9%E8%AE%A9%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E6%AD%8C%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
           "ranks": [
-            1
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 17时13分]"
         },
         {
-          "title": "中国古人如何熬过寒冷冬天",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BA%BA%E5%A6%82%E4%BD%95%E7%86%AC%E8%BF%87%E5%AF%92%E5%86%B7%E5%86%AC%E5%A4%A9",
-          "source": "bilibili 热搜",
+          "title": "巨变酝酿中？美国财政部将“合并”美联储，贝森特才是真正的“影子联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761358",
+          "source": "华尔街见闻",
           "ranks": [
-            29,
-            15,
-            18
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 17时13分]"
+        },
+        {
+          "title": "打卡中国｜从老街烟火到揽山入城，南昌打造更多文旅新场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171435",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时19分]"
-        },
-        {
-          "title": "最新调查显示日本中学生滥用药物现象严重",
-          "url": "https://wallstreetcn.com/livenews/3020353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "[09时04分 ~ 17时13分]"
         },
         {
           "title": "日本开始军事介入南海",
@@ -212,17 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "美国华盛顿州多地遭遇洪灾 未来可能面临更严重灾情",
-          "url": "https://wallstreetcn.com/livenews/3020352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
         },
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
@@ -261,6 +265,29 @@
           "time_info": "09时04分"
         },
         {
+          "title": "中国电影正成为促进消费重要引擎",
+          "url": "https://www.douyin.com/hot/2335957",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "美国华盛顿州多地遭遇洪灾 未来可能面临更严重灾情",
+          "url": "https://flash.jin10.com/detail/20251214134956265800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
           "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
@@ -297,6 +324,18 @@
           "time_info": "[05时11分 ~ 09时04分]"
         },
         {
+          "title": "最新调查显示日本中学生滥用药物现象严重",
+          "url": "https://wallstreetcn.com/livenews/3020353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
           "title": "美联航发言人：美联航803航班安全地重返美国Dulles机场，机上无人受伤。 公司为该航班安排了包机。",
           "url": "https://wallstreetcn.com/livenews/3020263",
           "source": "华尔街见闻-快讯",
@@ -307,6 +346,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 09时04分]"
+        },
+        {
+          "title": "美国华盛顿州多地遭遇洪灾 未来可能面临更严重灾情",
+          "url": "https://wallstreetcn.com/livenews/3020352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时13分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默与欧盟委员会主席冯德莱恩对话。 双方讨论了美国牵头的乌克兰和平计划，讨论了（如何处置）被冻结的俄罗斯资产。",
@@ -420,16 +471,16 @@
           "time_info": "[02时16分 ~ 11时57分]"
         },
         {
-          "title": "打卡中国｜从老街烟火到揽山入城，南昌打造更多文旅新场景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171435",
-          "source": "澎湃新闻",
+          "title": "芬兰选美小姐歧视中国人 被剥夺头衔",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E9%80%89%E7%BE%8E%E5%B0%8F%E5%A7%90%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E8%A2%AB%E5%89%A5%E5%A4%BA%E5%A4%B4%E8%A1%94",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15
+            22,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时04分 ~ 14时19分]"
+          "time_info": "[14时18分 ~ 17时13分]"
         },
         {
           "title": "吴为山讲述为国殇“塑像”：让日本军国主义永远“跪”着",
@@ -464,17 +515,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "中国电影正成为促进消费重要引擎",
-          "url": "https://www.douyin.com/hot/2335957",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 14时19分]"
         },
         {
           "title": "古特雷斯称日本侵华引发二战爆发",
@@ -561,6 +601,28 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
+          "title": "日本被曝正在谋划“太空珍珠港事件”",
+          "url": "https://www.toutiao.com/trending/7582999083653496838/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
+          "title": "涉嫌歧视中国人芬兰小姐公开道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%89%E5%AB%8C%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%8A%AC%E5%85%B0%E5%B0%8F%E5%A7%90%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "美国普罗维登斯市长：（布朗大学枪击案）嫌疑人视频将公开；嫌疑人仍在逃。",
           "url": "https://flash.jin10.com/detail/20251214103843376800",
           "source": "金十数据",
@@ -584,6 +646,28 @@
           "time_info": "[09时04分 ~ 11时57分]"
         },
         {
+          "title": "超级央行周来了！日本带头加息，发达国家央行“降息周期”进入尾声，明年美联储“独自降息”？",
+          "url": "https://wallstreetcn.com/articles/3761359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
+          "title": "华尔街投行：明年更大的风险不是“美国衰退导致市场崩盘”，而是“市场崩盘导致美国衰退”",
+          "url": "https://wallstreetcn.com/articles/3761360",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "日本太空航母野心曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%AA%E7%A9%BA%E8%88%AA%E6%AF%8D%E9%87%8E%E5%BF%83%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -595,15 +679,16 @@
           "time_info": "[14时18分 ~ 14时19分]"
         },
         {
-          "title": "巨变酝酿中？美国财政部将“合并”美联储，贝森特才是真正的“影子联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761358",
-          "source": "华尔街见闻",
+          "title": "中国香港和印度助力亚洲融资迎来辉煌的一年",
+          "url": "https://wallstreetcn.com/livenews/3020346",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 17时13分]"
         },
         {
           "title": "美国称正推动与白俄罗斯关系正常化",
@@ -630,15 +715,15 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "芬兰选美小姐歧视中国人 被剥夺头衔",
-          "url": "https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E9%80%89%E7%BE%8E%E5%B0%8F%E5%A7%90%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E8%A2%AB%E5%89%A5%E5%A4%BA%E5%A4%B4%E8%A1%94",
-          "source": "百度热搜",
+          "title": "中国解锁未来能源宝库",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A7%A3%E9%94%81%E6%9C%AA%E6%9D%A5%E8%83%BD%E6%BA%90%E5%AE%9D%E5%BA%93%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "巴勒斯坦总统府：我们谴责美国大使支持建立19个定居点的言论，因其违反国际共识及第2334号决议。",
@@ -685,6 +770,17 @@
           "time_info": "[05时10分 ~ 05时11分]"
         },
         {
+          "title": "冬天里的大美中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E9%87%8C%E7%9A%84%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "古特雷斯：二战爆发是由日本侵华引发",
           "url": "https://www.toutiao.com/trending/7582877503585648694/",
           "source": "今日头条",
@@ -707,6 +803,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "《疯狂动物城2》进入中国影史票房榜前15名",
+          "url": "https://wallstreetcn.com/livenews/3020386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "美国企业云计算和服务管理解决方案提供商ServiceNow据悉接近以高达70亿美元的价格收购Armis。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3020293",
           "source": "华尔街见闻-快讯",
@@ -718,17 +825,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "中国香港和印度助力亚洲融资迎来辉煌的一年",
-          "url": "https://wallstreetcn.com/livenews/3020346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "中国银河宏观解读11月金融数据：居民存款未明显流向股市，部分可能流向理财",
           "url": "https://wallstreetcn.com/articles/3761325",
           "source": "华尔街见闻",
@@ -738,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "Uber(UBER.N)：未来五年将在日本投资超过20亿美元，计划扩大与出租车公司和餐馆的合作关系，资助广告宣传活动，并增加员工人数。",
+          "url": "https://flash.jin10.com/detail/20251214162808730800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "美国布朗大学撤回第二起枪击报告 要求师生继续就地避险",
@@ -768,7 +875,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -782,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "委前副外长警示美国勿轻举妄动",
+          "url": "https://wallstreetcn.com/livenews/3020357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "如何看待「日本三季度 GDP 年化降幅扩大至 2.3%」？日本经济遇到了哪些问题？",
@@ -826,6 +944,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "阿根廷首次向中国出口小麦",
+          "url": "https://wallstreetcn.com/livenews/3020355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "中国人力资本报告：全国劳动力人口平均年龄达39.66岁",
@@ -897,7 +1026,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -909,8 +1038,37 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 17时13分]"
+        },
+        {
+          "title": "媒体：“声音被偷”？滥用AI要不得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 17时13分]"
+        },
+        {
+          "title": "我的AI员工也太能干了",
+          "url": "https://www.douyin.com/hot/2335414",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            10,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 17时13分]"
         },
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
@@ -922,33 +1080,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时11分]"
-        },
-        {
-          "title": "媒体：“声音被偷”？滥用AI要不得",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 14时19分]"
-        },
-        {
-          "title": "我的AI员工也太能干了",
-          "url": "https://www.douyin.com/hot/2335414",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 14时19分]"
         },
         {
           "title": "华尔街日报：OpenAI将取消员工股权归属期",
@@ -987,6 +1118,18 @@
           "time_info": "[02时16分 ~ 09时04分]"
         },
         {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 17时13分]"
+        },
+        {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
@@ -1010,15 +1153,15 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
+          "url": "https://www.zhihu.com/question/1982864642054250698",
+          "source": "知乎",
           "ranks": [
-            8
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -1112,11 +1255,12 @@
             16,
             15,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 17时13分]"
         },
         {
           "title": "小米现车开售后二手行情崩塌",
