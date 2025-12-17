@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T05:14:13.262062+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-12-17T08:56:51.911774+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 43,
+      "match_count": 81,
       "titles": [
         {
           "title": "学者：高市的错误言论，也折射出美国撤离的信号",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "大批日本民众预约参观大熊猫，动物园官网一度崩溃",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "美国就业继续降温：11月非农小幅回升，但失业率创四年新高，交易员估明年降息两次",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "肥水全流美国田，高市被当面痛骂：你这不是极致的卖国弃民吗？",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "菲方人员持长刀挑衅中国海警画面公开",
@@ -64,15 +64,51 @@
           "time_info": "[02时20分 ~ 05时14分]"
         },
         {
+          "title": "美国11月非农录得6.4万人 失业率为四年来新高 劳动力市场面临不确定性",
+          "url": "https://www.cls.cn/detail/2231468",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
+        },
+        {
           "title": "美国白宫：扩大旅行禁令将于2026年1月1日生效。",
           "url": "https://flash.jin10.com/detail/20251217043339578800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国总统特朗普：提名Troy Edgar为下一任美国驻萨尔瓦多大使。",
+          "url": "https://flash.jin10.com/detail/20251217084307301800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "中国卫星与美「星链」卫星惊险「擦肩」，相距仅 200 米，到底怎么回事？为什么会出现这一状况？",
+          "url": "https://www.zhihu.com/question/1984028148086563639",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
@@ -86,18 +122,6 @@
           "time_info": "02时20分"
         },
         {
-          "title": "中国卫星与美「星链」卫星惊险「擦肩」，相距仅 200 米，到底怎么回事？为什么会出现这一状况？",
-          "url": "https://www.zhihu.com/question/1984028148086563639",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
           "url": "https://wallstreetcn.com/livenews/3021857",
           "source": "华尔街见闻-快讯",
@@ -107,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "日本民众排队送别大熊猫",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F%E9%80%81%E5%88%AB%E5%A4%A7%E7%86%8A%E7%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国国防部：美国国务院支持向黎巴嫩出售M1151A1高机动性多用途轮式车辆及相关装备的潜在对外军售案，预计费用为3450万美元。",
@@ -120,27 +155,29 @@
           "time_info": "02时20分"
         },
         {
-          "title": "美国11月非农录得6.4万人 失业率为四年来新高 劳动力市场面临不确定性",
-          "url": "https://www.cls.cn/detail/2231468",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
           "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
+        },
+        {
+          "title": "中国驻美国使领馆：提醒在美公民进行“海外公民登记”",
+          "url": "https://www.cls.cn/detail/2231386",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "数字中国十载潮涌 神州加“数”奔腾",
@@ -150,42 +187,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "中国驻美国使领馆：提醒在美公民进行“海外公民登记”",
-          "url": "https://www.cls.cn/detail/2231386",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "许亚军被曝在美国",
           "url": "https://www.toutiao.com/trending/7583827299838066724/",
           "source": "今日头条",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
-        },
-        {
-          "title": "英伟达急着卖芯片 中国不急着买了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%80%A5%E7%9D%80%E5%8D%96%E8%8A%AF%E7%89%87+%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%80%A5%E7%9D%80%E4%B9%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
             12,
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "经济数据难解美国经济迷雾 三大期指横盘震荡 | 今夜看点",
@@ -194,6 +209,18 @@
           "ranks": [
             12,
             13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
+        },
+        {
+          "title": "英伟达急着卖芯片 中国不急着买了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%80%A5%E7%9D%80%E5%8D%96%E8%8A%AF%E7%89%87+%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%80%A5%E7%9D%80%E4%B9%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -284,7 +311,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -306,9 +333,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日公布英国11月CPI月率、欧元区11月CPI数据、美国至12月12日当周EIA原油库存。",
+          "url": "https://flash.jin10.com/detail/20251217081701314800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美联储博斯蒂克：一些群体，尤其是非裔美国人和应届毕业生，正在遭受劳动力市场转变的影响。",
@@ -317,7 +355,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -339,9 +377,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
+          "url": "https://www.cls.cn/detail/2231375",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普全面封锁进出委内瑞拉的受制裁油轮 要求把石油等资产“还给美国”",
+          "url": "https://flash.jin10.com/detail/20251217080626200800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国最大的电网运营商PJM将于周三披露电力拍卖结果",
@@ -361,9 +421,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国务院批准1亿美元对日军售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%89%B9%E5%87%861%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E6%97%A5%E5%86%9B%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
@@ -377,13 +448,79 @@
           "time_info": "02时20分"
         },
         {
+          "title": "特斯拉在美国加州被要求限期整改 否则将被暂停销售",
+          "url": "https://wallstreetcn.com/livenews/3021988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "中国要重写空战规则吗",
+          "url": "https://www.toutiao.com/trending/7584366455425076755/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "据NBC新闻：预计美国总统特朗普最早将于本周签署一项行政命令，以加快大麻的重新分类进程。",
+          "url": "https://flash.jin10.com/detail/20251217080138619800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本考虑从2027年起提高所得税 为增加国防开支筹集资金",
+          "url": "https://wallstreetcn.com/livenews/3021986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本大熊猫即将回国",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8D%B3%E5%B0%86%E5%9B%9E%E5%9B%BD&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "王毅：日本发动侵略历史教训不能重演",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%8F%91%E5%8A%A8%E4%BE%B5%E7%95%A5%E5%8E%86%E5%8F%B2%E6%95%99%E8%AE%AD%E4%B8%8D%E8%83%BD%E9%87%8D%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
           "url": "https://flash.jin10.com/detail/20251217040248349800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -394,9 +531,53 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国学者盛赞海南自贸港封关运作",
+          "url": "https://www.toutiao.com/trending/7583869594700873771/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3021984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "39岁中国女子伦敦被刺身亡",
+          "url": "https://www.baidu.com/s?wd=39%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E4%BC%A6%E6%95%A6%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "市场消息：美国和日本将考虑可能动用5500亿美元基金的项目。",
+          "url": "https://flash.jin10.com/detail/20251217075353488800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "德债收益率于美国非农就业报告发布后出现一波冲高回落行情，投资者关注PMI数据、等候通胀数据",
@@ -410,15 +591,92 @@
           "time_info": "02时20分"
         },
         {
+          "title": "日本11月对中国出口同比下降2.4%，对美国出口增长8.8%，对欧盟出口增长19.6%。",
+          "url": "https://wallstreetcn.com/livenews/3021983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
           "url": "https://wallstreetcn.com/livenews/3021872",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "王毅：日本发动侵略历史教训不能重演",
+          "url": "https://www.toutiao.com/trending/7583614988695109686/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本仍在要害问题上挤牙膏埋钉子",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BB%8D%E5%9C%A8%E8%A6%81%E5%AE%B3%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%A4%E7%89%99%E8%86%8F%E5%9F%8B%E9%92%89%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本11月季调后商品贸易帐 628.93亿日元，预期-2069亿日元，前值-42.22亿日元。",
+          "url": "https://flash.jin10.com/detail/20251217075022941800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本10月核心机械订单年率 12.5%，预期3.6%，前值11.60%。",
+          "url": "https://flash.jin10.com/detail/20251217075002636800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本10月核心机械订单月率 7%，预期-2.3%，前值4.20%。",
+          "url": "https://flash.jin10.com/detail/20251217075002610800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "菲方人员持长刀挑衅中国海警",
+          "url": "https://www.toutiao.com/trending/7584190038892809764/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国军方：对三艘涉嫌在东太平洋贩运毒品的船只进行了一系列打击。情报证实这些船只正在已知的毒品走私路线上活动。",
@@ -430,6 +688,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "日本11月未季调商品贸易帐 3222亿日元，预期712亿日元，前值-2318亿日元。",
+          "url": "https://flash.jin10.com/detail/20251217075002434800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本10月核心机械订单环比 7%，预期 -1.8%，前值 4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3021977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本11月商品出口年率 6.1%，预期4.8%，前值3.6%。",
+          "url": "https://flash.jin10.com/detail/20251217075002433800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "英债收益率于美国非农就业报告发布后冲高回落",
@@ -449,9 +740,53 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "日本10月核心机械订单同比 12.5%，预期 3.6%，前值 11.6%。",
+          "url": "https://wallstreetcn.com/livenews/3021976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本在冲绳圈地为部署雷达做准备",
+          "url": "https://www.toutiao.com/trending/7584316425193685038/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本11月商品进口年率 1.3%，预期2.5%，前值0.7%。",
+          "url": "https://flash.jin10.com/detail/20251217075002397800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本11月季调后商品贸易帐 628.93亿日元，预期 -2069亿日元，前值 -42亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3021975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "据日经新闻：日本先进半导体制造企业Rapidus已开发出可降低人工智能应用芯片生产成本的技术。",
@@ -465,6 +800,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉政权已被指定为外国恐怖组织。",
+          "url": "https://flash.jin10.com/detail/20251217074914170800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.625%，投标倍数2.73。",
           "url": "https://wallstreetcn.com/livenews/3021828",
           "source": "华尔街见闻-快讯",
@@ -476,6 +822,72 @@
           "time_info": "02时20分"
         },
         {
+          "title": "日本11月出口同比 6.1%，预期 5%，前值 3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3021974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本11月未季调商品贸易帐 3223亿日元，预期 726亿日元，前值 -2318亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3021973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "美国总统特朗普：（美军）包围委内瑞拉的海上舰队规模只会越来越大。",
+          "url": "https://flash.jin10.com/detail/20251217074838037800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本11月进口同比 1.3%，预期 3%，前值 0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3021972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "傅聪：台湾属于中国是铁一般的事实",
+          "url": "https://www.toutiao.com/trending/7584061978500120595/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "美国总统特朗普：下令对所有进出委内瑞拉的受制裁油轮实施全面彻底封锁。",
+          "url": "https://flash.jin10.com/detail/20251217074757913800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "法意西希主权价格在美国非农就业报告发布后出现V形走势",
           "url": "https://wallstreetcn.com/livenews/3021825",
           "source": "华尔街见闻-快讯",
@@ -485,6 +897,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国总统特朗普：下令对所有进出委内瑞拉的受制裁油轮实施全面彻底封锁。 委内瑞拉周边的（美国）舰队规模只会进一步扩大。",
+          "url": "https://wallstreetcn.com/livenews/3021971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -497,11 +920,12 @@
           "url": "https://wallstreetcn.com/articles/3761466",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
         },
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -521,7 +945,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -565,7 +989,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         }
@@ -573,7 +997,7 @@
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "手机充电器千万不要一直插着不拔",
@@ -581,11 +1005,34 @@
           "source": "微博",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时56分]"
+        },
+        {
+          "title": "手机充电器千万不要一直插着不拔",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E5%99%A8%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E6%8F%92%E7%9D%80%E4%B8%8D%E6%8B%94",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "市场研究公司Counterpoint表示，由于芯片成本上升可能影响需求，预计明年全球智能手机出货量将下降2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3021982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     }
