@@ -1,12 +1,90 @@
 {
-  "generated_at": "2025-12-18T02:20:43.739814+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-18T05:13:52.830844+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 33,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "中国经济：顶压前行 向新向优",
+          "url": "https://www.toutiao.com/trending/7584814122659974706/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "日本H3火箭发射紧急停止，网上直播满屏问号",
+          "url": "https://v.ifeng.com/c/8p9gahxB1TN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "中国脑机接口新突破",
+          "url": "https://www.douyin.com/hot/2339565",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "泰军从柬军缴获中国装备？中方回应",
+          "url": "https://www.toutiao.com/trending/7583923284925317126/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
+          "url": "https://v.ifeng.com/c/8pA0LK8hlbK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
+          "url": "https://flash.jin10.com/detail/20251218043431580800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
+          "url": "https://wallstreetcn.com/livenews/3022602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
         {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
           "url": "https://flash.jin10.com/detail/20251218021529556800",
@@ -17,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，原油投机者将WTI原油净空头头寸减少2,312手，至50,928手。",
+          "url": "https://flash.jin10.com/detail/20251218043241837800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：GDP增速稳固，预计将在2026年继续如此。",
@@ -30,37 +119,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "中国经济：顶压前行 向新向优",
-          "url": "https://www.toutiao.com/trending/7584814122659974706/",
-          "source": "今日头条",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX黄金投机者将净多头头寸增加11,832手，至119,808手。",
+          "url": "https://flash.jin10.com/detail/20251218043056017800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "日本H3火箭发射紧急停止，网上直播满屏问号",
-          "url": "https://v.ifeng.com/c/8p9gahxB1TN",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "中国脑机接口新突破",
-          "url": "https://www.douyin.com/hot/2339565",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
           "title": "美国财政部将墨西哥Santa Rosa de Lima贩毒集团列入制裁名单，指责该集团盗窃燃料，扰乱全球能源市场。",
@@ -74,6 +141,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX白银投机者将净多头头寸增加1,127手，至21,254手。",
+          "url": "https://flash.jin10.com/detail/20251218043047902800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "甲骨文信用风险指标恐创2009年以来收盘新高，媒体此前报道称，Blue Owl不再支持该公司位于美国密西根的100亿美元规模的数据中心交易。 甲骨文五年期信用违约掉期（CDS）达到155.27个基点——恐创2009年1月份（全球金融危机全面发酵）以来收盘新高，涨幅大约3.8个基点。",
           "url": "https://wallstreetcn.com/livenews/3022552",
           "source": "华尔街见闻-快讯",
@@ -85,37 +163,140 @@
           "time_info": "02时20分"
         },
         {
-          "title": "泰军从柬军缴获中国装备？中方回应",
-          "url": "https://www.toutiao.com/trending/7583923284925317126/",
-          "source": "今日头条",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX铜投机者将净多头头寸增加5,708手，至64,204手。",
+          "url": "https://flash.jin10.com/detail/20251218043016498800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
-          "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
-          "url": "https://v.ifeng.com/c/8pA0LK8hlbK",
-          "source": "凤凰网",
+          "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
+          "url": "https://www.zhihu.com/question/1984546043069760250",
+          "source": "知乎",
           "ranks": [
-            5
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
         },
         {
           "title": "美国同意提供安全保障，欧洲多方欢迎“重大进展”，美乌“和平计划”将提交俄方",
           "url": "https://wallstreetcn.com/articles/3761522",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "马克龙在《金融时报》发文：欧盟必须对中国开放，但有个前提",
+          "url": "https://news.ifeng.com/c/8pA1LYGI8TM",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "外交部回应泰国缴获中国制造装备",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B3%B0%E5%9B%BD%E7%BC%B4%E8%8E%B7%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%A3%85%E5%A4%87%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "同行质疑公牛集团“10户中国家庭，7户用公牛”误导宣传，被起诉索赔420万",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193977",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "菲方人员持刀威胁中国海警，现场视频曝光",
+          "url": "https://news.ifeng.com/c/8pAGHOOD6FX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
+          "url": "https://www.cls.cn/detail/2232432",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "美国核物理学家 Nuno Loureiro 15 日被枪杀，事件情况如何，对美国的聚变研究会有什么影响？",
+          "url": "https://www.zhihu.com/question/1984441162011022805",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "懂王助攻中国制造,贸易战打成带货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "中国人民公安大学和中国人民警察大学有什么区别吗？",
+          "url": "https://www.zhihu.com/question/515938763",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "中国发现新矿物金秀矿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%96%B0%E7%9F%BF%E7%89%A9%E9%87%91%E7%A7%80%E7%9F%BF",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
         },
         {
           "title": "美国20年期国债收益率在拍卖后小幅下跌，最新报4.787%。",
@@ -129,15 +310,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
-          "url": "https://www.zhihu.com/question/1984546043069760250",
-          "source": "知乎",
+          "title": "市场消息：美国电动飞行器开发公司Archer Aviation正根据白宫行政命令，推进在美国各大城市启动空中出租车试运行。",
+          "url": "https://flash.jin10.com/detail/20251218042933231800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -145,17 +326,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "马克龙在《金融时报》发文：欧盟必须对中国开放，但有个前提",
-          "url": "https://news.ifeng.com/c/8pA1LYGI8TM",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -173,15 +343,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "外交部回应泰国缴获中国制造装备",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B3%B0%E5%9B%BD%E7%BC%B4%E8%8E%B7%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%A3%85%E5%A4%87%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "美国参议院以67票赞成、30票反对的投票结果，批准亿万富翁、私人宇航员Jared Isaacman出任第15任美国国家航空航天局局长。",
+          "url": "https://flash.jin10.com/detail/20251218042021663800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
           "title": "美国至12月17日20年期国债竞拍-得标利率 4.798%，前值4.71%。",
@@ -195,26 +365,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "同行质疑公牛集团“10户中国家庭，7户用公牛”误导宣传，被起诉索赔420万",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193977",
-          "source": "澎湃新闻",
+          "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
+          "url": "https://wallstreetcn.com/livenews/3022593",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "菲方人员持刀威胁中国海警，现场视频曝光",
-          "url": "https://news.ifeng.com/c/8pAGHOOD6FX",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
           "title": "美国至12月17日20年期国债竞拍-得标利率配置百分比 3.16%，前值62.39%。",
@@ -228,37 +387,81 @@
           "time_info": "02时20分"
         },
         {
-          "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
-          "url": "https://www.cls.cn/detail/2232432",
-          "source": "财联社热门",
+          "title": "美国密歇根州法官禁止该州封锁Enbridge输油管道",
+          "url": "https://wallstreetcn.com/livenews/3022592",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
-          "title": "美国核物理学家 Nuno Loureiro 15 日被枪杀，事件情况如何，对美国的聚变研究会有什么影响？",
-          "url": "https://www.zhihu.com/question/1984441162011022805",
-          "source": "知乎",
+          "title": "美国天然气期货在结算后交易中延续涨势，上涨5%，因流向液化天然气出口设施的气流接近历史高位，且预计下周需求将进一步增加。",
+          "url": "https://flash.jin10.com/detail/20251218035256642800",
+          "source": "金十数据",
           "ranks": [
-            11
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
-          "title": "懂王助攻中国制造,贸易战打成带货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
-          "source": "贴吧",
+          "title": "美国2025年CLO销售达到2015亿美元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3022589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国和俄罗斯本周将在迈阿密会谈。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3022588",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国原油期货收盘反弹1.2%，纽约天然气涨超3.5%",
+          "url": "https://wallstreetcn.com/livenews/3022586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国参议院一致通过立法，在致命坠机事故后强化军用直升机安全要求。",
+          "url": "https://flash.jin10.com/detail/20251218034008746800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "财团在日本经济中有多重要",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B4%A2%E5%9B%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E4%B8%AD%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "YouTube：自2029年起，奥斯卡颁奖典礼将在全球范围内通过YouTube免费独家直播，并在美国通过YouTube TV播出。",
@@ -272,20 +475,31 @@
           "time_info": "02时20分"
         },
         {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.540%，投标倍数3.27。",
-          "url": "https://wallstreetcn.com/livenews/3022535",
-          "source": "华尔街见闻-快讯",
+          "title": "美国交通部与Beta Technologies及行业伙伴合作制定国家先进空中机动性战略。",
+          "url": "https://flash.jin10.com/detail/20251218033813955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "中国脑机接口实现新突破",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E6%96%B0%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
-          "title": "中国人民公安大学和中国人民警察大学有什么区别吗？",
-          "url": "https://www.zhihu.com/question/515938763",
-          "source": "知乎",
+          "title": "美国财政部拍卖四个月期国债，得标利率3.540%，投标倍数3.27。",
+          "url": "https://wallstreetcn.com/livenews/3022535",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
@@ -316,15 +530,37 @@
           "time_info": "02时20分"
         },
         {
-          "title": "中国发现新矿物金秀矿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%96%B0%E7%9F%BF%E7%89%A9%E9%87%91%E7%A7%80%E7%9F%BF",
-          "source": "百度热搜",
+          "title": "据华尔街日报：美国民主党参议员就美国联邦调查局（FBI）未能调查爱泼斯坦的律师和会计师一事施压，要求司法部解释，为何在调查爱泼斯坦性交易计划时，FBI从未传唤其长期律师或内部会计师接受问询。",
+          "url": "https://flash.jin10.com/detail/20251218031307488800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国11月游戏机销量骤降，创二十年来同期最惨淡的表现",
+          "url": "https://wallstreetcn.com/livenews/3022573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国向厄瓜多尔派遣军队开展“打击贩毒”行动",
+          "url": "https://flash.jin10.com/detail/20251218030954202800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
           "title": "美国财长贝森特：猜测瑞达利欧将对Trump Accounts出资大约1亿美元。",
@@ -360,6 +596,28 @@
           "time_info": "02时20分"
         },
         {
+          "title": "报道：波音供应商Doncasters已为美国IPO计划选定投行",
+          "url": "https://wallstreetcn.com/livenews/3022572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国为何要对委内瑞拉采取行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
           "url": "https://flash.jin10.com/detail/20251218012504616800",
           "source": "金十数据",
@@ -369,52 +627,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "手机 华为 麒麟",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
-          "url": "https://wallstreetcn.com/articles/3761511",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
         },
         {
-          "title": "高中生变魔盗,破解保险箱取手机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348066&amp;topic_name=%E9%AB%98%E4%B8%AD%E7%94%9F%E5%8F%98%E9%AD%94%E7%9B%97%2C%E7%A0%B4%E8%A7%A3%E4%BF%9D%E9%99%A9%E7%AE%B1%E5%8F%96%E6%89%8B%E6%9C%BA",
-          "source": "贴吧",
+          "title": "中方回应“泰称从柬军缴获中国装备”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%B3%B0%E7%A7%B0%E4%BB%8E%E6%9F%AC%E5%86%9B%E7%BC%B4%E8%8E%B7%E4%B8%AD%E5%9B%BD%E8%A3%85%E5%A4%87%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            8
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         },
         {
-          "title": "华为Mate80为啥价格突崩",
-          "url": "https://www.toutiao.com/trending/7583986943530680374/",
-          "source": "今日头条",
+          "title": "美国参议院通过9010亿美元国防授权法案",
+          "url": "https://wallstreetcn.com/livenews/3022564",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时13分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "马斯克：xAI可能会看到AGI在2026年超越人类智慧。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3022597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
           "url": "https://wallstreetcn.com/livenews/3022549",
@@ -425,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "据Business Insider：马斯克称，xAI可能在2026年展现出超越人类智能的通用人工智能。",
+          "url": "https://flash.jin10.com/detail/20251218042922594800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
@@ -451,6 +714,46 @@
       ]
     },
     {
+      "keyword_group": "手机 华为 麒麟",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
+          "url": "https://wallstreetcn.com/articles/3761511",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "高中生变魔盗,破解保险箱取手机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348066&amp;topic_name=%E9%AB%98%E4%B8%AD%E7%94%9F%E5%8F%98%E9%AD%94%E7%9B%97%2C%E7%A0%B4%E8%A7%A3%E4%BF%9D%E9%99%A9%E7%AE%B1%E5%8F%96%E6%89%8B%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "华为Mate80为啥价格突崩",
+          "url": "https://www.toutiao.com/trending/7583986943530680374/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 雷军",
       "match_count": 1,
       "titles": [
@@ -462,8 +765,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时13分]"
         }
       ]
     }
