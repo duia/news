@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T14:21:24.109393+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-12-18T17:19:32.107683+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 107,
+      "match_count": 123,
       "titles": [
         {
           "title": "日本H3火箭发射紧急停止，网上直播满屏问号",
@@ -98,6 +98,42 @@
           "time_info": "11时52分"
         },
         {
+          "title": "懂王助攻中国制造,贸易战打成带货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            18,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时20分 ~ 17时19分]"
+        },
+        {
+          "title": "中方回应日本拟用雷达监视中国航母",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%8B%9F%E7%94%A8%E9%9B%B7%E8%BE%BE%E7%9B%91%E8%A7%86%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
+          "url": "https://news.ifeng.com/c/8pBb5wCNA1W",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
           "url": "https://flash.jin10.com/detail/20251218021529556800",
           "source": "金十数据",
@@ -137,7 +173,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -159,7 +195,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -198,6 +234,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "发生数起中国公民店铺遭抢劫，中国使馆表达严重关切",
+          "url": "https://news.ifeng.com/c/8pBX72XYcd0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "美国财政部将墨西哥Santa Rosa de Lima贩毒集团列入制裁名单，指责该集团盗窃燃料，扰乱全球能源市场。",
           "url": "https://flash.jin10.com/detail/20251218020927589800",
           "source": "金十数据",
@@ -226,7 +273,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -253,6 +300,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX铜投机者将净多头头寸增加5,708手，至64,204手。",
           "url": "https://flash.jin10.com/detail/20251218043016498800",
           "source": "金十数据",
@@ -271,19 +329,6 @@
             11,
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时20分 ~ 14时21分]"
-        },
-        {
-          "title": "懂王助攻中国制造,贸易战打成带货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -348,6 +393,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 08时57分]"
+        },
+        {
+          "title": "IMDB 评分最高的动画剧集《降世神通》，还是中国元素，为什么却在中国知名度极低？",
+          "url": "https://www.zhihu.com/question/1976277649514074131",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 17时19分]"
+        },
+        {
+          "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32186728",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 17时19分]"
         },
         {
           "title": "中国人民公安大学和中国人民警察大学有什么区别吗？",
@@ -421,6 +492,18 @@
           "time_info": "[02时20分 ~ 05时13分]"
         },
         {
+          "title": "中国发现的新矿物正式命名为金秀矿",
+          "url": "https://news.ifeng.com/c/8pB2bIusQEC",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 17时19分]"
+        },
+        {
           "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
           "url": "https://www.cls.cn/detail/2232432",
           "source": "财联社热门",
@@ -430,18 +513,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 05时13分]"
-        },
-        {
-          "title": "IMDB 评分最高的动画剧集《降世神通》，还是中国元素，为什么却在中国知名度极低？",
-          "url": "https://www.zhihu.com/question/1976277649514074131",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时21分]"
         },
         {
           "title": "中国脑机接口实现新突破",
@@ -454,18 +525,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 08时57分]"
-        },
-        {
-          "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32186728",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时21分]"
         },
         {
           "title": "财团在日本经济中有多重要",
@@ -508,7 +567,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -590,15 +649,15 @@
           "time_info": "05时13分"
         },
         {
-          "title": "中国发现的新矿物正式命名为金秀矿",
-          "url": "https://news.ifeng.com/c/8pB2bIusQEC",
+          "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
+          "url": "https://v.ifeng.com/c/8pBb5wCNA7e",
           "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "17时19分"
         },
         {
           "title": "美国至12月17日20年期国债竞拍-得标利率配置百分比 3.16%，前值62.39%。",
@@ -618,7 +677,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -651,7 +710,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -810,6 +869,28 @@
           "time_info": "08时57分"
         },
         {
+          "title": "国际航班外籍男子辱骂骚扰中国女生",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203238",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "日本至12月12日当周外资买进日债 14075亿日元，前值-4426亿日元。",
           "url": "https://flash.jin10.com/detail/20251218075040100800",
           "source": "金十数据",
@@ -882,7 +963,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -975,6 +1056,28 @@
           "time_info": "08时57分"
         },
         {
+          "title": "乌克兰总统泽连斯基：没做好从顿巴斯撤军的准备，乌克兰团队周五至周六将在美国。",
+          "url": "https://wallstreetcn.com/livenews/3022994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "老太太：终于遇到中国人了",
+          "url": "https://www.douyin.com/hot/2340087",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "美国向厄瓜多尔派遣军队开展“打击贩毒”行动",
           "url": "https://flash.jin10.com/detail/20251218030954202800",
           "source": "金十数据",
@@ -1063,15 +1166,37 @@
           "time_info": "08时57分"
         },
         {
+          "title": "中方回应日本拟部署雷达监视中方航母",
+          "url": "https://www.toutiao.com/trending/7584520829791453238/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "泰安古匾实证琉球曾为中国藩属国",
           "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%AE%89%E5%8F%A4%E5%8C%BE%E5%AE%9E%E8%AF%81%E7%90%89%E7%90%83%E6%9B%BE%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%97%A9%E5%B1%9E%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "美国批准111亿美元对台军售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86111%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
@@ -1113,9 +1238,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "商务部：关于长和出售海外港口资产事，中国政府将依法进行审查监管，保护市场公平竞争，维护社会公共利益，坚决维护国家主权、安全、发展利益。（一财）",
+          "url": "https://wallstreetcn.com/livenews/3022982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "特朗普：毒品对美国构成军事威胁",
@@ -1127,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "高市早苗被日本议员当众贴脸开大",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AE%AE%E5%91%98%E5%BD%93%E4%BC%97%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美国稀土供应链建设能弄成啥样",
@@ -1157,9 +1304,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "商务部回应欧委会密集调查中国企业",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E6%AC%A7%E5%A7%94%E4%BC%9A%E5%AF%86%E9%9B%86%E8%B0%83%E6%9F%A5%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "金十图示：2025年12月18日（周四）中国科技互联网公司市值排名TOP 50一览",
@@ -1184,6 +1342,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "吕礼诗：日本F2战机挂弹是在演戏",
+          "url": "https://www.toutiao.com/trending/7584313421496352809/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "委内瑞拉总统马杜罗周三表示，在美国总统特朗普下令封锁进出委内瑞拉的油轮之后，委内瑞拉将继续进行石油贸易。",
           "url": "https://flash.jin10.com/detail/20251218104718187800",
           "source": "金十数据",
@@ -1204,12 +1373,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "大批车厘子坐船到中国了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E8%BD%A6%E5%8E%98%E5%AD%90%E5%9D%90%E8%88%B9%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1219,8 +1399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 17时19分]"
         },
         {
           "title": "AI制药公司英矽智能今起招股，募资至多23亿港元",
@@ -1245,6 +1425,18 @@
           "time_info": "05时13分"
         },
         {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 17时19分]"
+        },
+        {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
           "url": "https://www.cls.cn/detail/2232914",
           "source": "财联社热门",
@@ -1254,6 +1446,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 14时21分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 17时19分]"
         },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -1300,15 +1504,15 @@
           "time_info": "08时57分"
         },
         {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "17时19分"
         },
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，最高1000亿美元",
@@ -1322,15 +1526,37 @@
           "time_info": "08时57分"
         },
         {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
-          "source": "财联社热门",
+          "title": "韩国计划孵化万家AI等硬科技初创企业",
+          "url": "https://wallstreetcn.com/livenews/3023014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "字节豆包大模型重磅升级",
+          "url": "https://www.toutiao.com/trending/7584012466800525363/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "17时19分"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "元宝AI靠人工？腾讯回应",
@@ -1339,7 +1565,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1412,8 +1638,115 @@
       ]
     },
     {
+      "keyword_group": "小米 雷军",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 11时52分]"
+        },
+        {
+          "title": "小米新车未出园区撞人 被撞者离世",
+          "url": "https://www.toutiao.com/trending/7585115632329313818/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "AI天才少女罗福莉小米首秀",
+          "url": "https://www.toutiao.com/trending/7584807839307140654/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米突发新模型，主打“极致性价比”，罗福莉：“这只是我们AGI图线路上的第二步”",
+          "url": "https://wallstreetcn.com/articles/3761534",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米发布最新MiMo大模型",
+          "url": "https://www.douyin.com/hot/2338852",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米17Ultra发布时间定档",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "小米新车主未开出园区撞人致死",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%BD%A6%E4%B8%BB%E6%9C%AA%E5%BC%80%E5%87%BA%E5%9B%AD%E5%8C%BA%E6%92%9E%E4%BA%BA%E8%87%B4%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3022988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "小米SU7疑似将太阳识别为红灯",
+          "url": "https://www.toutiao.com/trending/7585031120190770724/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高中生变魔盗,破解保险箱取手机",
@@ -1422,11 +1755,23 @@
           "ranks": [
             8,
             5,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时20分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[02时20分 ~ 17时19分]"
+        },
+        {
+          "title": "海南封关苹果手机最高可减两千余元",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%87%8F%E4%B8%A4%E5%8D%83%E4%BD%99%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "小米华为理想先后报警 12人被抓",
@@ -1484,69 +1829,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 雷军",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 11时52分]"
-        },
-        {
-          "title": "AI天才少女罗福莉小米首秀",
-          "url": "https://www.toutiao.com/trending/7584807839307140654/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "小米突发新模型，主打“极致性价比”，罗福莉：“这只是我们AGI图线路上的第二步”",
-          "url": "https://wallstreetcn.com/articles/3761534",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "小米发布最新MiMo大模型",
-          "url": "https://www.douyin.com/hot/2338852",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "小米17Ultra发布时间定档",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         }
       ]
     }
