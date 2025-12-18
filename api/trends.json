@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T17:19:32.107683+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2025-12-18T20:26:04.983119+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 123,
+      "match_count": 142,
       "titles": [
         {
           "title": "日本H3火箭发射紧急停止，网上直播满屏问号",
@@ -42,6 +42,32 @@
           "time_info": "[02时20分 ~ 11时52分]"
         },
         {
+          "title": "懂王助攻中国制造,贸易战打成带货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            18,
+            19,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时20分 ~ 20时26分]"
+        },
+        {
+          "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
+          "url": "https://news.ifeng.com/c/8pBb5wCNA1W",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 20时26分]"
+        },
+        {
           "title": "中国经济：顶压前行 向新向优",
           "url": "https://www.toutiao.com/trending/7584814122659974706/",
           "source": "今日头条",
@@ -51,6 +77,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 08时57分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 20时26分]"
+        },
+        {
+          "title": "马斯克好友掌舵NASA，曾称目标是抢在中国前重返月球",
+          "url": "https://news.ifeng.com/c/8pBpknY3tVX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "泰军从柬军缴获中国装备？中方回应",
@@ -96,42 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
-        },
-        {
-          "title": "懂王助攻中国制造,贸易战打成带货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            18,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时20分 ~ 17时19分]"
-        },
-        {
-          "title": "中方回应日本拟用雷达监视中国航母",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%8B%9F%E7%94%A8%E9%9B%B7%E8%BE%BE%E7%9B%91%E8%A7%86%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
-          "url": "https://news.ifeng.com/c/8pBb5wCNA1W",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
@@ -234,13 +247,36 @@
           "time_info": "11时52分"
         },
         {
+          "title": "吴清出席中国资本市场学会学术委员会成立会议并召开资本市场“十五五”规划专家座谈会",
+          "url": "https://wallstreetcn.com/livenews/3023116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "中方回应日本拟用雷达监视中国航母",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%8B%9F%E7%94%A8%E9%9B%B7%E8%BE%BE%E7%9B%91%E8%A7%86%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 20时26分]"
+        },
+        {
           "title": "发生数起中国公民店铺遭抢劫，中国使馆表达严重关切",
           "url": "https://news.ifeng.com/c/8pBX72XYcd0",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -300,17 +336,6 @@
           "time_info": "11时52分"
         },
         {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX铜投机者将净多头头寸增加5,708手，至64,204手。",
           "url": "https://flash.jin10.com/detail/20251218043016498800",
           "source": "金十数据",
@@ -320,6 +345,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "中国地震台网正式测定：12月18日19时32分，在台湾花莲县海域（北纬24.04度，东经121.83度）发生4.1级地震，震源深度25公里。",
+          "url": "https://wallstreetcn.com/livenews/3023114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "IMDB 评分最高的动画剧集《降世神通》，还是中国元素，为什么却在中国知名度极低？",
+          "url": "https://www.zhihu.com/question/1976277649514074131",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 20时26分]"
+        },
+        {
+          "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32186728",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 20时26分]"
         },
         {
           "title": "美国核物理学家 Nuno Loureiro 15 日被枪杀，事件情况如何，对美国的聚变研究会有什么影响？",
@@ -395,30 +458,28 @@
           "time_info": "[02时20分 ~ 08时57分]"
         },
         {
-          "title": "IMDB 评分最高的动画剧集《降世神通》，还是中国元素，为什么却在中国知名度极低？",
-          "url": "https://www.zhihu.com/question/1976277649514074131",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 17时19分]"
-        },
-        {
-          "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32186728",
+          "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203238",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            14,
-            11
+            20,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时52分 ~ 17时19分]"
+          "time_info": "[17时19分 ~ 20时26分]"
+        },
+        {
+          "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
+          "url": "https://v.ifeng.com/c/8pBb5wCNA7e",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 20时26分]"
         },
         {
           "title": "中国人民公安大学和中国人民警察大学有什么区别吗？",
@@ -445,6 +506,18 @@
           "time_info": "[02时20分 ~ 08时57分]"
         },
         {
+          "title": "老太太：终于遇到中国人了",
+          "url": "https://www.douyin.com/hot/2340087",
+          "source": "抖音",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 20时26分]"
+        },
+        {
           "title": "美国为何要对委内瑞拉采取行动",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8",
           "source": "bilibili 热搜",
@@ -458,6 +531,50 @@
           "time_info": "[05时13分 ~ 14时21分]"
         },
         {
+          "title": "国际航班外籍男子辱骂骚扰中国女生",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "明天，日本加息“板上钉钉”，市场聚焦“下一步如何加”？",
+          "url": "https://wallstreetcn.com/articles/3761605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "美国UP主在中国给老外演短剧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
           "title": "马克龙在《金融时报》发文：欧盟必须对中国开放，但有个前提",
           "url": "https://news.ifeng.com/c/8pA1LYGI8TM",
           "source": "凤凰网",
@@ -467,6 +584,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "日本副外相删除社媒账号跑路",
@@ -515,6 +643,39 @@
           "time_info": "[02时20分 ~ 05时13分]"
         },
         {
+          "title": "“删号跑路”！日本副外相国光文乃，被要求引咎辞职",
+          "url": "https://news.ifeng.com/c/8pBjYqTPUiu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "中国电影120周年活力之夜",
+          "url": "https://www.douyin.com/hot/2340345",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32202025",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
           "title": "中国脑机接口实现新突破",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E6%96%B0%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
@@ -537,6 +698,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 08时57分]"
+        },
+        {
+          "title": "日本知道台湾大熊猫叫什么吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9F%A5%E9%81%93%E5%8F%B0%E6%B9%BE%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "中方回应泰军在柬阵地缴获中国武器",
+          "url": "https://www.toutiao.com/trending/7585149810102894598/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "外资行：中国股市撕掉不可投资标签",
+          "url": "https://www.toutiao.com/trending/7584391748689526825/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "中国电影120周年活力之夜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1120%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%9B%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "单月访日中国游客骤降15万人",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%95%E6%9C%88%E8%AE%BF%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%AA%A4%E9%99%8D15%E4%B8%87%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "美国20年期国债收益率在拍卖后小幅下跌，最新报4.787%。",
@@ -605,6 +821,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "礼来向美国食品药品监督管理局（FDA）提交Orforglipron用于治疗肥胖症的申请。",
+          "url": "https://wallstreetcn.com/livenews/3023112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "美国至12月17日20年期国债竞拍-投标倍数 2.67，前值2.41。",
           "url": "https://flash.jin10.com/detail/20251218020203866800",
           "source": "金十数据",
@@ -647,17 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
-          "url": "https://v.ifeng.com/c/8pBb5wCNA7e",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "美国至12月17日20年期国债竞拍-得标利率配置百分比 3.16%，前值62.39%。",
@@ -869,24 +1085,24 @@
           "time_info": "08时57分"
         },
         {
+          "title": "海南自贸港封关首日 3艘国际船舶落户“中国洋浦港”",
+          "url": "https://wallstreetcn.com/livenews/3023096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "国际航班外籍男子辱骂骚扰中国女生",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32203238",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1062,18 +1278,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "老太太：终于遇到中国人了",
-          "url": "https://www.douyin.com/hot/2340087",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1172,7 +1377,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1194,7 +1399,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1249,9 +1454,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "打击网络诈骗国际会议在曼谷召开，中国、缅甸等派出部级代表参会",
+          "url": "https://wallstreetcn.com/livenews/3023084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "特朗普：毒品对美国构成军事威胁",
@@ -1271,7 +1487,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1315,7 +1531,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1348,7 +1564,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1381,7 +1597,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         }
@@ -1389,7 +1605,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1399,8 +1615,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 17时19分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 20时26分]"
         },
         {
           "title": "AI制药公司英矽智能今起招股，募资至多23亿港元",
@@ -1412,6 +1628,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 20时26分]"
         },
         {
           "title": "马斯克：xAI可能会看到AGI在2026年超越人类智慧。（Business Insider）",
@@ -1437,6 +1666,17 @@
           "time_info": "[14时21分 ~ 17时19分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 20时26分]"
+        },
+        {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
           "url": "https://www.cls.cn/detail/2232914",
           "source": "财联社热门",
@@ -1446,18 +1686,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 14时21分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时19分]"
         },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -1510,7 +1738,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1532,7 +1760,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1543,18 +1771,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1568,6 +1785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "光合组织：未来三年将推动超过20个行业级AI4S软硬协同解决方案落地",
+          "url": "https://wallstreetcn.com/livenews/3023093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "字节宣布AI节省计划",
@@ -1661,7 +1889,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1716,7 +1944,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1727,7 +1955,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1738,7 +1966,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         }
@@ -1746,7 +1974,7 @@
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "高中生变魔盗,破解保险箱取手机",
@@ -1756,11 +1984,12 @@
             8,
             5,
             6,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时20分 ~ 17时19分]"
+          "appearance_count": 8,
+          "time_info": "[02时20分 ~ 20时26分]"
         },
         {
           "title": "海南封关苹果手机最高可减两千余元",
@@ -1769,7 +1998,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1807,6 +2036,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "手机导航到底是如何运转的",
+          "url": "https://www.toutiao.com/trending/7585102580607372851/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "小米、华为、理想报案，警方抓获12人",
