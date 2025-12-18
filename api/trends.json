@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-19T02:20:23.178764+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T05:12:50.498716+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 39,
+      "match_count": 70,
       "titles": [
-        {
-          "title": "美国财政部拍卖240亿美元五年期通胀保值国债（TIPS），得标利率1.4330%（10月23日为1.182%），投标倍数2.62（前次报2.51）。",
-          "url": "https://wallstreetcn.com/livenews/3023290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
         {
           "title": "2025年中国经济如何“顶压前行”",
           "url": "https://www.toutiao.com/trending/7584112124407070729/",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
@@ -35,6 +24,61 @@
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "中国游客跑光,日本政客还在赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
+          "url": "https://wallstreetcn.com/articles/3761659",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2233937",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "美国财政部拍卖240亿美元五年期通胀保值国债（TIPS），得标利率1.4330%（10月23日为1.182%），投标倍数2.62（前次报2.51）。",
+          "url": "https://wallstreetcn.com/livenews/3023290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,59 +96,60 @@
           "time_info": "02时20分"
         },
         {
-          "title": "中国游客跑光,日本政客还在赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
-          "source": "贴吧",
+          "title": "美国10月长期资本净流入 175亿美元，前值 1798亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023345",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
-          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
-          "source": "凤凰网",
+          "title": "日本美债持有规模升至1.2万亿美元",
+          "url": "https://flash.jin10.com/detail/20251219050608165800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
-          "url": "https://wallstreetcn.com/articles/3761659",
-          "source": "华尔街见闻",
+          "title": "美国10月国际资本净流入 -373亿美元，前值 1901亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.67万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3023343",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2233937",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国UP主在中国给老外演短剧",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -114,8 +159,168 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "中国电影120周年活力之夜",
+          "url": "https://www.douyin.com/hot/2340345",
+          "source": "抖音",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "今晚，2025年美国最后一份CPI出炉：围绕3%关口拉锯，“2字头”仍是市场最大期待",
+          "url": "https://wallstreetcn.com/articles/3761628",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203238",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "本田中国及日本工厂将暂停生产或减产",
+          "url": "https://www.toutiao.com/trending/7585173103739670025/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "明天，日本加息“板上钉钉”，市场聚焦“下一步如何加”？",
+          "url": "https://wallstreetcn.com/articles/3761605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "《阿凡达 3》在中国的票房，能达到《疯狂动物城 2》水平吗？",
+          "url": "https://www.zhihu.com/question/1982964493693760921",
+          "source": "知乎",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32202025",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "“删号跑路”！日本副外相国光文乃，被要求引咎辞职",
+          "url": "https://news.ifeng.com/c/8pBjYqTPUiu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32186728",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
+          "url": "https://v.ifeng.com/c/8pBb5wCNA7e",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "台退将称日本只能来台湾换柴犬",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%80%E5%B0%86%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%8F%AA%E8%83%BD%E6%9D%A5%E5%8F%B0%E6%B9%BE%E6%8D%A2%E6%9F%B4%E7%8A%AC%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "日本副外相国光文乃被要求引咎辞职",
+          "url": "https://www.toutiao.com/trending/7585049498465419327/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "懂王助攻中国制造,贸易战打成带货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
+        },
+        {
+          "title": "老太太：终于遇到中国人了",
+          "url": "https://www.douyin.com/hot/2340087",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "美联储数据显示，截至12月17日当周，美国未季调商业票据余额增加180亿美元，季调后商业票据余额增加112亿美元。未季调外国金融机构商业票据未偿余额增加11亿美元。",
@@ -129,6 +334,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.67万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050043558800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "经济学家怀疑美国通胀数据因停摆而失真",
           "url": "https://wallstreetcn.com/livenews/3023282",
           "source": "华尔街见闻-快讯",
@@ -140,26 +356,26 @@
           "time_info": "02时20分"
         },
         {
-          "title": "中国电影120周年活力之夜",
-          "url": "https://www.douyin.com/hot/2340345",
-          "source": "抖音",
+          "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3023341",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "本田中国及日本工厂将暂停生产或减产",
-          "url": "https://www.toutiao.com/trending/7585173103739670025/",
-          "source": "今日头条",
+          "title": "美国10月国际资本净流入 -373亿美元，前值由1901亿美元修正为1843亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050002430800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国农业部（USDA）预计，全球2025/26年度糖产量将同比增长4.6%，至1.893亿吨。",
@@ -173,37 +389,48 @@
           "time_info": "02时20分"
         },
         {
-          "title": "今晚，2025年美国最后一份CPI出炉：围绕3%关口拉锯，“2字头”仍是市场最大期待",
-          "url": "https://wallstreetcn.com/articles/3761628",
-          "source": "华尔街见闻",
+          "title": "美国CPI通胀报告出炉当天，标普500指数初步收涨0.8%，可选消费板块涨1.9%，电信、科技板块涨1.5%，能源板块跌1.4%。 纳斯达克100指数初步收涨1.5%，成分股中，美光科技涨10.4%，拉姆研究涨6.5%，核电股CEG涨6.1%，Applovin、星巴克、Palantir、科磊、Doordash、特斯拉至少涨3.9%，贝克休斯则跌1.8%，PAYX跌2.1%，华纳兄弟探索WBD跌2.3%，Diamondback Energy跌4.9%。 亚马逊初步收涨2.5%，英伟达涨2%，Merck涨1.8%，微软涨1.7%，领跑道指成分股，联合健康、雪佛龙、宝洁则跌超1%。 半导体指数中行2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3023339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国10月长期资本净流入 175亿美元，前值由1798亿美元修正为1732亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050002429800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32203238",
-          "source": "澎湃新闻",
+          "title": "美国芝加哥联储主席Goolsbee：如果通胀处于趋势之中，FOMC可以降息。",
+          "url": "https://wallstreetcn.com/livenews/3023337",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "明天，日本加息“板上钉钉”，市场聚焦“下一步如何加”？",
-          "url": "https://wallstreetcn.com/articles/3761605",
-          "source": "华尔街见闻",
+          "title": "美国10月外资净买入美国公债 -612亿美元，前值由255亿美元修正为251亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050002425800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "报道：美国民主党议员们调查商务部长卢特尼克是否从AI数据中心谋利",
@@ -217,37 +444,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "《阿凡达 3》在中国的票房，能达到《疯狂动物城 2》水平吗？",
-          "url": "https://www.zhihu.com/question/1982964493693760921",
-          "source": "知乎",
+          "title": "美国芝加哥联储主席Goolsbee：劳动力市场温和地稳步降温。",
+          "url": "https://wallstreetcn.com/livenews/3023336",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32202025",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "“删号跑路”！日本副外相国光文乃，被要求引咎辞职",
-          "url": "https://news.ifeng.com/c/8pBjYqTPUiu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "加拿大总理卡尼：与美国短期内难达成金属关税协议",
@@ -272,28 +477,6 @@
           "time_info": "02时20分"
         },
         {
-          "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32186728",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
-          "url": "https://v.ifeng.com/c/8pBb5wCNA7e",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
           "title": "美国联邦航空管理局（FAA）：一架小型飞机在抵达北卡罗来纳州斯泰茨维尔地区机场时坠毁。",
           "url": "https://flash.jin10.com/detail/20251219013642592800",
           "source": "金十数据",
@@ -305,15 +488,48 @@
           "time_info": "02时20分"
         },
         {
-          "title": "台退将称日本只能来台湾换柴犬",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%80%E5%B0%86%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%8F%AA%E8%83%BD%E6%9D%A5%E5%8F%B0%E6%B9%BE%E6%8D%A2%E6%9F%B4%E7%8A%AC%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "美国白宫：在最新签署的太空政策行政命令中，重申了2028年宇航员登月的既定目标，并宣布撤销白宫国家航天委员会。",
+          "url": "https://flash.jin10.com/detail/20251219045508139800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：11月CPI通胀报告向好。 从来不希望从单独一个月的数据挖掘（货币政策）线索。",
+          "url": "https://wallstreetcn.com/livenews/3023334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "中国光伏行业协会罕见未预测下一年度新增装机 业内关注组件何时重回“1元”时代",
+          "url": "https://www.cls.cn/detail/2233868",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国商务部长卢特尼克与国会议员们讨论医药调查等问题。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3023332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
@@ -325,6 +541,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "10年期美债收益率跌约4个基点，在美国CPI通胀数据出炉时刷新日低，逼近4.1%",
+          "url": "https://wallstreetcn.com/livenews/3023329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署关于联邦（薪酬）支付范围的命令。",
+          "url": "https://wallstreetcn.com/livenews/3023327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "据纽约时报：民主党议员就利益冲突问题调查美国商务部长卢特尼克。民主党人质疑卢特尼克是否从人工智能数据中心获利。",
@@ -347,6 +585,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国众议院通过一项或可加速能源项目推进的法案，但参议院计划对其进行重大修改。",
+          "url": "https://wallstreetcn.com/livenews/3023325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
+          "url": "https://wallstreetcn.com/livenews/3023324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "花旗集团就美国货币监理署（OCC）撤销2024年7月修正案表示，正投入必要资源以推动系统现代化，并强化风险与控制环境。大多数项目已达到或接近“目标状态”，并已开始显现改进成效，包括更完善、标准化、自动化和数字化的控制措施所带来的益处。",
@@ -382,6 +642,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国商务部长卢特尼克：年底之前还将宣布更多关于药品价格的信息。",
+          "url": "https://wallstreetcn.com/livenews/3023319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "高盛：预计2026/27年TTF天然气价格为每兆瓦时29/20欧元（每百万英热10/6.85美元）。预计2026年和2027年美国天然气价格将分别达4.60美元/百万英热和3.80美元/百万英热，足以激励美国天然气产量增长。",
           "url": "https://flash.jin10.com/detail/20251219011811650800",
           "source": "金十数据",
@@ -393,15 +664,48 @@
           "time_info": "02时20分"
         },
         {
-          "title": "日本副外相国光文乃被要求引咎辞职",
-          "url": "https://www.toutiao.com/trending/7585049498465419327/",
-          "source": "今日头条",
+          "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
+          "url": "https://wallstreetcn.com/livenews/3023318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3023316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
+          "url": "https://wallstreetcn.com/livenews/3023315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国白宫：总统特朗普今日签署了一项行政命令，旨在加强对大麻及大麻二酚医疗用途的认知与提升，通过改进相关医学研究，为患者和医生提供更科学的参考依据。",
+          "url": "https://flash.jin10.com/detail/20251219041650596800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.580%，投标倍数3.28。 拍卖八周期国债，得标利率3.585%，投标倍数3.01。",
@@ -415,26 +719,70 @@
           "time_info": "02时20分"
         },
         {
-          "title": "懂王助攻中国制造,贸易战打成带货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
-          "source": "贴吧",
+          "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
+          "url": "https://wallstreetcn.com/livenews/3023314",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
         },
         {
-          "title": "老太太：终于遇到中国人了",
-          "url": "https://www.douyin.com/hot/2340087",
-          "source": "抖音",
+          "title": "美国白宫：美国总统特朗普签署了关于联邦薪资标准的行政命令。",
+          "url": "https://flash.jin10.com/detail/20251219041306266800",
+          "source": "金十数据",
           "ranks": [
-            28
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普被问及肯尼迪中心被更名，宣称：我备感荣幸。 将设法让国会山为肯尼迪中心（更名后为“特朗普-肯尼迪中心”）拨款。",
+          "url": "https://wallstreetcn.com/livenews/3023313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "特朗普为何既要日本管住嘴又让迈开腿",
+          "url": "https://www.toutiao.com/trending/7584332222707793963/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普今日签署了关于太空优势的行政命令。",
+          "url": "https://flash.jin10.com/detail/20251219041242339800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：现在实际上并没有通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/3023312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -450,8 +798,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -461,19 +809,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "AI上车教练下车 驾校生意变天了",
           "url": "https://www.baidu.com/s?wd=AI%E4%B8%8A%E8%BD%A6%E6%95%99%E7%BB%83%E4%B8%8B%E8%BD%A6+%E9%A9%BE%E6%A0%A1%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         },
         {
           "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
@@ -500,8 +849,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         }
       ]
     },
@@ -514,11 +863,12 @@
           "url": "https://www.zhihu.com/question/1984925319061267264",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 05时12分]"
         }
       ]
     }
