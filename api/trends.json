@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T17:17:15.700007+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2025-12-19T20:25:01.592560+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 199,
+      "match_count": 212,
       "titles": [
         {
           "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时20分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[02时20分 ~ 20时25分]"
         },
         {
           "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -27,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 17时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 20时25分]"
         },
         {
           "title": "中国游客跑光,日本政客还在赢",
@@ -37,11 +38,48 @@
           "ranks": [
             3,
             5,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时20分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[02时20分 ~ 20时25分]"
+        },
+        {
+          "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
+          "url": "https://wallstreetcn.com/articles/3761683",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 20时25分]"
+        },
+        {
+          "title": "符合预期！日本央行宣布加息 基准利率达到三十年来高位",
+          "url": "https://www.cls.cn/detail/2234391",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 20时25分]"
+        },
+        {
+          "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
+          "url": "https://wallstreetcn.com/articles/3761698",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 20时25分]"
         },
         {
           "title": "今晚，2025年美国最后一份CPI出炉：围绕3%关口拉锯，“2字头”仍是市场最大期待",
@@ -58,17 +96,6 @@
           "time_info": "[02时20分 ~ 14时20分]"
         },
         {
-          "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
-          "url": "https://wallstreetcn.com/articles/3761683",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 17时17分]"
-        },
-        {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
           "url": "https://news.ifeng.com/c/8pByOwBOHEi",
           "source": "凤凰网",
@@ -79,6 +106,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
+          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时25分]"
         },
         {
           "title": "2025年中国经济如何“顶压前行”",
@@ -106,6 +145,18 @@
           "time_info": "[02时20分 ~ 11时55分]"
         },
         {
+          "title": "美殖入脑!抖友神发言:美国才是家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时25分]"
+        },
+        {
           "title": "TikTok美国方案揭晓！字节保留电商、广告业务 甲骨文等3家投资者入股成立新公司",
           "url": "https://www.cls.cn/detail/2234147",
           "source": "财联社热门",
@@ -119,6 +170,18 @@
           "time_info": "[09时00分 ~ 14时20分]"
         },
         {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时25分]"
+        },
+        {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2233937",
           "source": "财联社热门",
@@ -130,39 +193,41 @@
           "time_info": "[02时20分 ~ 09时01分]"
         },
         {
-          "title": "符合预期！日本央行宣布加息 基准利率达到三十年来高位",
-          "url": "https://www.cls.cn/detail/2234391",
-          "source": "财联社热门",
+          "title": "新德里空气污染严重，外交官分享中国经验",
+          "url": "https://news.ifeng.com/c/8pCci79Nml5",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            1
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 20时25分]"
         },
         {
           "title": "日本央行加息25个基点",
           "url": "https://www.douyin.com/hot/2341005",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 20时25分]"
         },
         {
-          "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
-          "url": "https://wallstreetcn.com/articles/3761698",
-          "source": "华尔街见闻",
+          "title": "中美关系剧透警告｜白莉娟：我那些年轻的同事对中国更有“平等者之间的互相理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32198548",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            3
+            15,
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 20时25分]"
         },
         {
           "title": "周受资内部信曝TikTok美国方案",
@@ -174,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "日媒：日本请求派代表团访华",
+          "url": "https://www.douyin.com/hot/2341378",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
@@ -223,28 +299,6 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
-          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
-          "title": "美殖入脑!抖友神发言:美国才是家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
           "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
           "url": "https://news.ifeng.com/c/8pBb5wCNA1W",
           "source": "凤凰网",
@@ -254,17 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 05时12分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -421,18 +464,6 @@
           "time_info": "14时20分"
         },
         {
-          "title": "新德里空气污染严重，外交官分享中国经验",
-          "url": "https://news.ifeng.com/c/8pCci79Nml5",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 17时17分]"
-        },
-        {
           "title": "日本央行：消费者通胀率很可能在下一财年上半年降至2%以下，此后将回升。",
           "url": "https://flash.jin10.com/detail/20251219112652253800",
           "source": "金十数据",
@@ -442,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "俄罗斯总统普京：我们准备好与欧洲、英国和美国合作，但必须在平等的基础上。",
+          "url": "https://flash.jin10.com/detail/20251219195219011800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.67万亿美元，创历史新高。",
@@ -490,18 +532,6 @@
           "time_info": "[14时20分 ~ 17时17分]"
         },
         {
-          "title": "中美关系剧透警告｜白莉娟：我那些年轻的同事对中国更有“平等者之间的互相理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32198548",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 17时17分]"
-        },
-        {
           "title": "乌克兰：恪守一个中国原则",
           "url": "https://www.toutiao.com/trending/7584618161731829798/",
           "source": "今日头条",
@@ -513,6 +543,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时54分 ~ 17时17分]"
+        },
+        {
+          "title": "中方回应“日本官员称应拥有核武器”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E7%A7%B0%E5%BA%94%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时25分]"
+        },
+        {
+          "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时25分]"
         },
         {
           "title": "《阿凡达 3》在中国的票房，能达到《疯狂动物城 2》水平吗？",
@@ -550,6 +604,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时20分 ~ 09时01分]"
+        },
+        {
+          "title": "中国华西被暂停全军采购资格",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%8E%E8%A5%BF%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时25分]"
+        },
+        {
+          "title": "太罕见!国产剧被曝洗白日本侵略",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348139&amp;topic_name=%E5%A4%AA%E7%BD%95%E8%A7%81%21%E5%9B%BD%E4%BA%A7%E5%89%A7%E8%A2%AB%E6%9B%9D%E6%B4%97%E7%99%BD%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时25分]"
+        },
+        {
+          "title": "美国一小飞机坠毁致多人死亡",
+          "url": "https://www.douyin.com/hot/2340876",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时25分]"
         },
         {
           "title": "日本急了 战机又被照射了",
@@ -725,6 +814,17 @@
           "time_info": "[02时20分 ~ 05时12分]"
         },
         {
+          "title": "中国年轻人都在烦恼些什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%83%A6%E6%81%BC%E4%BA%9B%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "中国新一代中型运输机为何此时试飞",
           "url": "https://www.toutiao.com/trending/7585006414163086854/",
           "source": "今日头条",
@@ -769,6 +869,17 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
+          "title": "闹麻了!日网友自制地图分裂中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348145&amp;topic_name=%E9%97%B9%E9%BA%BB%E4%BA%86%21%E6%97%A5%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E5%9C%B0%E5%9B%BE%E5%88%86%E8%A3%82%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32186728",
           "source": "澎湃新闻",
@@ -802,6 +913,17 @@
           "time_info": "[17时16分 ~ 17时17分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "日本加息背后的百年利益博弈",
           "url": "https://www.toutiao.com/trending/7585091772510899731/",
           "source": "今日头条",
@@ -811,17 +933,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 11时55分]"
-        },
-        {
-          "title": "中国华西被暂停全军采购资格",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%8E%E8%A5%BF%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "专家：中国航母战略威慑力已然形成",
@@ -835,17 +946,6 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
           "title": "日本战机又被激光照射",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E6%9C%BA%E5%8F%88%E8%A2%AB%E6%BF%80%E5%85%89%E7%85%A7%E5%B0%84%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -857,15 +957,15 @@
           "time_info": "[11时54分 ~ 11时55分]"
         },
         {
-          "title": "美国一小飞机坠毁致多人死亡",
-          "url": "https://www.douyin.com/hot/2340876",
-          "source": "抖音",
+          "title": "外媒汇总中国2025年新机型",
+          "url": "https://www.toutiao.com/trending/7585488535830924846/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "中国脑机接口再现突破性成果",
@@ -890,17 +990,6 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "中方回应“日本官员称应拥有核武器”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E7%A7%B0%E5%BA%94%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
           "title": "马克龙称欧盟需要对中国开放有何玄机",
           "url": "https://www.toutiao.com/trending/7585175382559559211/",
           "source": "今日头条",
@@ -921,6 +1010,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "中方：日本应停止在国际上狡辩游说",
+          "url": "https://www.toutiao.com/trending/7584613413385469998/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "日本请求派代表团访华 未获中方回复",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AF%B7%E6%B1%82%E6%B4%BE%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%8E+%E6%9C%AA%E8%8E%B7%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "拜登为何执着于“美国领导世界”论调",
@@ -990,15 +1101,15 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "太罕见!国产剧被曝洗白日本侵略",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348139&amp;topic_name=%E5%A4%AA%E7%BD%95%E8%A7%81%21%E5%9B%BD%E4%BA%A7%E5%89%A7%E8%A2%AB%E6%9B%9D%E6%B4%97%E7%99%BD%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5",
-          "source": "贴吧",
+          "title": "外交部回应美议员批评中国对日举措",
+          "url": "https://www.toutiao.com/trending/7584480605086318602/",
+          "source": "今日头条",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "美联储数据显示，截至12月17日当周，美国未季调商业票据余额增加180亿美元，季调后商业票据余额增加112亿美元。未季调外国金融机构商业票据未偿余额增加11亿美元。",
@@ -1040,9 +1151,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "俄罗斯总统普京：（谈BBC诉讼案）美国总统特朗普是对的。",
+          "url": "https://flash.jin10.com/detail/20251219194958548800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "经济学家怀疑美国通胀数据因停摆而失真",
@@ -1436,7 +1558,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -1502,7 +1624,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -1661,6 +1783,17 @@
           "time_info": "11时55分"
         },
         {
+          "title": "艾伯维、默克及其他公司将公布美国药品价格协议，下调部分处方药价格。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3023931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "日本央行：实现基准情景的可能性一直在上升。",
           "url": "https://flash.jin10.com/detail/20251219112131285800",
           "source": "金十数据",
@@ -1678,7 +1811,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -1755,7 +1888,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -1799,7 +1932,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -1837,6 +1970,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "市场消息：据知情人士透露，AbbVie、百时美施贵宝、吉利德、默克和其他制药商预计将在当地时间周五下午宣布与美国政府达成协议，降低某些处方药的价格。",
+          "url": "https://flash.jin10.com/detail/20251219192044434800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国商务部长卢特尼克：年底之前还将宣布更多关于药品价格的信息。",
           "url": "https://wallstreetcn.com/livenews/3023319",
           "source": "华尔街见闻-快讯",
@@ -1865,7 +2009,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -1969,6 +2113,17 @@
           "time_info": "11时55分"
         },
         {
+          "title": "日本央行加息，日元反倒跌了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251219191815114800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/3023316",
           "source": "华尔街见闻-快讯",
@@ -2008,7 +2163,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -2268,7 +2423,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -2379,7 +2534,7 @@
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "人民日报：手机套餐少些套路",
@@ -2406,6 +2561,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时20分 ~ 14时20分]"
+        },
+        {
+          "title": "手机放电饭锅提高抢票成功率？假的",
+          "url": "https://www.toutiao.com/trending/7585501697171033663/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "字节跳动正推进与多家厂商的AI手机合作",
@@ -2486,7 +2652,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
