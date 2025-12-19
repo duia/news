@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T02:19:25.134688+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-20T05:12:55.332949+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 41,
+      "match_count": 74,
       "titles": [
         {
           "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
         },
         {
           "title": "日媒：日本请求派代表团访华",
@@ -26,8 +26,52 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "这是2025年属于中国人的仪式感",
+          "url": "https://www.toutiao.com/trending/7585466031850684435/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
+          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "Rocket Lab涨3%，该公司获得美国“太空部队”承包合同。",
+          "url": "https://wallstreetcn.com/livenews/3024167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
           "title": "消息人士：人工智能芯片公司Cerebras在推迟后即将提交美国IPO申请。",
@@ -41,33 +85,22 @@
           "time_info": "02时19分"
         },
         {
+          "title": "消息人士：美国银行(BAC.N)将向顶级交易撮合者发放约20%的奖金增幅作为奖励。",
+          "url": "https://flash.jin10.com/detail/20251220040811718800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "Permira将Golden Goose球鞋出售给中国公司红杉中国 (HSG)",
           "url": "https://wallstreetcn.com/livenews/3024115",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "这是2025年属于中国人的仪式感",
-          "url": "https://www.toutiao.com/trending/7585466031850684435/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
-          "url": "https://wallstreetcn.com/articles/3761635",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,6 +118,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "金十提示：美国总统特朗普讲话结束。",
+          "url": "https://flash.jin10.com/detail/20251220040556442800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国12月19日当周石油钻井数 406，前值 414。",
           "url": "https://wallstreetcn.com/livenews/3024114",
           "source": "华尔街见闻-快讯",
@@ -96,33 +140,22 @@
           "time_info": "02时19分"
         },
         {
+          "title": "消息人士：今年美国银行(BAC.N)投资银行家的奖金将大幅上涨。",
+          "url": "https://flash.jin10.com/detail/20251220040418017800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国12月19日当周天然气钻井数 127，前值 127。",
           "url": "https://wallstreetcn.com/livenews/3024113",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "中美关系剧透警告｜白莉娟：我那些年轻的同事对中国更有“平等者之间的互相理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32198548",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
-          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -140,6 +173,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美国总统特朗普：保险公司必须赚更少的钱。",
+          "url": "https://flash.jin10.com/detail/20251220040257481800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国12月19日当周总钻井数 542，前值 548。",
           "url": "https://wallstreetcn.com/livenews/3024112",
           "source": "华尔街见闻-快讯",
@@ -151,6 +195,30 @@
           "time_info": "02时19分"
         },
         {
+          "title": "中美关系剧透警告｜白莉娟：我那些年轻的同事对中国更有“平等者之间的互相理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32198548",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "中国华西被暂停全军采购资格",
+          "url": "https://www.toutiao.com/trending/7585373177002606619/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
           "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
           "url": "https://wallstreetcn.com/articles/3761683",
           "source": "华尔街见闻",
@@ -158,30 +226,157 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
         },
         {
           "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
           "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
         },
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
           "url": "https://www.zhihu.com/question/1985224796552844512",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "新德里空气污染严重，外交官分享中国经验",
+          "url": "https://news.ifeng.com/c/8pCci79Nml5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "美殖入脑!抖友神发言:美国才是家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "中国神华公布1336亿并购计划",
+          "url": "https://www.cls.cn/detail/2235220",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "俄罗斯将对日本采取反制措施",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "闹麻了!日网友自制地图分裂中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348145&amp;topic_name=%E9%97%B9%E9%BA%BB%E4%BA%86%21%E6%97%A5%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E5%9C%B0%E5%9B%BE%E5%88%86%E8%A3%82%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "日本央行加息25个基点",
+          "url": "https://www.douyin.com/hot/2341005",
+          "source": "抖音",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "美国一小飞机坠毁致多人死亡",
+          "url": "https://www.douyin.com/hot/2340876",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "中国游客跑光,日本政客还在赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "太罕见!国产剧被曝洗白日本侵略",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348139&amp;topic_name=%E5%A4%AA%E7%BD%95%E8%A7%81%21%E5%9B%BD%E4%BA%A7%E5%89%A7%E8%A2%AB%E6%9B%9D%E6%B4%97%E7%99%BD%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普年终演讲为何不提中国",
+          "url": "https://www.toutiao.com/trending/7585539719539199497/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
+          "url": "https://flash.jin10.com/detail/20251220040213570800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国国务卿鲁比奥：下周将就穆斯林兄弟会发表一些声明。",
@@ -195,15 +390,26 @@
           "time_info": "02时19分"
         },
         {
-          "title": "新德里空气污染严重，外交官分享中国经验",
-          "url": "https://news.ifeng.com/c/8pCci79Nml5",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
+          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.9%，本周累跌约1.3%。 热门中概股里，小马智行初步收涨11.7%，小鹏涨6.7%，再鼎医药涨5.1%，理想涨5%，万国数据涨4.3%，贝壳跌1%，Boss直聘跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3024159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国至12月19日当周天然气钻井总数 127口，前值127口。",
@@ -239,6 +445,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
+          "url": "https://flash.jin10.com/detail/20251220035945921800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
           "url": "https://wallstreetcn.com/livenews/3024107",
           "source": "华尔街见闻-快讯",
@@ -250,15 +467,15 @@
           "time_info": "02时19分"
         },
         {
-          "title": "美殖入脑!抖友神发言:美国才是家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
-          "source": "贴吧",
+          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
+          "url": "https://wallstreetcn.com/articles/3761670",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国至12月19日当周石油钻井总数 406口，前值414口。",
@@ -272,15 +489,48 @@
           "time_info": "02时19分"
         },
         {
-          "title": "中国神华公布1336亿并购计划",
-          "url": "https://www.cls.cn/detail/2235220",
-          "source": "财联社热门",
+          "title": "美国经济分析局（BEA）：2025年11月美国商品与服务国际贸易数据将于1月29日发布。",
+          "url": "https://flash.jin10.com/detail/20251220035550250800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国经济分析局（BEA）：2025年10月美国商品与服务国际贸易数据将于2026年1月8日发布。",
+          "url": "https://flash.jin10.com/detail/20251220035513368800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "白宫顾问哈塞特：美国政府停摆造成CPI数据的可靠性略微下降。 核心通胀基本达到、或低于（美联储的）目标水平。 美联储还有很大的降息空间。",
+          "url": "https://wallstreetcn.com/livenews/3024153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "日元在日本央行决议日跌1.3%",
+          "url": "https://wallstreetcn.com/livenews/3024152",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国至12月19日当周石油钻井总数将于十分钟后公布。",
@@ -294,15 +544,15 @@
           "time_info": "02时19分"
         },
         {
-          "title": "俄罗斯将对日本采取反制措施",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD",
-          "source": "百度热搜",
+          "title": "美国商品期货交易委员会（CFTC）补充发布12月9日当周持仓报告。 CBOT大豆净多头头寸减少35,088手合约。 WTI原油净多头头寸增加40,170手合约。 COMEX铜增加6,879手合约。",
+          "url": "https://wallstreetcn.com/livenews/3024151",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
           "title": "惠誉：美国11月私人信用违约率上升至5.7%。",
@@ -316,15 +566,15 @@
           "time_info": "02时19分"
         },
         {
-          "title": "闹麻了!日网友自制地图分裂中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348145&amp;topic_name=%E9%97%B9%E9%BA%BB%E4%BA%86%21%E6%97%A5%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E5%9C%B0%E5%9B%BE%E5%88%86%E8%A3%82%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
+          "title": "2/10年期美债收益率于美国CPI数据发布当周跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3024148",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国国务卿鲁比奥：我可能周六在迈阿密参加俄罗斯相关会谈。",
@@ -338,6 +588,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "高盛小幅下调2026年10月底美国天然气库存水平的预期，基于当前远期价格曲线，将预测值下调450亿立方英尺，至3,544亿立方英尺。",
+          "url": "https://flash.jin10.com/detail/20251220034951353800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "存在溜车风险，福特在美国召回超27万辆电动和混动汽车",
           "url": "https://wallstreetcn.com/livenews/3024103",
           "source": "华尔街见闻-快讯",
@@ -349,48 +610,70 @@
           "time_info": "02时19分"
         },
         {
-          "title": "美国一小飞机坠毁致多人死亡",
-          "url": "https://www.douyin.com/hot/2340876",
-          "source": "抖音",
+          "title": "美国国会金融委员会主席围绕资本制度发函美联储理事鲍曼、币监理署（OCC）、以及联邦存款保险公司（FDIC）。",
+          "url": "https://wallstreetcn.com/livenews/3024147",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
-          "title": "中国游客跑光,日本政客还在赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
-          "source": "贴吧",
+          "title": "勃林格殷格翰：宣布与美国政府达成广泛协议，以降低美国患者的药品成本并扩大其在美国的业务布局。将在2028年前投资100亿美元，以扩大在美国的制药研发和制造业务。",
+          "url": "https://flash.jin10.com/detail/20251220034751925800",
+          "source": "金十数据",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
-          "title": "日本央行加息25个基点",
-          "url": "https://www.douyin.com/hot/2341005",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "太罕见!国产剧被曝洗白日本侵略",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348139&amp;topic_name=%E5%A4%AA%E7%BD%95%E8%A7%81%21%E5%9B%BD%E4%BA%A7%E5%89%A7%E8%A2%AB%E6%9B%9D%E6%B4%97%E7%99%BD%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5",
-          "source": "贴吧",
+          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
+          "url": "https://flash.jin10.com/detail/20251220034545979800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
+          "url": "https://wallstreetcn.com/livenews/3024141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：强生将在（圣诞节）假期过后来（白宫）谈判。",
+          "url": "https://wallstreetcn.com/livenews/3024140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "中国年轻人都在烦恼些什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%83%A6%E6%81%BC%E4%BA%9B%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国国务卿鲁比奥：除非乌克兰也同意，否则不可能达成和平协议。",
@@ -404,15 +687,70 @@
           "time_info": "02时19分"
         },
         {
-          "title": "特朗普年终演讲为何不提中国",
-          "url": "https://www.toutiao.com/trending/7585539719539199497/",
-          "source": "今日头条",
+          "title": "默克：与美国政府达成协议，以扩大药品获取渠道并降低成本。",
+          "url": "https://flash.jin10.com/detail/20251220034100612800",
+          "source": "金十数据",
           "ranks": [
-            27
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "默克：公司已与美国商务部达成协议，将关税推迟三年实施。",
+          "url": "https://flash.jin10.com/detail/20251220034016817800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：我所发出的关税威胁强迫医药行业（与我）达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3024136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "默克：与美国政府达成协议，以扩大药品获取渠道并降低美国民众的药品成本。承诺在美国投资逾700亿美元。",
+          "url": "https://flash.jin10.com/detail/20251220033958580800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
+          "url": "https://wallstreetcn.com/livenews/3024138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "赛诺菲将在美国把药品价格降低61%，计划投资200亿美元升级美国工厂设施。 获三年进口关税豁免期，协议为赛诺菲进口产品提供三年免税期。",
+          "url": "https://wallstreetcn.com/livenews/3024137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国国务卿卢比奥发表“年终讲话”：我们不会针对乌克兰设法实施一份交易。",
@@ -426,6 +764,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
+          "url": "https://wallstreetcn.com/livenews/3024134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国国务卿鲁比奥：一直预计俄罗斯会为马杜罗政权提供言辞上的支持。",
           "url": "https://flash.jin10.com/detail/20251220012005866800",
           "source": "金十数据",
@@ -437,15 +786,15 @@
           "time_info": "02时19分"
         },
         {
-          "title": "中国华西被暂停全军采购资格",
-          "url": "https://www.toutiao.com/trending/7585373177002606619/",
-          "source": "今日头条",
+          "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 现骨干公司将向所有美国民众按照最低价推出新药。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
+          "url": "https://wallstreetcn.com/livenews/3024133",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "05时12分"
         },
         {
           "title": "美国国务卿鲁比奥：在委内瑞拉问题上，我们并不担心与俄罗斯局势升级。",
@@ -457,6 +806,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
+          "url": "https://flash.jin10.com/detail/20251220033347525800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国财政部发放与委内瑞拉相关的通用许可证。 许可证与委内瑞拉石油公司PDVSA债券有关。",
+          "url": "https://wallstreetcn.com/livenews/3024129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -469,22 +840,12 @@
           "url": "https://wallstreetcn.com/articles/3761690",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "回顾 2025 年，你与 AI 的关系是什么？",
-          "url": "https://www.zhihu.com/question/1984641612912030144",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
         },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -492,6 +853,17 @@
           "source": "澎湃新闻",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "回顾 2025 年，你与 AI 的关系是什么？",
+          "url": "https://www.zhihu.com/question/1984641612912030144",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -508,11 +880,12 @@
           "url": "https://www.toutiao.com/trending/7585358651578744875/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
         },
         {
           "title": "手机放电饭锅提高抢票成功率？假的",
@@ -522,8 +895,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 05时12分]"
         }
       ]
     }
