@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T14:20:50.994772+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-12-20T17:13:09.252276+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 118,
+      "match_count": 127,
       "titles": [
         {
           "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
@@ -30,6 +30,88 @@
           "time_info": "[02时19分 ~ 11时45分]"
         },
         {
+          "title": "日本与中亚五国首次举办峰会",
+          "url": "https://news.ifeng.com/c/8pEKIEvKAj0",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 17时13分]"
+        },
+        {
+          "title": "中国神华公布1336亿并购计划",
+          "url": "https://www.cls.cn/detail/2235220",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时19分 ~ 17时13分]"
+        },
+        {
+          "title": "美殖入脑!抖友神发言:美国才是家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时19分 ~ 17时13分]"
+        },
+        {
+          "title": "闹麻了!日网友自制地图分裂中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348145&amp;topic_name=%E9%97%B9%E9%BA%BB%E4%BA%86%21%E6%97%A5%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E5%9C%B0%E5%9B%BE%E5%88%86%E8%A3%82%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时19分 ~ 17时13分]"
+        },
+        {
+          "title": "中国游客跑光,日本政客还在赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时19分 ~ 17时13分]"
+        },
+        {
+          "title": "太罕见!国产剧被曝洗白日本侵略",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348139&amp;topic_name=%E5%A4%AA%E7%BD%95%E8%A7%81%21%E5%9B%BD%E4%BA%A7%E5%89%A7%E8%A2%AB%E6%9B%9D%E6%B4%97%E7%99%BD%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            25,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时19分 ~ 17时13分]"
+        },
+        {
           "title": "2025中国人的仪式感",
           "url": "https://s.weibo.com/weibo?q=%232025%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -39,6 +121,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 11时45分]"
+        },
+        {
+          "title": "“反华急先锋”鲁比奥：我对中国一直很友好哦",
+          "url": "https://news.ifeng.com/c/8pEYtif69ym",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 17时13分]"
         },
         {
           "title": "日媒：日本请求派代表团访华",
@@ -52,70 +145,26 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "美殖入脑!抖友神发言:美国才是家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
-          "source": "贴吧",
+          "title": "敏感时刻，小泉进次郎登上美国核动力潜艇",
+          "url": "https://news.ifeng.com/c/8pEvzPTuXW1",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            13,
-            14
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时19分 ~ 14时20分]"
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
-          "title": "中国神华公布1336亿并购计划",
-          "url": "https://www.cls.cn/detail/2235220",
-          "source": "财联社热门",
+          "title": "这是2025年属于中国人的仪式感",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF2025%E5%B9%B4%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            11,
-            9,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时19分 ~ 14时20分]"
-        },
-        {
-          "title": "闹麻了!日网友自制地图分裂中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348145&amp;topic_name=%E9%97%B9%E9%BA%BB%E4%BA%86%21%E6%97%A5%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E5%9C%B0%E5%9B%BE%E5%88%86%E8%A3%82%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时19分 ~ 14时20分]"
-        },
-        {
-          "title": "中国游客跑光,日本政客还在赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时19分 ~ 14时20分]"
-        },
-        {
-          "title": "太罕见!国产剧被曝洗白日本侵略",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348139&amp;topic_name=%E5%A4%AA%E7%BD%95%E8%A7%81%21%E5%9B%BD%E4%BA%A7%E5%89%A7%E8%A2%AB%E6%9B%9D%E6%B4%97%E7%99%BD%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时19分 ~ 14时20分]"
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -129,6 +178,17 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
+          "title": "专家：日本对华危险程度已超美国",
+          "url": "https://www.toutiao.com/trending/7585845700689137188/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
           "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
           "source": "凤凰网",
@@ -138,17 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "“反华急先锋”鲁比奥：我对中国一直很友好哦",
-          "url": "https://news.ifeng.com/c/8pEYtif69ym",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "Rocket Lab涨3%，该公司获得美国“太空部队”承包合同。",
@@ -190,7 +239,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -228,17 +277,6 @@
           "time_info": "02时19分"
         },
         {
-          "title": "日本与中亚五国首次举办峰会",
-          "url": "https://news.ifeng.com/c/8pEKIEvKAj0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 14时20分]"
-        },
-        {
           "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
           "url": "https://flash.jin10.com/detail/20251220081426145800",
           "source": "金十数据",
@@ -272,6 +310,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "日本鸣门海峡附近一船只倾覆",
+          "url": "https://flash.jin10.com/detail/20251220160354214800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "美国12月19日当周总钻井数 542，前值 548。",
           "url": "https://wallstreetcn.com/livenews/3024112",
           "source": "华尔街见闻-快讯",
@@ -281,6 +330,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "十大关键词，回顾2025中国电影市场的高光与阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32210233",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 17时13分]"
+        },
+        {
+          "title": "TikTok美国“大结局”背后：为什么是甲骨文？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32213316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 17时13分]"
         },
         {
           "title": "中国年轻人都在烦恼些什么",
@@ -296,6 +371,19 @@
           "time_info": "[05时12分 ~ 11时45分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX铜投机者将净多头头寸增加6,879手，至71,083手。",
+          "url": "https://flash.jin10.com/detail/20251220113909988800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时13分]"
+        },
+        {
           "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
           "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
           "source": "澎湃新闻",
@@ -308,16 +396,30 @@
           "time_info": "[02时19分 ~ 08时57分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX铜投机者将净多头头寸增加6,879手，至71,083手。",
-          "url": "https://flash.jin10.com/detail/20251220113909988800",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，原油投机者持有的WTI净空头头寸减少38,888手，达到12,038手。",
+          "url": "https://flash.jin10.com/detail/20251220113845095800",
           "source": "金十数据",
           "ranks": [
-            1,
-            10
+            2,
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时13分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
+          "url": "https://flash.jin10.com/detail/20251220113809000800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时13分]"
         },
         {
           "title": "中美关系剧透警告｜白莉娟：我那些年轻的同事对中国更有“平等者之间的互相理解”",
@@ -332,6 +434,19 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
+          "title": "蜜雪冰城美国首店正式开业",
+          "url": "https://flash.jin10.com/detail/20251220113145604800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时13分]"
+        },
+        {
           "title": "消息人士：美国银行(BAC.N)将向顶级交易撮合者发放约20%的奖金增幅作为奖励。",
           "url": "https://flash.jin10.com/detail/20251220040811718800",
           "source": "金十数据",
@@ -342,18 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 08时57分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，原油投机者持有的WTI净空头头寸减少38,888手，达到12,038手。",
-          "url": "https://flash.jin10.com/detail/20251220113845095800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
         },
         {
           "title": "日本官员发出拥核狂言被要求辞职",
@@ -379,18 +482,6 @@
           "time_info": "[05时12分 ~ 08时57分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
-          "url": "https://flash.jin10.com/detail/20251220113809000800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
-        },
-        {
           "title": "消息人士：今年美国银行(BAC.N)投资银行家的奖金将大幅上涨。",
           "url": "https://flash.jin10.com/detail/20251220040418017800",
           "source": "金十数据",
@@ -401,18 +492,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 08时57分]"
-        },
-        {
-          "title": "蜜雪冰城美国首店正式开业",
-          "url": "https://flash.jin10.com/detail/20251220113145604800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
         },
         {
           "title": "美国财长贝森特：通胀正在向美联储2%的目标迈进。 随着政府职位减少，经济状况会变得更好。 本土出生的美国人贡献了100%的就业增长。 2026年将是增长和通胀表现非常好的一年。",
@@ -499,36 +578,34 @@
           "time_info": "[02时19分 ~ 08时57分]"
         },
         {
+          "title": "大摩邢自强：提消费、稳楼市、强社保……2026中国经济要走得远，关键还在“投资于人” | Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761732",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 17时13分]"
+        },
+        {
+          "title": "日本一列车与汽车发生碰撞，汽车起火",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 17时13分]"
+        },
+        {
           "title": "美军士兵在日本冲绳街头全裸被逮捕",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%E8%A1%97%E5%A4%B4%E5%85%A8%E8%A3%B8%E8%A2%AB%E9%80%AE%E6%8D%95",
           "source": "百度热搜",
           "ranks": [
             13,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 14时20分]"
-        },
-        {
-          "title": "十大关键词，回顾2025中国电影市场的高光与阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32210233",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 14时20分]"
-        },
-        {
-          "title": "TikTok美国“大结局”背后：为什么是甲骨文？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32213316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -556,6 +633,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
+          "url": "https://www.cls.cn/detail/2235419",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "美国总统特朗普：保险公司会议旨在降低价格。",
@@ -629,6 +717,18 @@
           "time_info": "[11时45分 ~ 14时20分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加17,972手合约，至958,734手。股票基金投机者将标普500芝商所（CME）净空头头寸增加7,057手合约，至448,341手。",
+          "url": "https://flash.jin10.com/detail/20251220114215719800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
+        },
+        {
           "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
           "url": "https://flash.jin10.com/detail/20251220035945921800",
           "source": "金十数据",
@@ -651,6 +751,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 14时20分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，日元净多头头寸为17,448份合约，欧元净多头头寸为138,788合约。",
+          "url": "https://flash.jin10.com/detail/20251220113950211800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
         },
         {
           "title": "美国经济分析局（BEA）：2025年11月美国商品与服务国际贸易数据将于1月29日发布。",
@@ -701,6 +813,29 @@
           "time_info": "[05时12分 ~ 08时57分]"
         },
         {
+          "title": "中国海关数据显示，11月份对美国稀土磁体出口发货量约为582吨，低于10月的656吨。",
+          "url": "https://wallstreetcn.com/livenews/3024235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
+        },
+        {
+          "title": "美国男子行窃被发现 掏枪瞄准警察",
+          "url": "https://www.toutiao.com/trending/7585024839318781994/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "俄罗斯将对日本采取反制措施",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD",
           "source": "百度热搜",
@@ -735,6 +870,17 @@
           "time_info": "[11时45分 ~ 14时20分]"
         },
         {
+          "title": "日本民众再集会要求高市撤回错误言论",
+          "url": "https://www.toutiao.com/trending/7585570046019141683/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "俄新闻秘书笑称请中国客人提问",
           "url": "https://www.toutiao.com/trending/7585459828026330666/",
           "source": "今日头条",
@@ -744,6 +890,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
+          "url": "https://www.zhihu.com/question/1985109237156815522",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "警惕日本“欺骗式外交”故伎重施",
@@ -780,6 +937,17 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "解析美国国际战略转变",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%99%85%E6%88%98%E7%95%A5%E8%BD%AC%E5%8F%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "日官员称日本应拥有核武器",
           "url": "https://www.douyin.com/hot/2341021",
           "source": "抖音",
@@ -811,17 +979,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 11时45分]"
-        },
-        {
-          "title": "大摩邢自强：提消费、稳楼市、强社保……2026中国经济要走得远，关键还在“投资于人” | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761732",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "俄罗斯消息人士称，俄罗斯总统特使德米特里耶夫将前往迈阿密会见美国特使威特科夫和库什纳，乌克兰方面没有参与三方接触的计划。",
@@ -857,17 +1014,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "日本一列车与汽车发生碰撞，汽车起火",
-          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "美国至12月19日当周天然气钻井总数 127口，前值127口。",
           "url": "https://flash.jin10.com/detail/20251220020122810800",
           "source": "金十数据",
@@ -877,17 +1023,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加17,972手合约，至958,734手。股票基金投机者将标普500芝商所（CME）净空头头寸增加7,057手合约，至448,341手。",
-          "url": "https://flash.jin10.com/detail/20251220114215719800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "美国农业部（USDA）：将12月26日出口销售报告的发布安排提前至12月23日。",
@@ -910,17 +1045,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，日元净多头头寸为17,448份合约，欧元净多头头寸为138,788合约。",
-          "url": "https://flash.jin10.com/detail/20251220113950211800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
@@ -965,17 +1089,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "中国海关数据显示，11月份对美国稀土磁体出口发货量约为582吨，低于10月的656吨。",
-          "url": "https://wallstreetcn.com/livenews/3024235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "日元在日本央行决议日跌1.3%",
@@ -1160,7 +1273,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1355,7 +1468,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 10,
+      "match_count": 21,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -1363,11 +1476,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 17时13分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -1383,6 +1497,28 @@
           "time_info": "[02时19分 ~ 11时45分]"
         },
         {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
+          "url": "https://wallstreetcn.com/livenews/3024259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
           "source": "澎湃新闻",
@@ -1395,37 +1531,50 @@
           "time_info": "[02时19分 ~ 11时45分]"
         },
         {
-          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
-          "url": "https://flash.jin10.com/detail/20251220123029184800",
-          "source": "金十数据",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
+          "url": "https://wallstreetcn.com/livenews/3024257",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "17时13分"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
+          "url": "https://wallstreetcn.com/livenews/3024256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
+          "url": "https://flash.jin10.com/detail/20251220123029184800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
         },
         {
           "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
           "url": "https://flash.jin10.com/detail/20251220122308239800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "摩尔线程创始人张建中：大模型推理仍面临三大挑战",
-          "url": "https://wallstreetcn.com/livenews/3024241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -1440,26 +1589,117 @@
           "time_info": "[08时57分 ~ 11时45分]"
         },
         {
+          "title": "摩尔线程创始人张建中：大模型推理仍面临三大挑战",
+          "url": "https://wallstreetcn.com/livenews/3024241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
+        },
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
           "url": "https://wallstreetcn.com/livenews/3024240",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
           "url": "https://wallstreetcn.com/livenews/3024236",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
+        },
+        {
+          "title": "UP主AI制作科学家传记电影",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E5%88%B6%E4%BD%9C%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BC%A0%E8%AE%B0%E7%94%B5%E5%BD%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
+          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
+          "url": "https://www.cls.cn/detail/2235451",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
+          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
+          "url": "https://wallstreetcn.com/livenews/3024251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "17时13分"
+        },
+        {
+          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
+          "url": "https://wallstreetcn.com/livenews/3024250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
+          "url": "https://wallstreetcn.com/livenews/3024247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -1479,6 +1719,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "前几年输入法打字都很正常，为什么这几年同一个手机同一个输入法反而很容易打错字？",
+          "url": "https://www.zhihu.com/question/1973248655772360944",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 17时13分]"
+        },
+        {
           "title": "手机老用户为啥被固定在高价套餐",
           "url": "https://www.toutiao.com/trending/7585358651578744875/",
           "source": "今日头条",
@@ -1493,27 +1744,17 @@
           "time_info": "[02时19分 ~ 11时45分]"
         },
         {
-          "title": "前几年输入法打字都很正常，为什么这几年同一个手机同一个输入法反而很容易打错字？",
-          "url": "https://www.zhihu.com/question/1973248655772360944",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 14时20分]"
-        },
-        {
           "title": "华为Pura X官方降价800元",
           "url": "https://flash.jin10.com/detail/20251220111017027800",
           "source": "金十数据",
           "ranks": [
             7,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时13分]"
         },
         {
           "title": "手机放电饭锅提高抢票成功率？假的",
@@ -1544,7 +1785,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -1559,11 +1800,12 @@
           "url": "https://wallstreetcn.com/livenews/3024239",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时13分]"
         }
       ]
     }
