@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-21T14:19:46.635308+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2025-12-21T17:13:17.046274+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 85,
+      "match_count": 99,
       "titles": [
-        {
-          "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
-          "url": "https://www.cls.cn/detail/2235419",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时19分]"
-        },
         {
           "title": "中国社科院揭露11家冒名机构期刊，有的曾举办大型发布会",
           "url": "https://m.thepaper.cn/newsDetail_forward_32220147",
@@ -26,11 +14,25 @@
           "ranks": [
             8,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时13分]"
+        },
+        {
+          "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
+          "url": "https://www.cls.cn/detail/2235419",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时13分]"
         },
         {
           "title": "“反华急先锋”鲁比奥：我对中国一直很友好哦",
@@ -73,6 +75,19 @@
           "time_info": "[02时16分 ~ 09时04分]"
         },
         {
+          "title": "美殖入脑!抖友神发言:美国才是家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时13分]"
+        },
+        {
           "title": "剑指委内瑞拉是美国“国仇”？不，可能只是鲁比奥的“家恨”",
           "url": "https://news.ifeng.com/c/8pF2xmEf5ls",
           "source": "凤凰网",
@@ -93,6 +108,51 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "32页PPT曝光！美国对加沙蠢蠢欲动",
+          "url": "https://news.ifeng.com/c/8pGJ2TcNGhK",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
+          "title": "日本官员叫嚣“拥核”，石破茂表态",
+          "url": "https://news.ifeng.com/c/8pG6DMXXbmb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
+          "title": "持续加码医保投入 夯实健康中国",
+          "url": "https://www.toutiao.com/trending/7586219038762896905/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
+          "title": "文化中国行冬至节气",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%86%AC%E8%87%B3%E8%8A%82%E6%B0%94%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "全球电影业聚焦中国市场",
@@ -117,39 +177,52 @@
           "time_info": "[11时57分 ~ 14时19分]"
         },
         {
-          "title": "美殖入脑!抖友神发言:美国才是家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
-          "source": "贴吧",
+          "title": "日本自民党官员称有必要就“无核三原则”的定位展开讨论",
+          "url": "https://flash.jin10.com/detail/20251221163148311800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            24,
-            25
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
-          "title": "日本内阁府调查显示超七成受访者认为物价状况恶化",
-          "url": "https://wallstreetcn.com/livenews/3024391",
-          "source": "华尔街见闻-快讯",
+          "title": "中国机器人获机器人格斗冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            21,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "克里姆林宫：俄总统特别代表德米特里耶夫仍在迈阿密工作，与美国代表会面。",
+          "url": "https://flash.jin10.com/detail/20251221155914538800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "17时13分"
         },
         {
-          "title": "记者因想翻译日本集中营秘密遭谋杀",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%9B%A0%E6%83%B3%E7%BF%BB%E8%AF%91%E6%97%A5%E6%9C%AC%E9%9B%86%E4%B8%AD%E8%90%A5%E7%A7%98%E5%AF%86%E9%81%AD%E8%B0%8B%E6%9D%80",
-          "source": "百度热搜",
+          "title": "「冬至大如年」，为什么冬至对我们中国人来说很重要？",
+          "url": "https://www.zhihu.com/question/1984315974707593542",
+          "source": "知乎",
           "ranks": [
-            4
+            12,
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
         },
         {
           "title": "美官员：20日被扣押的油轮“并未受到美国制裁”",
@@ -163,15 +236,15 @@
           "time_info": "11时57分"
         },
         {
-          "title": "32页PPT曝光！美国对加沙蠢蠢欲动",
-          "url": "https://news.ifeng.com/c/8pGJ2TcNGhK",
-          "source": "凤凰网",
+          "title": "日本在野党高层集体谴责执政党为武器出口“松绑”",
+          "url": "https://wallstreetcn.com/livenews/3024411",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "17时13分"
         },
         {
           "title": "高市早苗要和中国打时间差",
@@ -183,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "日本自民党官员称有必要就“无核三原则”的定位展开讨论",
+          "url": "https://wallstreetcn.com/livenews/3024409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
@@ -209,6 +293,19 @@
           "time_info": "[02时16分 ~ 11时57分]"
         },
         {
+          "title": "美国情报显示，普京在乌克兰的战争目标没有改变",
+          "url": "https://flash.jin10.com/detail/20251221112648675800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
           "title": "崔东树：中国汽车引领中国出口高质量增长",
           "url": "https://wallstreetcn.com/livenews/3024372",
           "source": "华尔街见闻-快讯",
@@ -221,28 +318,29 @@
           "time_info": "[11时57分 ~ 14时19分]"
         },
         {
-          "title": "美国情报显示，普京在乌克兰的战争目标没有改变",
-          "url": "https://flash.jin10.com/detail/20251221112648675800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
-        },
-        {
-          "title": "中国机器人获机器人格斗冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
+          "title": "记者因想翻译日本集中营秘密遭谋杀",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%9B%A0%E6%83%B3%E7%BF%BB%E8%AF%91%E6%97%A5%E6%9C%AC%E9%9B%86%E4%B8%AD%E8%90%A5%E7%A7%98%E5%AF%86%E9%81%AD%E8%B0%8B%E6%9D%80",
+          "source": "百度热搜",
           "ranks": [
             4,
-            21
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
+          "title": "日本内阁府调查显示超七成受访者认为物价状况恶化",
+          "url": "https://wallstreetcn.com/livenews/3024391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 17时13分]"
         },
         {
           "title": "据Business Insider：由于大使馆出现延误，苹果已建议部分持有签证的员工不要前往美国境外旅行。",
@@ -269,18 +367,6 @@
           "time_info": "[09时04分 ~ 11时57分]"
         },
         {
-          "title": "「冬至大如年」，为什么冬至对我们中国人来说很重要？",
-          "url": "https://www.zhihu.com/question/1984315974707593542",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
-        },
-        {
           "title": "马克龙：欧盟必须对中国开放",
           "url": "https://www.douyin.com/hot/2342572",
           "source": "抖音",
@@ -292,6 +378,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "美国司法部公布部分爱泼斯坦文件，此举可能有哪些影响？",
+          "url": "https://www.zhihu.com/question/1985626766803493223",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
         },
         {
           "title": "闹麻了!日网友自制地图分裂中国",
@@ -338,6 +435,44 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
+          "url": "https://wallstreetcn.com/articles/3761246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
+          "title": "中国机器人在格斗机器人大赛中夺冠",
+          "url": "https://flash.jin10.com/detail/20251221102829260800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "日本青森县附近海域发生5.5级地震",
+          "url": "https://flash.jin10.com/detail/20251221100051397800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 17时13分]"
         },
         {
           "title": "日本官员叫嚣“拥核” 俄方表态",
@@ -399,6 +534,19 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
+          "title": "中国唯一自贸港为何选择海南",
+          "url": "https://www.toutiao.com/trending/7586143477365493257/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
           "title": "TikTok美国“大结局”背后：为什么是甲骨文？｜907编辑部",
           "url": "https://m.thepaper.cn/newsDetail_forward_32213316",
           "source": "澎湃新闻",
@@ -421,6 +569,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 09时04分]"
+        },
+        {
+          "title": "九九消寒图是中国人独有的浪漫",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E4%B9%9D%E6%B6%88%E5%AF%92%E5%9B%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%8B%AC%E6%9C%89%E7%9A%84%E6%B5%AA%E6%BC%AB",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时13分]"
         },
         {
           "title": "日本媒体人称拥核言论太可怕",
@@ -446,16 +606,16 @@
           "time_info": "[05时10分 ~ 05时11分]"
         },
         {
-          "title": "中国机器人在格斗机器人大赛中夺冠",
-          "url": "https://flash.jin10.com/detail/20251221102829260800",
+          "title": "日本将启动耗资190亿美元的国家人工智能项目",
+          "url": "https://flash.jin10.com/detail/20251221125612562800",
           "source": "金十数据",
           "ranks": [
             6,
-            18
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 17时13分]"
         },
         {
           "title": "美国在委内瑞拉附近海域扣押第二艘油轮",
@@ -468,6 +628,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 11时57分]"
+        },
+        {
+          "title": "朝中社刊文：必须遏制日本拥核野心",
+          "url": "https://wallstreetcn.com/livenews/3024388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时13分]"
         },
         {
           "title": "俄总统特别代表德米特里耶夫：俄罗斯与美国正在进行“建设性”讨论，相关讨论将于周日在迈阿密继续进行。",
@@ -492,18 +664,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 11时57分]"
-        },
-        {
-          "title": "日本青森县附近海域发生5.5级地震",
-          "url": "https://flash.jin10.com/detail/20251221100051397800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
         },
         {
           "title": "曝美国外交系统“大地震”",
@@ -542,6 +702,18 @@
           "time_info": "[09时04分 ~ 11时57分]"
         },
         {
+          "title": "日本前首相石破茂：拥核“对日本绝不是一件有利的事情”",
+          "url": "https://flash.jin10.com/detail/20251221120918360800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
           "title": "美国特使：美同埃及等国将继续磋商加沙停火第二阶段安排",
           "url": "https://flash.jin10.com/detail/20251221080711126800",
           "source": "金十数据",
@@ -552,6 +724,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 11时57分]"
+        },
+        {
+          "title": "朝中社刊文：必须遏制日本拥核野心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223281",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "俄总统特别代表抵达美国迈阿密",
@@ -566,15 +749,28 @@
           "time_info": "[09时04分 ~ 11时57分]"
         },
         {
-          "title": "美国司法部公布部分爱泼斯坦文件，此举可能有哪些影响？",
-          "url": "https://www.zhihu.com/question/1985626766803493223",
-          "source": "知乎",
+          "title": "朝中社刊文：必须遏制日本拥核野心",
+          "url": "https://flash.jin10.com/detail/20251221115322594800",
+          "source": "金十数据",
           "ranks": [
-            14
+            12,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
+          "title": "柬方回应中国特使调停泰柬边境交火",
+          "url": "https://www.toutiao.com/trending/7585606331047084068/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "美国旧金山大规模停电",
@@ -637,6 +833,18 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
+          "title": "曝埃及斥资28亿购中国WJ-700无人机",
+          "url": "https://www.toutiao.com/trending/7586186551772581385/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
           "title": "日本根室半岛近海海域发生5.2级地震",
           "url": "https://wallstreetcn.com/livenews/3024293",
           "source": "华尔街见闻-快讯",
@@ -670,6 +878,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 05时11分]"
+        },
+        {
+          "title": "中国机器人在格斗机器人大赛中夺冠",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E6%A0%BC%E6%96%97%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B%E4%B8%AD%E5%A4%BA%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时12分]"
         },
         {
           "title": "市场消息：政府电子邮件显示，美国联邦住房金融署（FHFA）的高管受到保守派新闻媒体的启发，推动对民主党国会议员进行抵押贷款欺诈调查。",
@@ -727,39 +947,6 @@
           "time_info": "[11时57分 ~ 14时19分]"
         },
         {
-          "title": "日本将启动耗资190亿美元的国家人工智能项目",
-          "url": "https://flash.jin10.com/detail/20251221125612562800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "朝中社刊文：必须遏制日本拥核野心",
-          "url": "https://wallstreetcn.com/livenews/3024388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "美国在委内瑞拉海岸附近拦截受制裁船只",
           "url": "https://news.ifeng.com/c/8pFX4PpRnjm",
           "source": "凤凰网",
@@ -777,18 +964,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "日本前首相石破茂：拥核“对日本绝不是一件有利的事情”",
-          "url": "https://flash.jin10.com/detail/20251221120918360800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -815,24 +991,13 @@
           "time_info": "09时04分"
         },
         {
-          "title": "朝中社刊文：必须遏制日本拥核野心",
-          "url": "https://flash.jin10.com/detail/20251221115322594800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "突破250亿，2025年成为中国影史动画电影票房最高一年",
           "url": "https://wallstreetcn.com/livenews/3024382",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -843,7 +1008,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -870,17 +1035,6 @@
           "time_info": "11时57分"
         },
         {
-          "title": "中国唯一自贸港为何选择海南",
-          "url": "https://www.toutiao.com/trending/7586143477365493257/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "中国 - 东盟绿色农业发展论坛在昆明召开，共拓农业合作新路径",
           "url": "https://wallstreetcn.com/livenews/3024357",
           "source": "华尔街见闻-快讯",
@@ -903,37 +1057,37 @@
           "time_info": "11时57分"
         },
         {
-          "title": "九九消寒图是中国人独有的浪漫",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E4%B9%9D%E6%B6%88%E5%AF%92%E5%9B%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%8B%AC%E6%9C%89%E7%9A%84%E6%B5%AA%E6%BC%AB",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "日本前首相石破茂：拥核“对日本绝不是一件有利的事情”",
           "url": "https://wallstreetcn.com/livenews/3024376",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
         {
-          "title": "中国机器人在格斗机器人大赛中夺冠",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E6%A0%BC%E6%96%97%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B%E4%B8%AD%E5%A4%BA%E5%86%A0",
-          "source": "百度热搜",
+          "title": "台退将：日本若拥核或走以色列模式",
+          "url": "https://www.toutiao.com/trending/7586204327706889769/",
+          "source": "今日头条",
           "ranks": [
-            21
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "17时13分"
+        },
+        {
+          "title": "美国的“政治洗劫”正输掉什么",
+          "url": "https://www.toutiao.com/trending/7586194446492896809/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "俄副外长：俄反对日本围绕“拥核”可能性展开的讨论",
@@ -956,6 +1110,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "中国半导体巨头的下一站",
+          "url": "https://www.toutiao.com/trending/7586194740178062902/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "以色列拟邀请美国参战",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%9F%E9%82%80%E8%AF%B7%E7%BE%8E%E5%9B%BD%E5%8F%82%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "石破茂：拥核不会给日本带来正面影响",
@@ -994,7 +1170,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
@@ -1036,6 +1212,73 @@
           "time_info": "[02时16分 ~ 09时04分]"
         },
         {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时13分]"
+        },
+        {
+          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
+          "url": "https://www.cls.cn/detail/2235451",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 17时13分]"
+        },
+        {
+          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761783",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
+          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "英语兔的年报DNA里有AI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            24,
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时16分 ~ 17时13分]"
+        },
+        {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
@@ -1054,49 +1297,37 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 17时13分]"
         },
         {
-          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年12月20日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时19分]"
-        },
-        {
-          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
-          "url": "https://www.cls.cn/detail/2235451",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 14时19分]"
-        },
-        {
-          "title": "英语兔的年报DNA里有AI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            24,
+            20,
             19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时16分 ~ 11时57分]"
+          "time_info": "[09时04分 ~ 17时13分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -1110,30 +1341,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 09时04分]"
-        },
-        {
-          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
-          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
-        },
-        {
-          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761783",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
         },
         {
           "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
@@ -1160,15 +1367,26 @@
           "time_info": "[02时16分 ~ 09时04分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年12月20日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
-          "source": "澎湃新闻",
+          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            20
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
+          "url": "https://www.toutiao.com/trending/7585558853728190474/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
         },
         {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
@@ -1183,38 +1401,26 @@
           "time_info": "[09时04分 ~ 11时57分]"
         },
         {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
-          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
-          "url": "https://www.toutiao.com/trending/7585558853728190474/",
-          "source": "今日头条",
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
+          "source": "抖音",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -1253,30 +1459,32 @@
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "央视曝光旧手机回收猫腻",
-          "url": "https://www.toutiao.com/trending/7585627631387869226/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
         {
           "title": "封关首日，爆了！三亚免税狂卖1.18亿元！有苹果手机便宜2140元，元旦海南机票订量大增！",
           "url": "https://wallstreetcn.com/articles/3761779",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 17时13分]"
+        },
+        {
+          "title": "重磅！全球首款2nm手机芯片诞生",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE2nm%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%AF%9E%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "央视曝光旧手机回收猫腻",
@@ -1284,11 +1492,25 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            2
+            2,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 17时12分]"
+        },
+        {
+          "title": "央视曝光旧手机回收猫腻",
+          "url": "https://www.toutiao.com/trending/7585627631387869226/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 17时13分]"
         },
         {
           "title": "华为新手机充电时电池爆了 售后拒保",
@@ -1320,7 +1542,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
