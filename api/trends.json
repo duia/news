@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:22:03.010114+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-12-24T17:18:00.434977+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 140,
+      "match_count": 156,
       "titles": [
         {
           "title": "日本一报废核反应堆发生含放射性水泄漏事件，数人或遭辐射",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 14时22分]"
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 17时18分]"
         },
         {
           "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
@@ -27,11 +28,25 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 17时18分]"
+        },
+        {
+          "title": "日本核反应堆含放射性水泄漏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            9,
+            20
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[02时19分 ~ 14时22分]"
+          "time_info": "[02时19分 ~ 17时18分]"
         },
         {
           "title": "美国“飞手”怒了：我爱国货，但抱歉，中国无人机无可替代",
@@ -56,18 +71,6 @@
           "time_info": "[02时19分 ~ 09时00分]"
         },
         {
-          "title": "日本核反应堆含放射性水泄漏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时19分 ~ 14时22分]"
-        },
-        {
           "title": "美国标准时间慢了4.8微秒",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4%E6%85%A2%E4%BA%864.8%E5%BE%AE%E7%A7%92",
           "source": "bilibili 热搜",
@@ -82,6 +85,19 @@
           "time_info": "[02时19分 ~ 11时55分]"
         },
         {
+          "title": "精日实锤?原神套用日本军衔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348312&amp;topic_name=%E7%B2%BE%E6%97%A5%E5%AE%9E%E9%94%A4%3F%E5%8E%9F%E7%A5%9E%E5%A5%97%E7%94%A8%E6%97%A5%E6%9C%AC%E5%86%9B%E8%A1%94",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 17时18分]"
+        },
+        {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32227837",
           "source": "澎湃新闻",
@@ -94,18 +110,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时19分 ~ 14时22分]"
-        },
-        {
-          "title": "精日实锤?原神套用日本军衔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348312&amp;topic_name=%E7%B2%BE%E6%97%A5%E5%AE%9E%E9%94%A4%3F%E5%8E%9F%E7%A5%9E%E5%A5%97%E7%94%A8%E6%97%A5%E6%9C%AC%E5%86%9B%E8%A1%94",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时22分]"
         },
         {
           "title": "英媒：英伟达放风春节前向中国客户交付H200芯片",
@@ -169,15 +173,15 @@
           "time_info": "[02时19分 ~ 14时22分]"
         },
         {
-          "title": "中国人终于对鱼刺“下手”了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%88%E4%BA%8E%E5%AF%B9%E9%B1%BC%E5%88%BA%E2%80%9C%E4%B8%8B%E6%89%8B%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
+          "title": "升级！美国罕见制裁欧盟前官员",
+          "url": "https://news.ifeng.com/c/8pLdYbNCAk7",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -191,6 +195,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时19分 ~ 11时55分]"
+        },
+        {
+          "title": "美国欲邀其派兵加沙，阿塞拜疆：谢邀，没空",
+          "url": "https://news.ifeng.com/c/8pLWEtJdcIg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "日本遗孤说不信我是日本孩子",
@@ -218,15 +233,62 @@
           "time_info": "[11时54分 ~ 14时22分]"
         },
         {
+          "title": "数读2025年中国经济活力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "中国人终于对鱼刺“下手”了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%88%E4%BA%8E%E5%AF%B9%E9%B1%BC%E5%88%BA%E2%80%9C%E4%B8%8B%E6%89%8B%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 17时18分]"
+        },
+        {
+          "title": "美国斩杀线",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 17时18分]"
+        },
+        {
           "title": "日本靖国神社被起诉",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A2%AB%E8%B5%B7%E8%AF%89",
           "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 17时18分]"
+        },
+        {
+          "title": "什么是美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "年终决赛只夺得混双一项冠军，中国羽毛球是失去统治力了吗？为何没有乒乓球讨论度高？",
@@ -296,6 +358,19 @@
           "time_info": "09时00分"
         },
         {
+          "title": "中国足球协会纪律委员会原主任王小平受贿案二审维持原判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243197",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 17时18分]"
+        },
+        {
           "title": "男篮归化球员李凯尔国籍变回美国",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E5%BD%92%E5%8C%96%E7%90%83%E5%91%98%E6%9D%8E%E5%87%AF%E5%B0%94%E5%9B%BD%E7%B1%8D%E5%8F%98%E5%9B%9E%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
@@ -309,13 +384,39 @@
           "time_info": "[08时59分 ~ 14时22分]"
         },
         {
+          "title": "是谁划下了“美国斩杀线”",
+          "url": "https://www.baidu.com/s?wd=%E6%98%AF%E8%B0%81%E5%88%92%E4%B8%8B%E4%BA%86%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 17时18分]"
+        },
+        {
+          "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32237082",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 17时18分]"
+        },
+        {
           "title": "日本东电将于1月20日部分重启全球最大核电站",
           "url": "https://flash.jin10.com/detail/20251224141639280800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -329,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "日本可能将超长期国债发行量削减至17年来最低水平。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3026124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "金十图示：2025年12月24日（周三）富时中国A50指数成分股午盘收盘行情一览：银行板块涨少跌多，保险、酿酒板块全线走低",
@@ -362,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "消息人士称，日本将在下一财年将超长期日本政府债券的新发行量削减至约17万亿日元，为17年来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251224170029206800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国议员提起诉讼，指控特朗普擅自变更肯尼迪中心的做法违规",
@@ -478,28 +601,27 @@
           "time_info": "[11时54分 ~ 14时22分]"
         },
         {
-          "title": "是谁划下了“美国斩杀线”",
-          "url": "https://www.baidu.com/s?wd=%E6%98%AF%E8%B0%81%E5%88%92%E4%B8%8B%E4%BA%86%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
-          "source": "百度热搜",
+          "title": "网友讨论美国存在「斩杀线」，真的存在所谓的斩杀线吗？",
+          "url": "https://www.zhihu.com/question/1985020927335998097",
+          "source": "知乎",
           "ranks": [
-            22,
-            14
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时22分]"
+          "time_info": "[14时21分 ~ 17时18分]"
         },
         {
-          "title": "中国足球协会纪律委员会原主任王小平受贿案二审维持原判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243197",
-          "source": "澎湃新闻",
+          "title": "谷辣斯妄称不是中国人 国台办回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E8%BE%A3%E6%96%AF%E5%A6%84%E7%A7%B0%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            14
+            13,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时22分]"
+          "time_info": "[14时21分 ~ 17时18分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -514,16 +636,16 @@
           "time_info": "[11时54分 ~ 14时22分]"
         },
         {
-          "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32237082",
-          "source": "澎湃新闻",
+          "title": "经纪公司声明：李凯尔仍是中国国籍",
+          "url": "https://www.toutiao.com/trending/7586564098591817770/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            18
+            17,
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时22分]"
+          "time_info": "[14时21分 ~ 17时18分]"
         },
         {
           "title": "伊朗在安理会感谢中国",
@@ -610,15 +732,15 @@
           "time_info": "[02时19分 ~ 05时13分]"
         },
         {
-          "title": "美国斩杀线",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=6&Refer=top",
+          "title": "永远为这一抹中国红骄傲",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%B8%BA%E8%BF%99%E4%B8%80%E6%8A%B9%E4%B8%AD%E5%9B%BD%E7%BA%A2%E9%AA%84%E5%82%B2%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "对委动武的代价可能超出美国想象",
@@ -643,6 +765,17 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
+          "title": "日本发放过期救济粮，要求领取者签免责书",
+          "url": "https://news.ifeng.com/c/8pLdALfAc5T",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
           "title": "美国批准首款“口服版减肥神药”，诺和诺德拔得头筹股价大涨，礼来预计3月获批",
           "url": "https://wallstreetcn.com/articles/3761874",
           "source": "华尔街见闻",
@@ -663,17 +796,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
-          "title": "网友讨论美国存在「斩杀线」，真的存在所谓的斩杀线吗？",
-          "url": "https://www.zhihu.com/question/1985020927335998097",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "美为何此时全面收紧对中国无人机限制",
@@ -698,26 +820,15 @@
           "time_info": "[11时54分 ~ 11时55分]"
         },
         {
-          "title": "谷辣斯妄称不是中国人 国台办回应",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E8%BE%A3%E6%96%AF%E5%A6%84%E7%A7%B0%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "经纪公司声明：李凯尔仍是中国国籍",
-          "url": "https://www.toutiao.com/trending/7586564098591817770/",
-          "source": "今日头条",
+          "title": "经纪公司声明：李凯尔恢复美国国籍并不属实，依然是中国国籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243519",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -753,6 +864,17 @@
           "time_info": "[14时21分 ~ 14时22分]"
         },
         {
+          "title": "国台办回应台政客妄称自己不是中国人",
+          "url": "https://www.toutiao.com/trending/7587306121863249962/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
           "title": "日本第17次核污染水排海结束，共排放7833立方米",
           "url": "https://m.thepaper.cn/newsDetail_forward_32234703",
           "source": "澎湃新闻",
@@ -762,6 +884,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "美媒计算美国入侵委内瑞拉成本",
+          "url": "https://www.toutiao.com/trending/7587304118604008979/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "中国代表在安理会连说5个反对",
@@ -786,6 +919,17 @@
           "time_info": "[14时21分 ~ 14时22分]"
         },
         {
+          "title": "美国为何提前两年预告对华半导体加税",
+          "url": "https://www.toutiao.com/trending/7587318705801924146/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
           "title": "中国工程院院士黄培康逝世",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E9%99%A2%E5%A3%AB%E9%BB%84%E5%9F%B9%E5%BA%B7%E9%80%9D%E4%B8%96",
           "source": "百度热搜",
@@ -795,6 +939,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "辟谣美国治理骚扰电话",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BE%9F%E8%B0%A3%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%90%86%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "洪秀柱赞郑丽文表达我是中国人立场",
@@ -880,7 +1035,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1045,7 +1200,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1056,9 +1211,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基公布了由乌克兰和美国支持的完整20点和平计划草案。",
+          "url": "https://flash.jin10.com/detail/20251224162349634800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -1078,7 +1244,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1287,9 +1453,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰和美国向着敲定计划的方向大大接近。乌克兰与美国的主要分歧在于领土问题。",
+          "url": "https://wallstreetcn.com/livenews/3026094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国至12月23日1年期国债竞拍-得标利率配置百分比 70.25%，前值74.8%。",
@@ -1345,6 +1522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
+        },
+        {
+          "title": "美国削减对乌克兰支持450亿美元",
+          "url": "https://wallstreetcn.com/livenews/3026093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国将从1月份开始截获（扣留）那些学生贷款违约的借款人的薪酬。（CNBC）",
@@ -1452,7 +1640,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1518,7 +1706,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1592,7 +1780,7 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -1630,13 +1818,35 @@
           "time_info": "[14时21分 ~ 14时22分]"
         },
         {
+          "title": "阿里升级新一代语音模型Qwen3-TTS，可参考文字、声音生成拟人音色",
+          "url": "https://wallstreetcn.com/livenews/3026106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "中兴通讯相关人士：目前已收到部分大模型厂合作邀约",
+          "url": "https://wallstreetcn.com/livenews/3026103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
           "url": "https://flash.jin10.com/detail/20251224133230351800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
