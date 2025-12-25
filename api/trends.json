@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T20:25:21.949823+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2025-12-25T23:13:53.615549+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 165,
+      "match_count": 175,
       "titles": [
         {
           "title": "一夜返贫!美国富翁也难逃斩杀",
@@ -19,8 +19,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 20时25分]"
+          "appearance_count": 10,
+          "time_info": "[02时19分 ~ 23时13分]"
         },
         {
           "title": "沈逸解析美国斩杀线",
@@ -29,11 +29,12 @@
           "ranks": [
             1,
             3,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 20时25分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 23时13分]"
         },
         {
           "title": "强生爽身粉致癌案被判赔女子 110 亿元，为什么会被美国陪审团判赔这么多？真的能赔偿吗？",
@@ -83,6 +84,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "盘点2025中国电竞表现",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%AB%9E%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            18,
+            23,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 23时13分]"
+        },
+        {
+          "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
+          "url": "https://news.ifeng.com/c/8pNJR35BTlS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "日本一无人岛密密麻麻都是北海狮",
@@ -156,6 +183,19 @@
           "time_info": "[02时19分 ~ 09时01分]"
         },
         {
+          "title": "斩杀线揭开美国一角,殖人先急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 23时13分]"
+        },
+        {
           "title": "为何是2027年？“美国想保留筹码，但中国手里有王牌”",
           "url": "https://news.ifeng.com/c/8pLaxQiSfCT",
           "source": "凤凰网",
@@ -222,7 +262,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -276,31 +316,6 @@
           "time_info": "[02时19分 ~ 14时21分]"
         },
         {
-          "title": "盘点2025中国电竞表现",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%AB%9E%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            18,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 20时25分]"
-        },
-        {
-          "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
-          "url": "https://news.ifeng.com/c/8pNJR35BTlS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
           "title": "美国加州州长Newsom针对南加州即将面临的暴雨天气宣布紧急状态。",
           "url": "https://wallstreetcn.com/livenews/3026329",
           "source": "华尔街见闻-快讯",
@@ -310,6 +325,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "中国经济热词图鉴",
+          "url": "https://www.toutiao.com/trending/7587041948800745514/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "中国经济热词图鉴",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%83%AD%E8%AF%8D%E5%9B%BE%E9%89%B4",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "日本两年期国债收益率上涨1个基点，至1.11%。",
@@ -345,6 +382,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "郑州中原保时捷中心疑似跑路，保时捷中国称正与警方核查事实，具体是怎么回事？车主该如何维护自己的权益？",
+          "url": "https://www.zhihu.com/question/1987260853112832641",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国网红称他在旧金山快活不下去了",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%A7%B0%E4%BB%96%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E5%BF%AB%E6%B4%BB%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -356,19 +404,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 09时01分]"
-        },
-        {
-          "title": "斩杀线揭开美国一角,殖人先急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 20时25分]"
         },
         {
           "title": "美国人头上都有条成为流浪汉的「斩杀线」么，从经济角度如何看待这种现象？「斩杀线」背后的本质是什么？",
@@ -462,6 +497,17 @@
           "time_info": "[14时21分 ~ 17时16分]"
         },
         {
+          "title": "扎哈罗娃生日获普京颁发勋章：在中国长大，能讲一口流利北京话",
+          "url": "https://news.ifeng.com/c/8pMwqjZ8H6f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 23时13分]"
+        },
+        {
           "title": "反转？美特使最新表态：美国无意征服",
           "url": "https://news.ifeng.com/c/8pN2aQOWl4l",
           "source": "凤凰网",
@@ -511,6 +557,18 @@
           "time_info": "[08时59分 ~ 14时21分]"
         },
         {
+          "title": "这个节美国人过得不太舒心",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%8A%82%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A4%AA%E8%88%92%E5%BF%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 23时13分]"
+        },
+        {
           "title": "为什么欧日俄印在面对跟 spacex 越来越大的差距时，没有像中国这样焦急地追赶？",
           "url": "https://www.zhihu.com/question/1987109527217254861",
           "source": "知乎",
@@ -522,6 +580,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时57分 ~ 17时16分]"
+        },
+        {
+          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1987426605316924152",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 23时13分]"
         },
         {
           "title": "经纪公司声明：李凯尔恢复美国国籍并不属实，依然是中国国籍",
@@ -536,17 +605,6 @@
           "time_info": "[02时19分 ~ 09时01分]"
         },
         {
-          "title": "扎哈罗娃生日获普京颁发勋章：在中国长大，能讲一口流利北京话",
-          "url": "https://news.ifeng.com/c/8pMwqjZ8H6f",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时25分]"
-        },
-        {
           "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
           "url": "https://www.cls.cn/detail/2239492",
           "source": "财联社热门",
@@ -559,15 +617,17 @@
           "time_info": "[14时21分 ~ 17时16分]"
         },
         {
-          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1987426605316924152",
-          "source": "知乎",
+          "title": "李凯尔发声：恢复美国国籍不实",
+          "url": "https://www.toutiao.com/trending/7587253195055828516/",
+          "source": "今日头条",
           "ranks": [
-            10
+            14,
+            16,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时25分]"
+          "time_info": "[11时57分 ~ 23时13分]"
         },
         {
           "title": "中国山西碳纤维的翻身仗",
@@ -732,18 +792,6 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "李凯尔发声：恢复美国国籍不实",
-          "url": "https://www.toutiao.com/trending/7587253195055828516/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 14时21分]"
-        },
-        {
           "title": "美决定至少18个月内不对中国芯片加税",
           "url": "https://www.toutiao.com/trending/7587332193673936923/",
           "source": "今日头条",
@@ -764,6 +812,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 05时12分]"
+        },
+        {
+          "title": "欧盟警告反制美国",
+          "url": "https://www.douyin.com/hot/2346980",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -890,6 +950,17 @@
           "time_info": "11时57分"
         },
         {
+          "title": "美国斩杀线为什么刚好在 1/e 附近？",
+          "url": "https://www.zhihu.com/question/1986615844910932809",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国官员：尽管军事选项依然存在，但重点是首先通过实施制裁施加经济压力，以达成白宫所寻求的结果。",
           "url": "https://flash.jin10.com/detail/20251225032116785800",
           "source": "金十数据",
@@ -978,6 +1049,17 @@
           "time_info": "11时57分"
         },
         {
+          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
+          "url": "https://wallstreetcn.com/articles/3762031",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "日本丰臣秀吉雕像8月“被斩首”，嫌犯找到了：一名警察涉案(图)",
           "url": "https://news.ifeng.com/c/8pN2LuyEKeL",
           "source": "凤凰网",
@@ -1022,15 +1104,15 @@
           "time_info": "14时21分"
         },
         {
-          "title": "这个节美国人过得不太舒心",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%8A%82%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A4%AA%E8%88%92%E5%BF%83%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "中国创造人工硐室储气运行时长与可靠性世界新纪录",
+          "url": "https://wallstreetcn.com/livenews/3026779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "23时13分"
         },
         {
           "title": "“圣诞老人行情”开启，美国股债汇走高，标普新高，贵金属涨势暂缓，加密货币疲软",
@@ -1165,6 +1247,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "全国人大外事委员会发言人就美国“2026财年国防授权法案”涉华消极条款发表谈话",
+          "url": "https://www.cls.cn/detail/2240193",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国司法部：美国联邦调查局（FBI）和纽约南区联邦检察官已通知司法部，他们又发现了超过一百万份可能与爱泼斯坦案相关的文件。",
           "url": "https://flash.jin10.com/detail/20251225025505515800",
           "source": "金十数据",
@@ -1253,6 +1346,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "高盛：中国股市赚钱逻辑彻底变了",
+          "url": "https://www.toutiao.com/trending/7587755130850643519/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国财政部拍卖四个月期国债，得标利率3.555%，投标倍数2.95。",
           "url": "https://wallstreetcn.com/livenews/3026290",
           "source": "华尔街见闻-快讯",
@@ -1270,7 +1374,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1292,7 +1396,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1319,24 +1423,13 @@
           "time_info": "09时01分"
         },
         {
-          "title": "欧盟警告反制美国",
-          "url": "https://www.douyin.com/hot/2346980",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
           "title": "俄罗斯否认美媒有关寻求修改美国和平提案的报道",
           "url": "https://flash.jin10.com/detail/20251225183750489800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1369,7 +1462,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1396,6 +1489,28 @@
           "time_info": "09时01分"
         },
         {
+          "title": "法国高调宣布建造新航母，美国称将扩大航母规模，航母建造计划背后的大国博弈逻辑是什么？",
+          "url": "https://www.zhihu.com/question/1986746000593921575",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "中国为什么没有美国的“斩杀线”",
+          "url": "https://www.toutiao.com/trending/7586900710449807396/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国至12月24日8周国债竞拍-得标利率 3.585%，前值3.585%。",
           "url": "https://flash.jin10.com/detail/20251225004541702800",
           "source": "金十数据",
@@ -1413,7 +1528,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1457,7 +1572,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1776,7 +1891,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1787,7 +1902,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1916,8 +2031,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 20时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 23时13分]"
+        },
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "中信证券：看好互联网大厂凭借AI产品力、成熟生态以及投流资金规模优势，率先抢占市场并完成用户AI家医心智培育",
@@ -1937,18 +2064,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "OpenAI的“广告模式”已初具雏形",
-          "url": "https://wallstreetcn.com/articles/3762036",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -2003,7 +2119,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -2151,7 +2267,7 @@
     },
     {
       "keyword_group": "小米 雷军",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "小米17 Ultra机型售价公布：6999元起售",
@@ -2160,7 +2276,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -2171,7 +2287,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -2182,9 +2298,31 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 23时13分]"
+        },
+        {
+          "title": "小米17 Ultra定价6999元起",
+          "url": "https://www.toutiao.com/trending/7587536138282372662/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "23时13分"
+        },
+        {
+          "title": "小米17 Ultra价格6999元起",
+          "url": "https://www.douyin.com/hot/2347566",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "小米17Ultra价格",
@@ -2193,9 +2331,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
+        },
+        {
+          "title": "小米17 Ultra起售价6999元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B317+Ultra%E8%B5%B7%E5%94%AE%E4%BB%B76999%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "小米17Ultra是小米迄今最薄Ultra",
@@ -2204,7 +2353,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         }
