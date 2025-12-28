@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T20:23:38.772624+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2025-12-28T23:12:47.799845+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 73,
+      "match_count": 88,
       "titles": [
         {
           "title": "俄外长警告日本：要慎重！",
@@ -26,11 +26,12 @@
             16,
             23,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时17分 ~ 20时23分]"
+          "appearance_count": 11,
+          "time_info": "[02时17分 ~ 23时12分]"
         },
         {
           "title": "新城市志｜突破5万公里，对中国高铁意味着什么",
@@ -135,6 +136,18 @@
           "time_info": "[02时18分 ~ 14时20分]"
         },
         {
+          "title": "真人扮熊猫关笼,日本为吸客拼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时12分]"
+        },
+        {
           "title": "中国11月规模以上工业企业利润同比下降13.1%，前11个月同比微增，高技术制造业利润增速加快",
           "url": "https://wallstreetcn.com/articles/3762171",
           "source": "华尔街见闻",
@@ -159,6 +172,30 @@
           "time_info": "[14时19分 ~ 17时14分]"
         },
         {
+          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
+          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时12分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时19分 ~ 23时12分]"
+        },
+        {
           "title": "日本将向12国免费提供武器装备",
           "url": "https://www.toutiao.com/trending/7587618760001880090/",
           "source": "今日头条",
@@ -170,15 +207,15 @@
           "time_info": "09时07分"
         },
         {
-          "title": "真人扮熊猫关笼,日本为吸客拼了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
-          "source": "贴吧",
+          "title": "王毅会见柬埔寨副首相：希望加大对在柬中国公民保护",
+          "url": "https://news.ifeng.com/c/8pSVDYFTMdI",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "23时12分"
         },
         {
           "title": "拉夫罗夫：俄罗斯准备与美国进一步合作，就乌克兰问题达成协议",
@@ -192,6 +229,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。",
+          "url": "https://wallstreetcn.com/livenews/3027677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
           "url": "https://flash.jin10.com/detail/20251228164627469800",
           "source": "金十数据",
@@ -201,6 +249,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        },
+        {
+          "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
+          "url": "https://flash.jin10.com/detail/20251228225808977800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3027672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国普通人掉入「斩杀线」，如何才能扭转局面？",
@@ -227,15 +297,26 @@
           "time_info": "09时07分"
         },
         {
-          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
-          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
-          "source": "凤凰网",
+          "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
+          "url": "https://flash.jin10.com/detail/20251228225633143800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
+          "url": "https://flash.jin10.com/detail/20251228224005794800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "23时12分"
         },
         {
           "title": "拉夫罗夫：更新后的美国国家安全战略首次对北约扩张提出质疑",
@@ -247,6 +328,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
+          "url": "https://flash.jin10.com/detail/20251228223135364800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "中国AES100发动机配装全球首款6吨级倾转旋翼机成功首飞",
+          "url": "https://wallstreetcn.com/livenews/3027668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国皮革制品或将涨价22%",
@@ -264,19 +367,6 @@
           "time_info": "[02时18分 ~ 14时20分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 20时23分]"
-        },
-        {
           "title": "俄外长：日本正加速军事化 最好审慎权衡避免草率决定",
           "url": "https://flash.jin10.com/detail/20251228114752864800",
           "source": "金十数据",
@@ -287,6 +377,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 14时20分]"
+        },
+        {
+          "title": "周末要闻汇总：官方明确明年继续“国补”，中国ETF迈入6万亿时刻",
+          "url": "https://www.cls.cn/detail/2242083",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时12分]"
+        },
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 23时12分]"
         },
         {
           "title": "鸡蛋拌饭已成日本“奢侈品”",
@@ -372,18 +487,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时19分 ~ 17时14分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 20时23分]"
         },
         {
           "title": "中国完全自主研制首款6吨级倾转旋翼飞行器成功首飞",
@@ -575,6 +678,17 @@
           "time_info": "[14时19分 ~ 14时20分]"
         },
         {
+          "title": "中国足球协会设立纪律与道德委员会，徐家力担任委员会主任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32269135",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时12分]"
+        },
+        {
           "title": "《无限大》《异环》《望月》《终末地》等全新二游公测后，中国二游市场会陷入怎样的局面？",
           "url": "https://www.zhihu.com/question/1988398567069610385",
           "source": "知乎",
@@ -584,6 +698,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时13分 ~ 17时14分]"
+        },
+        {
+          "title": "电影《疯狂动物城2》成为中国影史首部观影人次破亿进口电影",
+          "url": "https://wallstreetcn.com/livenews/3027635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时12分]"
         },
         {
           "title": "中国电影120年金曲回顾",
@@ -664,15 +790,26 @@
           "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "周末要闻汇总：官方明确明年继续“国补”，中国ETF迈入6万亿时刻",
-          "url": "https://www.cls.cn/detail/2242083",
-          "source": "财联社热门",
+          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，将与特朗普举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251228220434760800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国媒体关注到中国网友对「斩杀线」的讨论，称美国人生存线可能继续上移，为什么会这样？有哪些因素影响？",
+          "url": "https://www.zhihu.com/question/1988634340792432148",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "日本东京西部一家动物园发生狼只逃出围栏事件，游客纷纷逃离。",
@@ -708,6 +845,28 @@
           "time_info": "09时07分"
         },
         {
+          "title": "担任中国足协纪律与道德委员会首位主任的徐家力是谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32269477",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "消失 30 年的「中国豹」重现北京附近，这一生态事件对当地生物多样性有何意义？",
+          "url": "https://www.zhihu.com/question/1986441498338825500",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "日本鸡蛋批发价创历史新高",
           "url": "https://flash.jin10.com/detail/20251228154954941800",
           "source": "金十数据",
@@ -730,26 +889,15 @@
           "time_info": "12时04分"
         },
         {
-          "title": "中国足球协会设立纪律与道德委员会，徐家力担任委员会主任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32269135",
-          "source": "澎湃新闻",
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯敦促日本认真考虑其军事化进程。",
+          "url": "https://flash.jin10.com/detail/20251228211654895800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "电影《疯狂动物城2》成为中国影史首部观影人次破亿进口电影",
-          "url": "https://wallstreetcn.com/livenews/3027635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "23时12分"
         },
         {
           "title": "日本民众集会怒斥政府煽动战争",
@@ -758,7 +906,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -780,7 +928,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -791,7 +939,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -802,7 +950,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -813,9 +961,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "详解中国最古老的众神之城",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E4%BC%97%E7%A5%9E%E4%B9%8B%E5%9F%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "俄罗斯高级议员斯卢茨基表示，俄罗斯议员和美国国会议员已达成初步协议，将举行会晤，有关会晤时间和地点的细节预计将在近期公布。",
@@ -827,6 +986,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        },
+        {
+          "title": "如何看待日本军费冲到全球第三",
+          "url": "https://www.toutiao.com/trending/7588886063397998122/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "泰国女子把女儿骗到日本卖淫",
@@ -857,7 +1027,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
@@ -865,18 +1035,30 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2025最全AI成果盘点",
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时12分]"
+        },
+        {
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "23时12分"
         },
         {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
@@ -951,11 +1133,12 @@
           "ranks": [
             1,
             6,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 20时23分]"
+          "appearance_count": 6,
+          "time_info": "[14时19分 ~ 23时12分]"
         },
         {
           "title": "商场展车被小孩误触撞入手机店",
@@ -964,7 +1147,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1008,8 +1191,20 @@
     },
     {
       "keyword_group": "小米 雷军",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
+          "url": "https://wallstreetcn.com/livenews/3027643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时12分]"
+        },
         {
           "title": "小米17Ultra徕卡版有什么不一样",
           "url": "https://www.douyin.com/hot/2347928",
@@ -1022,26 +1217,26 @@
           "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
-          "url": "https://wallstreetcn.com/livenews/3027643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
           "title": "小米集团：公司联合创始人林斌计划累计出售不超过20亿美元公司B类普通股",
           "url": "https://flash.jin10.com/detail/20251228190503620800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "小米副董事长拟套现不超20亿美元，知情人士：他想成立投资基金",
+          "url": "https://flash.jin10.com/detail/20251228203142645800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
