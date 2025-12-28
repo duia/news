@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T02:18:46.122647+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-29T05:12:28.808607+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "王毅会见柬埔寨副首相：希望加大对在柬中国公民保护",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "中国援柬埔寨物资运抵金边",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "周末要闻汇总：官方明确明年继续“国补”，中国ETF迈入6万亿时刻",
@@ -37,41 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
-          "url": "https://wallstreetcn.com/livenews/3027678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
-          "url": "https://flash.jin10.com/detail/20251228225808977800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
-          "url": "https://wallstreetcn.com/livenews/3027677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
@@ -81,8 +48,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "消失 30 年的「中国豹」重现北京附近，这一生态事件对当地生物多样性有何意义？",
+          "url": "https://www.zhihu.com/question/1986441498338825500",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -92,30 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
-          "url": "https://flash.jin10.com/detail/20251228225633143800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3027672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "美国社会现状,传奇调查员早看透",
@@ -125,52 +82,125 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "被美国实施签证禁令的前欧盟官员敦促欧盟反击",
+          "url": "https://flash.jin10.com/detail/20251229045125859800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国多地遭冬季风暴席卷 预计将影响超4000万人",
+          "url": "https://flash.jin10.com/detail/20251229042938646800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "市场消息：以色列总理内塔尼亚胡抵达美国佛罗里达州。",
+          "url": "https://flash.jin10.com/detail/20251229041548187800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
+          "url": "https://wallstreetcn.com/livenews/3027678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
+          "url": "https://flash.jin10.com/detail/20251228225808977800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
+          "url": "https://wallstreetcn.com/livenews/3027677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
+          "url": "https://flash.jin10.com/detail/20251228225633143800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3027672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
           "url": "https://flash.jin10.com/detail/20251228224005794800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "消失 30 年的「中国豹」重现北京附近，这一生态事件对当地生物多样性有何意义？",
-          "url": "https://www.zhihu.com/question/1986441498338825500",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
           "url": "https://flash.jin10.com/detail/20251228223135364800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "中国AES100发动机配装全球首款6吨级倾转旋翼机成功首飞",
-          "url": "https://wallstreetcn.com/livenews/3027668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -180,19 +210,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "中国AES100发动机配装全球首款6吨级倾转旋翼机成功首飞",
+          "url": "https://wallstreetcn.com/livenews/3027668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，将与特朗普举行会谈。",
           "url": "https://flash.jin10.com/detail/20251228220434760800",
           "source": "金十数据",
           "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "美国蜜雪冰城店员中文流利",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%BA%97%E5%91%98%E4%B8%AD%E6%96%87%E6%B5%81%E5%88%A9%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -202,8 +257,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "美国媒体关注到中国网友对「斩杀线」的讨论，称美国人生存线可能继续上移，为什么会这样？有哪些因素影响？",
@@ -213,30 +268,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "担任中国足协纪律与道德委员会首位主任的徐家力是谁？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32269477",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯敦促日本认真考虑其军事化进程。",
           "url": "https://flash.jin10.com/detail/20251228211654895800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "中国足球协会设立纪律与道德委员会，徐家力担任委员会主任",
@@ -246,30 +303,42 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国蜜雪冰城店员中文流利",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%BA%97%E5%91%98%E4%B8%AD%E6%96%87%E6%B5%81%E5%88%A9%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "如何看待日本军费冲到全球第三",
           "url": "https://www.toutiao.com/trending/7588886063397998122/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "美国总统特朗普被问及是否认为俄罗斯总统普京对和平（协议）是严肃认真的，称：我的确那样认为。 普京对和平（协议的谈判）是非常严肃的。 我认为，普京和乌克兰总统泽连斯基都希望达成一份协议。 今天会议之后，我将与普京通电话。 我们将与欧洲首脑们对话。 对于结束俄乌战事，我并没有截止日期。 俄乌双方最近的攻势都很猛烈。 （被问及美西方冻结的俄罗斯资产的未来，称他自己）还没有做决定。",
+          "url": "https://wallstreetcn.com/livenews/3027680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
+          "url": "https://wallstreetcn.com/livenews/3027681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -278,6 +347,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "苹果手机真的可以用上六年吗？",
+          "url": "https://www.zhihu.com/question/1970032679488579040",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
           "title": "中山一商场展车撞入手机店，车企：小孩误触所致，无人受伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_32269218",
           "source": "澎湃新闻",
@@ -285,36 +366,26 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "苹果手机真的可以用上六年吗？",
-          "url": "https://www.zhihu.com/question/1970032679488579040",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "长期如厕刷手机 20岁女生盆底已60岁",
           "url": "https://www.toutiao.com/trending/7588400632264966171/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米副董事长拟套现不超20亿美元，知情人士：他想成立投资基金",
@@ -337,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "小米联合创始人拟减持不超20亿美元",
+          "url": "https://www.douyin.com/hot/2350310",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -352,19 +434,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "2025最全AI成果盘点",
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 05时12分]"
         }
       ]
     }
