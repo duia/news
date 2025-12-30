@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T20:26:59.302992+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2025-12-30T23:14:44.955946+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 122,
+      "match_count": 143,
       "titles": [
         {
           "title": "巴拿马地方政府强拆中巴公园及华人抵巴纪念碑，中国侨联：坚决反对",
@@ -13,11 +13,23 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 23时14分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 23时14分]"
         },
         {
           "title": "中国军号发布视频，解放军无人机俯瞰台北 101 大厦，哪些信息值得关注？",
@@ -55,15 +67,31 @@
           "time_info": "[02时19分 ~ 09时01分]"
         },
         {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
-          "source": "凤凰网",
+          "title": "解放军围台演习,日本罕见沉默",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348537&amp;topic_name=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%B4%E5%8F%B0%E6%BC%94%E4%B9%A0%2C%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%81%E6%B2%89%E9%BB%98",
+          "source": "贴吧",
           "ranks": [
-            1
+            3,
+            5,
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 23时14分]"
+        },
+        {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 23时14分]"
         },
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
@@ -110,20 +138,6 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "解放军围台演习,日本罕见沉默",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348537&amp;topic_name=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%B4%E5%8F%B0%E6%BC%94%E4%B9%A0%2C%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%81%E6%B2%89%E9%BB%98",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 20时26分]"
-        },
-        {
           "title": "中国核聚变迈向终极能源",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%BF%88%E5%90%91%E7%BB%88%E6%9E%81%E8%83%BD%E6%BA%90",
           "source": "bilibili 热搜",
@@ -165,23 +179,12 @@
           "ranks": [
             10,
             2,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 20时26分]"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 23时14分]"
         },
         {
           "title": "为什么西红柿炒鸡蛋只在中国十分常见?",
@@ -189,11 +192,24 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 23时14分]"
+        },
+        {
+          "title": "美国底层看病难,止痛药当饭吃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348562&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%BA%95%E5%B1%82%E7%9C%8B%E7%97%85%E9%9A%BE%2C%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%BD%93%E9%A5%AD%E5%90%83",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时21分 ~ 20时26分]"
+          "time_info": "[17时17分 ~ 23时14分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -225,7 +241,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -269,7 +285,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -309,6 +325,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美国更新与俄罗斯相关制裁名单中的指定对象。",
+          "url": "https://flash.jin10.com/detail/20251230230617014800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "2025大国重器铸就非凡中国",
           "url": "https://www.toutiao.com/trending/7589500529663970862/",
           "source": "今日头条",
@@ -318,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "中国迈入全球制造强国行列",
+          "url": "https://www.toutiao.com/trending/7589211524640591403/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "2025中国经济盘点",
@@ -342,16 +380,26 @@
           "time_info": "14时21分"
         },
         {
-          "title": "美国底层看病难,止痛药当饭吃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348562&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%BA%95%E5%B1%82%E7%9C%8B%E7%97%85%E9%9A%BE%2C%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%BD%93%E9%A5%AD%E5%90%83",
-          "source": "贴吧",
+          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
+          "url": "https://flash.jin10.com/detail/20251230230520346800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 20时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "白俄外交部：支持中国政府为实现国家统一所作一切努力",
+          "url": "https://news.ifeng.com/c/8pVuoU4AFRB",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -376,6 +424,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "随着假期将至 美国股市成交量清淡",
+          "url": "https://flash.jin10.com/detail/20251230230426044800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "中国国新、雄安集团成立合资公司，注册资本20亿",
           "url": "https://wallstreetcn.com/livenews/3028513",
           "source": "华尔街见闻-快讯",
@@ -385,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "美国12月芝加哥PMI 43.5，预期 39.8，前值 36.3。",
+          "url": "https://wallstreetcn.com/livenews/3028837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "郭正亮嘲讽：台湾快有事了日本都没来",
@@ -417,7 +487,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -572,6 +642,42 @@
           "time_info": "[17时17分 ~ 17时18分]"
         },
         {
+          "title": "武契奇强调全力支持一个中国原则",
+          "url": "https://www.toutiao.com/trending/7589455799408394267/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 23时14分]"
+        },
+        {
+          "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
+          "url": "https://news.ifeng.com/c/8pVXtDMdtdZ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 23时14分]"
+        },
+        {
+          "title": "韩国总统李在明将于 1 月 4 日至 7 日对中国进行国事访问，此次访华有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1989352400537003113",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 23时14分]"
+        },
+        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们在大多数事情上都达成一致，我们谈到了哈马斯和解除武装，将给予哈马斯短暂时间解除武装。",
           "url": "https://flash.jin10.com/detail/20251230045602577800",
           "source": "金十数据",
@@ -581,6 +687,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨超1.1%，报7724.54点。 中概股百度涨5.9%，蔚来涨4.4%，文远知行、小鹏、小马智行至少涨约3.4%，网易涨约2.3%。 美国网约车平台Uber和Lyft宣布，已与百度达成合作，计划于2026年在英国推出无人驾驶出租车(Robotaxi)试点项目。",
+          "url": "https://wallstreetcn.com/livenews/3028835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "王毅对外籍记者说中国也是你的家",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%AF%B9%E5%A4%96%E7%B1%8D%E8%AE%B0%E8%80%85%E8%AF%B4%E4%B8%AD%E5%9B%BD%E4%B9%9F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "以色列总理内塔尼亚胡：在午餐期间正式宣布，决定将以色列勋章授予美国总统特朗普。",
@@ -616,6 +744,17 @@
           "time_info": "11时58分"
         },
         {
+          "title": "印度宣布：超日本成世界第四大经济体",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B6%85%E6%97%A5%E6%9C%AC%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E5%9B%9B%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%BD%93",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们已经在中东实现了和平，我们想保持现状。",
           "url": "https://flash.jin10.com/detail/20251230045346853800",
           "source": "金十数据",
@@ -636,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "印媒：印度已超日本成世界第四大经济体",
+          "url": "https://news.ifeng.com/c/8pVnTMTuQuN",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "EIA天然气报告：截至12月19日当周，美国天然气库存总量为34130亿立方英尺，较此前一周减少1660亿立方英尺，较去年同期减少1290亿立方英尺，同比降幅3.6%，同时较5年均值低240亿立方英尺，降幅0.7%。",
@@ -669,28 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
-        },
-        {
-          "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
-          "url": "https://news.ifeng.com/c/8pVXtDMdtdZ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "韩国总统李在明将于 1 月 4 日至 7 日对中国进行国事访问，此次访华有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1989352400537003113",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "美国天然气期货维持涨势，现涨5.2%；EIA报告显示库存降幅符合预期。",
@@ -732,7 +860,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -781,6 +909,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国12月芝加哥PMI 43.5，预期39.8，前值36.3。",
+          "url": "https://flash.jin10.com/detail/20251230224502130800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "欧洲军工股多数收跌，乌克兰总统泽连斯基向美国总统特朗普索要50年期的安全担保，称可能会与俄罗斯（总统普京）会面。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌0.92%，报29.485001欧元，跳空低开之后逐步收复失地。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌1.07%，全天持续低位震荡。",
           "url": "https://wallstreetcn.com/livenews/3028280",
           "source": "华尔街见闻-快讯",
@@ -803,17 +942,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "武契奇强调全力支持一个中国原则",
-          "url": "https://www.toutiao.com/trending/7589455799408394267/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "美国至12月19日当周EIA天然气库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251230005000000800",
           "source": "金十数据",
@@ -831,9 +959,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（12月29日）担保隔夜融资利率（SOFR）报3.77%，之前一天报3.76%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3028823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "日本10年期国债收益率上升2.0个基点，至2.075%。",
@@ -889,6 +1028,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "波音(BA.N)上涨1.7%，此前获得美国国防部向以色列提供F-15战机的86亿美元合同。",
+          "url": "https://flash.jin10.com/detail/20251230223850474800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国12月19日当周EIA天然气库存变动 -1660亿立方英尺，预期 -1690亿立方英尺，前值 -1670亿立方英尺。",
@@ -979,6 +1129,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美国10月FHFA房价指数环比 0.4%，预期 0.1%，前值 0%。",
+          "url": "https://wallstreetcn.com/livenews/3028819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "朱雀三号希望在 2026 年中完成火箭回收，如果能成功意味着什么？将对中国商业航天产生哪些影响？",
           "url": "https://www.zhihu.com/question/1987445721792783056",
           "source": "知乎",
@@ -1018,9 +1179,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "美国10月S&P/CS20座大城市房价指数同比 1.31%，预期 1.1%，前值 1.36%。",
+          "url": "https://wallstreetcn.com/livenews/3028818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国至12月29日3个月国债竞拍-得标利率配置百分比 74.04%，前值45.69%。",
@@ -1056,6 +1228,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "纳斯达克中国金龙指数涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251230223525740800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "日本计划明年大幅提高“离境税”",
           "url": "https://wallstreetcn.com/livenews/3028385",
           "source": "华尔街见闻-快讯",
@@ -1067,13 +1250,24 @@
           "time_info": "09时01分"
         },
         {
+          "title": "美国10月S&P/CS20座大城市季调后房价指数环比 0.32%，预期 0.15%，前值 0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3028817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "外交部回应美方关于中国军演言论",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%BC%94%E8%A8%80%E8%AE%BA",
           "source": "百度热搜",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1111,6 +1305,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "美国12月芝加哥PMI将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251230223500001800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国白宫：将执行美以农产品贸易协议及其他相关目标。",
           "url": "https://flash.jin10.com/detail/20251230122311784800",
           "source": "金十数据",
@@ -1142,6 +1347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "中国国航：购买60架空客A320NEO系列飞机，目录价格合计约为95.3亿美元",
+          "url": "https://wallstreetcn.com/livenews/3028815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
@@ -1216,9 +1432,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "王毅对外国记者说中国也是你的家",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%AF%B9%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85%E8%AF%B4%E4%B8%AD%E5%9B%BD%E4%B9%9F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%AE%B6%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：但和委内瑞拉总统马杜罗的交谈没什么结果。",
@@ -1293,7 +1520,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1318,6 +1545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国法官叫停美国总统特朗普政府终止对南苏丹国民驱逐出境临时保护的计划。",
+          "url": "https://flash.jin10.com/detail/20251230221758554800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国南方司令部：美军在国际水域打击了一艘船只。",
@@ -1378,8 +1616,23 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            12,
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 23时14分]"
+        },
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
           "url": "https://www.cls.cn/detail/2242969",
@@ -1392,18 +1645,16 @@
           "time_info": "[02时19分 ~ 05时12分]"
         },
         {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
           "ranks": [
-            30,
-            12,
-            9,
+            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 23时14分]"
         },
         {
           "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
@@ -1419,16 +1670,17 @@
           "time_info": "[11时58分 ~ 17时18分]"
         },
         {
-          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
-          "url": "https://www.cls.cn/detail/2244074",
-          "source": "财联社热门",
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
           "ranks": [
             8,
-            3
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 20时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 23时14分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -1455,19 +1707,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 09时01分]"
-        },
-        {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 20时26分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -1517,6 +1756,17 @@
           "time_info": "[17时17分 ~ 17时18分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 23时14分]"
+        },
+        {
           "title": "东部战区发布的AI视频意味深长",
           "url": "https://www.toutiao.com/trending/7589159411391217700/",
           "source": "今日头条",
@@ -1539,6 +1789,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "顶级投资人段永平看好AI医疗",
+          "url": "https://wallstreetcn.com/livenews/3028830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
           "url": "https://www.cls.cn/detail/2243427",
           "source": "财联社热门",
@@ -1550,15 +1811,15 @@
           "time_info": "14时21分"
         },
         {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
+          "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
+          "url": "https://wallstreetcn.com/livenews/3028826",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "23时14分"
         },
         {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
@@ -1583,6 +1844,17 @@
           "time_info": "11时58分"
         },
         {
+          "title": "消息人士：软银已完成对OpenAI 400亿美元的投资承诺",
+          "url": "https://flash.jin10.com/detail/20251230222113988800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "“AI教父”拉响警报",
           "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
           "source": "百度热搜",
@@ -1597,7 +1869,7 @@
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "商场展车被小孩误触撞入手机店，车企称展车模式被关闭、没有权利阻止小孩，谁的责任？有更好的安全措施吗？",
@@ -1684,13 +1956,35 @@
           "time_info": "11时58分"
         },
         {
+          "title": "明年消费者买手机等补贴15%",
+          "url": "https://www.toutiao.com/trending/7589416174439759923/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "华为如何保障电池安全",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BA%E5%A6%82%E4%BD%95%E4%BF%9D%E9%9A%9C%E7%94%B5%E6%B1%A0%E5%AE%89%E5%85%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "原配拿小三手机发朋友圈被拘留",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E9%85%8D%E6%8B%BF%E5%B0%8F%E4%B8%89%E6%89%8B%E6%9C%BA%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E6%8B%98%E7%95%99%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1709,8 +2003,19 @@
     },
     {
       "keyword_group": "小米 雷军",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金山软件：与小米订立框架协议",
+          "url": "https://wallstreetcn.com/livenews/3028842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
         {
           "title": "雷军官宣跨年直播，将现场拆车",
           "url": "https://www.cls.cn/detail/2243773",
@@ -1729,9 +2034,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 23时14分]"
         }
       ]
     }
