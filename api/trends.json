@@ -1,259 +1,55 @@
 {
-  "generated_at": "2026-01-01T23:14:07.837911+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-01-02T02:19:41.972591+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 139,
+      "match_count": 29,
       "titles": [
         {
           "title": "2025收官日美国股债双杀，贵金属盘中跳水，金银仍创1979年来最大年涨，原油年跌20%",
           "url": "https://wallstreetcn.com/articles/3762386",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "中国磁悬浮试验车时速 700 公里破纪录，有哪些技术值得关注？它可能对未来的出行方式产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1987508821862662506",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 23时14分]"
-        },
-        {
-          "title": "土耳其宣布对中国公民免签，对中国游客赴土耳其旅行有哪些利好？",
-          "url": "https://www.zhihu.com/question/1989913105485017784",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 23时14分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 23时14分]"
-        },
-        {
-          "title": "美媒回顾中国六十年稀土发展历程，“注意：重点保密单位”",
-          "url": "https://news.ifeng.com/c/8pYd7lW80WQ",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 23时14分]"
-        },
-        {
-          "title": "默茨：德国不是“大国的棋子”，与美国关系发生变化",
-          "url": "https://news.ifeng.com/c/8pYqD7oZYXY",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 23时14分]"
-        },
-        {
-          "title": "年度视频｜寻路太行：穿越中国“最密集的古建带”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32257003",
+          "title": "中国公民明日起可免签前往土耳其：相关搜索翻倍增长，春节期间赴土耳其旅游热度或明显升温",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32298591",
           "source": "澎湃新闻",
           "ranks": [
-            3,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 17时18分]"
-        },
-        {
-          "title": "老外问为什么中国没有公共洗衣机？",
-          "url": "https://www.zhihu.com/question/1988090617490847714",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 23时14分]"
-        },
-        {
-          "title": "高市闯大祸,日本经济被印度反超",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348598&amp;topic_name=%E9%AB%98%E5%B8%82%E9%97%AF%E5%A4%A7%E7%A5%B8%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%8F%8D%E8%B6%85",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            16,
-            18,
-            22,
-            24,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时19分 ~ 23时14分]"
-        },
-        {
-          "title": "一起看见中国奋进的脚步",
-          "url": "https://www.douyin.com/hot/2354024",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 17时18分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "2026年中国航天任务“日程排满” 这些大事值得期待",
           "url": "https://www.cls.cn/detail/2246177",
           "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "3成美国人看不起病“弃疗”，美机构：悲观情绪正攀升至历史高点",
-          "url": "https://news.ifeng.com/c/8pYoFg5HI4p",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时26分]"
-        },
-        {
-          "title": "中国奇谭2开播",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E5%BC%80%E6%92%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 20时26分]"
-        },
-        {
-          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
-          "url": "https://wallstreetcn.com/articles/3762419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 23时14分]"
-        },
-        {
-          "title": "星链卫星曾两次危险抵近中国空间站",
-          "url": "https://news.ifeng.com/c/8pXZ9lF0Lkk",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时07分]"
-        },
-        {
-          "title": "中国一个个创新创造振奋人心",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E4%B8%AA%E4%B8%AA%E5%88%9B%E6%96%B0%E5%88%9B%E9%80%A0%E6%8C%AF%E5%A5%8B%E4%BA%BA%E5%BF%83%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时22分]"
-        },
-        {
-          "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32293758",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 23时14分]"
-        },
-        {
-          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
-          "url": "https://www.cls.cn/detail/2245979",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 23时14分]"
-        },
-        {
-          "title": "全球重申一个中国原则",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%87%8D%E7%94%B3%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时07分]"
-        },
-        {
-          "title": "中国驻澳使馆回应澳政府涉台声明",
-          "url": "https://www.toutiao.com/trending/7589118745306972196/",
-          "source": "今日头条",
+          "title": "美国对部分跨境汇款征收1%汇款税",
+          "url": "https://wallstreetcn.com/livenews/3029649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "新年首日中国空间站过境合集",
@@ -263,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "日本重金投高铁,遭越南变卦坑惨",
@@ -274,1322 +70,257 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "这些世界第一里满满中国实力",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E9%87%8C%E6%BB%A1%E6%BB%A1%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "安全形势仍严峻 我使馆提醒中国公民暂勿前往苏丹",
+          "url": "https://flash.jin10.com/detail/20260102013906533800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "中国5年成绩单来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD5%E5%B9%B4%E6%88%90%E7%BB%A9%E5%8D%95%E6%9D%A5%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "土耳其宣布对中国公民免签，对中国游客赴土耳其旅行有哪些利好？",
+          "url": "https://www.zhihu.com/question/1989913105485017784",
+          "source": "知乎",
           "ranks": [
-            26,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 20时26分]"
-        },
-        {
-          "title": "中国公民明日起可免签前往土耳其：相关搜索翻倍增长，春节期间赴土耳其旅游热度或明显升温",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32298591",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "学者：中国战略安全已今非昔比",
-          "url": "https://www.toutiao.com/trending/7590280515664481811/",
-          "source": "今日头条",
+          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
+          "url": "https://wallstreetcn.com/articles/3762419",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "拥抱这热气腾腾的中国",
-          "url": "https://www.toutiao.com/trending/7589979083954454570/",
-          "source": "今日头条",
+          "title": "俄罗斯向美国移交袭击普京官邸的被击落无人机数据",
+          "url": "https://flash.jin10.com/detail/20260102013018115800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "默茨：德国不是“大国的棋子”，与美国关系发生变化",
+          "url": "https://news.ifeng.com/c/8pYqD7oZYXY",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "2025 年度中国电影总票房 518.32 亿，冠军为《哪吒 2》，如何评价这一成绩？你看了哪些电影？",
-          "url": "https://www.zhihu.com/question/1989854261618705069",
-          "source": "知乎",
+          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
+          "url": "https://flash.jin10.com/detail/20260102011611465800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 23时14分]"
-        },
-        {
-          "title": "2025年度中国电影总票房518.32亿 同比增长21.95%",
-          "url": "https://wallstreetcn.com/livenews/3029521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "02时19分"
         },
         {
-          "title": "女子把中国烧烤摊摆到英国街头",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A%E4%B8%AD%E5%9B%BD%E7%83%A7%E7%83%A4%E6%91%8A%E6%91%86%E5%88%B0%E8%8B%B1%E5%9B%BD%E8%A1%97%E5%A4%B4",
-          "source": "百度热搜",
+          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.15%，创2024年10月3日以来新低；上年同期6.91%。",
+          "url": "https://wallstreetcn.com/livenews/3029641",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            23,
-            15,
-            20,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 14时22分]"
-        },
-        {
-          "title": "美媒炒作：中国在北极地区的技术壮举，让美国“不寒而栗”",
-          "url": "https://news.ifeng.com/c/8pXZ9lF0LkZ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 14时22分]"
-        },
-        {
-          "title": "台湾民众街头怒吼：美国恶霸滚出台湾",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E8%A1%97%E5%A4%B4%E6%80%92%E5%90%BC%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%81%B6%E9%9C%B8%E6%BB%9A%E5%87%BA%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 23时14分]"
-        },
-        {
-          "title": "美国特使威特科夫：乌克兰国家安全秘书乌梅罗夫也参与了这次通话。",
-          "url": "https://flash.jin10.com/detail/20260101014524052800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
         {
-          "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
-          "url": "https://flash.jin10.com/detail/20260101043557341800",
+          "title": "俄罗斯武装力量总参谋部情报总局负责人：向美国移交的解密数据来自飞往俄罗斯总统官邸的乌克兰无人机，这将有助于确定真相。",
+          "url": "https://flash.jin10.com/detail/20260102010102246800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3029482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
-          "url": "https://wallstreetcn.com/articles/3762337",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，股票基金经理将标普500芝商所（CME）净多头仓位削减27,949手合约，至936,689手。股票基金投机者将标普500芝商所（CME）净空头头寸削减18,436手合约，至372,091手。",
-          "url": "https://flash.jin10.com/detail/20260101043451240800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国特使威特科夫：还就乌克兰经济援助计划展开讨论。",
-          "url": "https://flash.jin10.com/detail/20260101014116159800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，投机者将美国国债期货的净空头头寸削减37,884份合约，降至8,742份。",
-          "url": "https://flash.jin10.com/detail/20260101043308701800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
-          "url": "https://wallstreetcn.com/livenews/3029479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国特使威特科夫：专注于如何推动关于结束俄乌冲突的讨论取得进展，包括加强安全保证并制定冲突降级机制。",
-          "url": "https://flash.jin10.com/detail/20260101014046948800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，在纽约商品交易所（NYMEX）和洲际交易所（ICE）的四个主要市场中，天然气投机者的净多头头寸减少37,185份合约，至127,281份合约。",
-          "url": "https://flash.jin10.com/detail/20260101043240594800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "土耳其宣布对中国公民免签",
-          "url": "https://news.ifeng.com/c/8pXoI2aUWcX",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 09时07分]"
-        },
-        {
-          "title": "《中国奇谭 2》第一集《如何成为三条龙》有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1989644237545943096",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 23时14分]"
-        },
-        {
-          "title": "土耳其宣布对持普通护照中国公民免签",
-          "url": "https://flash.jin10.com/detail/20260101014932574800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "日本一铁路道口发生汽车与列车相撞",
-          "url": "https://flash.jin10.com/detail/20260101161448468800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 20时26分]"
-        },
-        {
-          "title": "大家铸就了欣欣向荣的中国",
-          "url": "https://www.douyin.com/hot/2353618",
-          "source": "抖音",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 12时07分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "土耳其宣布对持普通护照中国公民免签",
-          "url": "https://wallstreetcn.com/livenews/3029451",
+          "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
+          "url": "https://wallstreetcn.com/livenews/3029639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "“中方拒绝见面”，日本经济界代表团访华计划延期",
-          "url": "https://news.ifeng.com/c/8pYopNgfBOU",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时26分]"
-        },
-        {
-          "title": "美国男子武当山习武15年金发变黑发",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%AD%A6%E5%BD%93%E5%B1%B1%E4%B9%A0%E6%AD%A615%E5%B9%B4%E9%87%91%E5%8F%91%E5%8F%98%E9%BB%91%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 23时14分]"
-        },
-        {
-          "title": "日本东京全球人口排名下跌",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%85%A8%E7%90%83%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%90%8D%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 23时14分]"
-        },
-        {
-          "title": "重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2",
-          "url": "https://wallstreetcn.com/articles/3762356",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时07分]"
-        },
-        {
-          "title": "美国陆军与韩华签订协议，测试K9搭载58倍155炮",
-          "url": "https://news.ifeng.com/c/8pXWQeTmr4M",
-          "source": "凤凰网",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时07分]"
-        },
-        {
-          "title": "美国宣布制裁4家涉委内瑞拉石油贸易的公司",
-          "url": "https://news.ifeng.com/c/8pY8nvn8Rcm",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时22分]"
-        },
-        {
-          "title": "狮子并非中国的产物，为何石狮子却成了中国的守门神？",
-          "url": "https://www.zhihu.com/question/565692238",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时07分]"
-        },
-        {
-          "title": "星链卫星曾两次危险抵近中国空间站",
-          "url": "https://www.baidu.com/s?wd=%E6%98%9F%E9%93%BE%E5%8D%AB%E6%98%9F%E6%9B%BE%E4%B8%A4%E6%AC%A1%E5%8D%B1%E9%99%A9%E6%8A%B5%E8%BF%91%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时07分]"
-        },
-        {
-          "title": "中国为何对白银实施稀土级别出口管制",
-          "url": "https://www.toutiao.com/trending/7590173154337623571/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时22分]"
-        },
-        {
-          "title": "美国底层看病难,止痛药当饭吃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348562&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%BA%95%E5%B1%82%E7%9C%8B%E7%97%85%E9%9A%BE%2C%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%BD%93%E9%A5%AD%E5%90%83",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时07分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "2026中国硬核科技将再次震撼世界",
           "url": "https://www.toutiao.com/trending/7589605076109934655/",
           "source": "今日头条",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "跑路油轮突然画了面俄罗斯旗，追了十天的美国人懵了",
-          "url": "https://news.ifeng.com/c/8pXAeeI00LV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "大美中国！直击全国多地新年日出",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%EF%BC%81%E7%9B%B4%E5%87%BB%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%96%B0%E5%B9%B4%E6%97%A5%E5%87%BA",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时07分]"
-        },
-        {
-          "title": "陈天桥再投资！押注中国首家超声波脑机接口公司",
-          "url": "https://wallstreetcn.com/livenews/3029555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 14时22分]"
-        },
-        {
-          "title": "中国始终站在历史正确一边",
-          "url": "https://www.toutiao.com/trending/7589987437263425075/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "中国奇谭2",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "中国首款 6 吨级倾转旋翼飞行器首飞成功，有哪些技术特点，未来前景如何？",
-          "url": "https://www.zhihu.com/question/1988573286381159921",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "星链卫星曾两次危险抵近中国空间站",
-          "url": "https://www.cls.cn/detail/2245923",
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
           "source": "财联社热门",
           "ranks": [
-            11,
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时07分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "菲律宾警方逮捕一名中国籍博彩业头目，涉嫌对园区员工实施酷刑",
-          "url": "https://news.ifeng.com/c/8pX8Ev2FjZd",
-          "source": "凤凰网",
+          "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32293758",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "印度宣布经济已超日本，成为全球第四经济体，如何评价？数据可靠吗？",
-          "url": "https://www.zhihu.com/question/1989505265477904184",
-          "source": "知乎",
+          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
+          "url": "https://www.cls.cn/detail/2245979",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "《平价医疗法案》补贴到期，大量美国人医保费将上涨",
+          "url": "https://wallstreetcn.com/livenews/3029632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
           "url": "https://m.thepaper.cn/newsDetail_forward_32299363",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "中国地震台网自动测定：01月01日14时46分在美国阿拉斯加州东南部附近（北纬60.60度，西经140.16度）发生6.0级左右地震，最终结果以正式速报为准。",
-          "url": "https://wallstreetcn.com/livenews/3029586",
-          "source": "华尔街见闻-快讯",
+          "title": "老外问为什么中国没有公共洗衣机？",
+          "url": "https://www.zhihu.com/question/1988090617490847714",
+          "source": "知乎",
           "ranks": [
-            13,
-            27
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 20时26分]"
-        },
-        {
-          "title": "外网流行中国化",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E6%B5%81%E8%A1%8C%E4%B8%AD%E5%9B%BD%E5%8C%96&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
-        },
-        {
-          "title": "星链卫星曾两次危险抵近中国空间站",
-          "url": "https://www.toutiao.com/trending/7590015043992502310/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "美国流感活动水平持续上升 感染病例超750万",
-          "url": "https://wallstreetcn.com/livenews/3029585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 20时26分]"
-        },
-        {
-          "title": "日本加快“再军事化”脚步",
-          "url": "https://www.toutiao.com/trending/7589348315091763251/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "中方回应日本商业领导人暂停访华",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%95%86%E4%B8%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%9A%82%E5%81%9C%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "中国驻欧盟使团就欧盟对外行动署发言人涉台声明答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32288103",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "队列整齐、身姿挺拔，中国军人候车的一幕幕震撼网友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289715",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时07分]"
-        },
-        {
-          "title": "开年奇观！中国空间站飞越正阳门箭楼",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E5%A5%87%E8%A7%82%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%A3%9E%E8%B6%8A%E6%AD%A3%E9%98%B3%E9%97%A8%E7%AE%AD%E6%A5%BC",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "新西兰妄议中国军演 我使馆发声",
           "url": "https://www.toutiao.com/trending/7589959938571517958/",
           "source": "今日头条",
           "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "《平价医疗法案》补贴到期 超2000万美国人医保费将上涨",
+          "url": "https://flash.jin10.com/detail/20260101234041382800",
+          "source": "金十数据",
+          "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "日本本州东部附近海域发生6.0级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "title": "2026中国硬核科技将再次震撼世界",
+          "url": "https://www.baidu.com/s?wd=2026%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%B0%86%E5%86%8D%E6%AC%A1%E9%9C%87%E6%92%BC%E4%B8%96%E7%95%8C",
           "source": "百度热搜",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "日本纸箱仙人",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BA%B8%E7%AE%B1%E4%BB%99%E4%BA%BA&t=31&band_rank=22&Refer=top",
-          "source": "微博",
           "ranks": [
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "日本首相被曝靠履历注水上位",
-          "url": "https://www.toutiao.com/trending/7590195521227571226/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
-        },
-        {
-          "title": "美国特使威特科夫：与英国、法国、德国的国家安全顾问进行了富有成效的通话，讨论和平进程。",
-          "url": "https://flash.jin10.com/detail/20260101013810069800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，COMEX铜投机者将净多头头寸增加9手，至75,996手。",
-          "url": "https://flash.jin10.com/detail/20260101043150707800",
-          "source": "金十数据",
+          "title": "开年奇观！中国空间站飞越正阳门箭楼",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E5%A5%87%E8%A7%82%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%A3%9E%E8%B6%8A%E6%AD%A3%E9%98%B3%E9%97%A8%E7%AE%AD%E6%A5%BC",
+          "source": "百度热搜",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，原油投机者持有的WTI净空头头寸减少8,067手，达到12,452手。",
-          "url": "https://flash.jin10.com/detail/20260101043128859800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国抵押贷款利率连续第三周下行，创2025年最低",
-          "url": "https://wallstreetcn.com/livenews/3029447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，COMEX黄金投机者将净多头头寸增加3,411手，至137,541手。COMEX白银投机者将净多头头寸减少432手，至23,864手。",
-          "url": "https://flash.jin10.com/detail/20260101043055166800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国宣布与农民救助 计划相关的商品支付费率。",
-          "url": "https://wallstreetcn.com/livenews/3029473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
-          "url": "https://flash.jin10.com/detail/20260101111825003800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：12月23日当周，投机者所持COMEX黄金净多头头寸增加3,411手合约，至137,541手合约。 COMEX白银净多头头寸减少432手合约，至23,864手合约。",
-          "url": "https://wallstreetcn.com/livenews/3029472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
         },
         {
           "title": "意大利外交部：美国下调意大利面关税。",
           "url": "https://wallstreetcn.com/livenews/3029618",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美国白宫：特朗普总统调整了进入美国的木材、木料及其衍生产品的进口政策。",
-          "url": "https://flash.jin10.com/detail/20260101111709020800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：下周的石油状况周报与天然气库存周报将通过新系统发布。（相关链接与访问流程均与此前保持一致）",
-          "url": "https://flash.jin10.com/detail/20260101012140628800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
         {
-          "title": "中国澳门：12月博彩收入为209亿澳门元，较去年同期增长14.8%。2025年博彩收入达2,474亿澳门元，较去年同期增长9.1%。",
-          "url": "https://flash.jin10.com/detail/20260101125056477800",
-          "source": "金十数据",
+          "title": "高市闯大祸,日本经济被印度反超",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348598&amp;topic_name=%E9%AB%98%E5%B8%82%E9%97%AF%E5%A4%A7%E7%A5%B8%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%8F%8D%E8%B6%85",
+          "source": "贴吧",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国上周EIA天然气库存下降380亿立方英尺（受访分析师预计减少505.7亿），周环比下降1.11%，至3.38万亿立方英尺。",
-          "url": "https://wallstreetcn.com/livenews/3029441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
         {
-          "title": "美国制裁委内瑞拉“影子船队”，直击马杜罗政权“石油输血管”",
-          "url": "https://flash.jin10.com/detail/20260101034056445800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国12月26日当周EIA天然气库存变动 -380亿立方英尺。",
-          "url": "https://wallstreetcn.com/livenews/3029440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "土耳其宣布对中国公民免签",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国天然气期货短线波动不大，现跌5.9%，EIA报告显示储气量降幅小于预期。",
-          "url": "https://flash.jin10.com/detail/20260101010425917800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "EIA天然气报告：截至12月26日当周，美国天然气库存总量为33750亿立方英尺，较此前一周减少380亿立方英尺，较去年同期减少550亿立方英尺，同比降幅1.6%，同时较5年均值高580亿立方英尺，增幅1.7%。",
-          "url": "https://flash.jin10.com/detail/20260101010324689800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：12月26日当周，美国EIA石油进口量下降113万桶/日，创逾一年来最大单周降幅；至495万桶/日，创2021年2月份以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3029437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "金十图示：2026年01月01日（周四）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20260101105533180800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.540%，投标倍数3.11。",
-          "url": "https://wallstreetcn.com/livenews/3029435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国宣布制裁4家涉委内瑞拉石油贸易的公司",
-          "url": "https://wallstreetcn.com/livenews/3029466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "巴西考虑对中国游客实施免签政策，将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1987509340442218591",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国至12月26日当周EIA天然气库存 -380亿立方英尺，预期-500亿立方英尺，前值-1660亿立方英尺。",
-          "url": "https://flash.jin10.com/detail/20260101010002958800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "EIA数据显示 美国10月石油产量创历史新高",
-          "url": "https://flash.jin10.com/detail/20260101032254123800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国地质勘探局：阿拉斯加亚库塔地区发生5.6级地震。",
-          "url": "https://flash.jin10.com/detail/20260101145251830800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "意大利外交部：美国下调意大利面关税。",
-          "url": "https://flash.jin10.com/detail/20260101205104016800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美国能源信息署（EIA）数据显示，美国10月石油产量1387万桶/日，创历史新高。 9月修正后为1383.9万桶/日。",
-          "url": "https://wallstreetcn.com/livenews/3029461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国至12月26日当周EIA天然气库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260101005000001800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "日本经团联会长：2026年春斗着重提升基本工资",
-          "url": "https://flash.jin10.com/detail/20260101145131148800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.73万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3029457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "“斩杀线”背后美国人到底被谁坑了",
-          "url": "https://www.toutiao.com/trending/7590170290341023242/",
+          "title": "日本加快“再军事化”脚步",
+          "url": "https://www.toutiao.com/trending/7589348315091763251/",
           "source": "今日头条",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国财政部发布针对委内瑞拉相关的新制裁措施。",
-          "url": "https://flash.jin10.com/detail/20260101031048139800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国至12月31日8周国债竞拍-投标倍数 2.83，前值2.92。",
-          "url": "https://flash.jin10.com/detail/20260101003645199800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国至12月31日8周国债竞拍-得标利率配置百分比 64.96%，前值83.80%。",
-          "url": "https://flash.jin10.com/detail/20260101003632758800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "WTI原油期货转跌，美国能源部披露最新EIA原油库存周报。 虽然原油库存减少超190万桶，但成品油汽油库存激增超580万桶、精炼油库存激增约500万桶，意味着圣诞节当周需求低迷。",
-          "url": "https://wallstreetcn.com/livenews/3029427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "国台办回应郑丽文“我是中国人”表态",
-          "url": "https://www.toutiao.com/trending/7589846918587682313/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国至12月31日8周国债竞拍-得标利率 3.58%，前值3.59%。",
-          "url": "https://flash.jin10.com/detail/20260101003616711800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
-          "url": "https://flash.jin10.com/detail/20260101024610835800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "俄罗斯国防部：俄罗斯将把证明乌克兰无人机袭击目标为诺夫哥罗德州总统官邸的证据材料提交给美国。",
-          "url": "https://flash.jin10.com/detail/20260101200806097800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美国EIA原油库存创10月31日以来新低",
-          "url": "https://wallstreetcn.com/livenews/3029426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国至12月31日4周国债竞拍-投标倍数 2.9，前值3.14。",
-          "url": "https://flash.jin10.com/detail/20260101003601412800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国12月26日当周EIA汽油库存变动 584.5万桶。",
-          "url": "https://wallstreetcn.com/livenews/3029425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "中国乒乓球队2026元旦祝福",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%E7%90%83%E9%98%9F2026%E5%85%83%E6%97%A6%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "美国至12月31日4周国债竞拍-得标利率配置百分比 73.15%，前值83.48%。",
-          "url": "https://flash.jin10.com/detail/20260101003542864800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：截至12月30日当周，货币市场基金总资产增至7.73万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260101023254111800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国12月26日当周EIA精炼厂设备利用率变化 0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3029424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国至12月31日4周国债竞拍-得标利率 3.59%，前值3.57%。",
-          "url": "https://flash.jin10.com/detail/20260101003524840800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "2025年美国2年期国债收益率累跌近77个基点，10年期国债收益率累跌40个基点。",
-          "url": "https://flash.jin10.com/detail/20260101062601591800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "美国12月26日当周EIA原油库存变动 -193.4万桶。",
-          "url": "https://wallstreetcn.com/livenews/3029423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "全球重申一个中国原则",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%87%8D%E7%94%B3%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国至12月31日4个月国债竞拍-得标利率配置百分比 87.12%，前值84.92%。",
-          "url": "https://flash.jin10.com/detail/20260101003317528800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国12月26日当周EIA精炼油库存变动 497.7万桶。",
-          "url": "https://wallstreetcn.com/livenews/3029421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国至12月31日4个月国债竞拍-投标倍数 3.11，前值2.95。",
-          "url": "https://flash.jin10.com/detail/20260101003249496800",
-          "source": "金十数据",
-          "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "摩根大通：预计2026年美国劳动力市场将先抑后扬",
-          "url": "https://flash.jin10.com/detail/20260101020900772800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国12月26日当周EIA库欣地区原油库存变动 54.3万桶。",
-          "url": "https://wallstreetcn.com/livenews/3029422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国至12月31日4个月国债竞拍-得标利率 3.54%，前值3.56%。",
-          "url": "https://flash.jin10.com/detail/20260101003242403800",
-          "source": "金十数据",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1599,18 +330,40 @@
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 25,
+      "match_count": 10,
       "titles": [
         {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
-          "source": "百度热搜",
+          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
+          "url": "https://wallstreetcn.com/articles/3762429",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "AI魔改翻车,广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -1620,404 +373,74 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 23时14分]"
-        },
-        {
-          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
-          "url": "https://wallstreetcn.com/articles/3762429",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 23时14分]"
-        },
-        {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 23时14分]"
-        },
-        {
-          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
-          "url": "https://www.cls.cn/detail/2245960",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 20时26分]"
-        },
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 17时18分]"
-        },
-        {
-          "title": "OpenAI采取行动，改善语音AI模型。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3029628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "AI魔改翻车,广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 23时14分]"
-        },
-        {
-          "title": "AI魔改翻车!广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时22分]"
-        },
-        {
-          "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
-          "url": "https://wallstreetcn.com/livenews/3029625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
-          "url": "https://wallstreetcn.com/livenews/3029596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 23时14分]"
-        },
-        {
-          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
-          "url": "https://wallstreetcn.com/articles/3762372",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 14时22分]"
-        },
-        {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时07分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
-        },
-        {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
+          "time_info": "02时19分"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "玲音Lain OST原唱入驻",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B2%E9%9F%B3Lain%20OST%E5%8E%9F%E5%94%B1%E5%85%A5%E9%A9%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "分析：资本正在绕过“会用AI的人”",
-          "url": "https://www.toutiao.com/trending/7590280567417998894/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "DeepSeek开年发布新论文",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "百度热搜",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "九坤投资创始团队成立至知创新研究院，发布开源代码大模型",
-          "url": "https://flash.jin10.com/detail/20260101124516645800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时19分"
         },
         {
-          "title": "大语言模型 (LLM) 为什么不和谓词逻辑结合来提升逻辑思考能力?",
-          "url": "https://www.zhihu.com/question/660608619",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
-          "source": "澎湃新闻",
+          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "02时19分"
         },
         {
-          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
-          "url": "https://flash.jin10.com/detail/20260101173343204800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
-          "url": "https://wallstreetcn.com/livenews/3029462",
+          "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
+          "url": "https://wallstreetcn.com/livenews/3029625",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "02时19分"
         },
         {
-          "title": "宇树人形机器人回应AI是否存在泡沫",
-          "url": "https://www.toutiao.com/trending/7589927689303326763/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 雷军",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "小米集团董事长雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
-          "url": "https://flash.jin10.com/detail/20260101112910886800",
+          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
+          "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
           "ranks": [
-            4
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "02时19分"
         },
         {
-          "title": "金十整理：造车新势力最新成绩单——小米12月交付量站上5万 赛力斯再创单月交付新高",
-          "url": "https://flash.jin10.com/detail/20260101161336403800",
+          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
+          "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 20时26分]"
-        },
-        {
-          "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
-          "url": "https://wallstreetcn.com/livenews/3029559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 14时22分]"
-        },
-        {
-          "title": "小米汽车12月交付量超5万台",
-          "url": "https://www.toutiao.com/trending/7590232411074514442/",
-          "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "小米回应YU7配置调整",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94YU7%E9%85%8D%E7%BD%AE%E8%B0%83%E6%95%B4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
-        },
-        {
-          "title": "小米汽车12月交付量超5万台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A612%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%855%E4%B8%87%E5%8F%B0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "你觉得小米和OPPO风格互换了吗",
-          "url": "https://www.toutiao.com/trending/7589928188823633966/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "手机 华为 麒麟",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "老小区用「旧手机 + 微信」当无线对讲门铃，成本仅百元，平替几十万呼叫系统，这种方法能推广吗？",
-          "url": "https://www.zhihu.com/question/1986851292803531534",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 23时14分]"
-        },
-        {
-          "title": "三星单季爆赚碾压华为300亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348627&amp;topic_name=%E4%B8%89%E6%98%9F%E5%8D%95%E5%AD%A3%E7%88%86%E8%B5%9A%E7%A2%BE%E5%8E%8B%E5%8D%8E%E4%B8%BA300%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
-          "title": "长期手机充电至100%会损伤电池",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E8%87%B3100%25%E4%BC%9A%E6%8D%9F%E4%BC%A4%E7%94%B5%E6%B1%A0&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时12分]"
+          "time_info": "02时19分"
         }
       ]
     }
