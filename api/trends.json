@@ -1,156 +1,12 @@
 {
-  "generated_at": "2026-01-03T23:12:44.718473+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-01-04T02:18:24.250408+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 151,
+      "match_count": 79,
       "titles": [
-        {
-          "title": "2026年中国航天任务“日程排满” 这些大事值得期待",
-          "url": "https://www.cls.cn/detail/2246177",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时19分 ~ 17时14分]"
-        },
-        {
-          "title": "马杜罗：愿就打击贩毒与美国对话，想要石油欢迎来投资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302537",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 20时23分]"
-        },
-        {
-          "title": "日本重金投高铁,遭越南变卦坑惨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348630&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8D%E9%87%91%E6%8A%95%E9%AB%98%E9%93%81%2C%E9%81%AD%E8%B6%8A%E5%8D%97%E5%8F%98%E5%8D%A6%E5%9D%91%E6%83%A8",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            18,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时19分 ~ 23时12分]"
-        },
-        {
-          "title": "《学习时报》刊文：警惕日本军国主义在文体领域的渗透",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302487",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时19分 ~ 17时14分]"
-        },
-        {
-          "title": "美企CEO提前甩锅：中国不捣乱，美国就能过得好",
-          "url": "https://news.ifeng.com/c/8paTeZ7HfzO",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "高志凯：我们应立法制裁参拜靖国神社的日本政客",
-          "url": "https://news.ifeng.com/c/8paTeZ7Hg3X",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "【早报】中国“人造太阳”实验有新进展；纳斯达克中国金龙指数涨超4%",
-          "url": "https://www.cls.cn/detail/2246533",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 23时12分]"
-        },
-        {
-          "title": "美国爆发史上最大公共资金欺诈案「明尼苏达儿童福利院事件」，总损失或超 90 亿美元，怎么回事？如何评价？",
-          "url": "https://www.zhihu.com/question/1990362463179403292",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 14时20分]"
-        },
-        {
-          "title": "读懂中国经济的活力与温度",
-          "url": "https://www.toutiao.com/trending/7591014638772338730/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 20时23分]"
-        },
-        {
-          "title": "美国“星链”将降低约4400颗卫星轨道高度",
-          "url": "https://news.ifeng.com/c/8paNsyESgwe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "日本动漫屡次出现旭日旗731部队",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E5%B1%A1%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%97%AD%E6%97%A5%E6%97%97731%E9%83%A8%E9%98%9F%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            6,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时51分]"
-        },
         {
           "title": "持续一小时！美国空袭委内瑞拉，特朗普称抓获马杜罗及其夫人，即将召开发布会",
           "url": "https://wallstreetcn.com/articles/3762477",
@@ -159,897 +15,173 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "美妞争嫁中国郎,相亲赛道被挤爆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348651&amp;topic_name=%E7%BE%8E%E5%A6%9E%E4%BA%89%E5%AB%81%E4%B8%AD%E5%9B%BD%E9%83%8E%2C%E7%9B%B8%E4%BA%B2%E8%B5%9B%E9%81%93%E8%A2%AB%E6%8C%A4%E7%88%86",
-          "source": "贴吧",
+          "title": "欧洲领导人、乌克兰总统泽连斯基将于1月6日在巴黎会见美国代表团。",
+          "url": "https://flash.jin10.com/detail/20260104020354476800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "日本三大经济团体推迟访华",
-          "url": "https://news.ifeng.com/c/8paq12y3lQZ",
+          "title": "美国参议院Sanders呼吁国会山批准“战争权力解决方案”（立法草案）。",
+          "url": "https://wallstreetcn.com/livenews/3030156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国“闪击”委内瑞拉直击：美国将“管理”委内瑞拉直至实施“安全”过渡，美国大型石油公司将前往委内瑞拉",
+          "url": "https://wallstreetcn.com/articles/3762484",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普：美国将接管委内瑞拉事务",
+          "url": "https://news.ifeng.com/c/8pckqTLHtVe",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时20分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "美议员称马杜罗将在美国接受审判",
           "url": "https://news.ifeng.com/c/8pcMMCudpIV",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "“酷中国”圈粉世界",
-          "url": "https://www.toutiao.com/trending/7590849163525505087/",
-          "source": "今日头条",
+          "title": "美国1月3日军事袭击委内瑞拉要点总结",
+          "url": "https://wallstreetcn.com/livenews/3030154",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时20分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "对冲基金2025龙虎榜：桥水旗舰基金回报34%创纪录，桥水中国排名第三超德邵",
           "url": "https://wallstreetcn.com/articles/3762460",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "【早报】中国“人造太阳”实验有新进展；纳斯达克中国金龙指数涨超4%",
+          "url": "https://www.cls.cn/detail/2246533",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普暗示美国或扩大拉美战略焦点 古巴恐成下一政策目标",
+          "url": "https://flash.jin10.com/detail/20260104013934290800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国参议院少数派领导人Schumer：特朗普政府必须立即向国会山介绍军事袭击委内瑞拉的情况。",
+          "url": "https://wallstreetcn.com/livenews/3030151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国大型石油公司将前往委内瑞拉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普在海湖庄园就对委内瑞拉军事行动举行的新闻发布会结束。",
+          "url": "https://flash.jin10.com/detail/20260104013747711800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
           "url": "https://wallstreetcn.com/articles/3762468",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 23时12分]"
-        },
-        {
-          "title": "印度称其GDP已超日本",
-          "url": "https://www.douyin.com/hot/2354961",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 05时11分]"
-        },
-        {
-          "title": "特朗普称抓获马杜罗，2分钟看美国渗透手段有哪些？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307445",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国司法部长邦迪公布了针对委内瑞拉总统马杜罗案件的公开起诉书。",
-          "url": "https://flash.jin10.com/detail/20260103230929536800",
+          "title": "美国总统特朗普：我认为我们在俄罗斯和乌克兰冲突中正在取得进展。",
+          "url": "https://flash.jin10.com/detail/20260104013701681800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "俄称确认乌无人机攻击普京官邸，已将证据转交美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302370",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 14时20分]"
-        },
-        {
-          "title": "丹麦首相不点名批评美国：我们不想体验你们盛气凌人的文化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302366",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            16,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 14时20分]"
-        },
-        {
-          "title": "访华前夕，李在明谈台湾问题：韩国始终尊重一个中国",
-          "url": "https://news.ifeng.com/c/8paxjnjic63",
-          "source": "凤凰网",
-          "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "02时18分"
         },
         {
-          "title": "俄罗斯外交部：（就委内瑞拉问题发表声明）敦促美国释放这个主权国家依法当选的总统及其配偶。",
-          "url": "https://flash.jin10.com/detail/20260103230907888800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "俄罗斯外交部3日发表声明说，俄方要求美国立即澄清有关委内瑞拉总统马杜罗的情况。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3030037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美国参议院多数党领袖John Thune：预计参议院在（圣诞节+元旦节休假过后）复会时将对委内瑞拉问题掌握更多情况。",
-          "url": "https://wallstreetcn.com/livenews/3030085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "美国两党议员质疑美打击委内瑞拉的合法性",
-          "url": "https://flash.jin10.com/detail/20260103200410856800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美国参议院共和党领袖图恩：美国逮捕委内瑞拉总统马杜罗的行动是重要的第一步。",
-          "url": "https://flash.jin10.com/detail/20260103230715324800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "俄外交部：将很快就美国袭击委内瑞拉发表声明",
-          "url": "https://flash.jin10.com/detail/20260103165613787800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "美国参议院共和党领袖图恩：预计参议院复会后将举行更多关于委内瑞拉局势的简报会。",
-          "url": "https://flash.jin10.com/detail/20260103230704623800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "中国出生人口会回升吗",
-          "url": "https://www.toutiao.com/trending/7590915381884096043/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "元旦假期中国多个热门城市民宿订单量翻番",
-          "url": "https://flash.jin10.com/detail/20260103125406732800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "智利总统：对美国在委内瑞拉的行动表示担忧并予以谴责。",
-          "url": "https://flash.jin10.com/detail/20260103194532307800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美媒：美国官员证实特朗普已下令对委内瑞拉进行空袭",
-          "url": "https://wallstreetcn.com/livenews/3029985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
-          "url": "https://wallstreetcn.com/livenews/3029953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 17时14分]"
-        },
-        {
-          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
-          "url": "https://wallstreetcn.com/livenews/3029951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 17时14分]"
-        },
-        {
-          "title": "创历史新高！2025年中国航天发射次数达92次",
-          "url": "https://wallstreetcn.com/livenews/3029966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 17时14分]"
-        },
-        {
-          "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
-          "url": "https://flash.jin10.com/detail/20260103035911381800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 11时51分]"
-        },
-        {
-          "title": "一口气看完美国2025抽象事",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E7%BE%8E%E5%9B%BD2025%E6%8A%BD%E8%B1%A1%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 23时12分]"
-        },
-        {
-          "title": "以色列汽车进口商协会：中国汽车奇瑞捷途7为2025年销量冠军",
-          "url": "https://flash.jin10.com/detail/20260103111441264800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时20分]"
-        },
-        {
-          "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
-          "url": "https://wallstreetcn.com/livenews/3029929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 11时51分]"
-        },
-        {
-          "title": "土耳其对华免签生效 首批中国旅客便捷入境",
-          "url": "https://flash.jin10.com/detail/20260103014916686800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "在英国痛了7周到中国四天就治好了",
-          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E8%8B%B1%E5%9B%BD%E7%97%9B%E4%BA%867%E5%91%A8%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%9B%9B%E5%A4%A9%E5%B0%B1%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "title": "特朗普发布马杜罗在美国军舰上照片",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E4%B8%8A%E7%85%A7%E7%89%87%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "男子在日本皇居前突然怪叫脱衣服，被当场逮捕",
-          "url": "https://news.ifeng.com/c/8paYfcH9C34",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "土耳其对华免签生效，首批中国旅客便捷入境",
-          "url": "https://wallstreetcn.com/livenews/3029908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "宝马中国回应30多款车型降价：并非打价格战",
-          "url": "https://wallstreetcn.com/livenews/3029972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 17时14分]"
-        },
-        {
-          "title": "委内政部长：已请求安理会就美国军事袭击召开紧急会议",
-          "url": "https://news.ifeng.com/c/8pcOrIHdScd",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "土耳其对华免签生效，首批中国旅客便捷入境",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302634",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 23时12分]"
-        },
-        {
-          "title": "古巴国家主席：谴责美国袭击委内瑞拉的“罪行”",
-          "url": "https://news.ifeng.com/c/8pcD95nIT20",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 23时12分]"
-        },
-        {
-          "title": "一名中国女子在悉尼被巨浪卷入海中丧生",
-          "url": "https://news.ifeng.com/c/8pa5pnppiMf",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "特朗普称美国已做好准备",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "美国卫生与公众服务部及缉毒局宣布，远程医疗处方管控药物的灵活性政策将延长至2026年。",
-          "url": "https://flash.jin10.com/detail/20260103012850406800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "天宫与神州同框上演中国式浪漫",
-          "url": "https://www.toutiao.com/trending/7590112437576404499/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "李在明称中国很多领域赶超韩国",
-          "url": "https://www.toutiao.com/trending/7589999692316147753/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时20分]"
-        },
-        {
-          "title": "日本动漫屡次出现旭日旗731部队",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E5%B1%A1%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%97%AD%E6%97%A5%E6%97%97731%E9%83%A8%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时20分]"
-        },
-        {
-          "title": "日媒：日本三大经济团体推迟访华",
-          "url": "https://www.toutiao.com/trending/7590167418018775090/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "马杜罗为何突然对美国“认怂”",
-          "url": "https://www.toutiao.com/trending/7590612972590861878/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "新华社评论员：续写中国奇迹新篇章",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32301901",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "保持制造业合理比重：中国的战略选择与实践路径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32268822",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时20分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款18.619万亿美元，之前一周18.542万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3029940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时20分]"
-        },
-        {
-          "title": "日本为何对李在明访华如此敏感",
-          "url": "https://www.toutiao.com/trending/7590636898658291250/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "如何看待美媒炒作中国海上威胁",
-          "url": "https://www.toutiao.com/trending/7590373955366862857/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "宝马中国回应最高降价30万元",
-          "url": "https://www.toutiao.com/trending/7591004691996233266/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
-        },
-        {
-          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
-          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时20分]"
-        },
-        {
-          "title": "李在明：韩国从未偏离一个中国原则",
-          "url": "https://www.toutiao.com/trending/7590758125903282212/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时51分]"
-        },
-        {
-          "title": "伊朗外交部谴责美国干涉内政，警告将果断回应任何侵略",
-          "url": "https://wallstreetcn.com/livenews/3029926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 08时58分]"
-        },
-        {
-          "title": "美西方见不得一个统一强大的中国",
-          "url": "https://www.toutiao.com/trending/7590767979873255474/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时51分]"
-        },
-        {
-          "title": "中国地震台网正式测定：01月03日02时29分在新疆阿克苏地区沙雅县发生3.9级地震，震源深度28千米。",
-          "url": "https://flash.jin10.com/detail/20260103023648682800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 08时58分]"
-        },
-        {
-          "title": "委内瑞拉外交部谴责美国“军事侵略”",
-          "url": "https://news.ifeng.com/c/8pc9mInGGlh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
-        },
-        {
-          "title": "李在明：中国很多领域赶超韩国",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%A4%9A%E9%A2%86%E5%9F%9F%E8%B5%B6%E8%B6%85%E9%9F%A9%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时51分]"
-        },
-        {
-          "title": "李在明说中国很多领域赶超韩国",
-          "url": "https://www.douyin.com/hot/2355679",
-          "source": "抖音",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时51分]"
-        },
-        {
-          "title": "2025年中国航天发射次数创历史新高",
-          "url": "https://flash.jin10.com/detail/20260103093003051800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时20分]"
-        },
-        {
-          "title": "预测市场Kalshi显示，截至2026年1月初，美国政府在1月31日关门的可能性仅为29%，低于上个月的40%-48%。",
-          "url": "https://flash.jin10.com/detail/20260103011245793800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "美国突袭抓获马杜罗 多国强烈谴责",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%AA%81%E8%A2%AD%E6%8A%93%E8%8E%B7%E9%A9%AC%E6%9D%9C%E7%BD%97+%E5%A4%9A%E5%9B%BD%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "委方要求美国提供马杜罗在世证明",
-          "url": "https://www.toutiao.com/trending/7591076165473799689/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "如何评价美国恐怖小说家史蒂芬·金？",
-          "url": "https://www.zhihu.com/question/66580798",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "美媒：5名美国人被委内瑞拉拘留",
-          "url": "https://www.toutiao.com/trending/7589999763005718569/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
-        },
-        {
-          "title": "美议员称马杜罗将在美国接受审判",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8E%A5%E5%8F%97%E5%AE%A1%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "圣路易斯联储GDP模型预计美国2025年第四季度GDP增长1.12%%。",
-          "url": "https://flash.jin10.com/detail/20260103005033759800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "中国奇谭2开播",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E5%BC%80%E6%92%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "美议员称马杜罗将在美国接受审判",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8E%A5%E5%8F%97%E5%AE%A1%E5%88%A4%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "美国联邦调查局：已成功挫败一起疑似受极端组织“伊斯兰国”煽动、计划于北卡罗来纳州实施的新年前夜袭击图谋。",
-          "url": "https://flash.jin10.com/detail/20260103002616382800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "中国电影持续“圈粉”海外",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E6%8C%81%E7%BB%AD%E2%80%9C%E5%9C%88%E7%B2%89%E2%80%9D%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 05时11分]"
-        },
-        {
-          "title": "日本炒作24次兵推解放军仅胜2次，专家解读",
-          "url": "https://news.ifeng.com/c/8pc0GggZ4Jg",
-          "source": "凤凰网",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "美参议员警告称：美国在委内瑞拉“没有重大国家利益”无需发动战争",
-          "url": "https://flash.jin10.com/detail/20260103165432698800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "特朗普称抓获委内瑞拉总统及其夫人，并带离委内瑞拉，这意味着什么？美国为什么能说抓就抓？",
-          "url": "https://www.zhihu.com/question/1990838840231948418",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
           "title": "特朗普称抓获委内瑞拉总统及其夫人，美国司法部长称二人已在美国被起诉，意味着什么？美国为什么能说抓就抓？",
@@ -1058,141 +190,119 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "中国金龙指数收盘涨超4% 百度涨15%",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E6%94%B6%E7%9B%98%E6%B6%A8%E8%B6%854%25+%E7%99%BE%E5%BA%A6%E6%B6%A815%25",
-          "source": "百度热搜",
+          "title": "一口气看完美国2025抽象事",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E7%BE%8E%E5%9B%BD2025%E6%8A%BD%E8%B1%A1%E4%BA%8B",
+          "source": "bilibili 热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "02时18分"
         },
         {
-          "title": "古巴总统府：古巴谴责美国对委内瑞拉的“犯罪”袭击，紧急呼吁国际社会作出反应。",
-          "url": "https://flash.jin10.com/detail/20260103194125864800",
+          "title": "美国总统特朗普：对俄罗斯总统普京并不满意，普京正在杀害太多人。",
+          "url": "https://flash.jin10.com/detail/20260104013425009800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "据《纽约时报》援引消息人士报道，委内瑞拉首都加拉加斯的爆炸已经停止，但美国军用飞机仍在空中飞行。",
-          "url": "https://flash.jin10.com/detail/20260103164900837800",
+          "title": "提醒：美国总统特朗普讲话结束。",
+          "url": "https://wallstreetcn.com/livenews/3030148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：我们将从地下开采出巨大的财富。",
+          "url": "https://flash.jin10.com/detail/20260104013405400800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "俄罗斯外交部：此类行为若确实发生，构成对一个独立国家主权的不可接受的侵犯。我们敦促（美国）立即澄清这一局势。",
-          "url": "https://flash.jin10.com/detail/20260103193734545800",
-          "source": "金十数据",
+          "title": "美国总统特朗普被问及在委内瑞拉的军事存在，声称：美国在委内瑞拉的存在与石油相关。",
+          "url": "https://wallstreetcn.com/livenews/3030146",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "委内瑞拉反对派：对美国在委内瑞拉发动的袭击暂时不予置评。",
-          "url": "https://flash.jin10.com/detail/20260103164818040800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "俄罗斯外交部：对有报道称委内瑞拉总统马杜罗及其妻子在今日美国的侵略性行动中被强行驱逐出该国深表关切。",
-          "url": "https://flash.jin10.com/detail/20260103193718139800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "港媒：中国点名安全风险之际，星链宣布重大调整",
-          "url": "https://news.ifeng.com/c/8paxjUIlPsw",
+          "title": "委内政部长：已请求安理会就美国军事袭击召开紧急会议",
+          "url": "https://news.ifeng.com/c/8pcOrIHdScd",
           "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时18分"
         },
         {
-          "title": "白俄罗斯媒体：卢卡申科强烈谴责美国侵略委内瑞拉",
-          "url": "https://flash.jin10.com/detail/20260103193436516800",
+          "title": "美国总统特朗普：我曾告诉马杜罗必须投降，现在他后悔没听我的。",
+          "url": "https://flash.jin10.com/detail/20260104013218948800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：对于我所支持的那些拉美领导人，我们之间的关系很好。 委内瑞拉反对派人物Machado并不具备领导委内瑞拉的“威望”。 没有与俄罗斯总统普京讨论过马杜罗。",
+          "url": "https://wallstreetcn.com/livenews/3030145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：尚未与委内瑞拉反对派领导人玛丽亚·科丽娜·马查多取得联系，其在国内没有威望。",
+          "url": "https://flash.jin10.com/detail/20260104013121915800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "联合国秘书长：美国对委内瑞拉的行动对该地区可能产生令人担忧的影响，这些事态发展构成了危险的先例。",
-          "url": "https://flash.jin10.com/detail/20260103224327642800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "白俄罗斯媒体：卢卡申科强烈谴责美国侵略委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3030029",
+          "title": "美国总统特朗普：委内瑞拉未来一年所发生的事情“将是很棒的”。",
+          "url": "https://wallstreetcn.com/livenews/3030144",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "外交部发言人就美国对委内瑞拉实施军事打击答记者问",
-          "url": "https://wallstreetcn.com/livenews/3030077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "宝马中国回应最高降价30万",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E6%9C%80%E9%AB%98%E9%99%8D%E4%BB%B730%E4%B8%87%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时18分"
         },
         {
           "title": "美国闪击委内瑞拉时间线",
@@ -1201,218 +311,240 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "古巴国家主席：谴责美国袭击委内瑞拉的“罪行”",
-          "url": "https://flash.jin10.com/detail/20260103164246422800",
+          "title": "美国总统特朗普：古巴是我们最终会谈到的话题。",
+          "url": "https://flash.jin10.com/detail/20260104012920582800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：我们知道马杜罗政权中的坏分子是谁，我们正在对付他们。",
+          "url": "https://flash.jin10.com/detail/20260104012854374800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "驻日本大使馆再次提醒在日中国公民注意人身安全",
-          "url": "https://wallstreetcn.com/livenews/3030075",
+          "title": "美国总统特朗普：国务卿卢比奥和“战争部长”Hegseth将参与经营委内瑞拉政权的团队。 美国不会仅仅掳走总统马杜罗就离开（撒手不管）。",
+          "url": "https://wallstreetcn.com/livenews/3030141",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "两名熟悉此次行动的消息人士表示，美国中情局在委内瑞拉政府内部有一名线人，协助他们追踪并定位马杜罗。",
-          "url": "https://flash.jin10.com/detail/20260103223933037800",
+          "title": "土耳其对华免签生效，首批中国旅客便捷入境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302634",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：马杜罗的剩余盟友如今行事已不同。",
+          "url": "https://flash.jin10.com/detail/20260104012849985800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "对冲基金龙虎榜：桥水中国2025年排名第三超过德邵，Melqart拔得头筹",
-          "url": "https://wallstreetcn.com/livenews/3029916",
+          "title": "美国总统特朗普：（将）重建整个委内瑞拉石油基础设施。 美国有石油生意，将出售委内瑞拉石油。 将向那些现在购买（委内瑞拉）石油的和其他方面出售委内瑞拉石油。 多家公司将利用委内瑞拉的资金来投资该国。",
+          "url": "https://wallstreetcn.com/livenews/3030140",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "02时18分"
         },
         {
-          "title": "智利总统博里奇称，智利感到担忧，谴责美国在委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3030025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "特朗普称马杜罗夫妇在美国军舰上",
-          "url": "https://wallstreetcn.com/livenews/3030073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "马杜罗及其夫人已在美国被起诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%8F%8A%E5%85%B6%E5%A4%AB%E4%BA%BA%E5%B7%B2%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "特朗普又对中国在半导体领域下黑手",
-          "url": "https://www.toutiao.com/trending/7590946966054391342/",
+          "title": "特朗普称美国将“管理”委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7591178453546995251/",
           "source": "今日头条",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时51分"
+          "time_info": "02时18分"
         },
         {
-          "title": "海子作为中国政法大学老师，又是个天才诗人，为什么他会那么穷？",
-          "url": "https://www.zhihu.com/question/651725618",
-          "source": "知乎",
+          "title": "特朗普称马杜罗夫妇在美国军舰上",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E4%B8%8A",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
-          "url": "https://wallstreetcn.com/livenews/3029913",
+          "title": "美国总统特朗普：委内瑞拉副总统表示，我们会做任何你们需要的事。",
+          "url": "https://flash.jin10.com/detail/20260104012845838800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉总统马杜罗很快就会被送到纽约。",
+          "url": "https://wallstreetcn.com/livenews/3030139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉无人可接管政权。",
+          "url": "https://flash.jin10.com/detail/20260104012840654800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：国会山存在泄密的倾向性。",
+          "url": "https://wallstreetcn.com/livenews/3030138",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "02时18分"
         },
         {
-          "title": "据路透社最新报道，一名美国官员称，美国正在委内瑞拉境内实施空袭。",
-          "url": "https://flash.jin10.com/detail/20260103162247410800",
-          "source": "金十数据",
+          "title": "特朗普：美国将继续执掌委内瑞拉",
+          "url": "https://www.douyin.com/hot/2356527",
+          "source": "抖音",
           "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：就委内瑞拉局势与美国国务卿鲁比奥通话；欧盟正密切关注委内瑞拉局势。",
-          "url": "https://flash.jin10.com/detail/20260103185739476800",
-          "source": "金十数据",
+          "title": "美国司法部长：马杜罗已被起诉，被控多项罪名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307551",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "外交部发言人就美国对委内瑞拉实施军事打击答记者问",
-          "url": "https://flash.jin10.com/detail/20260103223415834800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "据委内瑞拉国家石油公司初步评估，石油设施在美国袭击中没有受到打击",
-          "url": "https://wallstreetcn.com/livenews/3030026",
+          "title": "美国总统特朗普：哥伦比亚总统Petro要小心了。",
+          "url": "https://wallstreetcn.com/livenews/3030137",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "媒体：美国正面临一个更严峻的现实",
-          "url": "https://www.toutiao.com/trending/7590006055220936723/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "02时18分"
         },
         {
           "title": "美议员称马杜罗将在美国接受审判",
           "url": "https://m.thepaper.cn/newsDetail_forward_32307342",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "据美联社记者：美国联邦航空管理局（FAA）因“持续的军事活动”在委内瑞拉首都加拉加斯爆炸事件前夕禁止美国商业航班进入委内瑞拉空域。",
-          "url": "https://flash.jin10.com/detail/20260103161308084800",
+          "title": "美国总统特朗普：接管委内瑞拉运营需要时间，必须重建基础设施。",
+          "url": "https://flash.jin10.com/detail/20260104012427002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉副总统准备采取必要行动来提供帮助。 （除了配合美国）副总统真的“别无选择”。",
+          "url": "https://wallstreetcn.com/livenews/3030136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "俄罗斯要求美国立即澄清有关马杜罗的情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307535",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：在不久的将来，马杜罗将被带到纽约。",
+          "url": "https://flash.jin10.com/detail/20260104012302423800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "委内政部长：已请求安理会就美国军事袭击召开紧急会议",
-          "url": "https://flash.jin10.com/detail/20260103185616038800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "特朗普：美国将深度介入委内瑞拉石油产业",
-          "url": "https://wallstreetcn.com/livenews/3030068",
+          "title": "美国总统特朗普：“并不害怕”必要时部署军队到委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3030135",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
           "title": "美国“闪击”委内瑞拉时间线",
@@ -1421,492 +553,367 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国司法部长：马杜罗已被起诉，被控多项罪名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307551",
-          "source": "澎湃新闻",
+          "title": "美国国务卿鲁比奥：我们在任务结束后给国会议员打了电话。这不是那种可以事先通知的任务。",
+          "url": "https://flash.jin10.com/detail/20260104012130366800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国总统特朗普：马杜罗已被押送至一艘舰艇上。",
-          "url": "https://flash.jin10.com/detail/20260103222639240800",
+          "title": "美国总统特朗普：将重建石油基础设施。 众多石油公司将为委内瑞拉石油基建提供资金。 将在3委内瑞拉指派一位（国家）领导人。 美国将与一个“集团”经营委内瑞拉（政权），该（政治）团体将支持我（本人利益）。 这个集团包括国务卿卢比奥和“战争部长”Hegseth。 将确保委内瑞拉得到合理的治理。 希望迅速移交政权，但需要时间。",
+          "url": "https://wallstreetcn.com/livenews/3030134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "马杜罗及其夫人已在美国被起诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%8F%8A%E5%85%B6%E5%A4%AB%E4%BA%BA%E5%B7%B2%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉反对派领导人玛丽亚·科丽娜·马查多愿意做必要的事情。",
+          "url": "https://flash.jin10.com/detail/20260104012112121800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国总统特朗普：马杜罗和妻子将前往纽约。",
-          "url": "https://flash.jin10.com/detail/20260103222607304800",
+          "title": "日本重金投高铁,遭越南变卦坑惨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348630&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8D%E9%87%91%E6%8A%95%E9%AB%98%E9%93%81%2C%E9%81%AD%E8%B6%8A%E5%8D%97%E5%8F%98%E5%8D%A6%E5%9D%91%E6%83%A8",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：我了解到委内瑞拉副总统已经宣誓就职。",
+          "url": "https://flash.jin10.com/detail/20260104012055617800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司：据两名美国官员透露，特朗普在实际行动发生前几天就批准了美军对委内瑞拉进行陆地打击。",
-          "url": "https://flash.jin10.com/detail/20260103160316191800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "委内政部长：已请求安理会就美国军事袭击召开紧急会议",
-          "url": "https://wallstreetcn.com/livenews/3030016",
+          "title": "美国国务卿卢比奥宣称：马杜罗不（再）是委内瑞拉合法的总统。 马杜罗本来有很多机会可以避免这样的结局。 此次行动并没有事先通报国会山。 行动过后立即通报了议员们。",
+          "url": "https://wallstreetcn.com/livenews/3030132",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国总统特朗普：将考虑是否由（前委内瑞拉全国代表大会议员）马查多担任领导人，目前该国设有一位副总统。",
-          "url": "https://flash.jin10.com/detail/20260103222257047800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3029882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国曾因天气推迟对委军事行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9B%BE%E5%9B%A0%E5%A4%A9%E6%B0%94%E6%8E%A8%E8%BF%9F%E5%AF%B9%E5%A7%94%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=23&Refer=top",
+          "title": "俄称美国将遭到全球大多数人的谴责",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%81%AD%E5%88%B0%E5%85%A8%E7%90%83%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9A%84%E8%B0%B4%E8%B4%A3%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "俄罗斯公布20名日本战犯名单",
+          "url": "https://www.toutiao.com/trending/7590524737765277759/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：我们会得到相应的赔偿。",
+          "url": "https://flash.jin10.com/detail/20260104012029924800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普称“美国在西半球的主导地位再也不会受到质疑”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3030131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：美国国务卿鲁比奥正致力于处理委内瑞拉副总统事务。",
+          "url": "https://flash.jin10.com/detail/20260104012014941800",
+          "source": "金十数据",
+          "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "市场消息：美国空袭委内瑞拉米兰达伊格罗特机场后发生重大二次爆炸。",
-          "url": "https://flash.jin10.com/detail/20260103155211609800",
+          "title": "起底美国陆军三角洲部队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%B7%E5%BA%95%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B%E4%B8%89%E8%A7%92%E6%B4%B2%E9%83%A8%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：如果必要的话，我们不惧怕派遣地面部队。事实上，昨晚我们就已派遣了高层级地面力量。",
+          "url": "https://flash.jin10.com/detail/20260104011926855800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国总统特朗普：对马杜罗忠诚的人若选择继续效忠，将前景堪忧。",
-          "url": "https://flash.jin10.com/detail/20260103222147013800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "委内瑞拉强烈谴责美国军事侵略",
-          "url": "https://flash.jin10.com/detail/20260103154957468800",
+          "title": "美国总统特朗普：将确保那些被迫离开委内瑞拉的人得到妥善安置。",
+          "url": "https://flash.jin10.com/detail/20260104011748807800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国总统特朗普：一周前曾与马杜罗通话。",
-          "url": "https://flash.jin10.com/detail/20260103221913183800",
-          "source": "金十数据",
+          "title": "特朗普称美国大型石油公司将前往委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3030128",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（12月31日）担保隔夜融资利率（SOFR）报3.87%，之前一天报3.71%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3029878",
+          "title": "美议员称马杜罗将在美国接受审判",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8E%A5%E5%8F%97%E5%AE%A1%E5%88%A4%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "俄方要求美国澄清有关马杜罗的情况",
+          "url": "https://www.toutiao.com/trending/7590691851834982406/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：我们将让石油像应有的方式那样流动。",
+          "url": "https://flash.jin10.com/detail/20260104011745886800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普：美国对委内瑞拉石油禁运仍完全有效",
+          "url": "https://wallstreetcn.com/livenews/3030127",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国副总统万斯：身处加拉加斯并不能让马杜罗逃脱美国的司法制裁。",
-          "url": "https://wallstreetcn.com/livenews/3030060",
+          "title": "美国总统特朗普：我们将与一个团队一起“管理”委内瑞拉，确保其正常运转。",
+          "url": "https://flash.jin10.com/detail/20260104011737740800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国“战争部长”Hegseth：总统特朗普在阻止毒品流入美国方面“绝对是严肃的”。",
+          "url": "https://wallstreetcn.com/livenews/3030126",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "外交部：中国公民暂勿前往委内瑞拉",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "title": "美国突袭抓获马杜罗 多国强烈谴责",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%AA%81%E8%A2%AD%E6%8A%93%E8%8E%B7%E9%A9%AC%E6%9D%9C%E7%BD%97+%E5%A4%9A%E5%9B%BD%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3",
           "source": "百度热搜",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "委内瑞拉政府：美国夺取资源（的计划）“不会成功”。",
-          "url": "https://flash.jin10.com/detail/20260103154317848800",
-          "source": "金十数据",
-          "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "俄罗斯外交部：美国“侵略”委内瑞拉的借口毫无根据",
-          "url": "https://flash.jin10.com/detail/20260103181754094800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美国总统特朗普：为等待更好天气条件，（对委）行动推迟了四天。",
-          "url": "https://flash.jin10.com/detail/20260103221522418800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "伊朗外交部强烈谴责美国对委发动军事袭击",
-          "url": "https://flash.jin10.com/detail/20260103181652534800",
+          "title": "美国国务卿鲁比奥：特朗普是和平总统。",
+          "url": "https://flash.jin10.com/detail/20260104011553322800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "中国品牌电动车在挪威乘用车市场份额持续增加",
-          "url": "https://wallstreetcn.com/livenews/3029876",
+          "title": "美国总统特朗普：现在可能没必要针对委内瑞拉发动第二波袭击。",
+          "url": "https://wallstreetcn.com/livenews/3030125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国务卿鲁比奥：马杜罗已被逮捕，将在美国接受刑事审判",
-          "url": "https://wallstreetcn.com/livenews/3030010",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务卿鲁比奥：马杜罗有很多机会避免这次袭击。他得到了很多非常非常非常优厚的条件，但他却选择像个疯子一样行事，选择玩弄权术，结果就导致了我们今晚看到的局面。",
+          "url": "https://flash.jin10.com/detail/20260104011547477800",
+          "source": "金十数据",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "中国车企在欧洲卖爆了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%96%E7%88%86%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "美国袭击未对委石油设施造成损害",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AD%E5%87%BB%E6%9C%AA%E5%AF%B9%E5%A7%94%E7%9F%B3%E6%B2%B9%E8%AE%BE%E6%96%BD%E9%80%A0%E6%88%90%E6%8D%9F%E5%AE%B3%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "委内瑞拉强烈谴责美国军事侵略",
-          "url": "https://www.douyin.com/hot/2356163",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "俄外交部：谴责美国武装侵略委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3030009",
+          "title": "美国总统特朗普宣称：委内瑞拉截获、出售“美国石油”。 委内瑞拉石油禁运仍然有效。 “我们的未来”由保护商业、核心资源的能力来定义。 美国保持所有军事选项，直至（美方）要求得到满足。 总统马杜罗的遭遇可能会发生在委内瑞拉其他人的身上。",
+          "url": "https://wallstreetcn.com/livenews/3030124",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "委内瑞拉政府：美国发动袭击的目标是夺取委内瑞拉的石油和矿产。",
-          "url": "https://flash.jin10.com/detail/20260103154009974800",
+          "title": "美国国务卿鲁比奥：委内瑞拉总统马杜罗不是委内瑞拉的合法领导人。",
+          "url": "https://flash.jin10.com/detail/20260104011538135800",
           "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "02时18分"
         },
         {
-          "title": "据纽约时报：美国总统特朗普表示，此次对委行动实际上是一次精彩的行动。",
-          "url": "https://flash.jin10.com/detail/20260103181536666800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉行动我方伤亡轻微，无人员死亡。",
-          "url": "https://flash.jin10.com/detail/20260103221355335800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "特朗普告诉《纽约时报》，在美国对委内瑞拉发动袭击后，有“很多好的计划”。",
-          "url": "https://wallstreetcn.com/livenews/3030008",
+          "title": "美国总统特朗普3日称，美国将“管理”委内瑞拉直至实施“安全”过渡。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3030123",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "中国地震台网正式测定：1月3日21时21分在甘肃定西市陇西县（北纬34.88度，东经104.60度）发生3.9级地震，震源深度11千米。",
-          "url": "https://wallstreetcn.com/livenews/3030056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军",
-      "match_count": 21,
+      "match_count": 6,
       "titles": [
         {
-          "title": "小米设定2026年汽车交付目标为55万辆。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3030084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "小米YU7为什么做“长车头”？雷军：前备箱空间大，安全距离也变长了",
-          "url": "https://wallstreetcn.com/livenews/3030035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "雷军公开小米汽车年交付量",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%85%AC%E5%BC%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B9%B4%E4%BA%A4%E4%BB%98%E9%87%8F%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "雷军新年直播拆车",
-          "url": "https://www.toutiao.com/trending/7589995881576857643/",
+          "title": "雷军回应YU7轮胎曾被黑成“面条胎”",
+          "url": "https://www.toutiao.com/trending/7591130548869942822/",
           "source": "今日头条",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "小米回应“绿化带战神”“关闭直播平台评论”",
-          "url": "https://wallstreetcn.com/livenews/3030082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "小米辟谣“17 Ultra徕卡版变焦环造假”：拆机内容断章取义，与事实严重不符",
-          "url": "https://wallstreetcn.com/livenews/3029976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 17时14分]"
-        },
-        {
-          "title": "雷军直播",
-          "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
-          "url": "https://www.zhihu.com/question/1990172846333325720",
+          "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
+          "url": "https://www.zhihu.com/question/1990855994700423814",
           "source": "知乎",
           "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "雷军新年直播拆车",
-          "url": "https://www.douyin.com/hot/2356292",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "雷军：刹车过程中千万不要打方向盘",
-          "url": "https://www.toutiao.com/trending/7591096260771495942/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "雷军：对造谣抹黑攻击小米车主的行为，我们绝对不会姑息",
-          "url": "https://wallstreetcn.com/livenews/3030080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "小米辟谣17Ultra徕卡版变焦环造假",
-          "url": "https://www.toutiao.com/trending/7590770296970284550/",
-          "source": "今日头条",
-          "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "雷军：小米YU7又成了新一代的爆款车型",
-          "url": "https://wallstreetcn.com/livenews/3030028",
-          "source": "华尔街见闻-快讯",
+          "title": "雷军回应小米超强钢争议",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E8%B6%85%E5%BC%BA%E9%92%A2%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
           "title": "小米辟谣变焦环造假",
@@ -1915,332 +922,87 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "雷军在直播中透露，2025年，小米汽车亦庄工厂全年接待了13万名游客参观和体验。",
-          "url": "https://wallstreetcn.com/livenews/3030024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
-          "title": "雷军回应YU7轮胎曾被黑成“面条胎”",
-          "url": "https://www.toutiao.com/trending/7591130548869942822/",
+          "title": "雷军：刹车过程中千万不要打方向盘",
+          "url": "https://www.toutiao.com/trending/7591096260771495942/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "雷军：不要为了流量去故意夸大，故意找茬",
-          "url": "https://wallstreetcn.com/livenews/3030020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "雷军称，小米汽车2025年交付总数超过41万辆。",
-          "url": "https://wallstreetcn.com/livenews/3030019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         },
         {
           "title": "小米YU7为何采用长车头",
           "url": "https://www.toutiao.com/trending/7591117870705167899/",
           "source": "今日头条",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "雷军直播回应拆小米YU7汽车",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E6%8B%86%E5%B0%8F%E7%B1%B3YU7%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            21
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "2025年小米汽车交付量超41万辆",
-          "url": "https://www.toutiao.com/trending/7590394833450123283/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "AI如何让闪迪成为股王",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            16,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时19分 ~ 23时12分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时19分 ~ 17时14分]"
-        },
-        {
-          "title": "AI魔改翻车,广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时19分 ~ 17时14分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 14时20分]"
-        },
         {
           "title": "美食博主手搓对抗AI的一年",
           "url": "https://www.douyin.com/hot/2356059",
           "source": "抖音",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 23时12分]"
-        },
-        {
-          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
-          "url": "https://wallstreetcn.com/articles/3762454",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 14时20分]"
-        },
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
           "url": "https://wallstreetcn.com/articles/3762467",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 23时12分]"
-        },
-        {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
-          "url": "https://www.cls.cn/detail/2246292",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
-          "url": "https://flash.jin10.com/detail/20260103013040455800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时11分]"
-        },
-        {
-          "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
-          "url": "https://wallstreetcn.com/livenews/3029935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时20分]"
-        },
-        {
-          "title": "“高考AI押题命中率98%”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83AI%E6%8A%BC%E9%A2%98%E5%91%BD%E4%B8%AD%E7%8E%8798%25%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时20分]"
-        },
-        {
-          "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
-          "url": "https://wallstreetcn.com/livenews/3029874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。 一架飞机被委内瑞拉击中，但仍然能执行飞行任务。 许多无人机以远程方式参与行动。 美军仍然部署在该地区（加勒比地区）。",
+          "url": "https://wallstreetcn.com/livenews/3030130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "安卓手机的登录密码是用 9 点构成的图形，如何设置成最复杂的形状？",
-          "url": "https://www.zhihu.com/question/24472607",
-          "source": "知乎",
-          "ranks": [
-            4,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时51分]"
-        },
         {
           "title": "凌晨3点手机竟然自动转账",
           "url": "https://www.baidu.com/s?wd=%E5%87%8C%E6%99%A83%E7%82%B9%E6%89%8B%E6%9C%BA%E7%AB%9F%E7%84%B6%E8%87%AA%E5%8A%A8%E8%BD%AC%E8%B4%A6",
           "source": "百度热搜",
           "ranks": [
-            2,
-            8,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 23时12分]"
-        },
-        {
-          "title": "妹妹怎么拿到手机躺下就玩",
-          "url": "https://www.douyin.com/hot/2355182",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 17时14分]"
-        },
-        {
-          "title": "张凌赫在手机里走了两天秀",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9C%A8%E6%89%8B%E6%9C%BA%E9%87%8C%E8%B5%B0%E4%BA%86%E4%B8%A4%E5%A4%A9%E7%A7%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 08时58分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     }
