@@ -1,485 +1,524 @@
 {
-  "generated_at": "2026-01-15T09:58:36.054466+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-01-16T10:01:27.246727+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 34,
+      "match_count": 32,
       "titles": [
         {
-          "title": "美国宣布对特定半导体等加征25%关税",
-          "url": "https://news.ifeng.com/c/8pvSblFxE83",
+          "title": "天津大学原校长金东寒已从中国工程院院士名单中撤下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392750",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "中国首次航天员洞穴训练细节曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E8%88%AA%E5%A4%A9%E5%91%98%E6%B4%9E%E7%A9%B4%E8%AE%AD%E7%BB%83%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国正向中东派兵",
+          "url": "https://news.ifeng.com/c/8pxAFMuySvU",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "金十图示：2026年01月15日（周四）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260115095030304800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "加拿大总理一到中国下了舷梯就开聊",
-          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E4%B8%80%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%B8%8B%E4%BA%86%E8%88%B7%E6%A2%AF%E5%B0%B1%E5%BC%80%E8%81%8A",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "美国将暂停办理俄罗斯等 75 个国家的所有签证，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1994904104011588707",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "加拿大总理一到中国下了舷梯就开聊",
-          "url": "https://www.toutiao.com/trending/7594469210747879430/",
+          "title": "中国军人即便身着便衣依旧气场全开",
+          "url": "https://www.toutiao.com/trending/7595467237982945289/",
           "source": "今日头条",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "聂卫平曾连胜多位日本超一流棋手",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%9B%BE%E8%BF%9E%E8%83%9C%E5%A4%9A%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%B6%85%E4%B8%80%E6%B5%81%E6%A3%8B%E6%89%8B",
-          "source": "bilibili 热搜",
+          "title": "中字头板块异动拉升，中国电建涨停，中国能建、中国交建、中国核建、中国中铁、中国铁建等快速冲高。",
+          "url": "https://wallstreetcn.com/livenews/3038382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "中字头板块盘中异动拉升，中国电建涨停，中国能建、中国交建、中国核建、中国中铁、中国铁建等快速冲高。",
+          "url": "https://wallstreetcn.com/livenews/3038380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "中国外贸成就很不平凡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%88%90%E5%B0%B1%E5%BE%88%E4%B8%8D%E5%B9%B3%E5%87%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国正向中东增派包括航母在内的兵力",
+          "url": "https://www.cls.cn/detail/2259684",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "美媒：美国将暂停对75个国家的所有签证",
-          "url": "https://wallstreetcn.com/articles/3763308",
-          "source": "华尔街见闻",
+          "title": "火药味拉满,美国酝酿搞伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "中国科学家证实87年前量子力学预言",
+          "url": "https://www.toutiao.com/trending/7595418346897047595/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "人民日报钟声三问日本",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%92%9F%E5%A3%B0%E4%B8%89%E9%97%AE%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
+          "title": "“强卖”委内瑞拉石油，美国得失几何？",
+          "url": "https://news.ifeng.com/c/8pxAFMuyT4L",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "中国央行公开市场操作当日净投放527亿元 本周净投放17128亿元",
+          "url": "https://flash.jin10.com/detail/20260116092503382800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美媒：2026年中国将变成“下一个中国”",
+          "url": "https://news.ifeng.com/c/8pxAFMuyStM",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "美国白宫宣布对特定半导体等加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3763322",
+          "title": "中国人民银行决定下调再贷款、再贴现利率",
+          "url": "https://wallstreetcn.com/articles/3763370",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
-          "url": "https://news.ifeng.com/c/8put47t4u2M",
+          "title": "对抗高市阵营！日本两大在野党决定联手",
+          "url": "https://news.ifeng.com/c/8px3EgS5Ibq",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "日本公明党齐藤铁夫：认为日元疲软是物价上涨的原因之一。 提前大选将制造政治真空。 不理解为何现在举行大选。",
-          "url": "https://wallstreetcn.com/livenews/3037439",
-          "source": "华尔街见闻-快讯",
+          "title": "聂卫平曾称中国人应有追赶超越的气",
+          "url": "https://www.toutiao.com/trending/7595203430948425259/",
+          "source": "今日头条",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "美国宣布对特定半导体等加征25%关税",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E7%89%B9%E5%AE%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%AD%89%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E",
+          "title": "中国科学家证实87年前量子力学预言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AF%81%E5%AE%9E87%E5%B9%B4%E5%89%8D%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E9%A2%84%E8%A8%80",
           "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "为什么日本寿司郎在国内如此火爆，甚至出现「黄牛号」现象？是物有所值还是营销过头？",
-          "url": "https://www.zhihu.com/question/1994731719882925954",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
-          "url": "https://wallstreetcn.com/articles/3763257",
-          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
+          "title": "首笔交易价值5亿美元，美国已正式开售委内瑞拉石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390047",
           "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "冰火两重天：美国电价要爆了，中国电价开跌了",
-          "url": "https://wallstreetcn.com/articles/3763238",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "敏感时刻，美国媒体突然怒斥：双标",
-          "url": "https://news.ifeng.com/c/8pv02Y49QkE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "美国将暂停对75个国家的所有签证",
-          "url": "https://www.toutiao.com/trending/7595353123414117939/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
+          "url": "https://flash.jin10.com/detail/20260116085218464800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "美国11月PPI同比上升3% 三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2257962",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：在埃及、土耳其和卡塔尔的支持下，我们将与哈马斯达成一项全面的非军事化协议，包括交出所有武器并拆除每一条地道。哈马斯必须立即履行其承诺，包括向以色列归还最后一具遗体，并毫不拖延地推进全面非军事化。",
+          "url": "https://flash.jin10.com/detail/20260116085158730800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "美国将暂停对75个国家的所有签证",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81",
-          "source": "百度热搜",
+          "title": "电网设备板块开盘领涨，三变科技4连板，保变电气2连板，平高电气、新联电子、思源电气涨停，双杰电气、国电南自、中国西电、安靠智电跟涨，消息面上，国家电网公司发布消息称，“十五五”期间，公司固定资产投资预计将达到4万亿元，较“十四五”增长40%。",
+          "url": "https://wallstreetcn.com/livenews/3038344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国总统特朗普：今天与来自委内瑞拉的马查多会面，我深感荣幸。马查多向我赠送了她的诺贝尔和平奖，以表彰我所做的工作。",
+          "url": "https://flash.jin10.com/detail/20260116085137263800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32385737",
+          "title": "日本要求X改进 Grok AI 编辑功能问题。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3038340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "为何欧洲流行十字剑格的长剑或武装剑，中国和日本则是流行圆盘刀镡？",
+          "url": "https://www.zhihu.com/question/631512660",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "中国央行公开市场今日净投放527亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3038336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国扣押一艘与委内瑞拉有关的油轮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32394110",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "斩杀线登美国头条,牢A连夜跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
+          "title": "如何看待聂卫平曾说，自己最大愿望是「围棋在世界范围内普及」和「中国足球进军世界」？",
+          "url": "https://www.zhihu.com/question/1995055976080959213",
+          "source": "知乎",
           "ranks": [
-            15
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "聂卫平曾连胜多名日本超一流棋手",
-          "url": "https://www.toutiao.com/trending/7595151255786294820/",
+          "title": "丹麦：从未同意成立“美国获得格陵兰岛”工作组",
+          "url": "https://wallstreetcn.com/livenews/3038319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "民调称近半数美国人支持废除ICE",
+          "url": "https://www.toutiao.com/trending/7594462552299421737/",
           "source": "今日头条",
           "ranks": [
-            16
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "美国或许能包装审判马杜罗的合法性，却更凸显美式霸权的狂妄与强横",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32377667",
-          "source": "澎湃新闻",
+          "title": "中国台湾股市盘初升逾1%至31,339.39点、再创盘中历史高位。",
+          "url": "https://wallstreetcn.com/livenews/3038317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
           "title": "魔幻美国:杀人探员获400万捐款",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
           "source": "贴吧",
           "ranks": [
-            16
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "韩媒：中国U23男足能做的韩国做不到",
-          "url": "https://www.toutiao.com/trending/7595089159665549355/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "人民日报钟声三问日本",
-          "url": "https://www.toutiao.com/trending/7595112097663483940/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "美媒：美国将暂停对75个国家的所有签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32385206",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "七国联军抱团拒买中国稀土",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349100&amp;topic_name=%E4%B8%83%E5%9B%BD%E8%81%94%E5%86%9B%E6%8A%B1%E5%9B%A2%E6%8B%92%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "格陵兰为什么不选美国",
-          "url": "https://www.toutiao.com/trending/7595358636411457087/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "中国央行公开市场开展1793亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日有40亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3037415",
+          "title": "日本和美国将加大在关键矿产领域的合作。",
+          "url": "https://wallstreetcn.com/livenews/3038316",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "特朗普称，委内瑞拉留在欧佩克对其更有利，但不确定这是否对美国有益。 在会晤委内瑞拉反对派领导人马查多的前一天，特朗普称赞马杜罗的继任者罗德里格斯。",
-          "url": "https://wallstreetcn.com/livenews/3037409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "中国央行公开市场操作当日实现净投放10694亿元",
-          "url": "https://flash.jin10.com/detail/20260115092851502800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
-          "title": "AI医疗、AI制药概念震荡调整，泓博医药跌超18%，诺思格跌近15%，国际医学、博济医药、嘉和美康、贝瑞基因等跌逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3037447",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
+          "title": "联手谷歌后苹果AI有哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%94%E6%89%8B%E8%B0%B7%E6%AD%8C%E5%90%8E%E8%8B%B9%E6%9E%9CAI%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
+          "url": "https://www.cls.cn/detail/2259623",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "AI芯片需求持续火热，台积电Q4净利润大幅增长35%，2025年全年资本支出达409亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763354",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
         },
         {
-          "title": "浙江用AI抓出贪官",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
-          "source": "百度热搜",
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
           "ranks": [
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "赛力斯三年半采购华为 750 亿元，如何看待这一数据？",
-          "url": "https://www.zhihu.com/question/1994699990333953373",
+          "title": "为什么国补手机，要快递员现场激活？",
+          "url": "https://www.zhihu.com/question/1963269417090672268",
           "source": "知乎",
           "ranks": [
-            14
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时01分"
+        },
+        {
+          "title": "苹果为什么不做富人用的奢侈版手机?",
+          "url": "https://www.zhihu.com/question/1965187153962174099",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 雷军",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "雷军聊新一代小米SU7",
+          "url": "https://www.toutiao.com/trending/7594761361217994803/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     }
