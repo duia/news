@@ -1,573 +1,595 @@
 {
-  "generated_at": "2026-01-17T09:54:59.777426+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-18T10:07:54.190800+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
-          "title": "“重大转变”，加总理直说了：中国确实比美国更可靠",
-          "url": "https://news.ifeng.com/c/8pyAeFUhWg0",
-          "source": "凤凰网",
+          "title": "美国暂不征收“关键矿产”关税，摩根大通：白银暂时扛住了，但回调风险巨大，这对黄金是机会",
+          "url": "https://wallstreetcn.com/articles/3763515",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
+          "title": "圣李昊！U23 亚洲杯淘汰赛，中国队点球大战淘汰乌兹别克斯坦跻身四强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1995940692124459289",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "南部战区：组织无人机位中国东沙岛附近空域进行正常飞行训练，完全正当合法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408018",
+          "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "加拿大将进口4.9万辆中国电车",
-          "url": "https://www.douyin.com/hot/2370315",
-          "source": "抖音",
+          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
+          "url": "https://flash.jin10.com/detail/20260118093035859800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
+          "title": "“中国天眼”要升级了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E2%80%9D%E8%A6%81%E5%8D%87%E7%BA%A7%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美国FTC调查科技巨头“人才收购”规避反垄断",
-          "url": "https://wallstreetcn.com/livenews/3039067",
+          "title": "加拿大总理在日坛公园举行记者会：中国将加油菜籽关税降至15%",
+          "url": "https://news.ifeng.com/c/8pzV58veoWq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "冰雪热力中的中国经济新脉动",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E7%83%AD%E5%8A%9B%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%84%89%E5%8A%A8%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "奔驰宝马奥迪在中国市场集体遇冷",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
+          "url": "https://wallstreetcn.com/livenews/3039167",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "以色列总理公开叫板美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
-          "url": "https://news.ifeng.com/c/8pxv6RvgJiU",
+          "title": "不满加沙“和平委员会”人员构成，以总理公开叫板美国",
+          "url": "https://news.ifeng.com/c/8q05A8HPhF5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "涉及中国，美高官被外国网友怼了",
+          "url": "https://news.ifeng.com/c/8pzsNwy6SMY",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "芬兰总统：美国应通过对话解决分歧",
+          "url": "https://wallstreetcn.com/livenews/3039162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "韩媒热议：U23中国队的门将神了",
+          "url": "https://www.toutiao.com/trending/7595410470895632425/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "英媒刊文：特朗普羡慕中国",
+          "url": "https://news.ifeng.com/c/8pzKiGJBBlF",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美国白宫考虑采取行政措施限制信用卡利率",
-          "url": "https://flash.jin10.com/detail/20260117081411929800",
-          "source": "金十数据",
+          "title": "荷兰政党领导人：欧洲必须同美国划清界限",
+          "url": "https://wallstreetcn.com/livenews/3039161",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/1995580476212082609",
-          "source": "知乎",
+          "title": "日本病急乱投医,烧马达炼稀土",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349289&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%97%85%E6%80%A5%E4%B9%B1%E6%8A%95%E5%8C%BB%2C%E7%83%A7%E9%A9%AC%E8%BE%BE%E7%82%BC%E7%A8%80%E5%9C%9F",
+          "source": "贴吧",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美国正加快扩大雪佛龙在委内瑞拉的石油经营许可授权",
-          "url": "https://flash.jin10.com/detail/20260117081100497800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "中国U23男足进步在哪",
-          "url": "https://www.douyin.com/hot/2369389",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "涉中国电动汽车，卡尼宣布大消息",
-          "url": "https://www.cls.cn/detail/2260606",
+          "title": "锚定“人造太阳” 中国聚变产业有望2030年迈向商业化",
+          "url": "https://www.cls.cn/detail/2261035",
           "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "又一款罕见病药将退出中国市场",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%88%E4%B8%80%E6%AC%BE%E7%BD%95%E8%A7%81%E7%97%85%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
+          "url": "https://news.ifeng.com/c/8q0UFBCFa3d",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
-          "url": "https://wallstreetcn.com/livenews/3039061",
+          "title": "斯塔默：美国对盟友加征关税“完全错误”",
+          "url": "https://wallstreetcn.com/livenews/3039159",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "彻底失控!美国ICE毒杀婴儿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349276&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%21%E7%BE%8E%E5%9B%BDICE%E6%AF%92%E6%9D%80%E5%A9%B4%E5%84%BF",
+          "source": "贴吧",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
-          "url": "https://flash.jin10.com/detail/20260117080610569800",
+          "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
+          "url": "https://flash.jin10.com/detail/20260118081338309800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "女星吴佩慈婆婆在美国被捕，涉嫌违反美国移民法规则，她将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/1995414971920638365",
-          "source": "知乎",
+          "title": "瑞典首相：绝不允许美国“勒索”",
+          "url": "https://wallstreetcn.com/livenews/3039158",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美国明尼苏达州发生天然气管道爆炸事故",
-          "url": "https://wallstreetcn.com/livenews/3039059",
+          "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
+          "url": "https://flash.jin10.com/detail/20260118081329307800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "欧盟领导人：美国加征关税或致“危险的恶性循环”",
+          "url": "https://wallstreetcn.com/livenews/3039157",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "委防长：美国袭击致委方47名官兵身亡",
-          "url": "https://www.toutiao.com/trending/7595828129412136979/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
-          "url": "https://www.cls.cn/detail/2261022",
+          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
+          "url": "https://www.cls.cn/detail/2261084",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
-          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "title": "以色列总理办公室：美国宣布加沙执行委员会隶属于和平委员会的决定未经与以色列协调，且与以色列政策相悖。以色列将向美国国务卿提出此事。",
+          "url": "https://flash.jin10.com/detail/20260118081209508800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "火药味拉满,美国酝酿搞伊朗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
-          "source": "贴吧",
+          "title": "多名中国公民在柬失联失踪，中国驻柬埔寨大使汪文斌约见柬副首相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406433",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
+          "title": "美国中央司令部敦促叙利亚军队停止在叙利亚北部阿勒颇和塔布卡之间的进攻行动。",
+          "url": "https://flash.jin10.com/detail/20260118081153640800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "不满美国威胁，格陵兰岛自治政府总理：我们的未来由自己决定",
+          "url": "https://wallstreetcn.com/livenews/3039152",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "古巴国家主席：美国无法迫使古巴妥协",
-          "url": "https://www.toutiao.com/trending/7595848703458443315/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "日本网帖煽动对高考考生性骚扰",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
+          "title": "欧洲议会要员：欧盟应动用反胁迫工具回应美国加征关税",
+          "url": "https://wallstreetcn.com/livenews/3039156",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "评论员：美日防长会晤日本又被敲打",
-          "url": "https://www.toutiao.com/trending/7595005126470369321/",
-          "source": "今日头条",
+          "title": "丹麦邀请美国参加格陵兰岛联合军演",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%B9%E9%BA%A6%E9%82%80%E8%AF%B7%E7%BE%8E%E5%9B%BD%E5%8F%82%E5%8A%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "20位汽车央企负责人2024年度薪酬披露，中国一汽董事长邱现东以107万元居首",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32391517",
+          "title": "为什么免签后越来越多的外国人来中国看病？带老外来中国看病会成为新的「搞钱赛道」吗？",
+          "url": "https://www.zhihu.com/question/1994470610613528072",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "美国因格陵兰岛问题对欧洲8国加征关税，多国回应：不可接受",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32409469",
           "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "日本网帖煽动对高考考生性骚扰",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "美国贸易代表格里尔：如果欧盟想在贸易谈判中提出潜在的格陵兰岛关税问题，那就由他们决定。",
+          "url": "https://flash.jin10.com/detail/20260118080948177800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "国防企业York Space Systems寻求通过美国IPO融资5.44亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3039051",
-          "source": "华尔街见闻-快讯",
+          "title": "美国官员表示，欧盟应考虑将格陵兰岛关税问题与美国贸易协议分开处理。",
+          "url": "https://flash.jin10.com/detail/20260118080927039800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "U23 国足门将李昊到底有多强？他会是未来中国男足的头号门将吗？",
+          "url": "https://www.zhihu.com/question/1995992193987469654",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
+          "url": "https://flash.jin10.com/detail/20260118080920006800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "厄瓜多尔准备实施2019年以来首次在国际债务市场融资，已经为了向投资者路演而聘请了美国银行证券和花旗集团。",
-          "url": "https://wallstreetcn.com/livenews/3039050",
-          "source": "华尔街见闻-快讯",
+          "title": "加拿大总理卡尼：进口4.9万辆中国电动汽车，税率从100%降至6.1%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32405963",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美国公布加沙“和平委员会”成员名单",
-          "url": "https://wallstreetcn.com/livenews/3039049",
-          "source": "华尔街见闻-快讯",
+          "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
+          "url": "https://flash.jin10.com/detail/20260118080908901800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "瑞典首相：绝不允许美国“勒索”",
+          "url": "https://flash.jin10.com/detail/20260118080852855800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "刘翔回应移民美国传言",
-          "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%BC%A0%E8%A8%80",
-          "source": "百度热搜",
+          "title": "刷新历史！中国U23男足进入亚洲杯四强",
+          "url": "https://wallstreetcn.com/livenews/3039144",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "加拿大将进口4.9万辆中国电车",
-          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B0%86%E8%BF%9B%E5%8F%A34.9%E4%B8%87%E8%BE%86%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%BD%A6",
+          "title": "创造历史！中国U23男足进亚洲杯四强",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%9B%E5%BC%BA",
           "source": "百度热搜",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，COMEX铜投机客将净多头头寸减少了4,721手，至62,175手。",
-          "url": "https://flash.jin10.com/detail/20260117043341189800",
-          "source": "金十数据",
+          "title": "泽连斯基：乌克兰代表团已抵达美国",
+          "url": "https://wallstreetcn.com/livenews/3039141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "又一款罕见病药将退出中国市场",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E6%AC%BE%E7%BD%95%E8%A7%81%E7%97%85%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，COMEX黄金投机客将净多头头寸增加了12,292手，达到136,548手，COMEX白银投机客将净多头头寸减少了2,613手，至15,045手。",
-          "url": "https://flash.jin10.com/detail/20260117043333956800",
+          "title": "黎真主党领导人呼吁对抗美国对主权国家的干涉行为",
+          "url": "https://flash.jin10.com/detail/20260117225204203800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "全球民调显示中国国际形象显著提升",
-          "url": "https://www.toutiao.com/trending/7595605611229282346/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "加拿大将进口4.9万辆中国电车",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B0%86%E8%BF%9B%E5%8F%A34.9%E4%B8%87%E8%BE%86%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%BD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3039041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "加拿大将进口4.9万辆中国电车",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B0%86%E8%BF%9B%E5%8F%A34.9%E4%B8%87%E8%BE%86%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%BD%A6%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，CBOT大豆投机客转而持有16,388手净空头头寸，当周减少了38,287手。",
-          "url": "https://flash.jin10.com/detail/20260117043312725800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "美国最大电网PJM公布可靠性备选计划",
-          "url": "https://wallstreetcn.com/livenews/3039040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "美政府推动科技巨头为AI用电买单",
-          "url": "https://flash.jin10.com/detail/20260117082311101800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
-          "url": "https://wallstreetcn.com/livenews/3039053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3039052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
-          "url": "https://flash.jin10.com/detail/20260117043322271800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "手机 华为 麒麟",
       "match_count": 4,
       "titles": [
         {
-          "title": "如何看待 IDC 公布 2025 年中国智能手机市场出货量，华为、苹果、 vivo 位列前三？",
-          "url": "https://www.zhihu.com/question/1994794243710005384",
-          "source": "知乎",
+          "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
+          "url": "https://wallstreetcn.com/articles/3763514",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://flash.jin10.com/detail/20260117080650894800",
-          "source": "金十数据",
+          "title": "“AI云”又杀回来了！2026年至今，CoreWeave涨超40%，Nebius涨近30%",
+          "url": "https://wallstreetcn.com/articles/3763510",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://wallstreetcn.com/livenews/3039060",
-          "source": "华尔街见闻-快讯",
+          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
+          "url": "https://www.zhihu.com/question/1995898061478651512",
+          "source": "知乎",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
         },
         {
-          "title": "iQOO“买芯片送手机”这招还有用吗",
-          "url": "https://www.toutiao.com/trending/7595217976196022291/",
-          "source": "今日头条",
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 雷军",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
+          "url": "https://www.zhihu.com/question/1995538757940707758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     }
