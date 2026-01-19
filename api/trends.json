@@ -1,528 +1,440 @@
 {
-  "generated_at": "2026-01-18T10:07:54.190800+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-19T10:05:46.576838+08:00",
+  "total_titles_processed": 297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 47,
+      "match_count": 39,
       "titles": [
         {
-          "title": "美国暂不征收“关键矿产”关税，摩根大通：白银暂时扛住了，但回调风险巨大，这对黄金是机会",
-          "url": "https://wallstreetcn.com/articles/3763515",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "圣李昊！U23 亚洲杯淘汰赛，中国队点球大战淘汰乌兹别克斯坦跻身四强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1995940692124459289",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "南部战区：组织无人机位中国东沙岛附近空域进行正常飞行训练，完全正当合法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408018",
+          "title": "马杜罗政府实权人物被曝曾长期与美国接触",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411112",
           "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
-          "url": "https://flash.jin10.com/detail/20260118093035859800",
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "“美国佬，滚回家！”",
+          "url": "https://news.ifeng.com/c/8q1WrXOaRdK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "日本首相办公室：日本首相高市早苗将于当地时间今日下午6点（北京时间下午5点）举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260119094028578800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "“中国天眼”要升级了",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E2%80%9D%E8%A6%81%E5%8D%87%E7%BA%A7%E4%BA%86",
+          "title": "中国12月城镇调查失业率 5.1%，前值 5.1%。",
+          "url": "https://wallstreetcn.com/livenews/3039434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国汽车业拿下两个连续全球第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "加拿大总理在日坛公园举行记者会：中国将加油菜籽关税降至15%",
-          "url": "https://news.ifeng.com/c/8pzV58veoWq",
-          "source": "凤凰网",
+          "title": "中国一至四季度GDP同比 5%，前值 5.2%。",
+          "url": "https://wallstreetcn.com/livenews/3039433",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "冰雪热力中的中国经济新脉动",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E7%83%AD%E5%8A%9B%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%84%89%E5%8A%A8%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "奔驰宝马奥迪在中国市场集体遇冷",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
-          "url": "https://wallstreetcn.com/livenews/3039167",
+          "title": "中国四季度GDP环比 1.2%，前值 1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3039430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "以色列总理公开叫板美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "不满加沙“和平委员会”人员构成，以总理公开叫板美国",
-          "url": "https://news.ifeng.com/c/8q05A8HPhF5",
+          "title": "美国明尼阿波利斯市市长：从未想过会被联邦政府入侵",
+          "url": "https://news.ifeng.com/c/8q2C37WCxP5",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "涉及中国，美高官被外国网友怼了",
-          "url": "https://news.ifeng.com/c/8pzsNwy6SMY",
+          "title": "中国1至12月规模以上工业增加值同比 5.9%，前值 6%。",
+          "url": "https://wallstreetcn.com/livenews/3039432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "本周重磅日程：中国GDP、“美联储最爱通胀指标”、日央行决议、冬季达沃斯",
+          "url": "https://wallstreetcn.com/articles/3763440",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "日媒：中国收紧对日稀土出口许可审查",
+          "url": "https://news.ifeng.com/c/8q2DnMZEUV1",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "芬兰总统：美国应通过对话解决分歧",
-          "url": "https://wallstreetcn.com/livenews/3039162",
+          "title": "日本20年期国债收益率上涨9.5个基点至3.250%，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260119093100560800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国四季度GDP同比 4.5%，前值 4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3039431",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "韩媒热议：U23中国队的门将神了",
-          "url": "https://www.toutiao.com/trending/7595410470895632425/",
+          "title": "人民日报评美国“斩杀线”",
+          "url": "https://www.toutiao.com/trending/7596857185708019206/",
           "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "英媒刊文：特朗普羡慕中国",
-          "url": "https://news.ifeng.com/c/8pzKiGJBBlF",
-          "source": "凤凰网",
+          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
+          "url": "https://wallstreetcn.com/articles/3763553",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "荷兰政党领导人：欧洲必须同美国划清界限",
-          "url": "https://wallstreetcn.com/livenews/3039161",
+          "title": "日本自民党官员西田：日本可通过有效运用政府资金降低食品消费税率。",
+          "url": "https://flash.jin10.com/detail/20260119092937389800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国12月规模以上工业增加值同比 5.2%，前值 4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3039429",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
+        },
+        {
+          "title": "日本自民党官员西田：如果我们能通过设立日本主权财富基金等方式找到永久性收入来源，就可以永久废除食品销售税。",
+          "url": "https://flash.jin10.com/detail/20260119092917783800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国1至12月全国房地产开发投资 -17.2%，前值 -15.9%。",
+          "url": "https://wallstreetcn.com/livenews/3039428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "日本东证指数下跌1%，报3,621.77。",
+          "url": "https://flash.jin10.com/detail/20260119092731713800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国1至12月社会消费品零售总额同比 3.7%，前值 4%。",
+          "url": "https://wallstreetcn.com/livenews/3039427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "BBA 中仅宝马去年全球销量实现增长，在中国市场集体遇冷，受什么因素影响？反映出哪些市场趋势？",
+          "url": "https://www.zhihu.com/question/1996144743348920535",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净投放722亿元",
+          "url": "https://flash.jin10.com/detail/20260119092337921800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国1至12月城镇固定资产投资同比 -3.8%，前值 -2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3039425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32412494",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "游戏机被没收，美国11岁男孩开枪打死父亲",
+          "url": "https://news.ifeng.com/c/8q2C37WCxW7",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国12月社会消费品零售总额同比 0.9%，前值 1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3039424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "两代弄潮儿：谁在书写美国的财政规则？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408977",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "日本30年期国债收益率上升10个基点至3.58%。",
+          "url": "https://wallstreetcn.com/livenews/3039418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "提醒：北京时间10:00将公布中国2025年四季度、全年GDP增速，中国12月社会消费品零售总额，中国12月规模以上工业增加值等月度经济数据。",
+          "url": "https://wallstreetcn.com/livenews/3039419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "日本首相办公室：首相高市早苗将于当地时间今日下午6点（北京时间下午5点）举行新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3039416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美国童星疑闯红灯被拖行致死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%AB%A5%E6%98%9F%E7%96%91%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349289&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%97%85%E6%80%A5%E4%B9%B1%E6%8A%95%E5%8C%BB%2C%E7%83%A7%E9%A9%AC%E8%BE%BE%E7%82%BC%E7%A8%80%E5%9C%9F",
           "source": "贴吧",
           "ranks": [
-            7
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "锚定“人造太阳” 中国聚变产业有望2030年迈向商业化",
-          "url": "https://www.cls.cn/detail/2261035",
-          "source": "财联社热门",
+          "title": "意大利为何站队美国",
+          "url": "https://www.toutiao.com/trending/7596855332224110134/",
+          "source": "今日头条",
           "ranks": [
-            8
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "又一款罕见病药将退出中国市场",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%88%E4%B8%80%E6%AC%BE%E7%BD%95%E8%A7%81%E7%97%85%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
-          "url": "https://news.ifeng.com/c/8q0UFBCFa3d",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "斯塔默：美国对盟友加征关税“完全错误”",
-          "url": "https://wallstreetcn.com/livenews/3039159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
           "title": "彻底失控!美国ICE毒杀婴儿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349276&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%21%E7%BE%8E%E5%9B%BDICE%E6%AF%92%E6%9D%80%E5%A9%B4%E5%84%BF",
           "source": "贴吧",
           "ranks": [
-            10
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
-          "url": "https://flash.jin10.com/detail/20260118081338309800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "瑞典首相：绝不允许美国“勒索”",
-          "url": "https://wallstreetcn.com/livenews/3039158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
-          "url": "https://flash.jin10.com/detail/20260118081329307800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "欧盟领导人：美国加征关税或致“危险的恶性循环”",
-          "url": "https://wallstreetcn.com/livenews/3039157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
-          "url": "https://www.cls.cn/detail/2261084",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "以色列总理办公室：美国宣布加沙执行委员会隶属于和平委员会的决定未经与以色列协调，且与以色列政策相悖。以色列将向美国国务卿提出此事。",
-          "url": "https://flash.jin10.com/detail/20260118081209508800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "多名中国公民在柬失联失踪，中国驻柬埔寨大使汪文斌约见柬副首相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406433",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美国中央司令部敦促叙利亚军队停止在叙利亚北部阿勒颇和塔布卡之间的进攻行动。",
-          "url": "https://flash.jin10.com/detail/20260118081153640800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "不满美国威胁，格陵兰岛自治政府总理：我们的未来由自己决定",
-          "url": "https://wallstreetcn.com/livenews/3039152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "欧洲议会要员：欧盟应动用反胁迫工具回应美国加征关税",
-          "url": "https://wallstreetcn.com/livenews/3039156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "丹麦邀请美国参加格陵兰岛联合军演",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%B9%E9%BA%A6%E9%82%80%E8%AF%B7%E7%BE%8E%E5%9B%BD%E5%8F%82%E5%8A%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94",
+          "title": "世界周刊谈美国收紧移民政策",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E8%B0%88%E7%BE%8E%E5%9B%BD%E6%94%B6%E7%B4%A7%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96",
           "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "为什么免签后越来越多的外国人来中国看病？带老外来中国看病会成为新的「搞钱赛道」吗？",
-          "url": "https://www.zhihu.com/question/1994470610613528072",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美国因格陵兰岛问题对欧洲8国加征关税，多国回应：不可接受",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32409469",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美国贸易代表格里尔：如果欧盟想在贸易谈判中提出潜在的格陵兰岛关税问题，那就由他们决定。",
-          "url": "https://flash.jin10.com/detail/20260118080948177800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美国官员表示，欧盟应考虑将格陵兰岛关税问题与美国贸易协议分开处理。",
-          "url": "https://flash.jin10.com/detail/20260118080927039800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "U23 国足门将李昊到底有多强？他会是未来中国男足的头号门将吗？",
-          "url": "https://www.zhihu.com/question/1995992193987469654",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
-          "url": "https://flash.jin10.com/detail/20260118080920006800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "加拿大总理卡尼：进口4.9万辆中国电动汽车，税率从100%降至6.1%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32405963",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
-          "url": "https://flash.jin10.com/detail/20260118080908901800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "瑞典首相：绝不允许美国“勒索”",
-          "url": "https://flash.jin10.com/detail/20260118080852855800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "刷新历史！中国U23男足进入亚洲杯四强",
-          "url": "https://wallstreetcn.com/livenews/3039144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "创造历史！中国U23男足进亚洲杯四强",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%9B%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "泽连斯基：乌克兰代表团已抵达美国",
-          "url": "https://wallstreetcn.com/livenews/3039141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "又一款罕见病药将退出中国市场",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E6%AC%BE%E7%BD%95%E8%A7%81%E7%97%85%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA",
-          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "黎真主党领导人呼吁对抗美国对主权国家的干涉行为",
-          "url": "https://flash.jin10.com/detail/20260117225204203800",
-          "source": "金十数据",
+          "title": "中国央行公开市场开展1583亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日有861亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3039392",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         }
       ]
     },
@@ -531,65 +443,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
-          "url": "https://wallstreetcn.com/articles/3763514",
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "“AI云”又杀回来了！2026年至今，CoreWeave涨超40%，Nebius涨近30%",
-          "url": "https://wallstreetcn.com/articles/3763510",
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
-          "url": "https://www.zhihu.com/question/1995898061478651512",
-          "source": "知乎",
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         },
         {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
+          "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
+          "url": "https://www.cls.cn/detail/2261328",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 雷军",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
-          "url": "https://www.zhihu.com/question/1995538757940707758",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         }
       ]
     }
