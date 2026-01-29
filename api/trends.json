@@ -1,375 +1,286 @@
 {
-  "generated_at": "2026-01-28T10:04:14.549899+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-01-29T10:24:32.887869+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 33,
+      "match_count": 25,
       "titles": [
         {
-          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
-          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
+          "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
+          "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美国、英国、法国、德国发表联合声明",
-          "url": "https://news.ifeng.com/c/8qGbe88vGVw",
-          "source": "凤凰网",
+          "title": "初步民调显示日本首相高市早苗有望扩大议会优势",
+          "url": "https://flash.jin10.com/detail/20260129101343715800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "米兰冬奥会中国体育代表团成立",
-          "url": "https://www.baidu.com/s?wd=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%90%E7%AB%8B",
+          "title": "市场消息：新指南要求美国移民与海关执法局官员仅针对面临刑事指控或已被定罪的移民违法者采取行动。",
+          "url": "https://flash.jin10.com/detail/20260129101128494800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "10元中国龙银质纪念币被炒到1万多",
+          "url": "https://www.baidu.com/s?wd=10%E5%85%83%E4%B8%AD%E5%9B%BD%E9%BE%99%E9%93%B6%E8%B4%A8%E7%BA%AA%E5%BF%B5%E5%B8%81%E8%A2%AB%E7%82%92%E5%88%B01%E4%B8%87%E5%A4%9A",
           "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "2026逐梦中国",
-          "url": "https://s.weibo.com/weibo?q=%232026%E9%80%90%E6%A2%A6%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "中方呼吁各国认清日本真实面目",
-          "url": "https://www.douyin.com/hot/2381015",
-          "source": "抖音",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "10年期日本国债收益率下行2.5个基点，至2.260%。",
-          "url": "https://wallstreetcn.com/livenews/3045129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "10时24分"
         },
         {
-          "title": "中国央行1500亿元1个月期国库现金定期存款中标利率为1.73%，连续第二次持平于该水平。",
-          "url": "https://wallstreetcn.com/livenews/3045127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "释新闻｜三周两次射杀合法公民，美国ICE执法人员会被起诉吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472393",
+          "title": "第1现场｜冬季风暴已致美国51人丧生：市民点燃气取暖，流浪汉危在旦夕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32481701",
           "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "警惕！美日“铁拳”联合演习范围将扩大，美媒炒作“针对中国”",
+          "url": "https://news.ifeng.com/c/8qIiTu2ldUO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
+          "url": "https://wallstreetcn.com/articles/3764316",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "市场消息：美国明尼苏达州的移民与海关执法局官员被指示避免与“煽动者”接触。",
+          "url": "https://flash.jin10.com/detail/20260129101052227800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "英反对党领袖批评首相访华，专家：不能对中国说“不”",
+          "url": "https://news.ifeng.com/c/8qIogbmRm7h",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
-          "source": "澎湃新闻",
+          "title": "美国持续增兵中东",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%8C%81%E7%BB%AD%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美国前总统反对美国现政府",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%8E%B0%E6%94%BF%E5%BA%9C%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "英首相：与中国接触符合我们的国家利益",
+          "url": "https://news.ifeng.com/c/8qIjU5enoAD",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "外交敲警钟:春节慎去日本蹦跶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
+          "title": "菲议员鼓噪将中国外交官列为“不受欢迎的人”，中方发声",
+          "url": "https://news.ifeng.com/c/8qIil6znzWr",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "中国泡面征服韩星,吧面够权威",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349843&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%BE%81%E6%9C%8D%E9%9F%A9%E6%98%9F%2C%E5%90%A7%E9%9D%A2%E5%A4%9F%E6%9D%83%E5%A8%81",
           "source": "贴吧",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "外媒曝中国在加拿大下了大单",
-          "url": "https://www.toutiao.com/trending/7599241181865115654/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471946",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "“中国禁止以色列游客入境”不实",
-          "url": "https://www.toutiao.com/trending/7600140082007248403/",
-          "source": "今日头条",
-          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "徐彬将加盟英超狼队，如何看待这个转会？狼队为何会看中徐彬，会是未来大规模中国年轻球员登录欧洲的前兆吗？",
-          "url": "https://www.zhihu.com/question/1999411190997214512",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
-          "url": "https://www.zhihu.com/question/1998544659715228295",
-          "source": "知乎",
+          "title": "韩国产业部：韩国产业部长将会见美国商务部长和能源部长。",
+          "url": "https://flash.jin10.com/detail/20260129100515413800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美国一支舰队正在向伊朗方向航行",
-          "url": "https://www.toutiao.com/trending/7599555248189066815/",
+          "title": "华裔：西方报道与中国实际差异巨大",
+          "url": "https://www.toutiao.com/trending/7600430582506373161/",
           "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2271951",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "外媒报道伊朗外长与美国特使以「非正式」方式互通消息，美伊关系是否会发生逆转？",
-          "url": "https://www.zhihu.com/question/1999497574059640810",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "大熊猫“晓晓”和“蕾蕾”今日中午从日本启程返回中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471753",
-          "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "中国汽车出口第一目的国易主",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
+          "title": "美国打美国",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%93%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "韩国产业部：韩国产业部长将访问美国，商讨美国总统特朗普提高对韩国商品关税的问题。",
+          "url": "https://flash.jin10.com/detail/20260129100419679800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "英媒：多国转向中国寻求稳定贸易关系",
+          "url": "https://www.toutiao.com/trending/7600425549955923978/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "前瞻｜英国首相时隔8年访华：搁置争议，要从中国带回去“亮眼成果”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475047",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "美国暴雪流浪者何去何从",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%9A%B4%E9%9B%AA%E6%B5%81%E6%B5%AA%E8%80%85%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "美国将在中东举行空军战备演习",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
+          "title": "英首相刚到就开会：把握中国给的机会",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E9%A6%96%E7%9B%B8%E5%88%9A%E5%88%B0%E5%B0%B1%E5%BC%80%E4%BC%9A%EF%BC%9A%E6%8A%8A%E6%8F%A1%E4%B8%AD%E5%9B%BD%E7%BB%99%E7%9A%84%E6%9C%BA%E4%BC%9A",
           "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "中国情侣在巴厘岛患上“脏水病”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%83%85%E4%BE%A3%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%82%A3%E4%B8%8A%E2%80%9C%E8%84%8F%E6%B0%B4%E7%97%85%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "有数｜中国用电量首超10万亿度，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32441563",
+          "title": "万斯当面警告韩国总理不得惩罚美国科技公司，否则加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32479888",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "中国禁止以色列游客入境？中使馆回应",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%B8%E5%AE%A2%E5%85%A5%E5%A2%83%EF%BC%9F%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "贵金属板块延续涨势，中国黄金4连板，湖南黄金3连板，招金黄金、豫光金铅、四川黄金、赤峰黄金等纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/3045106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "10时24分"
         },
         {
-          "title": "中国央行公开市场开展3775亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日有3635亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3045101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "中国车在欧洲受青睐",
-          "url": "https://www.toutiao.com/trending/7599279012511072266/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.32%，上一个交易日夜盘收涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3045089",
+          "title": "LG能源与印尼新公司签署谅解备忘录以实现供应多元化。预计美国电动汽车需求下半年将温和复苏。",
+          "url": "https://wallstreetcn.com/livenews/3045988",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "10时24分"
         },
         {
-          "title": "日本媒体人谈U23亚洲杯最佳门将",
-          "url": "https://www.toutiao.com/trending/7599574069256536070/",
-          "source": "今日头条",
+          "title": "英国首相称中国已崛起",
+          "url": "https://www.douyin.com/hot/2382110",
+          "source": "抖音",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "10时24分"
         },
         {
-          "title": "30年期日本国债收益率上行2个基点，至3.680%。",
-          "url": "https://wallstreetcn.com/livenews/3045078",
+          "title": "中国生产的风电机组都用在哪里了",
+          "url": "https://www.toutiao.com/trending/7599600612339580971/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260129095044954800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "贵金属板块继续大涨，白银有色8连板，中国黄金、四川黄金、豫光金铅5连板，招金黄金、湖南黄金4连板，西部黄金2连板，晓程科技涨近19%，股价续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3045976",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "10时24分"
         }
       ]
     },
@@ -378,87 +289,98 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
+          "title": "AI应用方向涨势扩大，新华网、人民网、因赛集团、引力传媒、粤传媒、科大讯飞、浙文互联等10余股封涨停板，流金科技、卓易信息、天龙集团、蓝色光标、易点天下均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3046015",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     },
     {
       "keyword_group": "手机 华为 麒麟",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "小米店员展示手机防摔功能：真碎了",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%BA%97%E5%91%98%E5%B1%95%E7%A4%BA%E6%89%8B%E6%9C%BA%E9%98%B2%E6%91%94%E5%8A%9F%E8%83%BD%EF%BC%9A%E7%9C%9F%E7%A2%8E%E4%BA%86",
-          "source": "百度热搜",
+          "title": "三星电子：将努力降低2026年手机业务利润下滑的风险。",
+          "url": "https://flash.jin10.com/detail/20260129101312494800",
+          "source": "金十数据",
           "ranks": [
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "被马化腾说“极其不安全”，豆包团队回应手机助手遵循了隐私准则",
-          "url": "https://wallstreetcn.com/livenews/3045079",
+          "title": "三星电子称，预计第一季手机出货量和平均售价将较第四季有所增长。今年智能手机市场销售预计将持平。",
+          "url": "https://wallstreetcn.com/livenews/3045991",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "三星电子：力争在2026年提升手机销量。",
+          "url": "https://flash.jin10.com/detail/20260129095124224800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "10时24分"
         }
       ]
     },
@@ -467,15 +389,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "假如玩鹅鸭杀遇到雷军",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E7%8E%A9%E9%B9%85%E9%B8%AD%E6%9D%80%E9%81%87%E5%88%B0%E9%9B%B7%E5%86%9B%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "小米店员展示防摔功能翻车，这锅谁背？厂家实验室的抗摔数据，为何经不起现实中的一次抛掷？",
+          "url": "https://www.zhihu.com/question/1999791351231897837",
+          "source": "知乎",
           "ranks": [
-            27
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     }
