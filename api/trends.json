@@ -1,331 +1,375 @@
 {
-  "generated_at": "2026-02-01T10:43:46.249324+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-02T10:33:39.334961+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
-          "title": "特朗普称伊朗正“严肃”与美国对话",
-          "url": "https://wallstreetcn.com/livenews/3047751",
-          "source": "华尔街见闻-快讯",
+          "title": "美方答凤凰：鲁比奥撤销签证声明针对中国留学生？",
+          "url": "https://news.ifeng.com/c/8qPQNf3alDD",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "美国「超级寒流」被称为「物理斩杀线」，具体情况如何？带来了哪些影响？",
+          "url": "https://www.zhihu.com/question/1999650277494636810",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "王毅会见绍伊古，谈及日本和台海问题",
+          "url": "https://news.ifeng.com/c/8qOk2zCQSdE",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "墨西哥回应美国威胁：不会暂停对古巴的人道主义援助",
-          "url": "https://flash.jin10.com/detail/20260201093349992800",
-          "source": "金十数据",
+          "title": "中国购受欢迎 退税商品成消费新增长点",
+          "url": "https://www.toutiao.com/trending/7601702321122623515/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "美国宇航局开始进行载人绕月飞行前的关键测试",
-          "url": "https://wallstreetcn.com/livenews/3047750",
-          "source": "华尔街见闻-快讯",
+          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
+          "url": "https://wallstreetcn.com/articles/3764656",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "斯塔默与中国学生说笑，再提盲人摸象",
-          "url": "https://news.ifeng.com/c/8qMZDz7XO6e",
-          "source": "凤凰网",
+          "title": "日本米价飞天,开启史诗通胀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350007&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E9%A3%9E%E5%A4%A9%2C%E5%BC%80%E5%90%AF%E5%8F%B2%E8%AF%97%E9%80%9A%E8%83%80",
+          "source": "贴吧",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "中国变压器，全球爆单",
-          "url": "https://www.cls.cn/detail/2276592",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "伊朗外长称美国干涉其军演做法“荒谬”",
-          "url": "https://flash.jin10.com/detail/20260201093135473800",
+          "title": "日本10年期国债收益率上涨2.5个基点，至2.270%。",
+          "url": "https://flash.jin10.com/detail/20260202102004954800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "日本茨城县山林发现一具中国籍女性遗体",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32505648",
-          "source": "澎湃新闻",
+          "title": "牛剑在学术水平上和美国 top 院校差距真的大么？",
+          "url": "https://www.zhihu.com/question/349881683",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "日本政府发言人：日本首相高市早苗表示，她希望建设一个能够抵御外汇波动的强大经济体。",
+          "url": "https://flash.jin10.com/detail/20260202101956260800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
-          "url": "https://www.cls.cn/detail/2276516",
-          "source": "财联社热门",
+          "title": "日本内阁官房副长官尾崎正直：首相高市早苗重申了日元疲软的利弊，并没有强调日元贬值的好处。",
+          "url": "https://wallstreetcn.com/livenews/3047992",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "英国首相镜头里的中国军人",
-          "url": "https://www.douyin.com/hot/2385490",
-          "source": "抖音",
+          "title": "中国的光刻机现在达到多少纳米了？",
+          "url": "https://www.zhihu.com/question/65453271",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "日本政府发言人：日本首相高市早苗并未强调日元疲软的好处。",
+          "url": "https://flash.jin10.com/detail/20260202101852748800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "消息人士：美国伊拉克问题特别特使马克·萨瓦亚已不再担任该职务。",
-          "url": "https://flash.jin10.com/detail/20260201090527310800",
+          "title": "哈梅内伊：如果美国挑起战争，这次冲突将不再局限于一地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510757",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "日本政府发言人：不评论外汇水平。",
+          "url": "https://flash.jin10.com/detail/20260202101803718800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
-          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "BBC记者称赞中国科技发达人民友善",
-          "url": "https://www.toutiao.com/trending/7600978276802412550/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "成飞「黄皮粗脖子」歼 -20A 密集试飞，有哪些值得关注的亮点？标志中国五代机进入怎样的新阶段？",
-          "url": "https://www.zhihu.com/question/1999788051715626762",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "日本山林发现的中国籍女性已死亡数周",
-          "url": "https://www.toutiao.com/trending/7601433708915572779/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "实测美国双倍甜度蜜雪冰城",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E7%BE%8E%E5%9B%BD%E5%8F%8C%E5%80%8D%E7%94%9C%E5%BA%A6%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "市场消息：美国驻以色列大使表示，美方尚未作出对伊朗发动打击的决定。",
-          "url": "https://flash.jin10.com/detail/20260201081524917800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "2025中国造船业全年数据发布，三大指标继续全球领跑",
-          "url": "https://wallstreetcn.com/livenews/3047730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
-          "url": "https://wallstreetcn.com/livenews/3047726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美国众议院议长约翰逊与众院少数派领导人Hakeem Jeffries周六对话，讨论政府融资立法草案事宜。 众议院民主党成员们不会帮助（总统特朗普所属共和党）批准关于（针对国土安全部/DHS）暂停拨款的应急资金方案。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3047717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "中国第四艘航母究竟走到哪一步",
-          "url": "https://www.toutiao.com/trending/7601431365568957971/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美国驻委临时代办抵达委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3047724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "东京大劫案!中国人被抢4亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349957&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%8A%AB%E6%A1%88%21%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E6%8A%A24%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "伊朗最高领袖顾问：与人为制造的媒体战氛围相反，对美国的谈判架构正在逐步形成",
-          "url": "https://wallstreetcn.com/livenews/3047721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美国：美俄代表佛州会谈“富有成效且具建设性”，财长贝森特参与",
-          "url": "https://wallstreetcn.com/livenews/3047720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
-          "url": "https://wallstreetcn.com/articles/3764648",
+          "title": "金银暴跌之后，所有目光都盯着周一中国开盘",
+          "url": "https://wallstreetcn.com/articles/3764708",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
         },
         {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
+          "title": "阿根廷当地媒体报道称，阿根廷从美国财政部购买了8.08亿美元的特别提款权（SDR），用于支付国际货币基金组织（IMF）的利息。",
+          "url": "https://flash.jin10.com/detail/20260202101603066800",
+          "source": "金十数据",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
+        },
+        {
+          "title": "中央金融办：锚定建设金融强国目标 走好中国特色金融发展之路",
+          "url": "https://www.cls.cn/detail/2277013",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "哈梅内伊向美国发出严正警告",
+          "url": "https://www.douyin.com/hot/2386256",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "为什么中国家庭没有壁炉？",
+          "url": "https://www.zhihu.com/question/25095304",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "中国变压器全球爆单",
+          "url": "https://www.toutiao.com/trending/7601336125571022891/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "日元贬值成加息“催化剂” 日本央行鹰派立场超预期",
+          "url": "https://flash.jin10.com/detail/20260202100030032800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "中国最新富豪榜出炉",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AF%8C%E8%B1%AA%E6%A6%9C%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "歪果仁打出租穿越中国体验温差",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%AA%E6%9E%9C%E4%BB%81%E6%89%93%E5%87%BA%E7%A7%9F%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E4%BD%93%E9%AA%8C%E6%B8%A9%E5%B7%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "天气预报显示气温升高，美国天然气价格暴跌",
+          "url": "https://flash.jin10.com/detail/20260202095451797800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "金十图示：2026年02月02日（周一）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260202095157749800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "A股三大电信运营商集体走弱，中国移动跌超5%，股价创2024年6月以来新低，中国联通、中国电信均跌超4%，消息面上，中国移动、中国联通、中国电信2月1日均发布公告称，电信服务增值税税目适用范围调整，税率由6%调整为9%，将对公司收入及利润产生影响。",
+          "url": "https://wallstreetcn.com/livenews/3047964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "中国1月RatingDog制造业PMI 50.3，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3047959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
     {
-      "keyword_group": "小米 雷军",
-      "match_count": 1,
+      "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
+      "match_count": 4,
       "titles": [
         {
-          "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
-          "url": "https://wallstreetcn.com/livenews/3047736",
-          "source": "华尔街见闻-快讯",
+          "title": "AI圈爆火的OpenClaw是个啥",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84OpenClaw%E6%98%AF%E4%B8%AA%E5%95%A5",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "10时33分"
+        },
+        {
+          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
+          "url": "https://www.cls.cn/detail/2276797",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
+          "url": "https://www.zhihu.com/question/2001071694169793308",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "小鹏全球首款AI汽车正式开启海外大规模发运",
+          "url": "https://wallstreetcn.com/livenews/3047966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "手机 华为 麒麟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "手机“贴一贴”或无形中泄密",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E2%80%9C%E8%B4%B4%E4%B8%80%E8%B4%B4%E2%80%9D%E6%88%96%E6%97%A0%E5%BD%A2%E4%B8%AD%E6%B3%84%E5%AF%86",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     }
