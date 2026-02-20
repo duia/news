@@ -1,523 +1,512 @@
 {
-  "generated_at": "2026-02-19T10:31:57.682052+08:00",
+  "generated_at": "2026-02-20T10:27:44.742281+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
-        {
-          "title": "苏翊鸣摘米兰冬奥会中国队首金",
-          "url": "https://www.douyin.com/hot/2404758",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "傅聪：日本若敢武力介入台湾问题，中方必将迎头痛击",
-          "url": "https://news.ifeng.com/c/8qrAxqIMvRo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "商务部世贸司负责人解读《中国关于当前形势下世贸组织改革的立场文件》",
-          "url": "https://wallstreetcn.com/livenews/3056558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "“去中国过年”成为全球新风尚",
-          "url": "https://www.toutiao.com/trending/7607769602474917942/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "22岁生日当天斩获冠军，苏翊鸣夺得中国代表团米兰冬奥首金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32628906",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
         {
           "title": "日本高市早苗内阁集体辞职",
           "url": "https://www.cls.cn/detail/2291375",
           "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "日系车做了什么会在中国市场走下坡路？",
-          "url": "https://www.zhihu.com/question/2005330761226682440",
-          "source": "知乎",
+          "title": "官网显示，特斯拉(TSLA.O)将电动皮卡Cybertruck的Cyberbeast版本在美国的售价从114,990美元降至99,990美元。",
+          "url": "https://flash.jin10.com/detail/20260220100758130800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "富时中国A50指数期货下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3056848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "冰雪白 冬奥金 中国红",
+          "url": "https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E7%99%BD+%E5%86%AC%E5%A5%A5%E9%87%91+%E4%B8%AD%E5%9B%BD%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国与印尼达成贸易协议 将对印征收19%关税",
+          "url": "https://wallstreetcn.com/livenews/3056846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：希望确保日本首相高市早苗的美国之行能够取得圆满成果。",
+          "url": "https://flash.jin10.com/detail/20260220100108777800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "中国队两小时连夺两金",
-          "url": "https://www.douyin.com/hot/2405334",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
+          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
           "source": "澎湃新闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "韩媒赛前嘲讽中国队0金被打脸",
-          "url": "https://www.toutiao.com/trending/7608345311089757734/",
-          "source": "今日头条",
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "日本若介入台湾问题 中方必迎头痛击",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
+          "title": "中国第3金！宁忠岩速滑1500米夺冠",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC3%E9%87%91%EF%BC%81%E5%AE%81%E5%BF%A0%E5%B2%A9%E9%80%9F%E6%BB%911500%E7%B1%B3%E5%A4%BA%E5%86%A0",
           "source": "百度热搜",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "富时中国A50指数期货开盘涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3056551",
-          "source": "华尔街见闻-快讯",
+          "title": "时隔八年重回奥运赛场，老将林孝埈已经为中国短道燃尽所有",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32631933",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国汽车工人联合会（UAW）：大众汽车工人创造历史，批准美国南方主要汽车工厂首份工会合同。大众汽车工人是以96%的投票率批准了他们的首份工会合同。",
+          "url": "https://flash.jin10.com/detail/20260220095223926800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "韩媒赛前嘲讽中国队0金被打脸",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%E8%B5%9B%E5%89%8D%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E9%98%9F0%E9%87%91%E8%A2%AB%E6%89%93%E8%84%B8",
-          "source": "百度热搜",
+          "title": "日本挖到稀土,全是选举戏码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本多地市民团体集会，反对部署“战斧”导弹",
+          "url": "https://news.ifeng.com/c/8qtFgNSIZ5A",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "中国1月Swift人民币在全球支付中占比 3.13%，前值 2.73%。",
-          "url": "https://wallstreetcn.com/livenews/3056549",
+          "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
+          "url": "https://wallstreetcn.com/livenews/3056840",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "为什么中国人过年总爱“嗑”瓜子",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BF%87%E5%B9%B4%E6%80%BB%E7%88%B1%E2%80%9C%E5%97%91%E2%80%9D%E7%93%9C%E5%AD%90",
-          "source": "百度热搜",
+          "title": "中国队3金3银4铜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F3%E9%87%913%E9%93%B64%E9%93%9C%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "韩国人第一次体验中国过年",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4",
+          "title": "宁忠岩速度滑冰男子 1500 米破奥运纪录夺冠，斩获中国第三金，如何评价本场比赛和宁忠岩的表现？",
+          "url": "https://www.zhihu.com/question/2007964209242142094",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "天网功夫T-1000到中国也拜年",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E7%BD%91%E5%8A%9F%E5%A4%ABT-1000%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%B9%9F%E6%8B%9C%E5%B9%B4",
           "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "金十图示：2026年02月19日（周四）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260219095652409800",
-          "source": "金十数据",
+          "title": "印尼与美国签署互惠贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3056837",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291035",
-          "source": "财联社热门",
+          "title": "美国向联合国支付1.6亿美元部分欠款",
+          "url": "https://news.ifeng.com/c/8qt5v4Gxswi",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "金十图示：2026年02月20日（周五）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260220095144623800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国首都华盛顿宣布进入紧急状态，9 亿升污水泄漏带来大量与粪便有关的细菌和致病病原体，具体是什么情况？",
+          "url": "https://www.zhihu.com/question/2007893638286373683",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国向联合国支付1.6亿美元部分欠款",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E6%94%AF%E4%BB%981.6%E4%BA%BF%E7%BE%8E%E5%85%83%E9%83%A8%E5%88%86%E6%AC%A0%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "外媒：中国机器人让西方产品相形见绌",
+          "url": "https://www.toutiao.com/trending/7608717188911861298/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
+          "title": "富时中国A50指数期货下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260220094436146800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本2月制造业PMI初值 52.8，前值 51.5。",
+          "url": "https://wallstreetcn.com/livenews/3056835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "中国冰壶女队6:9日本",
+          "url": "https://www.douyin.com/hot/2406285",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "国际雪联主席评苏翊鸣冬奥再夺冠：对中国滑雪发展意义重大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32631935",
           "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "中国女队3000米接力B组决赛第一",
-          "url": "https://www.douyin.com/hot/2405415",
-          "source": "抖音",
+          "title": "日本2月服务业PMI初值 53.8，前值 53.7。",
+          "url": "https://wallstreetcn.com/livenews/3056834",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "美国将从叙利亚撤出所有军队",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BB%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E6%92%A4%E5%87%BA%E6%89%80%E6%9C%89%E5%86%9B%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美国参议员沃伦警告美联储与财政部：严禁救助加密货币亿万富翁",
-          "url": "https://wallstreetcn.com/livenews/3056555",
+          "title": "日本2月综合PMI初值 53.8，前值 53.1。",
+          "url": "https://wallstreetcn.com/livenews/3056833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "10年期日本国债收益率上升1个基点至2.145%。",
-          "url": "https://wallstreetcn.com/livenews/3056540",
+          "title": "印尼部长：印尼与美国的贸易协议不会涉及任何第三方国家。",
+          "url": "https://flash.jin10.com/detail/20260220094026493800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国会众议院监督委员会下周将传唤克林顿夫妇做证",
+          "url": "https://wallstreetcn.com/livenews/3056831",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "消息人士：德国正考虑从美国采购更多F-35战斗机。",
-          "url": "https://flash.jin10.com/detail/20260219095138213800",
-          "source": "金十数据",
+          "title": "沈腾稳坐中国电影票房最高男主演",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E7%A8%B3%E5%9D%90%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E6%9C%80%E9%AB%98%E7%94%B7%E4%B8%BB%E6%BC%94",
+          "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://wallstreetcn.com/livenews/3056538",
+          "title": "日本1月CPI(除生鲜食品)同比 2%，前值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056828",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "商务部世贸司负责人解读《中国关于当前形势下世贸组织改革的立场文件》",
-          "url": "https://flash.jin10.com/detail/20260219095119028800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3056537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "韩媒赛前嘲讽中国队0金被打脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E8%B5%9B%E5%89%8D%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E9%98%9F0%E9%87%91%E8%A2%AB%E6%89%93%E8%84%B8%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美国将从叙利亚全面撤军",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BB%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E5%85%A8%E9%9D%A2%E6%92%A4%E5%86%9B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3056534",
+          "title": "中国公民新西兰街头遇袭 中领馆发声",
+          "url": "https://www.toutiao.com/trending/7607714159752806436/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本1月CPI同比 1.5%，前值 2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3056827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国与印尼达成贸易协议 将对印征收19%关税",
+          "url": "https://flash.jin10.com/detail/20260220093700799800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本1月CPI(除生鲜食品及能源)同比 2.6%，前值 2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3056826",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "日本2月13日当周净买进国外股票 -258亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3056532",
-          "source": "华尔街见闻-快讯",
+          "title": "马丽中国电影票房最高女主",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E6%9C%80%E9%AB%98%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "中国队升至冬奥奖牌榜第12",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8D%87%E8%87%B3%E5%86%AC%E5%A5%A5%E5%A5%96%E7%89%8C%E6%A6%9C%E7%AC%AC12%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "日本2月13日当周净买进国外债券 -4895亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3056533",
+          "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
+          "url": "https://wallstreetcn.com/livenews/3056824",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "中国冰壶女队7比8不敌丹麦",
-          "url": "https://www.douyin.com/hot/2405233",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "市场消息：美国法官推翻移民上诉委员会支持特朗普政府大规模拘留政策的裁决。",
-          "url": "https://flash.jin10.com/detail/20260219093138689800",
+          "title": "日本10年期国债收益率下跌4.0个基点，至2.100%。",
+          "url": "https://flash.jin10.com/detail/20260220093306734800",
           "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "日本2月13日当周外资净买进日本股票 14242亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3056531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "日本12月核心机械订单环比 19.1%，前值 -11%。",
-          "url": "https://wallstreetcn.com/livenews/3056530",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "美国南方司令部司令访问委内瑞拉",
-          "url": "https://flash.jin10.com/detail/20260219093052372800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "日本12月核心机械订单同比 16.8%，前值 -6.4%。",
-          "url": "https://wallstreetcn.com/livenews/3056529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "中国科研团队研发出AI看病系统",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E5%87%BAAI%E7%9C%8B%E7%97%85%E7%B3%BB%E7%BB%9F",
+          "title": "美国一高校兄弟会诡异入会仪式曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%AB%98%E6%A0%A1%E5%85%84%E5%BC%9F%E4%BC%9A%E8%AF%A1%E5%BC%82%E5%85%A5%E4%BC%9A%E4%BB%AA%E5%BC%8F%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "美国女友来中国过年是什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
-          "url": "https://wallstreetcn.com/livenews/3056528",
+          "title": "汇丰在美国债务资本市场团队裁员10%。",
+          "url": "https://wallstreetcn.com/livenews/3056820",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "印尼部长：印尼将继续就采购飞机和能源产品与美国进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260220092905460800",
+          "source": "金十数据",
+          "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
           "source": "贴吧",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -528,90 +517,128 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
-          "url": "https://wallstreetcn.com/articles/3765835",
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
+        },
+        {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
+          "url": "https://wallstreetcn.com/livenews/3056838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            14
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
+        },
+        {
+          "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
+          "url": "https://wallstreetcn.com/livenews/3056822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
           "source": "贴吧",
           "ranks": [
-            20
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "手机 华为 麒麟",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "张艺谋回应“间谍在垃圾桶交接手机”",
-          "url": "https://www.toutiao.com/trending/7608356067206254130/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         },
         {
-          "title": "徐梦桃用三折叠国产手机与亚军互动",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E6%A2%A6%E6%A1%83%E7%94%A8%E4%B8%89%E6%8A%98%E5%8F%A0%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E4%B8%8E%E4%BA%9A%E5%86%9B%E4%BA%92%E5%8A%A8",
-          "source": "百度热搜",
+          "title": "港股AI应用股走强，海致科技集团(02706.HK)大涨15%、MINIMAX-WP(00100.HK)、智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨4.42%。",
+          "url": "https://flash.jin10.com/detail/20260220092855183800",
+          "source": "金十数据",
           "ranks": [
-            15
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "徐梦桃用三折叠国产手机与亚军互动",
-          "url": "https://www.toutiao.com/trending/7607667348362907199/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "张艺谋回应“间谍垃圾桶交接手机”",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%9B%9E%E5%BA%94%E2%80%9C%E9%97%B4%E8%B0%8D%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%BA%A4%E6%8E%A5%E6%89%8B%E6%9C%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时27分"
         }
       ]
     }
