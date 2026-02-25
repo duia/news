@@ -1,589 +1,584 @@
 {
-  "generated_at": "2026-02-24T10:29:37.728455+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-02-25T10:31:13.890676+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国 日本 美国",
-      "match_count": 42,
+      "match_count": 40,
       "titles": [
         {
-          "title": "中方将20家日本实体列入出口管制名单",
-          "url": "https://www.toutiao.com/trending/7610246623687347753/",
-          "source": "今日头条",
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "中国最大高速收费站多车雨中压哨通过",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E5%A4%9A%E8%BD%A6%E9%9B%A8%E4%B8%AD%E5%8E%8B%E5%93%A8%E9%80%9A%E8%BF%87",
+          "title": "“日本以为中方会软化立场，等来的却是当头一棒”",
+          "url": "https://news.ifeng.com/c/8r0kW5XfaOK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "美国总统特朗普：我们的国家又赢了。",
+          "url": "https://flash.jin10.com/detail/20260225102417069800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普：美国石油产量上升。 天然气产量处于历史最高水平。 从委内瑞拉获得了超过8000万桶石油。 委内瑞拉是美国的新伙伴和朋友。",
+          "url": "https://wallstreetcn.com/livenews/3058482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：低利率将解决住房问题，保护房屋价值。",
+          "url": "https://flash.jin10.com/detail/20260225102401785800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：美国石油产量上升。",
+          "url": "https://flash.jin10.com/detail/20260225102354834800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "日本内阁官房副长官：确认一名日本国民在伊朗被拘留。",
+          "url": "https://flash.jin10.com/detail/20260225102330364800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：抵押贷款利率四年最低且仍在快速下降。",
+          "url": "https://flash.jin10.com/detail/20260225102324680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
           "source": "百度热搜",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://news.ifeng.com/c/8r05GfWUSml",
+          "title": "商务部宣布将 20 家日本实体列入出口管制管控名单，涉及哪些领域？将给日本带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2009569700791752615",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "警惕！日本拟4年后在敏感地点部署导弹部队",
+          "url": "https://news.ifeng.com/c/8r1hgMQEeyI",
           "source": "凤凰网",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "未来可期！米兰冬奥折射中国冰雪运动良好的发展趋势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645045",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：我们一直与美国保持密切对话。",
-          "url": "https://flash.jin10.com/detail/20260224100323710800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646111",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "中国裁军大使：美国指责中方开展核爆炸试验毫无事实依据",
-          "url": "https://news.ifeng.com/c/8qzp41Gxxgx",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：对美国财长贝森特主导1月利率检查的报道不予置评。",
-          "url": "https://flash.jin10.com/detail/20260224100315902800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "突破80亿！2026中国电影票房暂列全球第一",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645446",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：不会就利率检查的报道发表评论。",
-          "url": "https://flash.jin10.com/detail/20260224100308146800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            4
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "对20家日本实体实施出口管制",
-          "url": "https://www.douyin.com/hot/2409980",
-          "source": "抖音",
+          "title": "春节档里的中国特色",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E6%A1%A3%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "日本财务大臣片山皋月：拒绝就外汇汇率检查发表评论。",
-          "url": "https://wallstreetcn.com/livenews/3057803",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么《红楼梦》几乎没有正面「宅斗」，却仍然是中国最残酷的权力叙事？",
+          "url": "https://www.zhihu.com/question/2004605278973363722",
+          "source": "知乎",
           "ranks": [
-            5
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美国总统特朗普将在国情咨文演讲中宣传经济，并在中期选举前公布降低生活成本的新措施。",
-          "url": "https://flash.jin10.com/detail/20260224100142123800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "中国商务部：将20家日本实体列入关注名单",
-          "url": "https://wallstreetcn.com/livenews/3057801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美国总统特朗普将在国情咨文演讲中“推销经济”。",
-          "url": "https://flash.jin10.com/detail/20260224100047569800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "苹果计划把部分Mac Mini台式电脑的生产从亚洲转移到美国，这是该公司将部分庞大供应链迁回美国的最新举措，新的生产计划将于今年晚些时候在休斯敦北部一家富士康工厂启动。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3057797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "中国商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://wallstreetcn.com/livenews/3057796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "中方回应美指责中国开展核爆炸试验",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B1%95%E6%A0%B8%E7%88%86%E7%82%B8%E8%AF%95%E9%AA%8C",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美国海关：将从2月24日起停止征收被最高法院裁定违法的关税",
-          "url": "https://wallstreetcn.com/articles/3765989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：正高度关注最新关税行动。 继续敦促美国稳步落实贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3057793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "三哥假扮中国兵,挨揍涨士气",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350878&amp;topic_name=%E4%B8%89%E5%93%A5%E5%81%87%E6%89%AE%E4%B8%AD%E5%9B%BD%E5%85%B5%2C%E6%8C%A8%E6%8F%8D%E6%B6%A8%E5%A3%AB%E6%B0%94",
           "source": "贴吧",
           "ranks": [
-            9
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "富时中国A50指数期货跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3057792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "宇树机器人，天坛表演中国武术",
-          "url": "https://www.cls.cn/detail/2292907",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：加拿大总理马克·卡尼将自3月6日起访问日本。",
-          "url": "https://wallstreetcn.com/livenews/3057787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
-          "url": "https://www.zhihu.com/question/2009287749354688656",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：正评估美国关税裁决的影响，计划继续推进与美国的关税协议，呼吁美国继续履行关税协议。",
-          "url": "https://wallstreetcn.com/livenews/3057786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美联储“大鸽派”沃勒感叹：美国经济，看不懂！",
-          "url": "https://www.cls.cn/detail/2293037",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260224095523566800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "中国男篮世预赛你看好吗",
-          "url": "https://www.toutiao.com/trending/7609920764338487342/",
+          "title": "沈腾成为中国首个400亿票房演员",
+          "url": "https://www.toutiao.com/trending/7609324575537184819/",
           "source": "今日头条",
           "ranks": [
-            14
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "日本财务大臣片山皋月：将稳步落实对美投资方案。",
-          "url": "https://flash.jin10.com/detail/20260224095506954800",
-          "source": "金十数据",
+          "title": "启程访华前 德国总理感谢中国",
+          "url": "https://www.baidu.com/s?wd=%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E%E5%89%8D+%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            14
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "A股影视股早盘大跌，光线传媒、博纳影业、中国电影、横店影视、金逸影视触及跌停，上海电影、万达电影逼近跌停，幸福蓝海跌超15%。",
-          "url": "https://wallstreetcn.com/livenews/3057782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "墨防长：缴获毒枭武器80%来自美国",
-          "url": "https://www.toutiao.com/trending/7609236585661533759/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：我们必须注意，美国对汽车征收的关税仍然有效。",
-          "url": "https://flash.jin10.com/detail/20260224095501634800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "我们记录这个中国年的脚步不曾停歇",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646478",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：将密切审查美国最高法院关于关税的裁决细节。",
-          "url": "https://flash.jin10.com/detail/20260224095351392800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "彻底凉!日本断绝大鹅对话",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
           "source": "贴吧",
           "ranks": [
-            16
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "2026 年中国电影市场总票房超 80 亿，超越北美暂列全球第一，如何解读这一数据？",
-          "url": "https://www.zhihu.com/question/2008602482226517657",
-          "source": "知乎",
+          "title": "美国总统特朗普：我们终结了美国的多元、公平和包容（DEI）。",
+          "url": "https://flash.jin10.com/detail/20260225102313899800",
+          "source": "金十数据",
           "ranks": [
-            16
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时31分"
         },
         {
-          "title": "日媒：美国主导1月日元汇率询价，并考虑与日本联手干预市场",
-          "url": "https://flash.jin10.com/detail/20260224094743007800",
+          "title": "特朗普发表国情咨文时，美国参议院会议厅爆发抗议。",
+          "url": "https://flash.jin10.com/detail/20260225102300679800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：目前美国大多数州的汽油价格低于每加仑2.30美元。",
+          "url": "https://flash.jin10.com/detail/20260225102245866800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：股市创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260225102233481800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：已收到超过8000万桶委内瑞拉石油。",
+          "url": "https://flash.jin10.com/detail/20260225102201089800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：2025年最后3个月核心通胀降至1.7%。",
+          "url": "https://flash.jin10.com/detail/20260225102151132800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们是世界上（经济）最火热的国家。",
+          "url": "https://flash.jin10.com/detail/20260225102141890800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国关税退款关键问题悬而未决，退税追索权市场交易价格已飙升",
+          "url": "https://wallstreetcn.com/livenews/3058460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：已从全球范围内获得18万亿美元的（投资）资金承诺。",
+          "url": "https://flash.jin10.com/detail/20260225102119684800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：低利率将解决住房危机。",
+          "url": "https://flash.jin10.com/detail/20260225102042890800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时31分"
         },
         {
-          "title": "美国持续集结兵力考虑军事打击伊朗",
-          "url": "https://www.toutiao.com/trending/7609503760267788342/",
-          "source": "今日头条",
+          "title": "日本首相高市早苗：正以高度紧迫感密切关注外汇走势。",
+          "url": "https://wallstreetcn.com/livenews/3058452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：抵押贷款利率处于四年来最低。",
+          "url": "https://flash.jin10.com/detail/20260225102008896800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "日本内阁官房副长官：货币政策的具体内容应由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20260225101954799800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：我的政府已将通货膨胀率降至5年来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260225101945097800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时31分"
         },
         {
-          "title": "中国央行公开市场今日净回笼9264亿元",
-          "url": "https://wallstreetcn.com/livenews/3057764",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我们将始终允许合法入境的人。",
+          "url": "https://flash.jin10.com/detail/20260225101858914800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时31分"
         },
         {
-          "title": "米兰冬奥中国队奖牌一览",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%96%E7%89%8C%E4%B8%80%E8%A7%88",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：过去9个月里，没有一名非法移民进入美国。",
+          "url": "https://flash.jin10.com/detail/20260225101729739800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "中国央行公开市场今日净投放95亿元",
+          "url": "https://wallstreetcn.com/livenews/3058436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在拥有美国历史上最强大、最安全的边境。",
+          "url": "https://flash.jin10.com/detail/20260225101647617800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们的边境安全无虞。",
+          "url": "https://flash.jin10.com/detail/20260225101541831800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "民主党籍联邦众议员阿尔·格林被护送出美国总统特朗普的国情咨文演讲现场。",
+          "url": "https://flash.jin10.com/detail/20260225101512063800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：我接手的是一个处于危机中的国家。",
+          "url": "https://flash.jin10.com/detail/20260225101424636800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt deepseek qwen llm 大模型",
-      "match_count": 10,
+      "match_count": 9,
       "titles": [
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "Hirai为何当选韩国亚运会LOL队教练",
-          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
-          "source": "bilibili 热搜",
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
+          "title": "港股大模型概念股跌幅扩大，MINIMAX-WP跌超16%，智谱跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3058469",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
-        },
+          "time_info": "10时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 雷军",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "2026 大模型春节档陆续更新发布，你的使用体验如何？",
-          "url": "https://www.zhihu.com/question/2003058990418978299",
+          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
+          "url": "https://www.zhihu.com/question/2009733369261466626",
           "source": "知乎",
           "ranks": [
-            15
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
+          "title": "小米起诉自媒体侵权，获赔500万",
+          "url": "https://www.cls.cn/detail/2293852",
+          "source": "财联社热门",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         }
       ]
     },
@@ -592,15 +587,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "女孩为换手机9300元卖妈妈13万奢侈品",
-          "url": "https://www.toutiao.com/trending/7610063734220046390/",
-          "source": "今日头条",
+          "title": "手机出现这些迹象 钱可能正被转走",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E4%BA%9B%E8%BF%B9%E8%B1%A1+%E9%92%B1%E5%8F%AF%E8%83%BD%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0",
+          "source": "百度热搜",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         }
       ]
     }
